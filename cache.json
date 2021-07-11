@@ -72,7 +72,7 @@
           "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-look-at-building-with-astro/",
           "publishedOn": "2021-07-07T21:06:35.000Z",
-          "wordCount": 2755,
+          "wordCount": 2789,
           "title": "A Look at Building with Astro"
         },
         {
@@ -126,7 +126,7 @@
           "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
           "publishedOn": "2021-07-05T14:15:20.000Z",
-          "wordCount": 2660,
+          "wordCount": 2659,
           "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
         },
         {
@@ -623,6 +623,40 @@
           "publishedOn": "2021-07-07T17:28:00.000Z",
           "wordCount": 5411,
           "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
+        }
+      ]
+    },
+    {
+      "title": "阮一峰的网络日志",
+      "feedUrl": "https://www.ruanyifeng.com/blog/atom.xml",
+      "siteUrl": "http://www.ruanyifeng.com/blog/",
+      "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "publishedOn": "2021-07-09T00:45:10.000Z",
+          "wordCount": 1021,
+          "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
+          "publishedOn": "2021-07-02T00:19:51.000Z",
+          "wordCount": 1104,
+          "title": "科技爱好者周刊（第 165 期）：全端 App 的时代"
+        },
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "author": null,
+          "description": "美国最大的论坛 Reddit，最近有一个热帖。...",
+          "link": "http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html",
+          "publishedOn": "2021-06-28T01:10:50.000Z",
+          "wordCount": 784,
+          "title": "程序员的酒后真言"
         }
       ]
     }
