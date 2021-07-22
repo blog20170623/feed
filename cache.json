@@ -36,7 +36,7 @@
     },
     {
       "title": "褪墨・时间管理，个人提升，生活健康与习惯",
-      "feedUrl": "https://www.mifengtd.cn/feed",
+      "feedUrl": "https://www.mifengtd.cn/feed.xml",
       "siteUrl": "https://www.mifengtd.cn",
       "articles": []
     },
@@ -114,7 +114,7 @@
           "description": "In the video below, we take a closer LOOK at What is LinkedHashMap? | LinkedHashMap Introduction and Sample Programs | Java Collections Framework. Let's get started!",
           "link": "https://dzone.com/articles/what-is-linkedhashmap-linkedhashmap-introduction-a",
           "publishedOn": "2021-07-22T20:53:49.000Z",
-          "wordCount": 293,
+          "wordCount": 300,
           "title": "What is LinkedHashMap? | LinkedHashMap Introduction and Sample Programs | Java Collections Framework"
         },
         {
@@ -159,7 +159,7 @@
           "description": "Agile software development enables an entrepreneur to launch a product in the market within a short span of time. For executives to know whether the agile methodology is right for them, we share infor",
           "link": "https://dzone.com/articles/agile-software-development-principles-team-structu",
           "publishedOn": "2021-07-22T20:25:43.000Z",
-          "wordCount": 2330,
+          "wordCount": 2324,
           "title": "Agile software Development - Principles, Team Structure, and Frameworks"
         },
         {
@@ -222,7 +222,7 @@
           "description": "Frequently, JUMP servers or bastion hosts are used as a practice to Access resources without Internet Access (Private Subnets) within AWS, or even with Access to the outside but restricted by IP (secu",
           "link": "https://dzone.com/articles/removing-the-bastion-host-and-improving-the-securi",
           "publishedOn": "2021-07-22T19:28:32.000Z",
-          "wordCount": 857,
+          "wordCount": 852,
           "title": "Removing the Bastion Host and Improving the security in AWS"
         },
         {
@@ -249,7 +249,7 @@
           "description": "In the video below, we take a closer LOOK at Spring Boot: RESTful Web Service with Post Request in JSON Example. Let's get started!",
           "link": "https://dzone.com/articles/spring-boot-restful-web-service-with-post-request-3",
           "publishedOn": "2021-07-22T19:16:31.000Z",
-          "wordCount": 293,
+          "wordCount": 292,
           "title": "Spring Boot: RESTful Web Service With Post Request in JSON Example"
         },
         {
@@ -258,7 +258,7 @@
           "description": "In this article, I'll guide you through a simple way to deploy your Quarkus App on OpenShift by creating a Pipeline and using Source-to-Image(S2I) capabilities.\nPre-Requisites\nYou can create your free",
           "link": "https://dzone.com/articles/deploying-a-quarkus-app-on-openshift-with-s2i-and",
           "publishedOn": "2021-07-22T19:09:34.000Z",
-          "wordCount": 598,
+          "wordCount": 603,
           "title": "Deploying a Quarkus App on OpenShift With S2I and OpenShift Pipelines"
         },
         {
@@ -267,7 +267,7 @@
           "description": "Introduction\nThis article is a follow-up to Data Platform as a Service and Data Platform: The New Generation Data Lakes. In this case, I will describe how to design and build an automated Data Ingesti",
           "link": "https://dzone.com/articles/data-platform-data-ingestion-engine",
           "publishedOn": "2021-07-22T19:08:57.000Z",
-          "wordCount": 3146,
+          "wordCount": 3141,
           "title": "Data Platform: Data Ingestion Engine for Data Lake"
         },
         {
@@ -285,7 +285,7 @@
           "description": "DevOps is transforming the state of software development worldwide. Over 80% of respondents from the software industry said in a survey that DevOps is effectively adding value to their Work in some fo",
           "link": "https://dzone.com/articles/top-25-devops-tools-for-2021",
           "publishedOn": "2021-07-22T19:04:55.000Z",
-          "wordCount": 3709,
+          "wordCount": 3702,
           "title": "Top 25 DevOps Tools for 2021"
         },
         {
@@ -294,7 +294,7 @@
           "description": "What is WebdriverIO?\nWebdriverIO is a progressive automation framework built to automate Modern web and Mobile applications. It simplifies the interaction with your App and provides a set of plugins t",
           "link": "https://dzone.com/articles/getting-started-with-webdriverio-typescript-jasmin",
           "publishedOn": "2021-07-22T19:03:56.000Z",
-          "wordCount": 1806,
+          "wordCount": 1808,
           "title": "Getting Started With WebdriverIO TypeScript Jasmine"
         },
         {
@@ -303,7 +303,7 @@
           "description": "There are many decisions that Go into the process of creating a secure website.One of these decisions is selecting which HTTP security headers to implement. HTTP security headers are response headers",
           "link": "https://dzone.com/articles/intro-to-the-content-security-policy-csp",
           "publishedOn": "2021-07-22T18:59:46.000Z",
-          "wordCount": 801,
+          "wordCount": 810,
           "title": "Introduction to Content security Policy (CSP)"
         },
         {
@@ -312,7 +312,7 @@
           "description": "With time, Industries across the Globe have started to recognize the importance of ERP solutions in the Business. And it is quite necessary to have a well-defined resource planning strategy that can h",
           "link": "https://dzone.com/articles/erp-testing-whats-trending-in-2021",
           "publishedOn": "2021-07-22T18:48:35.000Z",
-          "wordCount": 1066,
+          "wordCount": 1070,
           "title": "ERP Testing: What’s Trending In 2021?"
         },
         {
@@ -321,7 +321,7 @@
           "description": "Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model used for text generation created by OpenAI. GPT-3 showed the amazing potential for a really Smart language model to gen",
           "link": "https://dzone.com/articles/how-to-implement-semantic-search-using-openai-gpt3",
           "publishedOn": "2021-07-22T18:21:06.000Z",
-          "wordCount": 1038,
+          "wordCount": 1034,
           "title": "How to Implement Semantic Search Using OpenAI GPT-3"
         },
         {
@@ -339,7 +339,7 @@
           "description": "We believe that IoT development should be accessible to all and made available in the most user-centric way. As part of our Work to enable open collaborative innovation, we have built the Record Evolu",
           "link": "https://dzone.com/articles/how-we-built-the-worlds-best-flashing-app",
           "publishedOn": "2021-07-22T17:23:26.000Z",
-          "wordCount": 1064,
+          "wordCount": 1067,
           "title": "How We Built the World’s Best Flashing App"
         },
         {
@@ -348,7 +348,7 @@
           "description": "The Issue: My CODING Time Feels Too High\nCycle Time is the Dev Manager’s Super Metric. So naturally, the conscientious Dev Manager will want to pay close attention to CODING Time, the very First segme",
           "link": "https://dzone.com/articles/cycle-time-breakdown-tactics-for-reducing-coding-t",
           "publishedOn": "2021-07-22T16:38:28.000Z",
-          "wordCount": 1612,
+          "wordCount": 1605,
           "title": "Cycle Time Breakdown: Tactics For Reducing CODING Time"
         },
         {
@@ -357,7 +357,7 @@
           "description": "This week, we have a detailed write-up on finding credit card Numbers leaking from a GraphQL API, a lab walkthrough on hacking JSON web tokens (JWT) through SQL injection, and HackerOne’s new Capture",
           "link": "https://dzone.com/articles/api-security-weekly-issue-143",
           "publishedOn": "2021-07-22T16:26:00.000Z",
-          "wordCount": 995,
+          "wordCount": 994,
           "title": "API security Weekly: Issue #143"
         },
         {
@@ -366,13 +366,13 @@
           "description": "I publish Perl Stories on this blog once a week, and it seems every time there's at least One response on social media that amounts to, \"I hate Perl because of its weird syntax,\" or, \"It looks like li",
           "link": "https://dzone.com/articles/the-four-noisy-horsemen-of-perl-hate",
           "publishedOn": "2021-07-22T16:06:54.000Z",
-          "wordCount": 1720,
+          "wordCount": 1715,
           "title": "The Four Noisy Horsemen of Perl Hate"
         },
         {
           "id": "https://www.36kr.com/p/1321470018095876",
           "author": null,
-          "description": "<p>北京时间7月22日晚， 法拉第未来（Faraday Future，FF）正式在美国纳斯达克交易所挂牌上市并举办敲钟仪式，股票代码“FFIE” ... FFIE发行价为13.78美元/ADS，开盘报16.8美元，较发行价上涨22%，总市值达54亿美元。</p><p><a href='https://www.36kr.com/p/1321470018095876'>36Kr : FF今日上市，贾跃亭这次能圆造车梦吗？</a></p><p><a href='https://www.tmtpost.com/5503569.html'>钛媒体 : FF今日上市，贾跃亭这次能圆造车梦吗？</a></p><p><a href='https://tech.ifeng.com/c/885aMlmqKeA'>凤凰科技 : 今晚敲钟，为什么还有人投资贾跃亭？</a></p><p><a href='https://www.36kr.com/p/1321921413794309'>36Kr : 「下周回国」四年已过，「今晚敲钟」贾跃亭</a></p><p><a href='https://tech.ifeng.com/c/885iPF020pm'>凤凰科技 : 贾跃亭造车梦|FF在美上市 3年后扭亏 讲故事还是救世主？</a></p><p><a href='https://tech.ifeng.com/c/885pCDVeZJG'>凤凰科技 : FF上市获10亿美元融资，贾跃亭不用再为梦想“窒息”？</a></p><p><a href='https://tech.ifeng.com/c/885XK7bc4Qf'>凤凰科技 : FF终于上市了 但和贾跃亭已经脱钩了</a></p><p><a href='https://finance.sina.com.cn/tech/2021-07-22/doc-ikqciyzk6997666.shtml'>新浪科技 : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://www.tmtpost.com/5503739.html'>钛媒体 : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://www.36kr.com/p/1321480588968321'>36Kr : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://tech.ifeng.com/c/885pBruifdK'>凤凰科技 : 上市当天捐赠100万元 法拉第未来宣布驰援河南救灾工作</a></p><p><a href='https://tech.ifeng.com/c/885McMQvNF1'>凤凰科技 : 贾跃亭正在纽约准备上市仪式并将上台讲话？官方回应来了</a></p><p><a href='https://tech.ifeng.com/c/885XKbinSzG'>凤凰科技 : 造车美利坚终有成果 贾跃亭的FF公司未“敲钟”先大涨</a></p><p><a href='https://www.donews.com/news/detail/7/3163232.html'>DoNews : 贾跃亭：FF91将在未来1年开始交付 自己会全力以赴</a></p><p><a href='https://www.jiemian.com/article/6391398.html'>界面 : “为梦想窒息”的贾跃亭终于得以喘息，FF于纳斯达克上市</a></p><p><a href='https://tech.ifeng.com/c/885pXvnOtE4'>凤凰科技 : FF融资约10亿美元登陆纳斯达克 贾跃亭露面未上台敲钟</a></p><p><a href='https://tech.ifeng.com/c/885pYNz5AKe'>凤凰科技 : 贾跃亭：上市是我们最期待的时刻 FF将颠覆传统的超豪华品牌</a></p><p><a href='https://www.jiemian.com/article/6391528.html'>界面 : 法拉第未来在美上市：市值54亿美元，贾跃亭的电动车故事更好讲了吗？</a></p><p><a href='https://www.theverge.com/2021/7/22/22587530/faraday-future-nasdaq-ffie-spac-ipo-investors-funding'>The Verge : Faraday Future just became a publicly traded Company</a></p>",
+          "description": "<p>北京时间7月22日晚， 法拉第未来（Faraday Future，FF）正式在美国纳斯达克交易所挂牌上市并举办敲钟仪式，股票代码“FFIE” ... FFIE发行价为13.78美元/ADS，开盘报16.8美元，较发行价上涨22%，总市值达54亿美元。</p><p><a href='https://www.36kr.com/p/1321470018095876'>36Kr : FF今日上市，贾跃亭这次能圆造车梦吗？</a></p><p><a href='https://www.tmtpost.com/5503569.html'>钛媒体 : FF今日上市，贾跃亭这次能圆造车梦吗？</a></p><p><a href='https://tech.ifeng.com/c/885XK7bc4Qf'>凤凰科技 : FF终于上市了 但和贾跃亭已经脱钩了</a></p><p><a href='https://finance.sina.com.cn/tech/2021-07-22/doc-ikqciyzk6997666.shtml'>新浪科技 : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://www.tmtpost.com/5503739.html'>钛媒体 : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://www.36kr.com/p/1321480588968321'>36Kr : FF终于上市了，但和贾跃亭已经脱钩了</a></p><p><a href='https://tech.ifeng.com/c/885aMlmqKeA'>凤凰科技 : 今晚敲钟，为什么还有人投资贾跃亭？</a></p><p><a href='https://www.36kr.com/p/1321921413794309'>36Kr : 「下周回国」四年已过，「今晚敲钟」贾跃亭</a></p><p><a href='https://tech.ifeng.com/c/885iPF020pm'>凤凰科技 : 贾跃亭造车梦|FF在美上市 3年后扭亏 讲故事还是救世主？</a></p><p><a href='https://tech.ifeng.com/c/885pCDVeZJG'>凤凰科技 : FF上市获10亿美元融资，贾跃亭不用再为梦想“窒息”？</a></p><p><a href='https://www.36kr.com/p/1322512448441088'>36Kr : 法拉第未来正式上市：首日股价上演“过山车”，贾跃亭真要回国了？</a></p><p><a href='https://tech.ifeng.com/c/885McMQvNF1'>凤凰科技 : 贾跃亭正在纽约准备上市仪式并将上台讲话？官方回应来了</a></p><p><a href='https://tech.ifeng.com/c/885XKbinSzG'>凤凰科技 : 造车美利坚终有成果 贾跃亭的FF公司未“敲钟”先大涨</a></p><p><a href='https://www.donews.com/news/detail/7/3163232.html'>DoNews : 贾跃亭：FF91将在未来1年开始交付 自己会全力以赴</a></p><p><a href='https://www.jiemian.com/article/6391398.html'>界面 : “为梦想窒息”的贾跃亭终于得以喘息，FF于纳斯达克上市</a></p><p><a href='https://tech.ifeng.com/c/885pXvnOtE4'>凤凰科技 : FF融资约10亿美元登陆纳斯达克 贾跃亭露面未上台敲钟</a></p><p><a href='https://tech.ifeng.com/c/885pYNz5AKe'>凤凰科技 : 贾跃亭：上市是我们最期待的时刻 FF将颠覆传统的超豪华品牌</a></p><p><a href='https://www.jiemian.com/article/6391528.html'>界面 : 法拉第未来在美上市：市值54亿美元，贾跃亭的电动车故事更好讲了吗？</a></p><p><a href='https://tech.ifeng.com/c/885pBruifdK'>凤凰科技 : 上市当天捐赠100万元 法拉第未来宣布驰援河南救灾工作</a></p><p><a href='https://www.theverge.com/2021/7/22/22587530/faraday-future-nasdaq-ffie-spac-ipo-investors-funding'>The Verge : Faraday Future just became a publicly traded Company</a></p>",
           "link": "https://www.36kr.com/p/1321470018095876",
           "publishedOn": "2021-07-22T14:53:44.000Z",
           "wordCount": 165,
@@ -787,6 +787,15 @@
       "siteUrl": "http://36kr.com",
       "articles": [
         {
+          "id": "https://36kr.com/newsflashes/1322594651343622",
+          "author": null,
+          "description": "Snapchat母公司Snap发布2021年第二季度财报。财报显示，Snap2021财年第二季度营收为9.821亿美元，与去年同期的4.542亿美元相比增长116%；净亏损为1.517亿美元，与去年同期的净亏损3.260亿美元相比收窄53%。截至发稿，Snap盘后涨超16%。（新浪科技）",
+          "link": "https://36kr.com/newsflashes/1322594651343622",
+          "publishedOn": "2021-07-22T23:32:51.000Z",
+          "wordCount": null,
+          "title": "Snap第二季度营收翻番，盘后股价涨超16%"
+        },
+        {
           "id": "https://36kr.com/newsflashes/1322586294995716",
           "author": null,
           "description": "北京时间7月22日，法拉第未来（FF）正式在美股挂牌交易，公司创始人贾跃亭在接受采访时表示，FF上市是一个新的起点，解决了最大的资金问题，接下去全力以赴实现12个月量产交车。被问及是否有回国打算，贾跃亭说，“那必须的。”（第一财经）",
@@ -811,7 +820,7 @@
           "link": "https://36kr.com/newsflashes/1322574725516036",
           "publishedOn": "2021-07-22T23:12:35.000Z",
           "wordCount": null,
-          "title": "英特尔第二季度营收196亿���元，净利同比下降0.9%"
+          "title": "英特尔第二季度营收196亿美元，净利同比下降0.9%"
         },
         {
           "id": "https://36kr.com/newsflashes/1322572868487689",
@@ -967,18 +976,9 @@
           "title": "亿帆医药：收到玻璃酸钠注射液药品注册受理通知书"
         },
         {
-          "id": "https://36kr.com/newsflashes/1321929540520704",
-          "author": null,
-          "description": "德国豪华汽车制造商戴姆勒周四表示，将投资400亿欧元(470亿美元)，准备在十年内实现全电动。该公司在一份报告中披露了雄心勃勃的战略，尽管它也添加了“条件允许的情况下”的警告。 此外，报告中还提到，到2025年，所有车型都将拥有电动版。为了能够全面转向电动汽车，戴姆勒计���开设8个电池生产设施，并计划在未来90%以上的汽车上使用一个共同的电池平台。（新浪财经）",
-          "link": "https://36kr.com/newsflashes/1321929540520704",
-          "publishedOn": "2021-07-22T12:16:16.000Z",
-          "wordCount": null,
-          "title": "戴姆勒准备在2030年实现全电动转型"
-        },
-        {
           "id": "https://36kr.com/p/1321896350730753",
           "author": null,
-          "description": "河南暴雨灾情中，一份名为《待救援人员信息》的在线文档受到广泛关注。这份“救命文档”创建者是一个网名叫“Manto”的河南籍女大学生。她的初心只是想利用在线文档“多人协作”“实时同步”的优势，远程为家乡做一些力所能及的事。\n \n最初有30多名同学参与，他们用在线文档分工整理，待信息充足后，开始逐步有分工，有的核实救援信息、有的联系被困和救援人员，随着灾情信息的不断更新，参与这份“救命文档”的编辑和维护者越来越多，而这背后所有参与的人员，也都是千千万万心系灾区的热心且普通的网友。\n \n\n \n救援信息收集的在线表格\n \n截自7月21日21点，这份救援信息收集的在线表格，已经“自发”更新至第270多版。从最开始的一个需求表格生长为“多用途”的民间抗洪资源对接平台。根据腾讯方面7月21日23时27分许的统计，截止目前，它已有250多万次访问量，创下了产品单个文档的访问量纪录。\n \n在线协作文档有哪些先天优势？\n \n1. 云端实时同步 打破信息孤岛\n \n传统文档需要一个总发起者或称之为负责人，进行单向编辑更新，再传递给下一个人，多层级多地域的进行依次传播。这导致协作过程中的效率会变得很低效，同时，沟通成本也会大大增加，信息的流失率、不对称性，成为信息同步、推进受阻的最大障碍。\n \n但在线协作文档，可以让所有参与者实时看到每个环节、内容编辑的进度更新，把所有信息和所有相关的人员分享，极大的减少了个体间的重复信息询问，提高传播效率，另外，云端同步的功能会给文字上双保险，避免设备出现意外情况带来的文稿丢失。\n \n在这次暴雨灾情中，正是因为协助文档能多人同步编辑，才使得大量有效信息高效传播，挽救了很多人的生命财产安全。\n \n2. 可多设备登陆 方便移动使用\n \n大多数的协作文档的使用场景都是在职场，作为较为轻量级的办公工具，鲜少涉及复杂交互，电脑/手机都能实现基础登录及注册功能，并且适配于市面…",
+          "description": "河南暴雨灾情中，一份名为《待救援人员信息》的在线文档受到广泛关注。这份“��命文档”创建者是一个网名叫“Manto”的河南籍女大学生。她的初心只是想利用在线文档“多人协作”“实时同步”的优势，远程为家乡做一些力所能及的事。\n \n最初有30多名同学参与，他们用在线文档分工整理，待信息充足后，开始逐步有分工，有的核实救援信息、有的联系被困和救援人员，随着灾情信息的不断更新，参与这份“救命文档”的编辑和维护者越来越多，而这背后所有参与的人员，也都是千千万万心系灾区的热心且普通的网友。\n \n\n \n救援信息收集的在线表格\n \n截自7月21日21点，这份救援信息收集的在线表格，已经“自发”更新至第270多版。从最开始的一个需求表格生长为“多用途”的民间抗洪资源对接平台。根据腾讯方面7月21日23时27分许的统计，截止目前，它已有250多万次访问量，创下了产品单个文档的访问量纪录。\n \n在线协作文档有哪些先天优势？\n \n1. 云端实时同步 打破信息孤岛\n \n传统文档需要一个总发起者或称之为负责人，进行单向编辑更新，再传递给下一个人，多层级多地域的进行依次传播。这导致协作过程中的效率会变得很低效，同时，沟通成本也会大大增加，信息的流失率、不对称性，成为信息同步、推进受阻的最大障碍。\n \n但在线协作文档，可以让所有参与者实时看到每个环节、内容编辑的进度更新，把所有信息和所有相关的人员分享，极大的减少了个体间的重复信息询问，提高传播效率，另外，云端同步的功能会给文字上双保险，避免设备出现意外情况带来的文稿丢失。\n \n在这次暴雨灾情中，正是因为协助文档能多人同步编辑，才使得大量有效信息高效传播，挽救了很多人的生命财产安全。\n \n2. 可多设备登陆 方便移动使用\n \n大多数的协作文档的使用场景都是在职场，作为较为轻量级的办公工具，鲜少涉及复杂交互，电脑/手机都能实现基础登录及注册功能，并且适配于市…",
           "link": "https://36kr.com/p/1321896350730753",
           "publishedOn": "2021-07-22T11:58:12.000Z",
           "wordCount": null,
