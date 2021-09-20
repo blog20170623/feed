@@ -46,13 +46,283 @@
       "siteUrl": "https://readhub.me/",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1181103.htm",
+          "author": null,
+          "description": "比如 Windows Latest 近日指出，Windows 11 将减少各种软件的硬盘空间占用 ... ● 此外微软已澄清圆角和 Mica 等新设计元素并不会导致系统性能的下降，前者迎来了图形渲染改进，因而用户不会在切换到圆角后留意到任何性能差异 ... ● 后者已被用于“开始”菜单、“设置”应用程序、文件资源管理器等一系列场景，但其性能表现将优于 Windows 10 的 Acrylic 方案",
+          "link": "https://www.cnbeta.com/articles/tech/1181103.htm",
+          "publishedOn": "2021-09-20T00:17:02.000Z",
+          "wordCount": 261,
+          "title": "Windows 11改进了硬盘空间占用和性能表现"
+        },
+        {
+          "id": "https://www.huxiu.com/article/457780.html?f=rss",
+          "author": null,
+          "description": "在我们身边中，物物带辐射，处处有危险，那日常生活中遇到的辐射，对人体有害，是真的咩 ... 既然万物都有辐射，所以我们讨论辐射是否有害，其实就是讨论某一物体的辐射范围是否会对人体造成绝对伤害，是否对我们有危险 ... 假的，打电话太久手机辐射变大（因为手机运行会散热）是正常的，但手机零点几瓦的功率，根本不会因辐射对身体造成影响，只是发热的手机挨着所以耳朵烫了，说话太久所以犯迷糊罢了。",
+          "link": "https://www.huxiu.com/article/457780.html?f=rss",
+          "publishedOn": "2021-09-20T00:08:15.000Z",
+          "wordCount": 125,
+          "title": "手机、基站、高压线的辐射对人体有害，是真的吗？"
+        },
+        {
+          "id": "https://iyiou.com/news/202109201022320",
+          "author": null,
+          "description": "<p>其中，制造领域共披露40起投融资事件，涉及29家国内企业，11家国外企业，融资总额约191.53亿元 ... 国内制造领域共有8家企业上市，2家企业被并购，19家企业获投，融资总额约92.10亿元 ... 1.利华益上市，该公司总部位于中国山东省，是一家化学品生产商。</p><p><a href='https://iyiou.com/news/202109201022320'>亿欧 : 金融领域投融资周报（9月13日-9月19日）：澳门通被亚博科技并购</a></p><p><a href='https://iyiou.com/news/202109201022319'>亿欧 : 企业服务领域投融资周报（9月13日-9月19日）：宝力科技上市</a></p><p><a href='https://iyiou.com/news/202109201022325'>亿欧 : 消费领域投融资周报（9月13日-9月19日）：蔺郎酒业被贵州醇并购</a></p><p><a href='https://iyiou.com/news/202109201022321'>亿欧 : 智能科技领域投融资周报（9月13日-9月19日）：科骏实业获得1.2亿美元战略投资</a></p><p><a href='https://iyiou.com/news/202109201022322'>亿欧 : 文娱传媒领域投融资周报（9月13日-9月19日）：知行合一动漫获得战略投资</a></p><p><a href='https://iyiou.com/news/202109201022323'>亿欧 : 制造领域投融资周报（9月13日-9月19日）：利华益上市</a></p><p><a href='https://iyiou.com/news/202109201022324'>亿欧 : 低碳领域投融资周报（9月13日-9月19日）：振华新材上市</a></p><p><a href='https://iyiou.com/news/202109201022326'>亿欧 : 汽车出行领域投融资周报（9月13日-9月19日）：紫燕机械被威尔泰并购</a></p><p><a href='https://iyiou.com/news/202109201022327'>亿欧 : 医疗健康领域投融资周报（9月13日-9月19日）：本立科技上市</a></p>",
+          "link": "https://iyiou.com/news/202109201022320",
+          "publishedOn": "2021-09-20T00:04:50.000Z",
+          "wordCount": 280,
+          "title": "制造领域投融资周报（9月13日-9月19日）：利华益上市"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181093.htm",
+          "author": null,
+          "description": "美国食品药品管理局（FDA）的一个专家顾问小组表示，辉瑞和BioNTech SE的新冠疫苗加强针接种对象应该是那些最容易患严重疾病的人群 ... 专家组以18-0的投票结果批准对65岁及以上年龄或高风险人群的加强针紧急使用授权 ... 美国疾控中心的外部顾问小组也将在下周的会议上就使用加强针的方案提出详细建议。",
+          "link": "https://www.cnbeta.com/articles/tech/1181093.htm",
+          "publishedOn": "2021-09-20T00:04:47.000Z",
+          "wordCount": 192,
+          "title": "美国FDA顾问支持将辉瑞加强针接种范围缩小至有限人群"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181087.htm",
+          "author": null,
+          "description": "今年，随着Pixel 6 Pro的推出，这种情况可能会改变，因为XDA证实，至少有一款机型支持33W的有线充电 ... 在监管标签的底部，我们可以看到，Pixel 6 Pro将支持以下充电速度 ... 不管你买的是什么型号，也不管住在哪个地区，Google都不会在Pixel 6或6 Pro的包装盒里提供33W充电器，但公司可能会单独出售33W的充电器，尽管我们不知道它的价格是多少。",
+          "link": "https://www.cnbeta.com/articles/tech/1181087.htm",
+          "publishedOn": "2021-09-20T00:00:53.000Z",
+          "wordCount": 215,
+          "title": "Pixel 6 Pro的监管标签显示Google提升其有线充电速度到33W"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7020000.shtml",
+          "author": null,
+          "description": "有研报指出，该系列机型在今年的全球出货量将近1亿部，为确保iPhone 13准时发售，苹果公司也早早将订单委托给供应链上下游工厂，而这条苹果产业链常被称为“果链” ... 为确保iPhone 13准时发售，苹果公司也早早将订单委托给供应链上下游工厂，而这条苹果产业链常被称为“果链” ... 负责整机组装的富士康不得不加紧招工，为此，富士康郑州厂区甚至不惜发放高额奖金，最高达每人12700元。",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7020000.shtml",
+          "publishedOn": "2021-09-19T23:59:23.000Z",
+          "wordCount": 202,
+          "title": "冲上热搜！保iPhone 13发售，富士康紧急招20万人，奖金最高达每人12700元！"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5244100.shtml",
+          "author": null,
+          "description": "iPhone 12 MINI因为续航等问题，最终刚刚发售不久就面临停产，成为iPhone 12系列中最失败的手机 ... 苹果内部近日有消息称，iPhone 14系列将不会有MINI款机型，仅保留6.7英寸和6.1英寸的三款大屏版本 ... 由于MINI机型被砍，消息称iPhone 14作为入门款机型，起售价将会更低，用户在明年的这个时候可能会以5999元买到入门的128G版本。",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5244100.shtml",
+          "publishedOn": "2021-09-19T23:59:19.000Z",
+          "wordCount": 93,
+          "title": "曝苹果将砍掉MINI机型：iPhone 14起售价更低"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7008899.shtml",
+          "author": null,
+          "description": "本人因线下交易险些被骗，脱离第三方平台的介入，时刻都会处在被骗的风险当中 ... 就算是线上担保交易，也要注意发货前给手机录个视频，把手机的外观和序列号都拍摄进去，为日后万一出现争议，保存证据 ... 随着数码产品迭代速度加快，以及新一代人消费观念的改变，二手物品逐渐被大家接受，希望在未来二手交易能更加健康更加透明，让每个人闲置的物品都能得到好的去处，让每个买到闲置物品的人都能放心，同时我们每个一",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7008899.shtml",
+          "publishedOn": "2021-09-19T23:57:57.000Z",
+          "wordCount": 181,
+          "title": "线下卖手机被骗1000 网络时代避坑牢记三点"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5164919.shtml",
+          "author": null,
+          "description": "OTA升级是新能源汽车的重要组成部分，汽车厂商可以通过OTA空中下载技术，对车辆远程推送最新的功能、Bug修复进行升级，可以节约车主去4S店返厂维修的时间，同时及时对车辆系统进行更新，但也有可能会被某些别有用心的厂商利用 ... 协议中显示，理想汽车将收集个人导航、音乐播放历史等隐私数据，而界面上仅有“已阅读，并同意许可协议”选项，因此引起了多位理想One车主的不满 ... 对此，有懂法人士表示，",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5164919.shtml",
+          "publishedOn": "2021-09-19T23:55:46.000Z",
+          "wordCount": 167,
+          "title": "强制收集个人信息？理想汽车OTA升级再现“霸王条款”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1181083.htm",
+          "author": null,
+          "description": "马哈洛湖位于海拔1400米左右的伊朗西南部设拉子东南约27公里处，沙漠地区每年的蒸发量远远大于每年的降雨量，这意味着湖泊经常会出现非常干燥的情况 ... 湖的盐度过高使生物体特别是鱼类无法在湖中生存，然而，一些鸟类在夏季会因此迁徙到马哈洛，包括火烈鸟 ... 哥白尼哨兵-2号的新型成像器拥有13个光谱通道，可以捕捉水质参数，如叶绿素的表面浓度，检测有害藻类的繁殖，并测量浊度（或水的透明度）--清楚",
+          "link": "https://www.cnbeta.com/articles/science/1181083.htm",
+          "publishedOn": "2021-09-19T23:55:30.000Z",
+          "wordCount": 188,
+          "title": "哥白尼哨兵2号《太空探索地球》系列：伊朗马哈洛湖湖"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5254529.shtml",
+          "author": null,
+          "description": "苹果iOS 15 正式版将于 9 月 20 日到来，按照往常惯例推测是 北京时间 21 日凌晨一点前后，除此之外，iPadOS 15、watchOS 8、 tvOS 15 也将一同到来 ... SharePlay：新的 SharePlay 功能是 iOS 15 的主要新增功能之一，它将允许用户通过 FaceTime 与其他人共享歌曲、视频，甚至他们的 iPhone 屏幕 ... 这些功能的推出时间",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5254529.shtml",
+          "publishedOn": "2021-09-19T23:53:03.000Z",
+          "wordCount": 157,
+          "title": "苹果iOS/iPadOS 15正式版即将到来 但部分功能暂不可用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181045.htm",
+          "author": null,
+          "description": "<p>福奇还强调，希望人们在获得美国食品和药物管理局批准之前，不要擅自设法获得新冠疫苗加强针 ... 当地时间9月17日，隶属于美国食品和药物管理局的疫苗和相关生物制品咨询委员会以16票赞成2票反对的结果，拒绝批准向已接种第二剂辉瑞疫苗6个月以上的16岁及以上人群提供第三剂辉瑞疫苗 ... 福奇对此表示，更多的数据表明，美国普通民众对疫苗加强针的需求正在变多。</p><p><a href='https://www.cnbeta.com/articles/tech/1181045.htm'>CNBeta : 每500名美国人中就有1人死于新冠 拜登劝说民众接种疫苗</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181067.htm'>CNBeta : 福奇：用于确认新冠疫苗加强针可行性的数据将在几周内公布</a></p><p><a href='https://www.businessinsider.com/covid-19-vaccine-impact-on-menstrual-cycle-30000-report-changes-2021-9?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : COVID-19 vaccines impact on menstrual cycles to be investigated after 30,000 women report changes</a></p><p><a href='https://www.businessinsider.com/covid-19-vaccinechildren-in-the-fall-fauci-said-2021-9?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : Fauci said a COVID-19 vaccine will be available to young children in the fall</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1181045.htm",
+          "publishedOn": "2021-09-19T23:49:56.000Z",
+          "wordCount": 196,
+          "title": "福奇：用于确认新冠疫苗加强针可行性的数据将在几周内公布"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7013890.shtml",
+          "author": null,
+          "description": "Win11 对操作系统和 App 的压缩技术进行了更改，如便笺和 Microsoft To Do 等 App 的默认状态实际上只是一个索引，只在用户打开后才进行下载 ... 微软官方表示：这减少了磁盘占用的大小，你也会看到更少的后台更新活动和下载流量 ... 微软澄清，圆角和云母等新设计元素不会导致性能下降，其性能将优于 Win10 的亚克力设计元素。",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7013890.shtml",
+          "publishedOn": "2021-09-19T23:49:22.000Z",
+          "wordCount": 211,
+          "title": "微软：Win11将减少磁盘占用，功能可以按需加载"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181079.htm",
+          "author": null,
+          "description": "在反馈中心的帖子中，微软官员已经确认，\"将文件拖到任务栏中的一个应用上，以便在该应用中打开它\"并不是一个被支持的场景 ... 同样，用户可以很快将文件夹拖放到任务栏的一个应用上，并在该应用中打开它，但目前在Windows 11 21H2 22000.xxx构建中不支持这个功能 ... 目前还不清楚何时能为用户启用成熟的任务栏，毕竟还有一些其他任务栏功能被放弃以支持现代Windows 11任务栏。",
+          "link": "https://www.cnbeta.com/articles/tech/1181079.htm",
+          "publishedOn": "2021-09-19T23:46:51.000Z",
+          "wordCount": 214,
+          "title": "微软Windows 11的任务栏拖放支持可能要回归了"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/89fpsXczMOI",
+          "author": null,
+          "description": "<p>近日，中国疾控中心在官网发布2021年中秋国庆假期健康提示称，2021年中秋国庆假期，境外疫情仍将高水平流行，境内发生输入疫情以及续发本地传播风险也持续存在，建议旅行归来应自我观察14天 ... 中国疾控中心指出，我国境内持续输入新冠肺炎病例，本土疫情总体处于零星散发状态，局部地区聚集性疫情时有发生 ... 中国疾控中心还提出，旅行归来，应自我观察14天，一旦出现可疑症状，在做好防范感染他人措施的情况下，应及时就医并主动告知医生自己的旅行史。</p><p><a href='https://tech.ifeng.com/c/89fpsXczMOI'>凤凰科技 : 厦门疫情起源查明</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181071.htm'>CNBeta : 厦门疫情起源是外市输入病例：中疾控建议旅行归来自我观察14天</a></p>",
+          "link": "https://tech.ifeng.com/c/89fpsXczMOI",
+          "publishedOn": "2021-09-19T23:46:17.000Z",
+          "wordCount": 12,
+          "title": "厦门疫情起源是外市输入病例：中疾控建议旅行归来自我观察14天"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181077.htm",
+          "author": null,
+          "description": "两周前我们报道了微软的Edge浏览器正在开发可供人类阅读的网站信息 ... 现在，在Google的Chrome浏览器中也出现了相同功能的测试标记 ... \"关于这个网站\"的功能通过增加一个选项调用来自维基百科的网站的实际信息，使得网站信息弹出窗口中的信息更加具有可读性且有用。",
+          "link": "https://www.cnbeta.com/articles/tech/1181077.htm",
+          "publishedOn": "2021-09-19T23:42:19.000Z",
+          "wordCount": 199,
+          "title": "“人类可读的网站信息”功能也将来到Google Chrome浏览器"
+        },
+        {
+          "id": "https://venturebeat.com/2021/09/19/boston-dynamics-spot-robot-is-securing-its-position-in-a-niche-market/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://venturebeat.com/2021/09/19/boston-dynamics-spot-robot-is-securing-its-position-in-a-niche-market/",
+          "publishedOn": "2021-09-19T23:40:24.000Z",
+          "wordCount": 1300,
+          "title": "Boston Dynamics’Spot robot is securing its position in a niche market"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181073.htm",
+          "author": null,
+          "description": "Facebook周六批评了《华尔街日报》关于社交媒体平台对用户的负面影响的一系列文章，称这些文章包含\"故意的错误描述\"，并\"将令人震惊的错误动机赋予Facebook的领导层和员工\" ... 《华尔街日报》发现，Facebook豁免了数百万高知名度的用户遵守其部分或全部规则，忽视了关于Instagram对少年女性的负面影响的研究，并进行了算法改变，以改善平台上的互动，这实际上使用户\"更加愤怒\" ..",
+          "link": "https://www.cnbeta.com/articles/tech/1181073.htm",
+          "publishedOn": "2021-09-19T23:29:10.000Z",
+          "wordCount": 195,
+          "title": "Facebook抨击《华尔街日报》系列报道\"故意曲解\""
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181071.htm",
+          "author": null,
+          "description": "近日，中国疾控中心在官网发布2021年中秋国庆假期健康提示称，2021年中秋国庆假期，境外疫情仍将高水平流行，境内发生输入疫情以及续发本地传播风险也持续存在，建议旅行归来应自我观察14天 ... 中国疾控中心指出，我国境内持续输入新冠肺炎病例，本土疫情总体处于零星散发状态，局部地区聚集性疫情时有发生 ... 中国疾控中心还提出，旅行归来，应自我观察14天，一旦出现可疑症状，在做好防范感染他人措施的",
+          "link": "https://www.cnbeta.com/articles/tech/1181071.htm",
+          "publishedOn": "2021-09-19T23:25:32.000Z",
+          "wordCount": 193,
+          "title": "厦门疫情起源是外市输入病例：中疾控建议旅行归来自我观察14天"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5251357.shtml",
+          "author": null,
+          "description": "阿里巴巴旗下天猫、聚划算、淘宝直播、盒马、淘特、数字乡村等10个业务部门参与金秋消费季活动，举办100多场地域农产品产业带活动，超过30万商家参与，针对60万款商品发放超过1000万张“丰收券”，消费者可以使用“丰收券”购买丰收节专区农副产品 ... 在各大电商深度参与丰收节的同时，各地丰收节活动也主动拥抱电商，拓展农产品线上销售渠道 ... 大力发挥电商平台的作用，为产地政府提供一揽子农产品标准",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5251357.shtml",
+          "publishedOn": "2021-09-19T23:23:55.000Z",
+          "wordCount": 181,
+          "title": "开设丰收节专区，农村土特产搭上了电商快车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181067.htm",
+          "author": null,
+          "description": "福奇还强调，希望人们在获得美国食品和药物管理局批准之前，不要擅自设法获得新冠疫苗加强针 ... 当地时间9月17日，隶属于美国食品和药物管理局的疫苗和相关生物制品咨询委员会以16票赞成2票反对的结果，拒绝批准向已接种第二剂辉瑞疫苗6个月以上的16岁及以上人群提供第三剂辉瑞疫苗 ... 福奇对此表示，更多的数据表明，美国普通民众对疫苗加强针的需求正在变多。",
+          "link": "https://www.cnbeta.com/articles/tech/1181067.htm",
+          "publishedOn": "2021-09-19T23:20:20.000Z",
+          "wordCount": 194,
+          "title": "福奇：用于确认新冠疫苗加强针可行性的数据将在几周内公布"
+        },
+        {
+          "id": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7015361.shtml",
+          "author": null,
+          "description": "专家表示，实体零售业应将数字技术、业务和经营管理进行深度融合，围绕消费者创新增长模式，重构整体价值链和生态体系 ... 中国百货商业协会今年初发布一份针对全国67家百货和购物中心企业的调查报告显示，以直播带货、社交媒体线上营销和小程序商城为主要形式的“云购物”，成为去年实体零售业的关键词 ... 数据显示，96%的受访企业已开展线上营销或销售渠道业务，其中进行直播营销卖货的达84%、搭建数字化商城",
+          "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7015361.shtml",
+          "publishedOn": "2021-09-19T23:18:14.000Z",
+          "wordCount": 181,
+          "title": "实体零售业迈开“云”步伐：打造数字平台，开展线上卖货"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181065.htm",
+          "author": null,
+          "description": "此次开放的度假区一期项目包括北京环球影城主题公园、北京环球城市大道，以及环球影城大酒店和诺金度假酒店两家度假酒店 ... 中秋假期期间，北京环球度假区将进行客流管控，仅限持当日北京环球影城门票、环球城市大道电影院电影票或有效酒店房间预订证明的游客进入北京环球城市大道 ... 只有持北京环球影城门票、环球城市大道电影院电影票或有效酒店房间预订证明的游客方可进入北京环球城市大道。",
+          "link": "https://www.cnbeta.com/articles/tech/1181065.htm",
+          "publishedOn": "2021-09-19T23:12:45.000Z",
+          "wordCount": 193,
+          "title": "北京环球度假区今起正式开放 门票不得以任何形式转让或转售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1181061.htm",
+          "author": null,
+          "description": "<p>苹果公司已经开始向 9 月 17 日（星期五）预购 iPhone 13、iPhone 13 mini、iPhone 13 Pro 和 iPhone 13 Pro Max 的客户发货 ... 许多订单在苹果的订购系统中仍然显示「准备发货」，并将持续到本周晚些时候，但通过 UPS 接收设备的美国客户可以使用 UPS My Choice 功能进行追踪，或者可以通过电话号码或订单号等参考号码进行追踪 ... iPhone 13 Pro 和 iPhone 13 Pro Max 的所有颜色和容量都已售罄，现在下的订单要到 10 月中下旬才能到达。</p><p><a href='https://www.cnbeta.com/articles/tech/1181061.htm'>CNBeta : 苹果供应商开始交付iPhone 13 首批商品将于周五正式抵达</a></p><p><a href='https://www.macrumors.com/2021/09/19/iphone-13-orders-now-shipping/'>Mac Rumors : iPhone 13 Orders Begin Shipping From Apple Ahead of Friday Launch</a></p><p><a href='https://9to5mac.com/2021/09/19/first-iphone-13-pre-orders-now-shipping/'>9to5Mac : First iPhone 13 pre-orders Now shipping ahead of Friday release</a></p><p><a href='https://www.phonearena.com/news/some-iphone-preorders-have-been-shipped_id135158'>Phone Arena : Just two days after the start of pre-orders, some Lucky buyers have had their new iPhones shipped</a></p><p><a href='https://www.imore.com/some-iphone-13-preorders-have-already-shipped-ahead-launch-day?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheIphoneBlog+%28iMore%29'>iMore : Some iPhone 13 preorders have already shipped ahead of launch day</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1181061.htm",
+          "publishedOn": "2021-09-19T19:04:51.000Z",
+          "wordCount": 223,
+          "title": "苹果供应商开始交付iPhone 13 首批商品将于周五正式抵达"
+        },
+        {
+          "id": "https://www.tmtpost.com/nictation/5701297.html",
+          "author": null,
+          "description": "<p>据日经中文网，丰田日前发布消息称，由于已宣布 10 月实施减产，日本的 14 家工厂将实施临时停产，最多停产 11 天 ... 以东南亚为中心，新冠疫情的蔓延导致零部件持续短缺，丰田预定 10 月在全球范围内减产约 33 万辆（海外 18 万辆，日本国内 15 万辆），相当于原生产计划的 4 成 ... 丰田在日本 14 家工厂的 28 条生产线中，14 家工厂的 27 条生产线将实施临时停产。</p><p><a href='https://www.tmtpost.com/nictation/5701297.html'>钛媒体 : 零部件持续短缺，丰田日本全部工厂将临时停产</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181047.htm'>CNBeta : 丰田汽车14家工厂将全部临时停产 多家车企巨头宣布大规模减产</a></p>",
+          "link": "https://www.tmtpost.com/nictation/5701297.html",
+          "publishedOn": "2021-09-19T18:38:49.000Z",
+          "wordCount": 221,
+          "title": "零部件持续短缺，丰田日本全部工厂将临时停产"
+        },
+        {
+          "id": "https://www.tmtpost.com/nictation/5701395.html",
+          "author": null,
+          "description": "<p>在正准备对全自动驾驶（FSD）软件进行重大升级之际，美国国家运输安全委员会（NTSB）负责人表示此举可能为时过早 ... NTSB主席Jennifer Homendy称，使用“全自动驾驶”一词是“误导和不负责任的”，因人们更关注营销，而不是汽车使用手册或公司网站上的警告 ... 她补充说，的行为显然误导了许多人误用和滥用该项技术，在解决该安全缺陷之前，不应该推进本次升级。</p><p><a href='https://www.tmtpost.com/nictation/5701395.html'>钛媒体 : 美国国家运输安全委员会：特斯拉FSD的用词是“误导和不负责任的”</a></p><p><a href='https://tech.ifeng.com/c/89g9vP6XQSK'>凤凰科技 : 美国运输安全委员会：特斯拉关于自动驾驶的用词是“误导和不负责任的”</a></p><p><a href='https://www.businessinsider.com/tesla-safety-fsd-term-irresponsible-elon-musk-ntsb-2021-9?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : Tesla's use of the term Full self-driving is 'irresponsible,' NTSB chief told The Wall Street Journal</a></p><p><a href='https://www.engadget.com/ntsb-head-on-tesla-full-self-driving-safety-170443851.html?src=rss'>Engadget : NTSB head says Tesla must address 'basic safety issues' with Semi-autonomous features</a></p><p><a href='https://gizmodo.com/teslas-expanding-its-full-self-driving-beta-but-top-sa-1847705438'>Gizmodo : Tesla to Expand Full self-driving Beta, But Top Safety Official Says It Needs to Tackle 'Basic Safety Issues' First</a></p>",
+          "link": "https://www.tmtpost.com/nictation/5701395.html",
+          "publishedOn": "2021-09-19T16:57:12.000Z",
+          "wordCount": 174,
+          "title": "美国国家运输安全委员会：特斯拉FSD的用词是“误导和不负责任的”"
+        },
+        {
+          "id": "https://dzone.com/articles/using-the-cloud-as-a-sandbox-for-server-consolidat",
+          "author": null,
+          "description": "A server consolidation Project is a significant undertaking, and IT Teams will need to answer several weighty questions while planning for One. Can servers be consolidated more efficiently? If so, wha",
+          "link": "https://dzone.com/articles/using-the-cloud-as-a-sandbox-for-server-consolidat",
+          "publishedOn": "2021-09-19T16:42:17.000Z",
+          "wordCount": 1268,
+          "title": "Using the Cloud as a Sandbox for Server Consolidation"
+        },
+        {
+          "id": "https://dzone.com/articles/scaling-is-not-just-about-products-its-about-teams",
+          "author": null,
+          "description": "Introduction\nWe are well aware of what is meant by system scalability. System scalability is about maintaining the SLA of the system as the user base continues to grow and as the user activity continu",
+          "link": "https://dzone.com/articles/scaling-is-not-just-about-products-its-about-teams",
+          "publishedOn": "2021-09-19T16:16:11.000Z",
+          "wordCount": 1371,
+          "title": "Scaling Is Not Just About products – It’s About Teams, Too"
+        },
+        {
+          "id": "https://dzone.com/articles/using-the-in-built-nestjs-validationpipe",
+          "author": null,
+          "description": "The in-built NestJS ValidationPipe is a great way to Handle validations in an application.\nValidations are an extremely important aspect of any production-level application. Often, developers have to",
+          "link": "https://dzone.com/articles/using-the-in-built-nestjs-validationpipe",
+          "publishedOn": "2021-09-19T15:08:18.000Z",
+          "wordCount": 1192,
+          "title": "Using the In-Built NestJS ValidationPipe"
+        },
+        {
+          "id": "https://dzone.com/articles/spring-boot-and-jhipster-bring-kubernetes-to-the-c-2",
+          "author": null,
+          "description": "When your product or application is a success, you’ll want to support its growth. Not just in terms of Technology, but also in terms of hiring skilled engineers to keep pace. Consider using a microser",
+          "link": "https://dzone.com/articles/spring-boot-and-jhipster-bring-kubernetes-to-the-c-2",
+          "publishedOn": "2021-09-19T14:47:07.000Z",
+          "wordCount": 4556,
+          "title": "Spring Boot and JHipster Bring Kubernetes to the Cloud"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1181007.htm",
           "author": null,
           "description": "<p>此次“919未来主义者共创节”上，FF中国CEO陈雪峰率公司高管团队首次集体亮相，并公布了FF91量产交付最新进展以及渠道销售策略，表示FF91在中国的首批旗舰店将选址北京、上海、广州、深圳四地 ... 目前，FF打造了线上线下融合的生态O2O直销模式，通过在线平台（FF Intelligent App及FF.com）、FF自有门店、合作伙伴自有门店和展厅，形成轻资产的销售网络 ... 接下来，FF中国将在北京、上海、广州、深圳四地进行FF/FF Par生态旗舰店选址。</p><p><a href='https://www.cnbeta.com/articles/tech/1181007.htm'>CNBeta : FF宣布与吉利合作取得实质进展 旗舰店选址北上广深</a></p>",
           "link": "https://www.cnbeta.com/articles/tech/1181007.htm",
           "publishedOn": "2021-09-19T11:59:19.000Z",
-          "wordCount": 214,
-          "title": "FF宣布与吉利合作取得实质进展 旗舰店选址北上广深"
+          "wordCount": 213,
+          "title": "FF 宣布与吉利合作取得实质进展：旗舰店选址北上广深"
         },
         {
           "id": "https://tech.ifeng.com/c/89fMxFWvAf5",
@@ -61,25 +331,7 @@
           "link": "https://tech.ifeng.com/c/89fMxFWvAf5",
           "publishedOn": "2021-09-19T11:43:18.000Z",
           "wordCount": 11,
-          "title": "上海微电子推出新一代先进封装光刻机 首台年内交付"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1181011.htm",
-          "author": null,
-          "description": "9月18日，上微举行新产品发布会，宣布推出SSB520型新一代大视场高分辨率先进封装光刻机 ... 可以帮助晶圆级先进封装企业实现多芯片高密度互连封装技术的应用，满足异构集成超大芯片封装尺寸的应用需求 ... 官方表示，目前，上微已与多家客户达成新一代先进封装光刻机销售协议，首台将于年内交付。",
-          "link": "https://www.cnbeta.com/articles/tech/1181011.htm",
-          "publishedOn": "2021-09-19T11:14:00.000Z",
-          "wordCount": 194,
-          "title": "上海微电子推出新一代先进封装光刻机 首台年内交付"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1181009.htm",
-          "author": null,
-          "description": "太空旅行将人们置于微重力环境，因此旅行者会经历所谓的“太空适应综合征”，最常见的症状包括眩晕和失眠等 ... 商业太空旅行开始重启，但NASA认为，在未来的太空旅行中，仍然需要通过严格的医疗选拔标准来选择健康的宇航员候选人，此外，遵守预防性医疗护理的基本原至关重要 ... 好消息是，在目前已经完成的包括维珍银河、蓝色起源和SpaceX的商业飞行任务中，所有的太空旅行者返回后都没有报告相关的健康问题",
-          "link": "https://www.cnbeta.com/articles/tech/1181009.htm",
-          "publishedOn": "2021-09-19T11:11:59.000Z",
-          "wordCount": 198,
-          "title": "SpaceX首次商飞成功返回 旅行者需克服“太空适应综合征”"
+          "title": "上海微电子推出新一代先进封装光刻机，首台年内交付"
         },
         {
           "id": "https://www.cnbeta.com/articles/tech/1180807.htm",
@@ -91,168 +343,6 @@
           "title": "中国电信与国盾量子联合成立量子公司"
         },
         {
-          "id": "https://www.jiemodui.com/N/128446.html",
-          "author": null,
-          "description": "新华社9月19日从贵州省六盘水市委宣传部获悉，截至发稿，六枝特区牂牁镇客船侧翻事故已致10人遇难，5人失联，实载人数仍在进一步核实中 ... 9月18日下午，贵州省六盘水市六枝特区牂牁镇发生一起客船侧翻事故 ... 经核实，该客船系西陵航运公司8015型客运船，核载40人，客船驾驶员杨某某已在事故中死亡，船上乘客主要为牂牁镇学生。",
-          "link": "https://www.jiemodui.com/N/128446.html",
-          "publishedOn": "2021-09-19T10:29:17.000Z",
-          "wordCount": 75,
-          "title": "贵州客船侧翻事故已致10人遇难，船上乘客主要为学生"
-        },
-        {
-          "id": "https://www.huxiu.com/article/457740.html?f=rss",
-          "author": null,
-          "description": "2020年11月27日，伊朗核计划之父、首席核科学家Mohsen Fakhrizadeh在与太太通往乡下度假别墅的高速公路上被以色列情报机构摩萨德暗杀 ... Mohsen Fakhrizadeh被害在民众中引发了巨大骚动，因此当时“机器人暗杀说”曾招致很多人在Twitter等社交媒体上对这个伊朗安保团队大加嘲讽，认为国家是在掩盖自己的真实能力 ... 纽约时报着重指出，为了阻止伊朗的核武器开发计",
-          "link": "https://www.huxiu.com/article/457740.html?f=rss",
-          "publishedOn": "2021-09-19T10:28:00.000Z",
-          "wordCount": 90,
-          "title": "伊朗科学家被害真相：一场无懈可击的算法暗杀"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1181005.htm",
-          "author": null,
-          "description": "公司中秋节没发月饼，员工将经理打到住院被开除，还要求赔偿2万多元，引发关注 ... 中秋节前，卢×找公司经理尚某某质询为何不发其月饼之事时，与尚某某发生口角并厮打，后尚某某报警，当日，尚某某被送至密云县医院治疗 ... 卢×因对未发放其月饼之事不满，与尚某某发生厮打的行为是错误的，公司依照公司的规章制度解除与卢×的劳动关系，并不违反法律规定。",
-          "link": "https://www.cnbeta.com/articles/tech/1181005.htm",
-          "publishedOn": "2021-09-19T10:20:20.000Z",
-          "wordCount": 195,
-          "title": "公司没发月饼 员工将经理打到住院 法院判决解雇合法"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1180997.htm",
-          "author": null,
-          "description": "医学研究人员说，在英国314家医院中，超过十分之一的COVID-19患者是在第一次大流行期间的医院被感染的 ... 研究人员检查了参加国际严重急性呼吸道和新发感染联盟（ISARIC）英国临床特征协议（CCP-UK）研究的英国医院的COVID-19患者的记录，这些病例全部在2020年8月1日前发病 ... 在医院感染的COVID-19患者的比例在2020年5月中旬也上升到16%到20%之间，远远超过",
-          "link": "https://www.cnbeta.com/articles/tech/1180997.htm",
-          "publishedOn": "2021-09-19T10:15:20.000Z",
-          "wordCount": 197,
-          "title": "第一波大流行中 超过十分之一的英国COVID-19患者是在入院后被感染的"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405320190219912",
-          "author": null,
-          "description": "昨日，生态环境部部长黄润秋主持召开部常务会议，审议并原则通过《2021年8月份生态环境重点工作进展分析报告》、《自然保护区生态环境保护成效评估标准（试行）》。",
-          "link": "https://36kr.com/newsflashes/1405320190219912",
-          "publishedOn": "2021-09-19T10:05:37.000Z",
-          "wordCount": null,
-          "title": "生态环境部：抓紧推动出台“十四五”生态环境保护规划和各领域专项规划及其配套方案"
-        },
-        {
-          "id": "https://www.tmtpost.com/5701239.html",
-          "author": null,
-          "description": "网友们列出了童年回忆里的古装男主：张智尧的花满楼风度翩翩，古天乐的杨过取下面具时惊为天人，曾经被评为“天涯四美”的钟汉良、焦恩俊、乔振宇、严宽，都是英俊潇洒的正统古装帅哥 ... 张若昀就不是传统意义上非常端正的“古装美男”，他的眼睛偏小，嘴唇较厚且线条圆钝，在《九州天空城》中初登场的天蓝色美瞳造型还被吐槽“杀马特非主流” ... 在古装丑男的讨论中，有一种得到较多网友支持的观点是，曾经有不够帅气",
-          "link": "https://www.tmtpost.com/5701239.html",
-          "publishedOn": "2021-09-19T09:40:00.000Z",
-          "wordCount": 524,
-          "title": "古装美男的荧屏消失记"
-        },
-        {
-          "id": "https://www.pingwest.com/w/250014?utm_source=feed",
-          "author": null,
-          "description": "据 IT之家报道，微软  Surface Pro 8 现已上架电商平台，或将会在下周的发布会上公布 ... 根据爆料，微软Surface Pro 8 将搭载英特尔 11 代酷睿处理器，采用 13 英寸 120Hz 高刷新率窄边框屏幕，预装 Windows 11 系统 ... Surface Pro 8 还将会搭载双雷电接口，售价尚未公布。",
-          "link": "https://www.pingwest.com/w/250014?utm_source=feed",
-          "publishedOn": "2021-09-19T09:38:04.000Z",
-          "wordCount": 116,
-          "title": "微软Surface Pro 8 曝光 搭载 11 代酷睿 CPU"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405271181923975",
-          "author": null,
-          "description": "通过流调溯源，经专家组研判分析，本次疫情起源是外市输入病例，在工厂等人群密集场所暴发和扩散，在首次报告病例前已经传播2一3代，导致疫情严峻和复杂 ... 我们组织对阳性样本进行基因测序，检出28份样本，均为德尔塔变异株，且高度同源，属于同一传播链条。",
-          "link": "https://36kr.com/newsflashes/1405271181923975",
-          "publishedOn": "2021-09-19T09:15:46.000Z",
-          "wordCount": null,
-          "title": "厦门本次疫情28份阳性样本基因测序为德尔塔变异株"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405259519890823",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://36kr.com/newsflashes/1405259519890823",
-          "publishedOn": "2021-09-19T09:03:54.000Z",
-          "wordCount": null,
-          "title": "中国已向106个国家援助疫苗"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405257768981894",
-          "author": null,
-          "description": "美国苹果公司发布了全新iPhone 13系列智能手机，有研报指出，该系列机型在今年的全球出货量将近1亿部，为确保iPhone 13准时发售，苹果公司也早早将订单委托给供应链上下游工厂，而这条苹果产业链常被称为“果链” ... 为此，富士康郑州厂区甚至不惜发放高额奖金，最高达每人12700元 ... 得益于苹果公司的订单，2021年富士康工业互联网股份有限公司半年报显示，公司上半年营收1960亿元，",
-          "link": "https://36kr.com/newsflashes/1405257768981894",
-          "publishedOn": "2021-09-19T09:02:07.000Z",
-          "wordCount": null,
-          "title": "苹果发新机，富士康急招20万人保iPhone 13发售"
-        },
-        {
-          "id": "https://cn.engadget.com/netflix-nonlinear-heist-series-jigsaw-giancarlo-esposito-paz-vega-090002144.html",
-          "author": null,
-          "description": "Netflix 乐于实验不同的影片播放方式，除了像《黑镜：潘达斯奈基》（Black Mirror: Bandersnatch）和《打不倒的金咪：金咪与牧师大对决》（Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend）般的互动式影集外，他们最新还想打破连续影集之间的顺序关係 ... 据 The Hollywood Reporter 的报导，Netfli",
-          "link": "https://cn.engadget.com/netflix-nonlinear-heist-series-jigsaw-giancarlo-esposito-paz-vega-090002144.html",
-          "publishedOn": "2021-09-19T09:00:02.000Z",
-          "wordCount": 338,
-          "title": "Netflix 正制作无分观看顺序的惊悚犯罪影集"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405240987538821",
-          "author": null,
-          "description": "本轮集中土拍苏州挂出22宗地块，2宗提前中止出让，余下的20宗地中除1宗流拍，总成交价276.5亿元 ... 15宗涉宅地块中，除1宗流拍，仅3宗溢价成交，11宗地块均为底价成交 ... 首轮集中供地中，苏州三天出让的32宗地块，吸引了近百家房企竞逐，其中28宗涉宅地最终揽金424亿。",
-          "link": "https://36kr.com/newsflashes/1405240987538821",
-          "publishedOn": "2021-09-19T08:45:03.000Z",
-          "wordCount": null,
-          "title": "苏州第二批集中土拍收官，近8成涉宅地块底价成交"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405201775416965",
-          "author": null,
-          "description": "据猫眼专业版，9月19日15时，电影《长津湖》首日预售票房破1000万元。",
-          "link": "https://36kr.com/newsflashes/1405201775416965",
-          "publishedOn": "2021-09-19T08:05:09.000Z",
-          "wordCount": null,
-          "title": "电影《长津湖》首日预售票房破1000万"
-        },
-        {
-          "id": "https://www.huxiu.com/article/455805.html?f=rss",
-          "author": null,
-          "description": "在塔利班统治下的阿富汗旅行，每经过一处路障、哨卡，都会看到木桩和铁丝上缠绕着一条条、一团团咖啡色的东西，像线团一样随风飘舞，那是被缴获的磁带和录像带芯，剖腹抽肠，公开曝尸 ... 接下来的十几天，我搭车在塔利班控制区走了一大圈，经巴米扬到马扎里沙里夫，穿过黄土荒漠抵达西部城市赫拉特，沿着六七十年代“嬉皮士”旅行的线路到达塔利班的老巢坎大哈，最后从斯平波尔达克口岸出境，抵达巴基斯坦俾路支省首府奎达",
-          "link": "https://www.huxiu.com/article/455805.html?f=rss",
-          "publishedOn": "2021-09-19T08:00:00.000Z",
-          "wordCount": 25,
-          "title": "二十年前，我差点被塔利班一枪打死"
-        },
-        {
-          "id": "https://www.jiemodui.com/N/128444.html",
-          "author": null,
-          "description": "作为贵阳市息烽县石硐镇的一所农村小学，木杉小学全校只有8位在职教师，两名代课教师，负责一到五年级以及一个学前班的所有教学任务 ... 尽管身处深山，信息闭塞，面对师资条件有限、基础设施条件严重不足的环境，徐萍选择尝试“戴着镣铐起舞” ... 一所贫困地区的村小，走向教育信息化、走向智慧教育的第一步，是相信信息时代孩子们的智慧。",
-          "link": "https://www.jiemodui.com/N/128444.html",
-          "publishedOn": "2021-09-19T07:53:13.000Z",
-          "wordCount": 82,
-          "title": "“在乡村做教育，就像戴着镣铐跳舞”"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405189006464391",
-          "author": null,
-          "description": "上微举行新产品发布会，宣布推出新一代大视场高分辨率先进封装光刻机 ... 目前，上微已与多家客户达成新一代先进封装光刻机销售协议，首台将于年内交付。",
-          "link": "https://36kr.com/newsflashes/1405189006464391",
-          "publishedOn": "2021-09-19T07:52:10.000Z",
-          "wordCount": null,
-          "title": "上微推出新一代先进封装光刻机，首台将于年内交付"
-        },
-        {
-          "id": "https://36kr.com/newsflashes/1405185351030400",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://36kr.com/newsflashes/1405185351030400",
-          "publishedOn": "2021-09-19T07:48:27.000Z",
-          "wordCount": null,
-          "title": "英国商务大臣Sharma：周一将继续就英国能源形势举行会谈"
-        },
-        {
-          "id": "https://www.jiemodui.com/N/128445.html",
-          "author": null,
-          "description": "内蒙古自治区教育厅官方微信消息，9月18日，内蒙古自治区政府新闻办公室召开“双减”新闻发布会，内蒙古自治区教育厅副厅长李占峰介绍，暑假期间，内蒙古各地各部门对校外培训机构开展集中摸排整治工作 ... 截至9月14日，全区共摸排审批（备案）学科类培训机构2772家，全部暂停培训业务 ... 近日，内蒙古自治区党委办公厅、政府办公厅印发《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的实施方案》",
-          "link": "https://www.jiemodui.com/N/128445.html",
-          "publishedOn": "2021-09-19T07:44:13.000Z",
-          "wordCount": 79,
-          "title": "内蒙古共摸排2772家学科类培训机构，全部暂停培训业务"
-        },
-        {
           "id": "https://www.tmtpost.com/nictation/5700988.html",
           "author": null,
           "description": "<p>其中，100Mbps 及以上接入速率的固定互联网宽带接入用户达 4.77 亿户，占总用户数的 92%，占比较上年末提升 2.1 个百分点 ... 1-8 月份，移动互联网累计流量达 1420 亿 GB，同比增长 36.7% ... 其中，通过手机上网的流量达到 1359 亿 GB，同比增长 35.5%，占移动互联网总流量的 95.7%。</p><p><a href='https://www.tmtpost.com/nictation/5700988.html'>钛媒体 : 工信部：1-8 月通过手机上网的流量达 1359 亿 GB，占移动互联网总流量的 95.7%</a></p><p><a href='https://tech.ifeng.com/c/89fAJiTHpTo'>凤凰科技 : 工信部：1-8月手机上网流量达1359亿GB 占移动互联网总流量95.7%</a></p>",
@@ -262,18 +352,9 @@
           "title": "工信部：1-8月手机上网流量达1359亿GB，占移动互联网总流量95.7%"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1180683.htm",
-          "author": null,
-          "description": "<p>IT之家 9月19日消息 据 Wccftech 报道，AMD Radeon RX 7900 XT 显卡相对于 Radeon RX 6900 XT 将提高 50% 以上，甚至会有超过 60% 的性能提升 ... 在价格方面，据报道，AMD Radeon RX 7000 系列显卡的定价将全面上调，这点与之前有关英伟达 GeForce RTX 40 系列的传言有些类似 ... 此前有消息指，AMD Radeon RX 7000 系列显卡分为 RDNA 3 架构和 RDNA 2 架构产品。</p><p><a href='https://www.cnbeta.com/articles/tech/1180683.htm'>CNBeta : 传AMD RDNA 3/4 GPU性能提升超50%：RX 7000明年下半年定价上调</a></p><p><a href='https://tech.ifeng.com/c/89f3ctiA31j'>凤凰科技 : 消息称AMD Radeon RX 7000系列显卡定价将上调</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1180683.htm",
-          "publishedOn": "2021-09-19T05:33:58.000Z",
-          "wordCount": 451,
-          "title": "消息称AMD Radeon RX 7000系列显卡定价将上调"
-        },
-        {
           "id": "https://www.tmtpost.com/nictation/5700901.html",
           "author": null,
-          "description": "<p>一名2020款理想One车主表示，我昨晚0点的时候车机升级，早上上车屏幕上就显示了这些协议，并且没有不同意的选项，只有选择同意才能继续使用汽车 ... 有多位理想One车主表示，他们不同意协议中理想汽车收集个人导航、音乐播放历史等隐私数据，但是整个页面上只能选择“已阅读，并同意许可协议”才能继续使用车辆 ... 上海大邦律师事务所高级合伙人游云庭表示，基于用户提供的协议内容，理想汽车多处涉嫌构成侵犯消费者权益的霸王条款。</p><p><a href='https://www.tmtpost.com/nictation/5700901.html'>钛媒体 : 理想汽车软件更新再现“霸王条款”</a></p><p><a href='https://tech.ifeng.com/c/89f9jFLE3mg'>凤凰科技 : 不同意车就用不了！理想汽车再曝“霸王条款”</a></p><p><a href='https://36kr.com/newsflashes/1405016858629767'>36Kr : 理想汽车软件更新再现“霸王条款”，律师：可以向工信部举报</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180977.htm'>CNBeta : 曝理想汽车软件更新再现“霸王条款”若不同意自己的车也不让用</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-19/doc-iktzscyx5149788.shtml'>新浪科技 : 理想汽车软件更新再现“霸王条款” 律师：可向工信部举报</a></p>",
+          "description": "<p>一名2020款理想One车主表示，我昨晚0点的时候车机升级，早上上车屏幕上就显示了这些协议，并且没有不同意的选项，只有选择同意才能继续使用汽车 ... 有多位理想One车主表示，他们不同意协议中理想汽车收集个人导航、音乐播放历史等隐私数据，但是整个页面上只能选择“已阅读，并同意许可协议”才能继续使用车辆 ... 上海大邦律师事务所高级合伙人游云庭表示，基于用户提供的协议内容，理想汽车多处涉嫌构成侵犯消费者权益的霸王条款。</p><p><a href='https://www.tmtpost.com/nictation/5700901.html'>钛媒体 : 理想汽车软件更新再现“霸王条款”</a></p><p><a href='https://tech.ifeng.com/c/89f9jFLE3mg'>凤凰科技 : 不同意车就用不了！理想汽车再曝“霸王条款”</a></p><p><a href='https://36kr.com/newsflashes/1405016858629767'>36Kr : 理想汽车软件更新再现“霸王条款”，律师：可以向工信部举报</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180977.htm'>CNBeta : 曝理想汽车软件更新再现“霸王条款”若不同意自己的车也不让用</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-19/doc-iktzscyx5149788.shtml'>新浪科技 : 理想汽车软件更新再现“霸王条款” 律师：可向工信部举报</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5164919.shtml'>新浪科技 : 强制收集个人信息？理想汽车OTA升级再现“霸王条款”</a></p>",
           "link": "https://www.tmtpost.com/nictation/5700901.html",
           "publishedOn": "2021-09-19T05:22:59.000Z",
           "wordCount": 169,
@@ -282,7 +363,7 @@
         {
           "id": "https://tech.ifeng.com/c/89f2biVAeXs",
           "author": null,
-          "description": "<p>有业内的消息人士表示，苹果正在开发两款折叠屏手机，预计将于2023年问世 ... 该消息人士透露，苹果将推出的这两款折叠屏手机，可能一款为左右开盖式，另一款为上下掀盖式 ... 市场研究公司DSCC的数据显示，去年三星电子在折叠屏手机市场的份额达87%，除了三星外，华为、小米等手机厂商也在发布新折叠屏产品。</p><p><a href='https://tech.ifeng.com/c/89f2biVAeXs'>凤凰科技 : 消息称苹果将推两款折叠屏手机 预计2023年问世</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180971.htm'>CNBeta : 韩媒报道称苹果后年推首款折叠手机</a></p><p><a href='https://tech.ifeng.com/c/89fHkJ2ZJib'>凤凰科技 : 苹果首款折叠屏iPhone曝光！或实现双向折叠 郭明錤看好</a></p>",
+          "description": "<p>有业内的消息人士表示，苹果正在开发两款折叠屏手机，预计将于2023年问世 ... 该消息人士透露，苹果将推出的这两款折叠屏手机，可能一款为左右开盖式，另一款为上下掀盖式 ... 市场研究公司DSCC的数据显示，去年三星电子在折叠屏手机市场的份额达87%，除了三星外，华为、小米等手机厂商也在发布新折叠屏产品。</p><p><a href='https://tech.ifeng.com/c/89f2biVAeXs'>凤凰科技 : 消息称苹果将推两款折叠屏手机 预计2023年问世</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180971.htm'>CNBeta : 韩媒报道称苹果后年推首款折叠手机</a></p><p><a href='https://tech.ifeng.com/c/89fHkJ2ZJib'>凤凰科技 : 苹果首款折叠屏iPhone曝光！或实现双向折叠 郭明錤看好</a></p><p><a href='https://tech.ifeng.com/c/89fgWRXFaua'>凤凰科技 : 韩媒：苹果正在研发两款可折叠产品 分别为上下和左右折叠</a></p>",
           "link": "https://tech.ifeng.com/c/89f2biVAeXs",
           "publishedOn": "2021-09-19T04:36:37.000Z",
           "wordCount": 20,
@@ -312,7 +393,7 @@
           "description": "Introduction\nIn the previous Post of this series, we saw different flows to get the token from IdentityServer and then pass those tokens as Authorization Headers in our HTTP Calls and the client appli",
           "link": "https://dzone.com/articles/tokenbased-security-oauth-oidc-identityserver-part-1",
           "publishedOn": "2021-09-19T03:23:43.000Z",
-          "wordCount": 767,
+          "wordCount": 760,
           "title": "TokenBased security, OAuth, OIDC, IdentityServer – Part 5"
         },
         {
@@ -325,13 +406,13 @@
           "title": "索尼电影负责人：将来收购的重心将是游戏而非电影行业"
         },
         {
-          "id": "https://tech.ifeng.com/c/89eNs0XSOAe",
+          "id": "https://www.tmtpost.com/nictation/5700568.html",
           "author": null,
-          "description": "<p>4 名成员全部为非专业宇航员，这是他们首次上太空，在太空中停留了将近 3 天时间 ... “坚韧号”（Resilience）载人龙飞船以自动控制模式重返大气层，经过数分钟通讯中断的黑障区 （Blackout zone） 后，成功降落在佛罗里达州 （Florida）附近的大西洋海面上，并由在附近候命的救援船回收 ... 飞船内的成员全是游客，包括担任任务指挥官的 38 岁电商公司 Shift4 Payments 创办人艾萨克曼 （Jared Isaacman）、 任职医生助理、现年 29 岁阿西诺 （Hayley Arceneaux）， 她幼时曾患癌，其复康复。</p><p><a href='https://tech.ifeng.com/c/89eNs0XSOAe'>凤凰科技 : SpaceX首次“全平民”任务完成3天宇宙之旅 四人返回地球</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180907.htm'>CNBeta : SpaceX首个“平民”太空旅行团圆满结束 飞船成功返回地球</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181009.htm'>CNBeta : SpaceX首次商飞成功返回 旅行者需克服“太空适应综合征”</a></p>",
-          "link": "https://tech.ifeng.com/c/89eNs0XSOAe",
+          "description": "<p>北京时间9 月 19 日早上 7 点 09 分，SpaceX Inspiration 4任务机组人员成功降落在美国佛罗里达海岸。4 名成员全部为非专业宇航员，这是他们首次上太空，在太空中停留了将近 3 天时间。</p><p><a href='https://www.tmtpost.com/nictation/5700568.html'>钛媒体 : SpaceX首次“全平民”太空“旅行团”成功返回地球</a></p><p><a href='https://tech.ifeng.com/c/89eNs0XSOAe'>凤凰科技 : SpaceX首次“全平民”任务完成3天宇宙之旅 四人返回地球</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180907.htm'>CNBeta : SpaceX首个“平民”太空旅行团圆满结束 飞船成功返回地球</a></p><p><a href='https://www.pingwest.com/w/250001?utm_source=feed'>品玩 : SpaceX 平民太空旅行团成功返回地球</a></p><p><a href='https://36kr.com/newsflashes/1404797931329154'>36Kr : SpaceX：首次“全平民”太空“旅行团”已返回地球</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181009.htm'>CNBeta : SpaceX首次商飞成功返回 旅行者需克服“太空适应综合征”</a></p><p><a href='https://www.theverge.com/2021/9/18/22681339/spacex-inspiration4-crew-return-earth-splashdown'>The Verge : SpaceX’s Inspiration4 crew returns to Earth, capping First fully private mission in orbit</a></p><p><a href='https://www.businessinsider.com/spacex-inspiration4-first-space-tourists-return-to-earth-2021-9?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : SpaceX's First Space tourists have returned to Earth, splashing down inside the Crew Dragon spaceship</a></p><p><a href='https://www.digitaltrends.com/news/spacex-inspiration4-safe-splashdown/'>Digital Trends : SpaceX Inspiration4 civilian crew land safely off Florida coast</a></p><p><a href='https://www.digitaltrends.com/features/spacexs-historic-all-civilian-mission-in-pictures/'>Digital Trends : Watch The best bits from SpaceX’s historic all-civilian mission</a></p>",
+          "link": "https://www.tmtpost.com/nictation/5700568.html",
           "publishedOn": "2021-09-19T00:38:13.000Z",
-          "wordCount": 15,
-          "title": "SpaceX首个“平民”太空旅行团圆满结束，飞船成功返回地球"
+          "wordCount": 171,
+          "title": "SpaceX 首个平民太空旅行团成功返回地球"
         },
         {
           "id": "https://www.cnbeta.com/articles/tech/1180897.htm",
@@ -357,7 +438,7 @@
           "description": "The goal of software or application testing is to build a quality product. software testing types come with excellent software development importance. Functional testing vs unit testing is the Foundat",
           "link": "https://dzone.com/articles/detailed-comparison-unit-testing-vs-functional-testing",
           "publishedOn": "2021-09-18T22:03:35.000Z",
-          "wordCount": 878,
+          "wordCount": 896,
           "title": "A Detailed Comparison: Unit Testing vs. Functional Testing"
         },
         {
@@ -366,13 +447,13 @@
           "description": "Overview\nApache Tika is a library that allows you to extract Data from PDF, XLS, PDT, etc. Apache Tika using a decorator pattern so you can easily Fit it to your needs.\nAdding Dependency\n    XML\n<depe",
           "link": "https://dzone.com/articles/apache-tika-tutorial",
           "publishedOn": "2021-09-18T19:56:35.000Z",
-          "wordCount": 496,
+          "wordCount": 499,
           "title": "Apache Tika"
         },
         {
           "id": "https://www.cnbeta.com/articles/tech/1180865.htm",
           "author": null,
-          "description": "<p>为确保公平公正公开，客户如有实物资产兑付需求，请联系投资顾问或携带身份证、投资合同到各地接待地点咨询办理 ... 有媒体报道称，许家印在恒大财富专题会上明确表示，要确保所有到期的财富产品尽早全部兑付，一分钱都不能少 ... 针对部分管理人员提前赎回恒大财富投资产品一事，恒大集团今早发布公告，要求6名管理人员提前赎回的12笔投资所有款项必须限期返回，并给予严厉惩处。</p><p><a href='https://www.cnbeta.com/articles/tech/1180865.htm'>CNBeta : 恒大财富启动实物资产兑付工作</a></p><p><a href='https://www.tmtpost.com/nictation/5701317.html'>钛媒体 : 恒大财富实物资产兑付流程曝光：认筹设50万元门槛，不晚于9月30日线上选房</a></p><p><a href='https://36kr.com/newsflashes/1405285852173954'>36Kr : 恒大财富实物资产兑付流程曝光：认筹设50万元门槛，不晚于9月30日线上选房</a></p><p><a href='https://iyiou.com/news/202109191022313'>亿欧 : 恒大财富实物资产兑付工作启动，27省兑付地址公布</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181003.htm'>CNBeta : 每月专项资金500万 恒大财富发布重大疾病应急兑付计划</a></p>",
+          "description": "<p>9月18日晚间，恒大财富官方发布公告，启动实物资产兑付工作。公告称，根据9月13日恒大集团制定的《恒大财富投资产品兑付方案》，实物资产兑付工作已启动。为确保公平公正公开，客户如有实物资产兑付需求，请联系投资顾问或携带身份证、投资合同到各地接待地点咨询办理。\n</p><p><a href='https://www.cnbeta.com/articles/tech/1180865.htm'>CNBeta : 恒大财富启动实物资产兑付工作</a></p><p><a href='https://www.tmtpost.com/nictation/5701317.html'>钛媒体 : 恒大财富实物资产兑付流程曝光：认筹设50万元门槛，不晚于9月30日线上选房</a></p><p><a href='https://36kr.com/newsflashes/1405285852173954'>36Kr : 恒大财富实物资产兑付流程曝光：认筹设50万元门槛，不晚于9月30日线上选房</a></p><p><a href='https://iyiou.com/news/202109191022313'>亿欧 : 恒大财富实物资产兑付工作启动，27省兑付地址公布</a></p><p><a href='https://www.cnbeta.com/articles/tech/1181003.htm'>CNBeta : 每月专项资金500万 恒大财富发布重大疾病应急兑付计划</a></p><p><a href='https://www.jiemian.com/article/6618002.html'>界面 : 快看|恒大财富实物资产兑付启动，现金兑付将优先保障重大疾病投资者</a></p>",
           "link": "https://www.cnbeta.com/articles/tech/1180865.htm",
           "publishedOn": "2021-09-18T19:21:44.000Z",
           "wordCount": 185,
@@ -384,7 +465,7 @@
           "description": "YouTube has become a great platform to not only showcase your talent but also helps with boosting your Business and taking it to the Next level. But, you might wonder, how do I increase my YouTube sub",
           "link": "https://dzone.com/articles/effective-ways-to-increase-your-youtube-subscriber",
           "publishedOn": "2021-09-18T18:47:59.000Z",
-          "wordCount": 1174,
+          "wordCount": 1184,
           "title": "Got a YouTube channel? Read these Tips to Increase Your Subscribers"
         },
         {
@@ -393,7 +474,7 @@
           "description": "Worried about the safety of your family and loved ones? Location tracking Apps as they travel could be The best solution!\nAll of US worry about the safety of our loved ones when they are out traveling",
           "link": "https://dzone.com/articles/top-10-location-tracking-apps-for-enhanced-safety",
           "publishedOn": "2021-09-18T18:35:14.000Z",
-          "wordCount": 922,
+          "wordCount": 919,
           "title": "Top 10 Location Tracking Apps for Enhanced Safety in 2021"
         },
         {
@@ -402,7 +483,7 @@
           "description": "Overview\nAn optimizer is a component used to optimize execution plans. Database optimizers are usually divided into two categories:\nRule-based optimizer (RBO), which optimizes an execution plan accord",
           "link": "https://dzone.com/articles/nebula-graph-source-code-explained-rbo",
           "publishedOn": "2021-09-18T18:23:36.000Z",
-          "wordCount": 1478,
+          "wordCount": 1473,
           "title": "Nebula Graph Source Code Explained: RBO"
         },
         {
@@ -415,58 +496,13 @@
           "title": "国家税务总局：定期开展对明星艺人、网络主播的税收检查"
         },
         {
-          "id": "https://www.pingwest.com/w/249986?utm_source=feed",
+          "id": "https://www.cnbeta.com/articles/tech/1181065.htm",
           "author": null,
-          "description": "<p>据央视新闻，北京环球度假区提醒广大游客，北京环球影城主题公园门票采用实名制购票和验票机制，门票一经售出只限绑定有效身份证件者本人使用，游客从非正规渠道购买门票存在被欺诈或者无法入园的风险 ... 北京环球度假区与相关政府部门成立专项联合工作小组，针对线上线下出现的涉嫌违规倒卖转售或者欺诈消费者行为的线索进行实时监测，总结案件线索向执法机关报案，配合执法机关依法对于扰乱正常市场秩序的行为进行查处。</p><p><a href='https://www.pingwest.com/w/249986?utm_source=feed'>品玩 : 北京环球度假区将采用多举措防范非法倒票</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-18/doc-iktzscyx5049505.shtml'>新浪科技 : 北京环球度假区发布中秋假期客流管控措施</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180845.htm'>CNBeta : 北京环球度假区发布中秋假期客流管控措施</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180899.htm'>CNBeta : 北京环球影城度假区采用反爬技术防范非法倒票</a></p>",
-          "link": "https://www.pingwest.com/w/249986?utm_source=feed",
+          "description": "<p>据央视新闻，北京环球度假区提醒广大游客，北京环球影城主题公园门票采用实名制购票和验票机制，门票一经售出只限绑定有效身份证件者本人使用，游客从非正规渠道购买门票存在被欺诈或者无法入园的风险 ... 北京环球度假区与相关政府部门成立专项联合工作小组，针对线上线下出现的涉嫌违规倒卖转售或者欺诈消费者行为的线索进行实时监测，总结案件线索向执法机关报案，配合执法机关依法对于扰乱正常市场秩序的行为进行查处。</p><p><a href='https://www.cnbeta.com/articles/tech/1181065.htm'>CNBeta : 北京环球度假区今起正式开放 门票不得以任何形式转让或转售</a></p><p><a href='https://www.pingwest.com/w/249986?utm_source=feed'>品玩 : 北京环球度假区将采用多举措防范非法倒票</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-18/doc-iktzscyx5049505.shtml'>新浪科技 : 北京环球度假区发布中秋假期客流管控措施</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180845.htm'>CNBeta : 北京环球度假区发布中秋假期客流管控措施</a></p><p><a href='https://www.cnbeta.com/articles/tech/1180899.htm'>CNBeta : 北京环球影城度假区采用反爬技术防范非法倒票</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-20/doc-iktzqtyt7005315.shtml'>新浪科技 : 北京环球度假区今起正式开放 门票不得以任何形式转让或转售</a></p><p><a href='https://tech.ifeng.com/c/89ftTDZp2oq'>凤凰科技 : 北京环球度假区今起正式开放 实名制购票不得转让或转售</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1181065.htm",
           "publishedOn": "2021-09-18T18:17:48.000Z",
-          "wordCount": 77,
-          "title": "北京环球度假区将采用多举措防范非法倒票"
-        },
-        {
-          "id": "https://www.jiemian.com/article/6613268.html",
-          "author": null,
-          "description": "<p>9月18日，国家发改委发布消息称，自今日24时起，国内汽油价格上调90元/吨，柴油价格上调85元/吨 ... 折合升价，89号、92号、95号汽油以及0号柴油价格均上调0.07元/升 ... 以油箱容量50L的普通私家车计算，车主们加满一箱油将多花3.5元左右。</p><p><a href='https://www.jiemian.com/article/6613268.html'>界面 : 国内成品油价迎年内第12次上调，加满一箱油多花3.5元</a></p>",
-          "link": "https://www.jiemian.com/article/6613268.html",
-          "publishedOn": "2021-09-18T18:14:16.000Z",
-          "wordCount": 42,
-          "title": "国内成品油价迎年内第12次上调，加满一箱油多花3.5元"
-        },
-        {
-          "id": "https://www.pingwest.com/w/249998?utm_source=feed",
-          "author": null,
-          "description": "<p>中国人民银行行长易纲在中德金融科技与全球支付领域全景—探索新疆域视频会议的开幕致辞中表示，中国监管当局也在努力平衡好鼓励发展和防范风险的关系 ... 二是强化反垄断，出台《关于平台经济领域的反垄断》指南，推动大型互联网平台企业开放封闭场景，充分保障消费者支付选择权 ... 三是落实审慎监管要求，完善公司治理，合规开展互联网存贷款、保险、基金等业务。</p><p><a href='https://www.pingwest.com/w/249998?utm_source=feed'>品玩 : 易纲：要求支付回归本源 断开支付工具和其他金融产品的不当连接</a></p><p><a href='https://www.tmtpost.com/nictation/5699650.html'>钛媒体 : 易纲：要求支付回归本源，断开支付工具和其他金融产品的不当连接</a></p><p><a href='https://www.jiemian.com/article/6616341.html'>界面 : 易纲：大型金融科技公司\"赢者通吃\"可能引发垄断，三方面强化金融科技监管</a></p>",
-          "link": "https://www.pingwest.com/w/249998?utm_source=feed",
-          "publishedOn": "2021-09-18T18:10:45.000Z",
-          "wordCount": 79,
-          "title": "易纲：要求支付回归本源 断开支付工具和其他金融产品的不当连接"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1180773.htm",
-          "author": null,
-          "description": "<p>印度反垄断机构发现Google利用其在 Android 移动操作系统和相关市场的主导地位，实施反竞争和限制性贸易行为 ... 这份报告是印度竞争委员会的调查部门在经过两年的调查后提交给该机构的 ... 报告称，反垄断监管机构将对调查结果进行调查，如果发现 Alphabet 旗下的Google有罪，该公司可能面临处罚，或被要求暂停那些被视为扭曲市场竞争的行为。</p><p><a href='https://www.cnbeta.com/articles/tech/1180773.htm'>CNBeta : 印度监管机构表示谷歌使用不公平贸易手段</a></p><p><a href='https://www.tmtpost.com/nictation/5701247.html'>钛媒体 : 谷歌又遭一国反垄断监管：印度对谷歌滥用安卓主导地位进行审查</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1180773.htm",
-          "publishedOn": "2021-09-18T18:07:13.000Z",
-          "wordCount": 197,
-          "title": "印度监管机构表示谷歌使用不公平贸易手段"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1180821.htm",
-          "author": null,
-          "description": "<p>芯片制造商联发科宣布，计划在印度招聘更多创新员工，以支持当地制造业 ... 本周三，联发科曾表示，计划在本财年积极招聘人员，以加强和扩大在印度的研发设施 ... CMR的一项调查显示，92%的印度智能手机用户对联发科芯片的性能和Hyper Engine技术持肯定态度，这使得联发科成为印度最受欢迎的芯片制造商。</p><p><a href='https://www.cnbeta.com/articles/tech/1180821.htm'>CNBeta : 外媒：联发科计划在印度招聘更多创新员工 支持当地制造业</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1180821.htm",
-          "publishedOn": "2021-09-18T18:03:41.000Z",
           "wordCount": 193,
-          "title": "外媒：联发科计划在印度招聘更多创新员工 支持当地制造业"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1180589.htm",
-          "author": null,
-          "description": "<p>日本软银集团掌管的愿景基金最近已经以 16.9 亿美元的总价格，抛售了所持有的韩国电子商务巨头 Coupang 股份的十分之一 ... 年初 Coupang 公司在纽交所上市时，虽然该公司过去长期亏损，但是软银集团掌门人孙正义仍然对其商业模式表示充满信心，孙正义也否认了一些市场传言，即 Coupang 上市之后愿景基金将会抛售股份锁定投资利润 ... 软银集团筹建和管理的愿景基金是 Coupang 长期以来的支持者 ，2015 年，愿景基金对该公司大手笔投资 10 亿美元，并且在 2018 年再一次投资 20 亿美元，两次投资让愿景基金掌握了该公司 37% 的股份。</p><p><a href='https://www.cnbeta.com/articles/tech/1180589.htm'>CNBeta : 软银愿景基金以破发价抛售韩电商 Coupang 股份 回笼 17 亿美元</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1180589.htm",
-          "publishedOn": "2021-09-18T18:00:06.000Z",
-          "wordCount": 248,
-          "title": "软银愿景基金以破发价抛售韩电商 Coupang 股份 回笼 17 亿美元"
+          "title": "北京环球度假区将采用多举措防范非法倒票"
         },
         {
           "id": "https://dzone.com/articles/your-guide-to-automated-vulnerability-scanners-typ",
@@ -474,7 +510,7 @@
           "description": "One of the most crucial roles of an IT security administrator involves comprehensive vulnerability management – the process of assessing, mitigating, and reporting security weaknesses and cyber threat",
           "link": "https://dzone.com/articles/your-guide-to-automated-vulnerability-scanners-typ",
           "publishedOn": "2021-09-18T11:36:22.000Z",
-          "wordCount": 1904,
+          "wordCount": 1900,
           "title": "YOUR GUIDE TO AUTOMATED VULNERABILITY SCANNERS – TYPES, BENEFITS AND MORE"
         },
         {
@@ -483,7 +519,7 @@
           "description": "In the video below, we take a closer LOOK at Spring Boot @ConfigurationProperties example | Spring Boot tutorial. Let's get started!",
           "link": "https://dzone.com/articles/spring-boot-configurationproperties-example-spring",
           "publishedOn": "2021-09-18T10:18:22.000Z",
-          "wordCount": 278,
+          "wordCount": 279,
           "title": "Spring Boot @ConfigurationProperties Example | Spring Boot Tutorial"
         },
         {
@@ -501,7 +537,7 @@
           "description": "The ‘standard’ Scrum model recommends that the team and the Product Owner (PO) review the Product Backlog in the Sprint Planning session and finalize the Stories to be completed in the upcoming Sprint",
           "link": "https://dzone.com/articles/power-of-backlog-refinement",
           "publishedOn": "2021-09-18T09:14:06.000Z",
-          "wordCount": 779,
+          "wordCount": 773,
           "title": "Power of Backlog Refinement"
         },
         {
@@ -548,42 +584,6 @@
           "publishedOn": "2021-09-18T02:14:33.000Z",
           "wordCount": 174,
           "title": "OMIGOD 漏洞使数以千计的Azure用户面临黑客攻击"
-        },
-        {
-          "id": "http://blog.nsfocus.net/sba-5g/",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "http://blog.nsfocus.net/sba-5g/",
-          "publishedOn": "2021-09-18T01:51:03.000Z",
-          "wordCount": 88,
-          "title": "践行智慧安全3. 0，助力“5G+工业互联网”安全发展"
-        },
-        {
-          "id": "https://dzone.com/articles/going-from-an-individual-contributor-to-an-enginee",
-          "author": null,
-          "description": "In my role as an engineering manager, I know making the leap from an individual contributor (IC) to engineering manager (EM) is not a ProMotion. Instead, it’s a different Career track. What we are dis",
-          "link": "https://dzone.com/articles/going-from-an-individual-contributor-to-an-enginee",
-          "publishedOn": "2021-09-18T00:59:00.000Z",
-          "wordCount": 1336,
-          "title": "Going from an Individual Contributor to an Engineering Manager is NOT a ProMotion"
-        },
-        {
-          "id": "https://www.buzzfeednews.com/article/katienotopoulos/amazon-sellers-price-gouging-ivermectin-covid",
-          "author": null,
-          "description": "A $7 horse deworming treatment is commanding prices as high as $45 on Amazon thanks to unfounded claims that it is a cure for COVID.\nView Entire Post ›",
-          "link": "https://www.buzzfeednews.com/article/katienotopoulos/amazon-sellers-price-gouging-ivermectin-covid",
-          "publishedOn": "2021-09-17T22:55:01.000Z",
-          "wordCount": 1449,
-          "title": "Amazon Sellers Are Price Gouging Ivermectin"
-        },
-        {
-          "id": "https://dzone.com/articles/tomcat-and-tomee-clustering-automation",
-          "author": null,
-          "description": "Apache Tomcat is an open-source application server maintained by the Apache community. It is One of the most popular solutions for hosting Java applications due to its ease of use and lightweight yet",
-          "link": "https://dzone.com/articles/tomcat-and-tomee-clustering-automation",
-          "publishedOn": "2021-09-17T20:15:15.000Z",
-          "wordCount": 1179,
-          "title": "Tomcat and TomEE Clustering automation"
         }
       ]
     },
@@ -787,6 +787,15 @@
       "siteUrl": "http://36kr.com",
       "articles": [
         {
+          "id": "https://36kr.com/p/1405489709405832",
+          "author": null,
+          "description": "近年来，医疗健康产业创新不断涌现，并发展成为最活跃的行业之一，36氪见证和陪伴着这一领域创新企业的成长，并为行业带来专业的声音。\n \n为此，36氪推出了“医疗健康行业周报”这一栏目，接下来将定期发布，为读者提供资本、政策、财务、新产品等多角度的行业资讯。\n \n9月19日医疗健康行业周报请查收。行业周报收录了本周医疗健康领域「36氪创投频道」报道的融资新闻，以及其他值得关注的国内外行业新闻动态。\n \n投资融资\n \n \n \n「呼嘎HUGGAH」获松柏投资战略投资\n \n \n新锐口腔护理品牌「呼嘎HUGGAH」获得松柏投资的战略投资。松柏投资垂直于口腔领域，从事全球范围的口腔产业投资，对正畸、修复、防龋、美白等口腔保健的各类需求都有产业洞见和资源网络，双方合作后松柏投资将支持呼嘎在未来拓展细分市场，双方将开展产品开发、渠道拓展、科普教育等多方面的合作。\n \n36氪首发 | “治愈系”抢占口腔护理市场，「呼嘎HUGGAH」获得松柏投资的战略投资\n \n \n \n眠白科技完成数千万元A轮融资\n \n \n睡眠科技公司眠白科技宣布完成数千万元A轮融资，由SIG海纳亚洲创投基金独家投资，青桐资本担任独家财务顾问。眠白科技创始团队表示，本轮融资将主要用于品牌推广、团队扩展、供应链及研发。眠白科技团队希望通过三个品牌多个品类构建贯穿消费者人生各阶段的睡眠产品矩阵，为中国消费者提供更科技性、更舒适的睡眠体验。\n \n \n \n真迈生物完成4.1亿元B+轮融资\n \n \n基因测序平台自主研发制造商深圳市真迈生物科技有限公司宣布完成总金额4.1亿人民币的B+轮融资，由科创板上市企业圣湘生物、知名创投机构同创伟业、中欧联合资本共同参与，珂玺资本、叱石资本等老股东继续跟投。据悉，本轮融资资金将主要用于真迈生物自主基因测序平台的应用市场推广、医疗器械资质申报以及新产品的研发升级。\n \n \n \n高容科技完成数千万元Pre…",
+          "link": "https://36kr.com/p/1405489709405832",
+          "publishedOn": "2021-09-19T15:53:55.000Z",
+          "wordCount": null,
+          "title": "医疗健康行业周报 |「呼嘎HUGGAH」获松柏投资战投，唯思尔康完成亿级天使轮融资"
+        },
+        {
           "id": "https://36kr.com/p/1404001736742274",
           "author": null,
           "description": "本周三，被誉为“科技春晚”的苹果秋季新品发布会如期举行。周五晚国行版iPhone 13预售秒空的成绩，让它成为比去年火爆的iPhone 12更受欢迎的一款产品。\n \n国内外果粉都不约而同感叹iPhone 13最让人惊喜的居然是价格——产品比去年iPhone 12系列都有不同程度的降价，但今天我们想来谈一谈苹果另一项了不起的创新，那就是下面这张图。\n \n\n \n图片来自Apple发布会\n \n图片C位上的部分，显示的是苹果iPad全系列已经实现机身均由100%再生铝金属制造；此外苹果承诺，在2030年之前所有产品将实现碳中和、供应链都将使用百分百可循环再生电力——这是来自当今世界最大公司的环保承诺，而我们从中或许可以一窥这家公司的社会责任感以及全社会控制碳排放、实现环保节能的重要性。\n \n诚如提名苹果CEO库克为2021年度《时代周刊》全球百大人物的耐克创始人兼CEO菲尔·奈特所言，正是库克身上的同理心、勇气和人格魅力让他成为了独一无二的库克，而不是第二个乔布斯。《经济学人》更称库克是有史以来最成功的继任者，带领苹果创造了一个绝佳的十年。\n \n发布会里显示苹果“可持续发展”决心的这张图、以及官网上长达105页的环保进程报告、从小到各个参数层面对比iPhone13比iPhone12更加节能的具体数据，也在侧面印证着苹果的伟大。如同那句“我抽烟我喝酒我纹身，但我是个好女孩”，也许我们也可以这样来试着定位苹果：“我每年发布各种新品，为消费主义推波助澜，但我是个好公司”。\n \n欢迎来到本期36氪周末副刊，在中秋佳节来临之际，今天先给大家推荐一个好玩儿的线上活动~\n \n36氪 X 人民日报新媒体邀你到月球建“月宫”，体验一场近距离的赏月之旅。\n \n点击下图或这里，即可建设你的专属月球基地啦~\n \n\n \n我的中秋探月之旅\n \n言归正传。\n \n现在，你可以从最新抢购的这台iPhone 13开始…",
@@ -807,7 +816,7 @@
         {
           "id": "https://36kr.com/newsflashes/1405285852173954",
           "author": null,
-          "description": "记者获得的一份《关于恒大财富投资产品兑付操作流程的通知》显示，有实物资产兑付、冲抵购房尾款兑付需求的投资者，需登录“房车宝”平台，注册并身份证实名认证后，线上缴纳登记认筹金，登记认筹金为100元/套，生成线上《登记认筹协议书》及协议编码。“房车宝”后台会根据各投资人“投资产品兑付金额”，设定可认筹上限。原则为，“投资产品兑付金额”每50万元可以认一个筹，（不足50万元的，按50万元计）。各地区公司根据属地投资人的登记认筹数量，确定9月下旬线上选房方案，最迟不晚于9月30日组织正式公开线上选房。（财联社）",
+          "description": "记者获得的一份《关于恒大财富投资产品兑付操作流程的通知》显示，有实物资产兑付、冲抵购房尾款兑付需求的投资者，需登录“房车宝”平台，注册并身份证实名认证后，线上缴纳登记认筹金，登记认筹金为100元/套，生成线上《登记认筹协议书》及协议编码。“房车宝”后台会根据各投资人“投资产品兑付金额”，设定可认筹上限。原则为，“投资产品兑付金额”每50万元可以认一个���，（不足50万元的，按50万元计）。各地区公司根据属地投资人的登记认筹数量，确定9月下旬线上选房方案，最迟不晚于9月30日组织正式公开线上选房。（财联社）",
           "link": "https://36kr.com/newsflashes/1405285852173954",
           "publishedOn": "2021-09-19T09:30:41.000Z",
           "wordCount": null,
@@ -946,7 +955,7 @@
           "link": "https://36kr.com/newsflashes/1405112178366086",
           "publishedOn": "2021-09-19T06:34:01.000Z",
           "wordCount": null,
-          "title": "潍柴动力：公司已经同时掌握电堆、空��机关键核心技术"
+          "title": "潍柴动力：公司已经同时掌握电堆、空压机关键核心技术"
         },
         {
           "id": "https://36kr.com/newsflashes/1405108733744515",
@@ -987,7 +996,7 @@
         {
           "id": "https://36kr.com/p/1404289653036420",
           "author": null,
-          "description": "新三板，全称“全国中小企业股份转让系统”，是继上交所和深交所后第三家全国性证券交易场所。如今，其正式被命名为“北京交易所”。\n \n资本市场也迎来了一场久违的狂欢，特别是券商板块中新三版公司储量最为丰富的申万宏源拉了两个涨停，直接引爆了全市场的做多氛围，上证更是直冲3700点整数关口。新三板方面，上周市场成交量和成交额分别放大135.2%和124.8%。\n \n纳斯达克到底是什么？\n \n既然市场把北交所定义为“中国版纳斯达克”，那首先就需要了解纳斯达克的历史。\n \n1971年，纳斯达克成立的时候，其并没有交易大厅，所有的交易都是通过一整套报价系统完成的，许多制度也非常的不完善，严格意义上都很难称得上交易所，最多就是个股权交易系统。当时，纳斯达克的定位是给那些没法在纽交所上市的中小市值公司提供一个可以股权交易的场外平台。其中，纳斯达克早期最出名的两家公司是从仙童公司中脱离出来的Intel和AMD，分别于1971年和1972年在纳斯达克上市。\n \n1975年的时候，纳斯达克开始提出一整套挂牌制度，也就是现在纳斯达克上市的雏形，其在企业股东、盈利能力和市值三个方面提高一定的门槛，同时规定，必须在纳斯达克挂牌的企业才能进行交易。就这样，纳斯达克开始从一个场外交易系统走向了交易所之路。\n \n可惜，好景不长，尽管纳斯达克对上市制度进行了细化，拒绝了一批质量较差的公司，但是整体情况依旧比较惨淡。挂牌公司数量较多，但在80年代初，也仅仅只有Intel、AMD和苹果等几个明星股，整体呈现出非常强的两极分化。\n \n所以，在1982年的时候，纳斯达克将40家规模大、交易活跃的股票划入了新成立的纳斯达克全国市场，将不满足全国市场条件的其余股票归入纳斯达克小型市场。\n \n自从纳斯达克分层之后，正好赶上了美国科技大爆发年代，其精选层在1983年上市公司数量达到682只，到了1985年，更是激增至2194只。随着纳斯达克逐渐成为科技企业上市代名词后，2006年纳斯达克再次分层，将小型资本市场更名为资本市场，将全美市场更名为全球市场，并增设全球精选市场，彻底开始服务于全球市场的科技公司。\n \n北交所能不能成为中国版纳斯达克？\n \n新三板的挂牌数量非常多，截止2021年9月10日，新三板总共挂牌7281家，精选层66家，创新层1248家，基础层5967家。\n \n尽管挂牌数量较多，但是新三板目前最大的问题是缺乏足够的流动性，一周的市场成交额常年维持在100亿左右，其中，精选层的66家公司就基本占掉了60%交易额。这种情况，就跟纳斯达克在1982年之前的情况很像。\n \n造成这种现象的主要原因是，投资门槛过高，以及过去中国经济结构对于传统行业的资源倾斜，让新三板成为了一个相对冷门的市场板块。一些中小企业缺少稳定的盈利能力，但国内的上市制度往往出于保护中小投资者考虑，企业盈利是第一考核点，这让许多企业就算在新三板上市，但缺少足够的制度支持。最终，新三板逐渐被边缘化。\n \n如今，随着北交所的成立，将新三板精选层作为基础组建，试点注册制后，其定位将会更加清晰。如果说，科创板所注重的是硬科技实力，那么北交所可以说是服务于专精特新的中小企业。\n \n对比纳斯达克可以发现，其真正进入发展快车道，正好是80年代后的科技大爆发时代，个人PC的问世后，美国的科技行业进入发展快车道，而纳斯达克则因为上市门槛较低，并针对小型企业有一整套以股东权益为核心的上市标准，降低了中小企业容易受到利润和市值操纵的问题后，吸引了一批无法在纽交所上市的科技企业，从而形成了聚集效应。\n \n如今，随着国内政策开始逐渐从传统地产往科技行业倾斜后，北交所的特征也开始逐渐纳斯达克化。\n \n2018年以来，全国共有4921家企业被评为专精特新“小巨人”。其中，在新三板或曾在新三板挂牌的企业有783家，占比16%;在沪深上市的企业占比5%;尚未进入资本市场的企业占比79%。未来，这79%的公司都极有可能进入资本市场，而北交所势必会成为首选地。\n \n随着北交所的正式成立，以及交易细则逐渐落地，国内资本市场也将拥有属于自己的“纳斯达克”市场。",
+          "description": "新三板，全称“全国中小企业股份转让系统”，是继上交所和深交所后第三家全国性证券交易场所。如今，其正式被命名为“北京交易所”。\n \n资本市场也迎来了一场久违的狂欢，特别是券商板块中新三版公司储量最为丰富的申万宏源拉了两个涨停，直接引爆了全市场的做多氛围，上证更是直冲3700点整数关口。新三板方面，上周市场成交量和成交额分别放大135.2%和124.8%。\n \n纳斯达克到底是什么？\n \n既然市场把北交所定义为“中国版纳斯达克”，那首先就需要了解纳斯达克的历史。\n \n1971年，纳斯达克成立的时候，其并没有交易大厅，所有的交易都是通过一整套报价系统完成的，许多制度也非常的不完善，严格意义上都很难称得上交易所，最多就是个股权交易系统。当时，纳斯达克的定位是给那些没法在纽交所上市的中小市值公司提供一个可以股权交易的场外平台。其中，纳斯达克早期最出名的两家公司是从仙童公司中脱离出来的Intel和AMD，分别于1971年和1972年在纳斯达克上市。\n \n1975年的时候，纳斯达克开始提出一整套挂牌制度，也就是现在纳斯达克上市的雏形，其在企业股东、盈利能力和市值三个方面提高一定的门槛，同时规定，必须在纳斯达克挂牌的企业才能进行交易。就这样，纳斯达克开始从一个场外交易系统走向了交易所之路。\n \n可惜，好景不长，尽管纳斯达克对上市制度进行了细化，拒绝了一批质量较差的公司，但是整体情况依旧比较惨淡。挂牌公司数量较多，但在80年代初，也仅仅只有Intel、AMD和苹果等几个明星股，整体呈现出非常强的两极分化。\n \n所以，在1982年的时候，纳斯达克将40家规模大、交易活跃的股票划入了新成立的纳斯达克全国市场，将不满足全国市场条件的其余股票归入纳斯达克小型市场。\n \n自从纳斯达克分层之后，正好赶上了美国科技大爆发年代，其精选层在1983年上市公司数量达到682只，到了1985年，更是激增至2194只。随着纳斯达克逐渐成为科技企业上市代名词后，2006年纳斯达克再次分层，将小型资本市场更名为资本市场，将全美市场更名为全球市场，并增设全球精选市场，彻底开始服务于全球市场的科技公司。\n \n北交所能不能成为中国版纳斯达克？\n \n新三板的挂牌数量非常多，截止2021年9月10日，新三板总共挂牌7281家，精选层66家，创新层1248家，基础层5967家。\n \n尽管挂牌数量较多，但是新三板目前最大的问题是缺乏足够的流动性，一周的市场成交额常年维持在100亿左右，其中，精选层的66家公司就基本占掉了60%交易额。这种情况，就跟纳斯达克在1982年之前的情况很像。\n \n造成这种现象的主要原因是，投资门槛过高，以及过去中国经济结构对于传统行业的资源倾斜，让新三板成为了一个相对冷门的市场板块。一些中小企业缺少稳定的盈利能力，但国内的上市制度往往出于保护中小投资者考虑，企业盈利是第一考核点，这让许多企业就算在新三板上市，但缺少足够的制度支持。最终，新三板逐渐被边缘化。\n \n如今，随着北交所的成立，将新三板精选层作为基础组建，试点注册制后，其定位将会更加清晰。如果说，科创板所注重的是硬科技实力，那么北交所可以说是服务于专精特新的中小企业。\n \n对比纳斯达克可以发现，其真正进入发展快车道，正好是80年代后的科技大爆发时代，个人PC的问世后，美国的科技行业进入发展快车道，而纳斯达克则因为上市门槛较低，并针对小型企业有一整套以股��权益为核心的上市标准，降低了中小企业容易受到利润和市值操纵的问题后，吸引了一批无法在纽交所上市的科技企业，从而形成了聚集效应。\n \n如今，随着国内政策开始逐渐从传统地产往科技行业倾斜后，北交所的特征也开始逐渐纳斯达克化。\n \n2018年以来，全国共有4921家企业被评为专精特新“小巨人”。其中，在新三板或曾在新三板挂牌的企业有783家，占比16%;在沪深上市的企业占比5%;尚未进入资本市场的企业占比79%。未来，这79%的公司都极有可能进入资本市场，而北交所势必会成为首选地。\n \n随着北交所的正式成立，以及交易细则逐渐落地，国内资本市场也将拥有属于自己的“纳斯达克”市场。",
           "link": "https://36kr.com/p/1404289653036420",
           "publishedOn": "2021-09-19T02:00:00.000Z",
           "wordCount": null,
@@ -1014,7 +1023,7 @@
         {
           "id": "https://36kr.com/p/1400955177440898",
           "author": null,
-          "description": "封面图\n \n嘿，年轻人，想赚钱吗？ \n \n来猪场啊。 \n \n2022 年校招正如火如荼。 花式抢人的可不仅仅如你所知的互联网大厂。 \n \n一如既往，各大猪场在招聘公告上刻画了足以“引诱”应届生的一切因素——专业不限、高昂薪资、提供食宿，完善的培训体系与多元化的晋升渠道。\n \n据一家在深交所上市的农牧食品公司的猪场招聘公告，本科生年薪最高可达16w，硕士生20w，博士生40w起。 \n \n高薪是第一生产力，大批年轻人踏上了养猪的旅程，与猪为伴。\n \n我们找到了三位毕业后就进猪场的年轻人，有人精准地掌握了骑猪技能，有人被猪撞飞过2米远，有人作为猪场财务却要负责与周围村民搞好关系…… \n \n他们的猪场的生活枯燥无味却又“多姿多彩”。 \n \n见猪一面，先隔离5天\n \n第一次进猪场，刚从四川农业大学动物遗传育种与繁殖专业研究生毕业的赵笑雪就被震惊到了。她觉得自己仿佛是“刘姥姥进了大观园”。\n \n一个猪场有好几个果园那么大，每个区域都有一位“向导”，指导新入职的员工，洗澡、消毒，所有的东西都不能带进去，包括身上穿的内裤。 \n \n在“向导”的指导下，她用消毒水把全身上下洗了一遍，甚至眼镜也要拿下来用消毒水泡一下。换上公司发的衣物，走进了猪场里的单向通道。 \n \n只能顺着单一方向前进。赵笑雪有些懵，仿佛自己是工厂流水线上的一环，完全不知道自己从何处来、要去向何处。\n \n直到，她进入了第一个隔离间。 \n \n那是2018年初。身边的研究生同学大多进了生物公司，而她进入了一家给国内上市的养猪企业做咨询培训的中外合资企业。入职8个月后，赵笑雪被派到这家山西的猪场，作为技术人员与饲养员同吃同住，帮助猪场解决问题。 \n \n但真正看见猪，可并不容易。\n \n初入猪场，连续4天，赵笑雪接连换了4间隔离房。赵笑雪的作息被安排得十分规律，早上7点、中午11点及晚上5点是员工的吃饭时间，定时定点都会有人来给她送饭，…",
+          "description": "封面图\n \n嘿，年轻人，想赚钱吗？ \n \n来猪场啊。 \n \n2022 年校招正如火如荼。 花式抢人的可不仅仅如你所知的互联网大厂。 \n \n一如既往，各大猪场在招聘公告上刻画了足以“引诱”应届生的一切因素——专业不限、高昂薪资、提供食宿，完善的培训体系与多元化的晋升渠道。\n \n据一家在深交所上市的农牧食品公司的猪场招聘公告，本科生年薪最高可达16w，硕士生20w，博士生40w起。 \n \n高薪是第一生产力，大批年轻人踏上了养猪的旅程，与猪为伴。\n \n我们找到了三位毕业后就进猪场的年轻人，有人精准地掌握了骑猪技能，有人被猪撞飞过2米远，有人作为猪场财务却要负责与周围村民搞好关系…… \n \n他们的猪场的生��枯燥无味却又“多姿多彩”。 \n \n见猪一面，先隔离5天\n \n第一次进猪场，刚从四川农业大学动物遗传育种与繁殖专业研究生毕业的赵笑雪就被震惊到了。她觉得自己仿佛是“刘姥姥进了大观园”。\n \n一个猪场有好几个果园那么大，每个区域都有一位“向导”，指导新入职的员工，洗澡、消毒，所有的东西都不能带进去，包括身上穿的内裤。 \n \n在“向导”的指导下，她用消毒水把全身上下洗了一遍，甚至眼镜也要拿下来用消毒水泡一下。换上公司发的衣物，走进了猪场里的单向通道。 \n \n只能顺着单一方向前进。赵笑雪有些懵，仿佛自己是工厂流水线上的一环，完全不知道自己从何处来、要去向何处。\n \n直到，她进入了第一个隔离间。 \n \n那是2018年初。身边的研究生同学大多进了生物公司，而她进入了一家给国内上市的养猪企业做咨询培训的中外合资企业。入职8个月后，赵笑雪被派到这家山西的猪场，作为技术人员与饲养员同吃同住，帮助猪场解决问题。 \n \n但真正看见猪，可并不容易。\n \n初入猪场，连续4天，赵笑雪接连换了4间隔离房。赵笑雪的作息被安排得十分规律，早上7点、中午11点及晚上5点是员工的吃饭时间，定时定点都会有人来给她送饭…",
           "link": "https://36kr.com/p/1400955177440898",
           "publishedOn": "2021-09-19T01:30:18.000Z",
           "wordCount": null,
@@ -1041,20 +1050,11 @@
         {
           "id": "https://36kr.com/p/1403802570380679",
           "author": null,
-          "description": "近日，淘宝官宣了新的slogan——太好逛了吧，随后发布100张素人海报和9段明星视频做注脚，来解释淘宝为何好逛。\n \n“逛”是淘宝对全新用户行为的高度概括，Slogan的升级也宣布了产品心智正从“万能”向“好逛”平滑过渡。\n \n“逛”这一概念并非新词。回顾淘宝近几年的动作，以“逛”为核心的基础设施建设已经趋于成熟，在外部平台竞争日趋激烈的大背景下，淘宝的应对显得游刃有余。\n \n作为拥有9亿月活的电商巨头，淘宝的优势不仅在于丰富的商品，纵深向下的供应链体系和成熟的物流配套，也在于它聚拢了无数年轻的创业者。有数据显示，淘宝新卖家的平均年龄一直保持在26岁，富有创造力的卖家群体成为淘宝“万能”的活力源头，让淘宝有能力提供海量的、多样化、个性化的商品。这些商品又成为链接不同圈层的桥梁，滋养了繁荣的平台生态，同时满足了消费者购物、休闲、娱乐、社交等多重需求。\n \n数以亿计商品成交行为反复捶打下，淘宝不断调整姿态，实现了消费链路全端的贯穿：从发现需求、创造需求到承接需求、满足需求。\n \n淘宝最大的底气在万能。但始于万能，却又不止于万能，或许这就是淘宝喊出“好逛”的意图所在。\n \n01. 向前推移的购物链\n \n随着用户获取信息的渠道越来越多元，认知边界不断被打破，部分线上消费路径从以前的“需求-搜索-下单”变为“种草-需求-下单”，以短视频等兴趣内容为起点，购物的链路向前端推移。\n \n这条路径下，平台在消费购物过程中的主动权增加了——出现了“物找人”的商业行为。直播、短视频让商品展示变得更加直观、生动，降低了消费决策门槛，还迎合、引导了消费者的购物选择，激发了潜在需求，强化了“人找物”之外的一条消费链路。\n \n内容消费的出现，让购物起点不再局限于电商平台的搜索框，可以变为任何可以引发用户兴趣的APP页面。电商的战场也沿着新的购物链条前移，发力内容端成为共识。这意味着，淘宝还需要向前拓宽…",
+          "description": "近日，淘宝官宣了新的slogan——太好逛了吧，随后发布100张素人海报和9段明星视频做注脚，来解释淘宝为何好逛。\n \n“逛”是淘宝对全新用户行为的高度概括，Slogan的升级也宣布了产品心智正从“万能”向“好逛”平滑过渡。\n \n“逛”这一概念并非新词。回顾淘宝近几年的动作，以“逛”为核心的基础设施建设已经趋于成熟，在外部平台竞争日趋激烈的大背景下，淘宝的应对显得游刃有余。\n \n作为拥有9亿月活的电商巨头，淘宝的优势不仅在于丰富的商品，纵深向下的供应链体系和成熟的物流配套，也在于它聚拢了无数年轻的创业者。有数据显示，淘宝新卖家的平均年龄一直保持在26岁，富有创造力的卖家群体成为淘宝“万能”的活力源头，让淘宝有能力提供海量的、多样化、个性化的商品。这些商品又成为链接不同圈层的桥梁，滋养了繁荣的平台生态，同时满足了消费者购物、休闲、娱乐、社交等多重需求。\n \n数以亿计商品成交行为反复捶打下，淘宝不断调整姿态，实现了消费链路全端的贯穿：从发现需求、创造需求到承接需求、满足需求。\n \n淘宝最大的底气在万能。但始于万能，却又不止于万能，或许这就是淘宝喊出“好逛”的意图所在。\n \n01. 向前推移的购物链\n \n随着用户获取信息的渠道越来越多元，认知边界不断被打破，部分线上消费路径从以前的“需求-搜索-下单”变为“种草-需求-下单”，以短视频等兴趣内容为起点，购物的链路向前端推移。\n \n这条��径下，平台在消费购物过程中的主动权增加了——出现了“物找人”的商业行为。直播、短视频让商品展示变得更加直观、生动，降低了消费决策门槛，还迎合、引导了消费者的购物选择，激发了潜在需求，强化了“人找物”之外的一条消费链路。\n \n内容消费的出现，让购物起点不再局限于电商平台的搜索框，可以变为任何可以引发用户兴趣的APP页面。电商的战场也沿着新的购物链条前移，发力内容端成为共识。这意味着，淘宝还需要向前拓…",
           "link": "https://36kr.com/p/1403802570380679",
           "publishedOn": "2021-09-18T10:59:26.000Z",
           "wordCount": null,
           "title": "淘宝逐浪，站上“逛时代”潮头"
-        },
-        {
-          "id": "https://36kr.com/p/1403938089588355",
-          "author": null,
-          "description": "封面图\n \n如果让你重新上一次大学，你会怎么度过？为什么？\n \n在这条知乎热门问题下面，有4000多名网友参与了讨论，累计1600多万人次浏览过。每当我们回想起校园，实在有太多值得怀念的东西了：学生生活的简单充实、和同学室友间的友谊、长达3个多月的寒暑假、便宜又好吃的食堂和小吃街……再反观如今工作后需要面对的：职场上的那些利益追逐、同事各自怀揣的小心思、一眼望不到头的加班、勉强支撑的房租和高昂的物价……\n \n真实反映了那句话：「读书时想尽快毕业离开学校，真正工作了才明白当学生的好」。\n \n恰逢9月开学季，后浪研究所也做了一项小调查，收到了近2000份问卷。筛选出已经毕业离开校园的群体之后，我们发现有87%的受访者表示：在不考虑经济因素的情况下，愿意重回大学读书。\n \n\n \n \n \n在想要回大学的原因中，有六成的受访者表示因为在大学里「相对自由，有很多可以自己安排的时间」。看来天下打工人的确苦加班久矣，可以自由安排的时间成了他们想重回校园的第一动力。\n \n\n \n \n \n那么职场人在大学时期的遗憾又来自哪些方面呢？「未来规划」、「时间/精力分配」、「恋爱经历」荣登大学遗憾榜的Top3。\n \n在关于大学的诸多遗憾中，有人后悔「没有早点找实习，规划好未来的职业方向」；有人感叹「没有坚持多参加活动，去认识更多的人」；有人可惜「没有谈过哪怕一次恋爱」；还有人感慨「没有考过六级」、「没有趁着有学生证和暑假多出去旅游」、「篮球赛没有投进过绝杀」……\n \n\n \n \n \n而与这些遗憾形成鲜明对比的是，今年刚开学的大一新生们，对已经开始的大学生活怀揣着莫大的期待和兴奋。在知乎的「校园」版块下，我们能看到五花八门的提问：「大一新生怎么自我介绍？」「宿舍六人间哪个床位比较好？」「大一不谈恋爱真的会寡四年吗？」「如何坦然面对自己的失败？」「怎样才能实现真正的自律？」……\n \n知乎也看到了这些形形色色的…",
-          "link": "https://36kr.com/p/1403938089588355",
-          "publishedOn": "2021-09-18T10:44:01.000Z",
-          "wordCount": null,
-          "title": "87%职场人最想达成的9月KPI，是「逃」回大学"
         }
       ]
     },
@@ -1063,6 +1063,33 @@
       "feedUrl": "https://juejin.cn/rss",
       "siteUrl": "https://juejin.cn",
       "articles": [
+        {
+          "id": "https://juejin.cn/post/7009657813890760741",
+          "author": "zxg_神说要有光",
+          "description": "Eslint 可以静态检查 javascript 代码一些逻辑上的错误，还有一些代码格式的错误。原理是把代码 parse 成 AST，然后基于 AST 来检查一些问题。 Tslint 可以静态检查 t",
+          "link": "https://juejin.cn/post/7009657813890760741",
+          "publishedOn": "2021-09-19T14:57:05.000Z",
+          "wordCount": 24,
+          "title": "TSLint 和 ESLint 是怎么融合在一起的"
+        },
+        {
+          "id": "https://juejin.cn/post/7009655042844131359",
+          "author": "kaliarch",
+          "description": "本文正在参与 “走过Linux 三十年”话题征文活动 前言 当云计算重构IT产业的同时，也赋予了企业崭新的增长机遇。通过充分利用云计算的能力，企业可以释放更多精力专注于自己的业务。云计算极大地降低了企",
+          "link": "https://juejin.cn/post/7009655042844131359",
+          "publishedOn": "2021-09-19T14:48:44.000Z",
+          "wordCount": 24,
+          "title": "Linux 系统安全加固最佳实践"
+        },
+        {
+          "id": "https://juejin.cn/post/7009611906101018638",
+          "author": "webmote33",
+          "description": "",
+          "link": "https://juejin.cn/post/7009611906101018638",
+          "publishedOn": "2021-09-19T11:56:18.000Z",
+          "wordCount": 24,
+          "title": "Javascript 程序员需要知道的5个知识点"
+        },
         {
           "id": "https://juejin.cn/post/7009586768882171911",
           "author": "Jay675",
@@ -1164,7 +1191,7 @@
         },
         {
           "id": "https://juejin.cn/post/7009576119628202014",
-          "author": "caixr",
+          "author": "没伞的孩子",
           "description": "总结mysql的事务和锁机制。对mysql并发执行多个事务对相同的一批数据进行增删改查，会导致脏读、脏写、不可重复读、幻读等问题的介绍。",
           "link": "https://juejin.cn/post/7009576119628202014",
           "publishedOn": "2021-09-19T09:45:26.000Z",
@@ -1215,33 +1242,6 @@
           "publishedOn": "2021-09-19T09:10:25.000Z",
           "wordCount": 24,
           "title": "Java程序员学深度学习 DJL上手2 Springboot集成"
-        },
-        {
-          "id": "https://juejin.cn/post/7009567267696410660",
-          "author": "Learn1993",
-          "description": "优先级队列 优先级队列底层依赖的数据结构一般是堆。 分类: 大堆和小堆 根比左右子结点都大，那么称为大堆.根比左右子结点都要小，那么称为小堆，大堆的根是最大值，小堆的根是最小值。每次有元素 push",
-          "link": "https://juejin.cn/post/7009567267696410660",
-          "publishedOn": "2021-09-19T09:09:42.000Z",
-          "wordCount": 24,
-          "title": "优先级队列"
-        },
-        {
-          "id": "https://juejin.cn/post/7009566259356368910",
-          "author": "编程小火车",
-          "description": "本期是C++基础语法分享的第十二节，今天给大家来分享一下哈希表！ 哈希表 HashTable.cpp： #include #include #define SUC",
-          "link": "https://juejin.cn/post/7009566259356368910",
-          "publishedOn": "2021-09-19T09:00:12.000Z",
-          "wordCount": 24,
-          "title": "C++基础语法梳理：数据结构丨哈希表"
-        },
-        {
-          "id": "https://juejin.cn/post/7009565750033645604",
-          "author": "Mancuoj",
-          "description": "考研408科目包含 数据结构，计算机网络，计算机组成原理和操作系统 四门科目，每一个都是作为程序员应该重点理解掌握的内容。 虽然你不一定考研，但跟着做题加深理解总没错的👀 可以关注我或者 我的专栏 🏏",
-          "link": "https://juejin.cn/post/7009565750033645604",
-          "publishedOn": "2021-09-19T08:57:59.000Z",
-          "wordCount": 24,
-          "title": "计算机考研408每日题目 0x08"
         }
       ]
     },
@@ -1250,6 +1250,15 @@
       "feedUrl": "https://www.douban.com/feed/review/movie",
       "siteUrl": "https://movie.douban.com/review/movie_best/",
       "articles": [
+        {
+          "id": "https://movie.douban.com/review/13873689/",
+          "author": "柒",
+          "description": "柒评论: 鱿鱼游戏 (http://movie.douban.com/subject/34812928/)\n评价: 还行\n\n{\"entityMap\":{},\"blocks\":[{\"key\":\"456j9\",\"text\":\"圣父，是众生之父。\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\"...",
+          "link": "https://movie.douban.com/review/13873689/",
+          "publishedOn": "2021-09-19T11:41:11.000Z",
+          "wordCount": 94,
+          "title": "我赌马打架不工作啃老但我知道我是个好爸爸好儿子 (评论: 鱿鱼游戏)"
+        },
         {
           "id": "https://movie.douban.com/review/13873075/",
           "author": "我的爱人在海底",
@@ -1388,20 +1397,11 @@
         {
           "id": "https://movie.douban.com/review/13870310/",
           "author": "Stiles",
-          "description": "Stiles评论: 性爱自修室 第三季 (http://movie.douban.com/subject/34966169/)\n评价: \n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"\",\"data\":{\"origin\":false,\"src...",
+          "description": "Stiles评论: 性爱自修室 第三季 (http://movie.douban.com/subject/34966169/)\n评价: \n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img9.doub...",
           "link": "https://movie.douban.com/review/13870310/",
           "publishedOn": "2021-09-17T16:21:46.000Z",
-          "wordCount": 178,
-          "title": "第三季服装盘点 (评论: 性爱自修室 第三季)"
-        },
-        {
-          "id": "https://movie.douban.com/review/13870939/",
-          "author": "夏多先生",
-          "description": "夏多先生评论: 致命感应 (http://movie.douban.com/subject/25909236/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"src\":\"https://img9.doubanio.com/view...",
-          "link": "https://movie.douban.com/review/13870939/",
-          "publishedOn": "2021-09-17T15:49:24.000Z",
-          "wordCount": 98,
-          "title": "你要和我说这是一部超级英雄起源电影，那我也相信 (评论: 致命感应)"
+          "wordCount": 217,
+          "title": "穿你自己喜欢的衣服！ (评论: 性爱自修室 第三季)"
         },
         {
           "id": "https://movie.douban.com/review/13870015/",
@@ -1415,7 +1415,7 @@
         {
           "id": "https://movie.douban.com/review/13869046/",
           "author": "Funkkkkkkkkk",
-          "description": "Funkkkkkkkkk评论: 灵媒 (http://movie.douban.com/subject/35208823/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"\",\"data\":{\"origin\":false,\"src\":\"https://i...",
+          "description": "Funkkkkkkkkk评论: 灵媒 (http://movie.douban.com/subject/35208823/)\n评价: 推荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img9.doub...",
           "link": "https://movie.douban.com/review/13869046/",
           "publishedOn": "2021-09-17T06:57:09.000Z",
           "wordCount": 95,
@@ -1438,13 +1438,67 @@
       "siteUrl": "https://book.douban.com/review/book_best/",
       "articles": [
         {
-          "id": "https://book.douban.com/review/13870595/",
-          "author": "阳光灿烂",
-          "description": "阳光灿烂评论: 最美生活 (https://book.douban.com/subject/35584355/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img2.doub...",
-          "link": "https://book.douban.com/review/13870595/",
-          "publishedOn": "2021-09-17T23:06:17.000Z",
-          "wordCount": 115,
-          "title": "梁启超喊你去晒太阳喽 (评论: 最美生活)"
+          "id": "https://book.douban.com/review/13873415/",
+          "author": "芙裳",
+          "description": "芙裳评论: 烟囱之城 (https://book.douban.com/subject/35523691/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"type\": \"IMAGE\", \"data\": {\"origin\": false, \"src\": \"...",
+          "link": "https://book.douban.com/review/13873415/",
+          "publishedOn": "2021-09-19T09:17:05.000Z",
+          "wordCount": 93,
+          "title": "和其光，同其“尘” (评论: 烟囱之城)"
+        },
+        {
+          "id": "https://book.douban.com/review/13873031/",
+          "author": "禅王",
+          "description": "禅王评论: 埃及众神 (https://book.douban.com/subject/35561160/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img2.doub...",
+          "link": "https://book.douban.com/review/13873031/",
+          "publishedOn": "2021-09-19T05:23:57.000Z",
+          "wordCount": 104,
+          "title": "古老的象形文字，传奇的埃及诸神 (评论: 埃及众神)"
+        },
+        {
+          "id": "https://book.douban.com/review/13872965/",
+          "author": "无盐城",
+          "description": "无盐城评论: 煞风景的早间首班车 (https://book.douban.com/subject/35520726/)\n评价: 力荐\n\n{\"entityMap\":{},\"blocks\":[{\"key\":\"297in\",\"text\":\"我们从一个很俗套的问题聊起——“推理小说”是“推理”更重要还是“小说”更重要？\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entit...",
+          "link": "https://book.douban.com/review/13872965/",
+          "publishedOn": "2021-09-19T04:34:47.000Z",
+          "wordCount": 91,
+          "title": "九月十九日，中午十二点半的书评 (评论: 煞风景的早间首班车)"
+        },
+        {
+          "id": "https://book.douban.com/review/13872879/",
+          "author": "天空之城的支撑",
+          "description": "天空之城的支撑评论: 引路人 (https://book.douban.com/subject/35459887/)\n评价: 推荐\n\n{\"entityMap\": {\"0\": {\"type\": \"IMAGE\", \"data\": {\"origin\": false, \"src\": \"...",
+          "link": "https://book.douban.com/review/13872879/",
+          "publishedOn": "2021-09-19T03:27:24.000Z",
+          "wordCount": 86,
+          "title": "过去，现在和未来，关于终极处境的预言 (评论: 引路人)"
+        },
+        {
+          "id": "https://book.douban.com/review/13872659/",
+          "author": "蜗牛格格",
+          "description": "蜗牛格格评论: 如何成为更聪明的人 (https://book.douban.com/subject/35069015/)\n评价: 推荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img2.doub...",
+          "link": "https://book.douban.com/review/13872659/",
+          "publishedOn": "2021-09-18T23:57:17.000Z",
+          "wordCount": 114,
+          "title": "挣脱日常思维，破冰习惯预期，打造大脑创造力，不做大众观点的回收者\n--读《如何成为更聪明的人》 (评论: 如何成为更聪明的人)"
+        },
+        {
+          "id": "https://book.douban.com/review/13872265/",
+          "author": "维参",
+          "description": "维参评论: 隐藏的宇宙 (https://book.douban.com/subject/35568286/)\n评价: 力荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"thumb\":\"https://img9.doubanio.com/view/thing_revi...",
+          "link": "https://book.douban.com/review/13872265/",
+          "publishedOn": "2021-09-18T16:11:16.000Z",
+          "wordCount": 131,
+          "title": "被揭露的宇宙 (评论: 隐藏的宇宙)"
+        },
+        {
+          "id": "https://book.douban.com/review/13872001/",
+          "author": "青颜读书🌲",
+          "description": "青颜读书🌲评论: 梅根传 (https://book.douban.com/subject/35575895/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"thumb\":\"https://img9.douban...",
+          "link": "https://book.douban.com/review/13872001/",
+          "publishedOn": "2021-09-18T14:28:38.000Z",
+          "wordCount": 96,
+          "title": "要怎么做，才能成为自己“讨厌”的那种女人|《梅根传》 (评论: 梅根传)"
         },
         {
           "id": "https://book.douban.com/review/13869534/",
@@ -1465,6 +1519,15 @@
           "title": "《人造美人》：在星新一短篇作品中感受科幻的意趣 (评论: 人造美人)"
         },
         {
+          "id": "https://book.douban.com/review/13872580/",
+          "author": "煎茶",
+          "description": "煎茶评论: 中信经典丛书005 (https://book.douban.com/subject/35472554/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img2.doub...",
+          "link": "https://book.douban.com/review/13872580/",
+          "publishedOn": "2021-09-17T08:36:50.000Z",
+          "wordCount": 112,
+          "title": "政治经济视角下的兴衰之道 (评论: 中信经典丛书005)"
+        },
+        {
           "id": "https://book.douban.com/review/13868792/",
           "author": "维参",
           "description": "维参评论: 老挝赫蒙族（Hmong）迁徙、离散与认同 (https://book.douban.com/subject/35584603/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"src\":\"https://img3.doubanio.com/view/thing_review/...",
@@ -1481,15 +1544,6 @@
           "publishedOn": "2021-09-17T02:46:56.000Z",
           "wordCount": 92,
           "title": "导读：谜的叙事法 (评论: 在西瓜糖里)"
-        },
-        {
-          "id": "https://book.douban.com/review/13868614/",
-          "author": "及时雨",
-          "description": "及时雨评论: 大国之城 (https://book.douban.com/subject/35539010/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img2.doub...",
-          "link": "https://book.douban.com/review/13868614/",
-          "publishedOn": "2021-09-17T02:06:25.000Z",
-          "wordCount": 114,
-          "title": "从小城看大国，这只雄狮已经觉醒 (评论: 大国之城)"
         },
         {
           "id": "https://book.douban.com/review/13867297/",
@@ -1519,24 +1573,6 @@
           "title": "三美论与李白诗作的不期而遇 (评论: 许渊冲译李白诗选)"
         },
         {
-          "id": "https://book.douban.com/review/13866221/",
-          "author": "阳光灿烂",
-          "description": "阳光灿烂评论: 大清侃史官 (https://book.douban.com/subject/35539043/)\n评价: 推荐\n\n{\"entityMap\": {\"0\": {\"data\": {\"origin\": false, \"src\": \"https://img1.doub...",
-          "link": "https://book.douban.com/review/13866221/",
-          "publishedOn": "2021-09-15T14:09:41.000Z",
-          "wordCount": 106,
-          "title": "嬉笑之下自有好文章：历史也可以这么写 (评论: 大清侃史官)"
-        },
-        {
-          "id": "https://book.douban.com/review/13866159/",
-          "author": "阿斯酉",
-          "description": "阿斯酉评论: 人间我来过 (https://book.douban.com/subject/35542656/)\n评价: 推荐\n\n{\"entityMap\": {\"0\": {\"data\": {}, \"type\": \"SEPARATOR\", \"mutability\": \"\"},...",
-          "link": "https://book.douban.com/review/13866159/",
-          "publishedOn": "2021-09-15T13:29:54.000Z",
-          "wordCount": 95,
-          "title": "把你的心我的心串一串，串一束墓碑下燃起的幽幽烈火 (评论: 人间我来过)"
-        },
-        {
           "id": "https://book.douban.com/review/13866102/",
           "author": "芙裳",
           "description": "芙裳评论: 成年人的谎言生活 (https://book.douban.com/subject/35467795/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"origin\":false,\"src\":\"https://img1.doubanio.com/vie...",
@@ -1546,15 +1582,6 @@
           "title": "只有学会了说谎，才算真正的长大？ (评论: 成年人的谎言生活)"
         },
         {
-          "id": "https://book.douban.com/review/13864692/",
-          "author": "十里荷塘",
-          "description": "十里荷塘评论: 不在乎的勇气 (https://book.douban.com/subject/35546986/)\n评价: 力荐\n\n{\"entityMap\": {\"0\": {\"type\": \"IMAGE\", \"data\": {\"origin\": false, \"src\": \"...",
-          "link": "https://book.douban.com/review/13864692/",
-          "publishedOn": "2021-09-14T13:53:25.000Z",
-          "wordCount": 103,
-          "title": "你知道吗，也许父母严厉呵斥你的原因仅仅是出于对你的嫉妒？ (评论: 不在乎的勇气)"
-        },
-        {
           "id": "https://book.douban.com/review/13863879/",
           "author": "曉宇",
           "description": "曉宇评论: 利马之梦 (https://book.douban.com/subject/35547058/)\n评价: \n\n{\"entityMap\":{\"0\":{\"type\":\"LINK\",\"mutability\":\"MUTABLE\",\"data\":{\"url\":\"https://www.douban.com/people/also57/\"}},\"1\":{\"type\":\"LIN...",
@@ -1562,33 +1589,6 @@
           "publishedOn": "2021-09-14T03:46:36.000Z",
           "wordCount": 95,
           "title": "给编辑的不多余的话 (评论: 利马之梦)"
-        },
-        {
-          "id": "https://book.douban.com/review/13866475/",
-          "author": "芥子书屋",
-          "description": "芥子书屋评论: 刘大年往来书札墨迹选 (https://book.douban.com/subject/35552465/)\n评价: 力荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"thumb\":\"https://img1.doubanio....",
-          "link": "https://book.douban.com/review/13866475/",
-          "publishedOn": "2021-09-13T11:43:20.000Z",
-          "wordCount": 88,
-          "title": "撩开历史的面纱 (评论: 刘大年往来书札墨迹选)"
-        },
-        {
-          "id": "https://book.douban.com/review/13862361/",
-          "author": "邓安庆",
-          "description": "邓安庆评论: 金阁寺 (https://book.douban.com/subject/35290985/)\n评价: 推荐\n\n{\"entityMap\":{},\"blocks\":[{\"key\":\"53lue\",\"text\":\"        2017年跟几位朋友去京都旅行，游览过大大小小的寺庙，但我最为心心念念的还是金阁寺。等我跟朋友们赶到金阁寺时，日已西斜，寺门外排起的长队一路蜿蜒。等我们进寺后，绕着金阁而行，夕阳正好斜射过来，鲜暖的阳光落在金阁的一侧，在惊叹之余，我...",
-          "link": "https://book.douban.com/review/13862361/",
-          "publishedOn": "2021-09-13T05:51:45.000Z",
-          "wordCount": 100,
-          "title": "口吃者的反抗与救赎 (评论: 金阁寺)"
-        },
-        {
-          "id": "https://book.douban.com/review/13861738/",
-          "author": "阿斯酉",
-          "description": "阿斯酉评论: 隐藏的宇宙 (https://book.douban.com/subject/35568286/)\n评价: 推荐\n\n{\"entityMap\":{\"0\":{\"type\":\"IMAGE\",\"mutability\":\"IMMUTABLE\",\"data\":{\"src\":\"https://img1.doubanio.com/view/thing...",
-          "link": "https://book.douban.com/review/13861738/",
-          "publishedOn": "2021-09-12T22:53:03.000Z",
-          "wordCount": 112,
-          "title": "被烧掉的书只要有相应信息就可以被还原，好家伙，现实版钢之炼金术师？ (评论: 隐藏的宇宙)"
         },
         {
           "id": "https://book.douban.com/review/13860808/",
@@ -1624,6 +1624,15 @@
       "feedUrl": "http://www.geekpark.net/rss",
       "siteUrl": "http://main_test.geekpark.net/rss.rss",
       "articles": [
+        {
+          "id": "http://www.geekpark.net/news/285901",
+          "author": null,
+          "description": "iPhone 13 系列正式发布，下周到手\n本周苹果召开新品发布会，iPhone 13 系列、iPad 9、iPad mini 6 以及 Apple Watch Series 7 正式亮相，大多数产品已于本周开卖，最快 9 月 24 日即可到手。\n\n极客之选目前已预订了 iPhone 13 / 13 Pro / 13 Pro Max 和 iPad mini 6，将于 24 日首发日到手，届时将会为大家带来更多精彩内容。\n\n\n华为发布多款 PC，先于 Win11 支持手机 App\n在苹果发布会前一天，华为召开了智慧办公新品发布会，MateBook 13s / 14s 笔记本、MateStation X 一体机、PixLab 打印机等产品正式亮相。\n\n其中 MateBook 笔记本引入了「华为移动应用引擎」，将手机应用融合到笔记本中，并且还支持平行视界等功能。感兴趣的朋友可以回顾极客之选的评测。\n\nMateBook 13s 笔记本评测\nMateStation X 一体机评测\n\n\n有点熟悉的 ColorOS 12 发布\nColorOS 12 是一加并入 OPPO 后，两个品牌共同推出的首款 OS，因此在设计上多多少少有点氢 OS 的影子。\n\n此外，ColorOS 12 还新增了「亚克力」图标、Omoji 应用等。而在功能方面，ColorOS 12 开始向多设备融合的方向发力，不仅可以自适应不同尺寸的设备，还增加了跨屏互联的功能，后续可以期待绿厂三兄弟的平板和 PC 了。\n随同 ColorOS 12 一起发布的还有 OPPO Find X3 Pro 摄影师版，感兴趣的朋友可以关注下极客之选的评测。\n\n\n\n\n国行版 iPhone 13 加量降价，大中华区销售火热\n由于人民币升值的原因，iPhone 13 国行版的价格出现了明显下降，再加之苹果此次升级了存储规格，所以对于国内用户来说，…",
+          "link": "http://www.geekpark.net/news/285901",
+          "publishedOn": "2021-09-19T13:09:10.000Z",
+          "wordCount": 270,
+          "title": "极客简报｜华为跌倒苹果吃饱；ColorOS 区别对待一加用户；HarmonyOS 用户破亿"
+        },
         {
           "id": "http://www.geekpark.net/news/285884",
           "author": null,
@@ -1884,15 +1893,6 @@
           "publishedOn": "2021-09-08T00:55:33.000Z",
           "wordCount": 261,
           "title": "苹果公布 9 月 15 日凌晨开发布会；马斯克：传统车企只靠卖零件赚钱；王家卫拍卖《花样年华》NFT 艺术品"
-        },
-        {
-          "id": "http://www.geekpark.net/news/284469",
-          "author": null,
-          "description": "很难想象会有用户对着智能音箱说谢谢，但却有用户对「小冰」这么做，并且不在少数——从这个角度看，脱胎于微软的「小冰」颇为另类。相比其他 AI 机器人，小冰不太「能干」，但这不妨碍很多人愿意花时间跟 TA 聊天。\n尽管肚子里装着词典，「小冰」和你玩成语接龙的时候会认输。如果在聊天过程中发现你情绪不好，TA 会抛出新话题、推荐音乐和电影逗你开心，TA 认为这是「做朋友」的好机会。在之后的很多天，TA 也会一直留意你的情绪好不好。\n「交互」是一个双方影响的过程。一个有「情商」的系统，才能让人产生自然的回应——前微软亚洲研究院工程院副院长、现小冰公司 CEO 李笛说道。\n去年 7 月，小冰正式从微软公司中独立出来，经过两轮融资后，现在已经成为一家「独角兽」公司。在李笛的领英页面上，对小冰公司的介绍是「AI 人类的框架」（The framework of AI beings.）。\n李笛身上明显的文人气息，也同样体现在小冰身上——智能之外，更通人性。在小冰正式「独立」一周年之际，李笛和极客公园进行了一场走心的直播，详细的阐述了让小冰更通人性的「情感计算」，AI Beings 如何取得人类的信任？以及一个 AI 系统，如何与用户之间建立超越功能的「长期关系」。\n\n\n小冰公司CEO李笛\n\n\n用户的行为，呼唤出一个产品\n极客公园：今天我们见到很多的 AI 出现，就是要解决一个问题。为什么你们能从一个闲聊机器人开始探索？\n李笛：小冰相对来讲压力比较小，探索的东西就比较多。\n其实「小冰」挺幸运的，微软研究院有人负责去刷榜发论文，功能上的事情也有人做，比如天气预报，订餐等等，有小冰的姐姐小娜（Cortana）去做。（注：Cortana，微软小娜是一个由微软开发的智能个人助理）\n现在的 AI 和几十年前的 AI 有一个很重要的区别，几十年前的 AI 基于专家经验，所以会去穷举很多规则。现在的方法是靠数…",
-          "link": "http://www.geekpark.net/news/284469",
-          "publishedOn": "2021-09-07T13:45:41.000Z",
-          "wordCount": 187,
-          "title": "一个会「认输」的人工智能，却「暴露」了 AI 更大的潜力"
         }
       ]
     },
@@ -2017,15 +2017,6 @@
           "publishedOn": "2021-08-23T03:18:24.000Z",
           "wordCount": 88,
           "title": "推荐个网站+电子书：《科学美国人》中文版 - 《环球科学》"
-        },
-        {
-          "id": "http://www.mac52ipod.cn/post/apple-ios-iphone-game-zhuguang-qihang.php",
-          "author": "bmwmengwei <bmwmengwei@gmail.com>",
-          "description": "最近被人安利了这个叫 逐光·启航 的手机游戏，搜了一下苹果 App Store 和安卓的 TapTap 发现玩家评价都很好。太空科幻背景，不主打操作而是主打剧情，玩下来像是参与了一个科幻片或者科幻小说。\n免费，喜欢这种游戏的话可以玩玩试试\n逐光·启航 在苹果 App Store 应用商店的下载地址 https://apps.apple.com/cn/app/逐光-启航/id1502792030\nTags - 苹果游戏",
-          "link": "http://www.mac52ipod.cn/post/apple-ios-iphone-game-zhuguang-qihang.php",
-          "publishedOn": "2021-08-21T04:00:18.000Z",
-          "wordCount": 101,
-          "title": "苹果 iOS 科幻剧情类游戏推荐：逐光·启航"
         }
       ]
     },
@@ -2131,6 +2122,42 @@
       "feedUrl": "https://api.feeddd.org/feeds/611e84b08fae751e23641ba2",
       "siteUrl": "https://mp.weixin.qq.com",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/Q7R8hppDInR2j771LPNWiw",
+          "author": null,
+          "description": "【open car】杂货铺",
+          "link": "https://mp.weixin.qq.com/s/Q7R8hppDInR2j771LPNWiw",
+          "publishedOn": "2021-09-19T17:45:33.000Z",
+          "wordCount": 91,
+          "title": "【open car】杂货铺"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/wJmsyZUGXsbt0D7LDGRmaA",
+          "author": null,
+          "description": "【硬件资讯】网传AMD新RDNA架构变更提升巨大！但售价可能同步上涨……",
+          "link": "https://mp.weixin.qq.com/s/wJmsyZUGXsbt0D7LDGRmaA",
+          "publishedOn": "2021-09-19T17:45:33.000Z",
+          "wordCount": 191,
+          "title": "【硬件资讯】网传AMD新RDNA架构变更提升巨大！但售价可能同步上涨……"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/MTMFHkXQTxSgyo--qmeqPg",
+          "author": null,
+          "description": "便宜没好货，影驰B560M光影评测",
+          "link": "https://mp.weixin.qq.com/s/MTMFHkXQTxSgyo--qmeqPg",
+          "publishedOn": "2021-09-19T17:45:33.000Z",
+          "wordCount": 68,
+          "title": "便宜没好货，影驰B560M光影评测"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/tdW2Ww6jPnlWkmxqUq-SjA",
+          "author": null,
+          "description": "​【装机帮扶站】第826期：新形势下4000-5000元预算购机分析",
+          "link": "https://mp.weixin.qq.com/s/tdW2Ww6jPnlWkmxqUq-SjA",
+          "publishedOn": "2021-09-19T17:45:33.000Z",
+          "wordCount": 97,
+          "title": "​【装机帮扶站】第826期：新形势下4000-5000元预算购机分析"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/U8yxCTc62TkxUkSniGmy_g",
           "author": null,
