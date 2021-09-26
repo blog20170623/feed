@@ -1,10 +1,863 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-25T12:13:23.035Z</id>
+    <id>urn:2021-09-26T00:34:02.763Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T12:13:23.035Z</updated>
+    <updated>2021-09-26T00:34:02.763Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[普京：俄罗斯考虑再次申办世界杯的可能性]]></title>
+        <id>https://36kr.com/newsflashes/1414663563597440</id>
+        <link href="https://36kr.com/newsflashes/1414663563597440"/>
+        <updated>2021-09-26T00:30:11.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，俄罗斯总统普京在与国家杜马的各党派领导人见面时表示，俄罗斯曾经举办了一次高水平的世界杯比赛，可以考虑再次申办世界杯的可能性。（央视新闻）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不咕剪辑推出PC专业版公测]]></title>
+        <id>https://36kr.com/newsflashes/1413870070601088</id>
+        <link href="https://36kr.com/newsflashes/1413870070601088"/>
+        <updated>2021-09-26T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，B站投资的不咕剪辑针对UP主创作诉求推出了PC专业版公测。据官方介绍，PC专业版除了配备全面剪辑功能以外，还拥有全网热梗素材库，正式版将搭载智能抠像、美颜美体、创作模版等AI工具。目前，不咕剪辑已适配手机、平板、电脑三种创作环境。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易有道于乌镇发布智能学习硬件“有道听力宝”]]></title>
+        <id>https://36kr.com/newsflashes/1413870987990406</id>
+        <link href="https://36kr.com/newsflashes/1413870987990406"/>
+        <updated>2021-09-26T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在2021年世界互联网大会期间，网易有道举办有道智能学习硬件新品发布会，展示其智能学习硬件产品矩阵，包括有道词典笔系列、翻译王、超级词典、口袋打印机等产品。此外，网易有道还发布了智能学习硬件新产品“有道听力宝”。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田汽车召回超过11万辆汽车，共涉及39款车型]]></title>
+        <id>https://36kr.com/newsflashes/1414662438573701</id>
+        <link href="https://36kr.com/newsflashes/1414662438573701"/>
+        <updated>2021-09-26T00:29:02.000Z</updated>
+        <summary type="html"><![CDATA[日前，丰田汽车公司向日本国土交通省进行报备称，将召回“普锐斯”等39款车型，共计111842辆汽车。这些汽车是在今年4月到8月期间生产的，主要存在两类问题，一类是由于控制程序存在缺陷，可能导致车辆紧急通信装置无法语音通话，以及混合动力系统停止工作，使汽车无法行驶；另一类是引擎的部分零部件焊接部位开裂，可能导致尾气排放不达标。丰田汽车宣传部门负责人表示，本次召回不涉及中国市场。（央视财经）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Node】深入浅出 Koa 的洋葱模型]]></title>
+        <id>https://juejin.cn/post/7012031464237694983</id>
+        <link href="https://juejin.cn/post/7012031464237694983"/>
+        <updated>2021-09-26T00:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Koa 的洋葱模型指的是以 next() 函数为分割点，先由外到内执行 Request 的逻辑，再由内到外执行 Response 的逻辑。]]></summary>
+        <author>
+            <name>Gopal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iPad mini6被质疑竖屏存在“果冻屏”问题]]></title>
+        <id>https://36kr.com/newsflashes/1414657533040258</id>
+        <link href="https://36kr.com/newsflashes/1414657533040258"/>
+        <updated>2021-09-26T00:24:03.000Z</updated>
+        <summary type="html"><![CDATA[25日多位用户在社交媒体反映，苹果今年的iPad mini6产品在竖屏状态下存在明显“果冻屏”问题，即竖屏状态上下拖动屏幕时，屏幕从右至左存在明显位移不同步的现象。有业内专家表示，这一问题产生原因或为硬件安装影响了屏幕刷新方向，比如手机通常是上下刷新因而感知不明显；另外屏幕出厂前横竖方向都会经过测试，“这一批产品或许也有良率的问题”。（财联社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际戏剧舞台雇员联盟：苹果称其Apple TV+订阅用户不到2000万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1183455.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1183455.htm"/>
+        <updated>2021-09-26T00:23:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>苹果公司告诉国际戏剧舞台雇员联盟(IATSE)，其Apple TV+流媒体平台的订阅用户不到2000万，这使得它可以向IATSE工人支付比大型流媒体平台更低的费用 ... 与Netflix等规模更大、更成熟的流媒体竞争对手相比，Apple TV+的原创节目更少，Netflix在8月表示，它拥有2.09亿用户 ... 苹果Apple TV+有几个大预算节目，包括由詹妮弗·安妮斯顿和瑞茜·威瑟斯彭主演的《早间秀》，以及其关于一个美国人执教英国足球俱乐部的惊喜喜剧《足球教练》(TED Lasso)。</p><p><a href='https://www.cnbeta.com/articles/tech/1183455.htm'>CNBeta : 国际戏剧舞台雇员联盟：苹果称其Apple TV+订阅用户不到2000万</a></p><p><a href='https://www.cnbc.com/2021/09/24/apple-told-a-showbiz-union-it-had-less-than-20-million-tv-subscribers.html'>CNBC : Apple claimed it had less than 20 million TV+ subscribers in July, showbiz Union says</a></p><p><a href='https://appleinsider.com/articles/21/09/25/apple-tv-reportedly-had-less-than-20m-subscribers-in-us-and-canada-as-of-july?utm_medium=rss'>AppleInsider : Apple TV+ reportedly had less than 20M subscribers in US and Canada as of July</a></p><p><a href='https://www.phonearena.com/news/ted-lasso-success-could-hurt-apple_id135300'>Phone Arena : Stunning success of TED Lasso could force Apple to hike the pay of Union employees</a></p><p><a href='https://www.imore.com/apple-claimed-tv-had-less-20m-us-and-canada-subs-july-says-report?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheIphoneBlog+%28iMore%29'>iMore : Apple claimed TV+ had less than 20M U.S. and Canada subs in July</a></p><p><a href='https://9to5mac.com/2021/09/25/report-apple-tv-had-less-than-20-million-subscribers-as-of-july-in-the-us-and-canada/'>9to5Mac : report: Apple TV+ had less than 20 million subscribers as of July in the US and Canada</a></p><p><a href='https://www.engadget.com/apple-showbiz-union-tv-service-20-million-subscribers-124041017.html?src=rss'>Engadget : Apple's TV+ streaming service reportedly has less than 20 million subscribers</a></p><p><a href='https://www.theverge.com/2021/9/25/22692966/apple-plus-tv-movie-streaming-workers-union-fewer-than-20-million-subscribers'>The Verge : Apple reportedly told a TV and movie workers’ Union its TV Plus had fewer than 20 million subs</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8点1氪丨孟晚舟昨夜顺利回国；广电总局：坚决抵制含有不良情节动画片；华为研发投入登顶中国企业500强]]></title>
+        <id>https://36kr.com/p/1414652805600897</id>
+        <link href="https://36kr.com/p/1414652805600897"/>
+        <updated>2021-09-26T00:20:56.000Z</updated>
+        <summary type="html"><![CDATA[大公司
+ 
+孟晚舟昨夜顺利回国
+ 
+9月25日，孟晚舟乘坐中国政府包机回到祖国，与家人团聚。自2018年12月1日她被捕，至2021年9月24日离开加拿大，已1028天。（人民日报）
+ 
+
+ 
+广电总局：坚决抵制含有不良情节动画片
+ 
+36氪获悉，近日，广电总局网络视听节目管理负责同志表示，支持符合条件的互联网视听节目服务机构依法依规制作、引进、播出内容健康向上、弘扬真善美的优秀动画片，坚决抵制含有暴力血腥、低俗色情等不良情节和画面的动画片上网播出。儿童和青少年是动画片的主要受众群体，各互联网视听节目服务机构应办好“儿童频道”“青少专区”，进一步规范节目内容、优化节目编排，为青少年健康成长营造良好的网络视听空间。
+ 
+华为研发投入登顶中国企业500强，阿里腾讯分列二、三位
+ 
+36氪获悉，2021中国企业500强榜单出炉，榜单显示，2021中国500强企业营业收入和净利润总额实现增长，资产扩张有所加快，千亿俱乐部企业增至222家，产业结构优化升级。在研发投入排名中，华为以1418.93亿元的研发投入排名第一；阿里巴巴研发投入572.36亿元，排名第二；腾讯投入389.72亿元，位列第三。
+ 
+部分苹果 iPhone 13/Pro 手机 “ 失灵 ” ，不支持通过 Apple Watch 解锁屏幕
+ 
+据 9to5 Mac 报道，苹果 iPhone 13/Pro 系列新手机已经上市开售，大量用户已经拿到真机并且开始使用。不过，Apple Watch 解锁的功能对于一些新的 iPhone 13 系列用户来说是无效的，当试图打开开关时，会显示一个错误信息。该功能早在今年 4 月份就已推出，作为一种方便的变通方法，用于在佩戴面罩时解锁你的 iPhone 手机。然而，近期许多用户在尝试时，发现该功能无法启用。试图打开它的结果将显示一个错误信息。鉴于这似乎是一个普遍的问题，看起来这可能…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5000亿元级P2P平台被立案调查，156亿元未兑付]]></title>
+        <id>https://www.jiemian.com/article/6636998.html</id>
+        <link href="https://www.jiemian.com/article/6636998.html"/>
+        <updated>2021-09-26T00:19:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>今日，深圳市公安局福田分局发布关于“红岭创投”“投资宝”“红岭资本”的案情通报 ... 通报称，“红岭创投”网贷平台、“投资宝”网贷平台、“红岭资本”线下理财项目涉嫌非法集资犯罪活动，深圳市公安分局福田分局已于近日依法对相关人员涉嫌非法吸收公众存款、集资诈骗罪立案侦查，并对涉案嫌疑人依法采取刑事强制措施 ... 红岭创投9月18日在官网披露的最新一期兑付通知显示，平台待兑付金额超过156亿元。</p><p><a href='https://www.jiemian.com/article/6636998.html'>界面 : “红岭系”三大平台涉嫌非法集资被正式立案！220亿待兑付规模何解？</a></p><p><a href='https://www.tmtpost.com/nictation/5719258.html'>钛媒体 : 5000亿元级P2P平台被立案调查，156亿元未兑付</a></p><p><a href='https://36kr.com/newsflashes/1414617150625409'>36Kr : 涉嫌非法集资犯罪活动，“红岭创投”网贷平台、“投资宝”网贷平台等被立案侦查</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook年薪中位数170万元]]></title>
+        <id>https://36kr.com/newsflashes/1414652498285956</id>
+        <link href="https://36kr.com/newsflashes/1414652498285956"/>
+        <updated>2021-09-26T00:18:56.000Z</updated>
+        <summary type="html"><![CDATA[监管文件显示，Facebook员工的中位数年薪高达26.3万美元（约合170万元人民币）。（新浪科技）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22只个股股东户数骤降，多只筹码集中个股股价走出靓丽趋势]]></title>
+        <id>https://36kr.com/newsflashes/1414649809901189</id>
+        <link href="https://36kr.com/newsflashes/1414649809901189"/>
+        <updated>2021-09-26T00:16:12.000Z</updated>
+        <summary type="html"><![CDATA[近三个月以来，22只股票股东户数减少30%以上，近半数个股是工业板块，其余个股主要集中于材料、可选消费、医疗保健等。海泰科、联科科技、恒帅股份、超捷股份、利和兴等个股的股东户数在3个月内减少了40%以上。多只筹码集中的个股股价走出靓丽趋势。反观近期筹码呈分散趋势的个股。不少原来的机构重仓股股东户数大幅增加，股价却呈现回调，综合行业景气度、资金面等因素，不排除市场上浮筹多，中小投资者高位入场的情况。（上证报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于JavaSwing+Mysql的超市商品管理系统设计和实现]]></title>
+        <id>https://juejin.cn/post/7012021268597702664</id>
+        <link href="https://juejin.cn/post/7012021268597702664"/>
+        <updated>2021-09-26T00:04:49.000Z</updated>
+        <summary type="html"><![CDATA[主要模块： 商品列表数据展示、商品信息添加、商品信息修改、商品信息删除、按照商品名称查询商品信息。。]]></summary>
+        <author>
+            <name>java李杨勇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海楼市调查：价格虚高学区房挤掉300万水分]]></title>
+        <id>https://36kr.com/newsflashes/1414636755048069</id>
+        <link href="https://36kr.com/newsflashes/1414636755048069"/>
+        <updated>2021-09-26T00:02:55.000Z</updated>
+        <summary type="html"><![CDATA[8月份，上海针对二手房贷款出台了“三价就低”政策，效果立竿见影 ... 8月上海二手住宅仅成交1.8万套，环比下跌24.3%，同比下跌39.6% ... 梅园五街坊一套51平方米的房源显示，今年3月12日挂牌价达1020万元，经过5次降价后，目前报价725万元，较最高挂牌价减少近300万元。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海楼市调查：价格虚高学区房挤掉300万水分]]></title>
+        <id>https://36kr.com/newsflashes/1414636755048069</id>
+        <link href="https://36kr.com/newsflashes/1414636755048069"/>
+        <updated>2021-09-26T00:02:55.000Z</updated>
+        <summary type="html"><![CDATA[上海中考改革新政落地半年后，上海学区房炒作之风被止住。8月份，上海针对二手房贷款出台了“三价就低”政策，效果立竿见影。8月上海二手住宅仅成交1.8万套，环比下跌24.3%，同比下跌39.6%。而曾经领涨二手房的学区房，如今火热不再。梅园五街坊一套51平方米的房源显示，今年3月12日挂牌价达1020万元，经过5次降价后，目前报价725万元，较最高挂牌价减少近300万元。（澎湃）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用AI和数据模型测算球员身价，这家公司要革体育经纪行业的命]]></title>
+        <id>https://www.36kr.com/p/1414003043718529</id>
+        <link href="https://www.36kr.com/p/1414003043718529"/>
+        <updated>2021-09-26T00:01:33.000Z</updated>
+        <summary type="html"><![CDATA[ProFitX是一家初创公司，其AI平台Athledex能综合球员的年龄、过往数据、效率值、伤病情况等多项数据，再通过17项数据模型的运算，实时反馈球员的合同合理数值、发展潜力、受伤概率和球队适配程度等数据 ... 易卜拉欣有过自己的体育经纪公司，但他遇到过与客户签约后10天就遭到解约的情况，那是他第一次意识到体育经纪行业的竞争多么残酷 ... 球员身价估算是一门技术活，ProFitX这类公司提供]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫给承包商接种新冠疫苗设期限]]></title>
+        <id>https://36kr.com/newsflashes/1414631582111107</id>
+        <link href="https://36kr.com/newsflashes/1414631582111107"/>
+        <updated>2021-09-25T23:57:39.000Z</updated>
+        <summary type="html"><![CDATA[12月8日以后，政府将在承包商合同中增加条款，要求雇员必须在履行新合同或延长合同首日前接种疫苗。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫给承包商接种新冠疫苗设期限]]></title>
+        <id>https://36kr.com/newsflashes/1414631582111107</id>
+        <link href="https://36kr.com/newsflashes/1414631582111107"/>
+        <updated>2021-09-25T23:57:39.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫24日宣布，联邦承包商及其雇员必须在12月8日前接种新冠疫苗，承包商必须审查雇员疫苗接种证明。12月8日以后，政府将在承包商合同中增加条款，要求雇员必须在履行新合同或延长合同首日前接种疫苗。（新华社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML+CSS+JS实现电商商品图片幻灯片特效]]></title>
+        <id>https://juejin.cn/post/7012020325651054600</id>
+        <link href="https://juejin.cn/post/7012020325651054600"/>
+        <updated>2021-09-25T23:57:29.000Z</updated>
+        <summary type="html"><![CDATA[生活中我们所见到的大部分图形都可以用css实现，今天给大家分享的是实现电商商品图片幻灯片特效。具有一定的参考价值，感兴趣的小伙伴们可以参考一下]]></summary>
+        <author>
+            <name>java李杨勇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做好私域，必备的5个能力]]></title>
+        <id>https://www.36kr.com/p/1414046347761283</id>
+        <link href="https://www.36kr.com/p/1414046347761283"/>
+        <updated>2021-09-25T23:56:06.000Z</updated>
+        <summary type="html"><![CDATA[私域会在最近的两三年爆红，我认为是因为有了新的基础设施，微信使得商家能够在一个平台低成本大规模地去管理好它的客户关系，这是私域的本质，也称之为私域的第一性原理（即长远而忠诚的客户关系） ... 考虑很多的要素之后，要去思考养号、私域团队的管理、公域引到私域的路径等，所以说做私域是一个很重很累的事情，是一项极其复杂的工程 ... 大家做私域一定要把私域资产盘活，先想一想你发的东西别人看了会不会删，或]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔡奇要求打造集成电路产业创新高地]]></title>
+        <id>https://36kr.com/newsflashes/1414629221176711</id>
+        <link href="https://36kr.com/newsflashes/1414629221176711"/>
+        <updated>2021-09-25T23:55:15.000Z</updated>
+        <summary type="html"><![CDATA[9月24日下午，市委理论学习中心组学习（扩大）会举办构建新发展格局讲座 ... 持续加强前沿关键技术攻关，搭建一批新型自主创新平台，组织一批面向终端应用的关键产品联合开发项目，促进产学研用有效串联 ... 围绕集成电路装备、制造、设计三大产业，培育具有先进工艺制造能力的骨干企业，带动产业链上下游中小企业发展。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔡奇要求打造集成电路产业创新高地]]></title>
+        <id>https://36kr.com/newsflashes/1414629221176711</id>
+        <link href="https://36kr.com/newsflashes/1414629221176711"/>
+        <updated>2021-09-25T23:55:15.000Z</updated>
+        <summary type="html"><![CDATA[9月24日下午，北京市市委理论学习中心组学习（扩大）会举办构建新发展格局讲座。北京市市委书记蔡奇强调，要举全市之力做大做强集成电路产业。持续加强前沿关键技术攻关，搭建一批新型自主创新平台，组织一批面向终端应用的关键产品联合开发项目，促进产学研用有效串联。围绕集成电路装备、制造、设计三大产业，培育具有先进工艺制造能力的骨干企业，带动产业链上下游中小企业发展。（北京日报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果用户反应iPad mini 6存在“果冻屏”问题，产品良率被质疑]]></title>
+        <id>https://iyiou.com/news/202109261022517</id>
+        <link href="https://iyiou.com/news/202109261022517"/>
+        <updated>2021-09-25T23:54:01.000Z</updated>
+        <summary type="html"><![CDATA[9月25日晚，据《科创板日报》报道，多位苹果用户通过社交媒体反应，在拿到苹果新品后，经测试发现，今年的iPad mini 6产品在竖屏状态下存在明显“果冻屏”问题 ... 据苹果用户反应，这批iPad mini 6在竖屏状态上下拖动屏幕时，屏显从右至左存在明显位移不同步的现象 ... 有业内专家称，“果冻屏”问题产生原因或为硬件安装影响了屏幕刷新的方向，因手机通常是上下刷新屏幕而感知不明显，由于屏]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软详细介绍Windows 11的“无缝更新”概念]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1183469.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1183469.htm"/>
+        <updated>2021-09-25T23:51:44.000Z</updated>
+        <summary type="html"><![CDATA[现在，微软的技术人员终于解释了Windows 11将如何提供"无缝更新"，这些更新将在后台进行 ... 预计Windows 11将遵循Windows 10的更新节奏，因此可以期待每个月都有新的累积性更新且每年秋季都有功能更新 ... 更少的功能更新外，Windows更新质量的提高也来自于对Windows中的更新引擎进行的优化。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox游玩部分游戏会关机 微软表示正在调查]]></title>
+        <id>https://tech.ifeng.com/c/89q3qcIrWE7</id>
+        <link href="https://tech.ifeng.com/c/89q3qcIrWE7"/>
+        <updated>2021-09-25T23:50:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>此前有玩家反馈，使用 Xbox 游戏机游玩《NBA 2K22》《使命召唤 18：先锋》《光环：士官长合集》等游戏时，出现了关机、回到主界面的问题 ... IT之家了解到，微软近日为 Xbox 用户推出了 9 月系统更新 ... 本次更新最大的变化是新增了 Edge浏览器，此外针对 Xbox Game Pass 用户新增“稍后游戏”队列。</p><p><a href='https://tech.ifeng.com/c/89q3qcIrWE7'>凤凰科技 : Xbox游玩部分游戏会关机 微软表示正在调查</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农村安防监控，年入百万的蓝海市场]]></title>
+        <id>https://www.36kr.com/p/1412735780034180</id>
+        <link href="https://www.36kr.com/p/1412735780034180"/>
+        <updated>2021-09-25T23:49:02.000Z</updated>
+        <summary type="html"><![CDATA[这并不代表农村没有人了，相反随着交通便利、产业转移，乡村振兴，很多人选择开始回到了县城的农村、乡镇 ... 在农村卖监控设备和城市里面不同，城市里是卖给年轻人，农村里是卖给中老年人，所以要深刻把握消费群体的需求想法 ... 其一、卖农村监控设备是个辛苦活，但需求是肯定存在的，只要做的好，一年十几万的利润不是问题。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天风证券：短期动力煤价将偏强运行]]></title>
+        <id>https://36kr.com/newsflashes/1414618851595904</id>
+        <link href="https://36kr.com/newsflashes/1414618851595904"/>
+        <updated>2021-09-25T23:44:42.000Z</updated>
+        <summary type="html"><![CDATA[天风证券指出，部分企业保内部和长协户供应，减少对外销售，短期供不应求局面持续 ... 产量释放过程缓慢，而港口及电厂库存持续低位运行，终端补库需求一直存在 ... 后期大秦线集中检修，加之冬季北方取暖用煤需求加大，煤炭紧张局面还会延续，预计短期动力煤价将偏强运行。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天风证券：短期动力煤价将偏强运行]]></title>
+        <id>https://36kr.com/newsflashes/1414618851595904</id>
+        <link href="https://36kr.com/newsflashes/1414618851595904"/>
+        <updated>2021-09-25T23:44:42.000Z</updated>
+        <summary type="html"><![CDATA[天风证券指出，部分企业保内部和长协户供应，减少对外销售，短期供不应求局面持续。需求方面，进入九月以后，随着气温下降，沿海八省电厂日耗有所回落，电厂存煤出现小幅增加。目前新核增的产能陆续增产，预计下月产量会增加。产量释放过程缓慢，而港口及电厂库存持续低位运行，终端补库需求一直存在。后期大秦线集中检修，加之冬季北方取暖用煤需求加大，煤炭紧张局面还会延续，预计短期动力煤价将偏强运行。（财联社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5000亿元级P2P平台被立案调查]]></title>
+        <id>https://36kr.com/newsflashes/1414617150625409</id>
+        <link href="https://36kr.com/newsflashes/1414617150625409"/>
+        <updated>2021-09-25T23:42:58.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，深圳市公安局福田分局发布关于“红岭创投”“投资宝”“红岭资本”的案情通报。通报称，“红岭创投”网贷平台、“投资宝”网贷平台、“红岭资本”线下理财项目涉嫌非法集资犯罪活动，深圳市公安分局福田分局已于近日依法对相关人员涉嫌非法吸收公众存款、集资诈骗罪立案侦查，并对涉案嫌疑人依法采取刑事强制措施。红岭创投创始人周世平曾表示，红岭系平台有5000多亿元交易，最多时有55万出借人。（中证报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四平台回应“迪迦奥特曼被下架”]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8120180.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8120180.shtml"/>
+        <updated>2021-09-25T23:42:28.000Z</updated>
+        <summary type="html"><![CDATA[24日，经典日本特摄剧《迪迦奥特曼》（后简称“《迪迦》”）疑遭全网下架，相关剧集在央视频、腾讯视频、优酷视频、爱奇艺视频、哔哩哔哩（B站）等各大视频网站“消失”，引发网友关注 ... 据现代快报24日报道，江苏省消保委相关工作人员对此否认，表示《迪迦》全网下架可能是相关平台的自主行为，当时这份《报告》旨在促进动画分级制度的创建，并未对涉及的动画经营相关方进行相关约谈 ... 今天（25日）在合肥举]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际戏剧舞台雇员联盟：苹果称其Apple TV+订阅用户不到2000万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1183455.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1183455.htm"/>
+        <updated>2021-09-25T23:41:16.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司告诉国际戏剧舞台雇员联盟(IATSE)，其Apple TV+流媒体平台的订阅用户不到2000万，这使得它可以向IATSE工人支付比大型流媒体平台更低的费用 ... 与Netflix等规模更大、更成熟的流媒体竞争对手相比，Apple TV+的原创节目更少，Netflix在8月表示，它拥有2.09亿用户 ... 苹果Apple TV+有几个大预算节目，包括由詹妮弗·安妮斯顿和瑞茜·威瑟斯彭主演]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[53% of software companies will Move to subscription Model S by 2023]]></title>
+        <id>https://venturebeat.com/2021/09/25/53-of-software-companies-will-move-to-subscription-models-by-2023/</id>
+        <link href="https://venturebeat.com/2021/09/25/53-of-software-companies-will-move-to-subscription-models-by-2023/"/>
+        <updated>2021-09-25T23:40:15.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澎湃新闻：归舟未晚，中华有为]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8119204.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8119204.shtml"/>
+        <updated>2021-09-25T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[近三年来，远在加拿大的祖国游子，滞留的每一天，都赢得了道义和正义的加倍“利息” ... 华为从中国出发，远行世界舞台中央，逆水行舟，劈波斩浪，阅尽千帆，笑看红旗飘展 ... 为了这一天，亿万同胞凝成一股绳，成为支撑孟晚舟最坚强的后盾，也让她将至暗的日子镀成了闪亮的岁月。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟晚舟一袭红衣落地：祖国，我回来了！]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6352140.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6352140.shtml"/>
+        <updated>2021-09-25T23:34:21.000Z</updated>
+        <summary type="html"><![CDATA[当我走下舷梯，双脚落地的那一刻，家乡的温度让我心潮澎湃，难以言表 ... 她哽咽着说，作为一名普通的中国公民，遭遇这样的困境，滞留异国他乡三年，我无时无刻不感受到党、祖国还有人民的关爱与温暖 ... 她谈道，回首三年，我更加明白个人命运、企业命运和国家的命运是十指相连，祖国是我们最坚强的后盾，只有祖国的繁荣昌盛，企业才能稳健发展，人民才能幸福安康。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周鸿祎：未来将输出在哪吒汽车上研究成熟的安全技术]]></title>
+        <id>https://36kr.com/newsflashes/1414606497126017</id>
+        <link href="https://36kr.com/newsflashes/1414606497126017"/>
+        <updated>2021-09-25T23:32:08.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉���360集团创始人、董事长周鸿祎25日在其微博发文称，今年360投资了哪吒汽车，希望将互联网基因与汽车制造企业基因进行重组。他表示，希望将哪吒汽车作为智能网联汽车安全的试验田，未来把在哪吒汽车上研究成熟的安全技术输出给其他车企。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝小米Civi用COP封装工艺：下边框只有2.55mm]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6304596.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6304596.shtml"/>
+        <updated>2021-09-25T23:31:02.000Z</updated>
+        <summary type="html"><![CDATA[近日，博主@数码闲聊站爆料，小米Civi的屏幕用上了顶级的COP柔性封装，这是旗舰规格的首秀，下巴边框只有2.55mm，是目前下巴最小的小米手机 ... 小米产品经理魏思琪强调，你可能会觉得这不是你熟悉的小米手机，它的设计思路将完全不同 ... 小米创办人、小米集团董事长兼CEO雷军表示，Civi在同档潮流手机中最轻、最薄，机身宽度最小，依然内置了4500mAh电池，居然还有双扬声器、NFC、红外]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实战！聊聊如何解决MySQL深分页问题]]></title>
+        <id>https://juejin.cn/post/7012016858379321358</id>
+        <link href="https://juejin.cn/post/7012016858379321358"/>
+        <updated>2021-09-25T23:28:31.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是捡田螺的小男孩。 我们日常做分页需求时，一般会用limit实现，但是当偏移量特别大的时候，查询效率就变得低下。本文将分4个方案，讨论如何优化MySQL百万数据的深分页问题，并附上最近]]></summary>
+        <author>
+            <name>捡田螺的小男孩</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软已经作好各种准备！Win11正式版即将推送]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6349069.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzscyx6349069.shtml"/>
+        <updated>2021-09-25T23:28:05.000Z</updated>
+        <summary type="html"><![CDATA[微软将会在10月5日发布Win11正式版，现在该版本正为公开推送做准备 ... Win11将会带来开始菜单的新外观，新的通知中心，新的微软商店，新的收件箱应用程序等等 ... 微软官方证实，10月5日Win11正式版推送后，还会发布数个更新，已修复系统中剩余的问题。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广东统筹协调全力保障电力供应]]></title>
+        <id>https://36kr.com/newsflashes/1414600055199360</id>
+        <link href="https://36kr.com/newsflashes/1414600055199360"/>
+        <updated>2021-09-25T23:25:35.000Z</updated>
+        <summary type="html"><![CDATA[目前正是“金九银十”订单高峰期，尤其是二产、三产用电需求持续旺盛 ... 广东省各市已启动有序用电预案，省内多地工业企业“开三停四”甚至“开二停五”错峰用电 ... 广东省委省政府指出，要全力增加电力供给，保障广东省电煤供应，督促天然气供应主体保障天然气供应，满足机组发电需要，督促电厂做好发电燃料和辅料储备工作，确保高峰时段机组稳定可靠运行。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广东统筹协调全力保障电力供应]]></title>
+        <id>https://36kr.com/newsflashes/1414600055199360</id>
+        <link href="https://36kr.com/newsflashes/1414600055199360"/>
+        <updated>2021-09-25T23:25:35.000Z</updated>
+        <summary type="html"><![CDATA[日前，广东省各市已启动有序用电预案，省内多地工业企业“开三停四”甚至“开二停五”错峰用电，对企业正常生产经营活动带来一定影响。广东省委省政府指出，要全力增加电力供给，保障广东省电煤供应，督促天然气供应主体保障天然气供应，满足机组发电需要，督促电厂做好发电燃料和辅料储备工作，确保高峰时段机组稳定可靠运行。（深圳特区报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在项目用到这十多种轮子助我提升开发效率，收藏]]></title>
+        <id>https://juejin.cn/post/7012012633180078117</id>
+        <link href="https://juejin.cn/post/7012012633180078117"/>
+        <updated>2021-09-25T23:24:52.000Z</updated>
+        <summary type="html"><![CDATA[开发中,一直听到有人讨论是不是需要重复造轮子，我觉得有能力的人，轮子得造。但是往往开发周期短，轮子的使用节省的时间可以更好的去理解业务，使用到业务中,也能发现轮子的利弊，可以造更好的轮子。]]></summary>
+        <author>
+            <name>zz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟晚舟顺利回到祖国]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8117307.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-09-26/doc-iktzqtyt8117307.shtml"/>
+        <updated>2021-09-25T23:21:20.000Z</updated>
+        <summary type="html"><![CDATA[经过1000多天的煎熬，我终于回到了祖国的怀抱，异国他乡的漫长等待，充满了挣扎和煎熬，但当我走下舷梯，双脚落地的那一刻，家乡的温度让我心潮澎湃，难以言表 ... 疫情原因，现场没有握手，没有拥抱，人们却从孟晚舟微微颤抖、略带哽咽的声音里听出最深沉的情感，“祖国，我回来了 ... 当地时间9月24日，孟晚舟在不认罪、不支付罚金的情况下离开加拿大，踏上返回祖国的征程。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软正在完成最后准备 Windows 11正式版即将推送]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1183445.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1183445.htm"/>
+        <updated>2021-09-25T23:20:55.000Z</updated>
+        <summary type="html"><![CDATA[微软正在计划在未来几周改善Windows 11 21H2版本的整体体验，这是微软推动服务的正常节奏 ... 就如截图所示，用户访问"设置">"更新和安全">"Windows Update"，检查更新，并在注册发布预览通道后，手动选择Windows 11的"下载和安装"选项，即可升级到Windows 11的预览版 ... 如果选择暂时停留在Windows 10，那么就会得到Windows 10 21]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让数万人等了五年的国产像素游戏 究竟好玩在哪里？]]></title>
+        <id>https://tech.ifeng.com/c/89q3qcIrWE1</id>
+        <link href="https://tech.ifeng.com/c/89q3qcIrWE1"/>
+        <updated>2021-09-25T23:20:39.000Z</updated>
+        <summary type="html"><![CDATA[9月16日，这个由上海皮克皮工作室制作的像素风独立冒险游戏终于在各大平台上线了，而它最终呈现的游戏品质，也没有辜负玩家们五年来的期待 ... 五年时间虽然难熬，但是也给了皮克皮更多的试错机会，让他们有时间对游戏的细节和战斗设计进行修改，也在吸收这五年里一些优秀游戏的特色，同时让这些元素融合的更加自然，有自己的风格 ... 这种对于游戏本身的苛刻要求，让《风来之国》成为了一款非常值得一玩的游戏，如果]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[严格模式和非严格模式的区别，我该如何去总结？]]></title>
+        <id>https://juejin.cn/post/7012011137772306462</id>
+        <link href="https://juejin.cn/post/7012011137772306462"/>
+        <updated>2021-09-25T23:18:27.000Z</updated>
+        <summary type="html"><![CDATA[背景 一直码于业务中，却疏忽了最基础的知识，相信很多人都听过严格模式和非严格模式，但是却不知道具体的区别，通过本篇,我们带大家去理解总结严格模式和非严格模式的区别。]]></summary>
+        <author>
+            <name>zz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首批北京冬奥会参赛国家奥委会物资从天津入境]]></title>
+        <id>https://36kr.com/newsflashes/1414586802836868</id>
+        <link href="https://36kr.com/newsflashes/1414586802836868"/>
+        <updated>2021-09-25T23:12:06.000Z</updated>
+        <summary type="html"><![CDATA[9月25日22时左右，装载着荷兰奥委会和残奥委会首批参赛国家冬奥会进境物资的“海丰联祥”轮靠泊在天津港集装箱码头。该批货物被分装在3个集装箱内，用于在华参赛期间使用。这是首票北京冬奥会参赛国家（地区）奥委会入境物资，也标志着北京冬奥会各参赛国家（地区）代表团赛事物资入境正式拉开帷幕。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国8月份禽类供应量同比减少20%，肯德基、麦当劳等原材料供应短缺]]></title>
+        <id>https://36kr.com/newsflashes/1414585291445892</id>
+        <link href="https://36kr.com/newsflashes/1414585291445892"/>
+        <updated>2021-09-25T23:10:34.000Z</updated>
+        <summary type="html"><![CDATA[近期，美国肯德基表示，因无骨鸡肉供应不足，决定暂时取消该产品的广告宣传。肯德基、麦当劳、星巴克等快餐连锁企业面临着原材料供应短缺的问题。最新数据显示，美国8月份禽类供应量同比减少20%；牛肉储备同比下降7.7%；猪胸肉储备同比减少44%，降至2017年以来最低水平。美国9月蟹肉价格上涨至每磅50-60美元，个别电商售价高达121美元，远高于过去五年19-30美元的均价区间，暴涨约590%。（央视财经）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第十一届北京国际电影节北京市场签约额达352亿元，再创新高]]></title>
+        <id>https://36kr.com/newsflashes/1414575506068865</id>
+        <link href="https://36kr.com/newsflashes/1414575506068865"/>
+        <updated>2021-09-25T23:00:37.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，第十一届北京国际电影节北京市场签约仪式在北京广播电视台举行，今年共有44个重点项目、39家企业在北京市场签约发布，总金额达到352.23亿元，同比增长约6%，再次突破纪录。（央视新闻）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【open car】买些硬盘存迪迦]]></title>
+        <id>https://mp.weixin.qq.com/s/yeNfA1cIoKJktDov3jt7QQ</id>
+        <link href="https://mp.weixin.qq.com/s/yeNfA1cIoKJktDov3jt7QQ"/>
+        <updated>2021-09-25T21:39:54.000Z</updated>
+        <summary type="html"><![CDATA[【open car】买些硬盘存迪迦]]></summary>
+        <author>
+            <name>电脑吧评测室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【硬件资讯】Intel显卡也已整装待发！性能已达同类产品次旗舰级别！但恐怕仍是空气……]]></title>
+        <id>https://mp.weixin.qq.com/s/48GusXsQoCM5WCRDk7osSg</id>
+        <link href="https://mp.weixin.qq.com/s/48GusXsQoCM5WCRDk7osSg"/>
+        <updated>2021-09-25T21:39:54.000Z</updated>
+        <summary type="html"><![CDATA[【硬件资讯】Intel显卡也已整装待发！性能已达同类产品次旗舰级别！但恐怕仍是空气……]]></summary>
+        <author>
+            <name>电脑吧评测室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英睿达3200C16 16G*2 混用D9颗粒]]></title>
+        <id>https://mp.weixin.qq.com/s/hyGx6y3Q6SSe67e6fJtaUQ</id>
+        <link href="https://mp.weixin.qq.com/s/hyGx6y3Q6SSe67e6fJtaUQ"/>
+        <updated>2021-09-25T21:39:54.000Z</updated>
+        <summary type="html"><![CDATA[英睿达3200C16 16G*2 混用D9颗粒]]></summary>
+        <author>
+            <name>电脑吧评测室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【核心显卡】比比看，VEGA 7和UHD 750谁更胜一筹]]></title>
+        <id>https://mp.weixin.qq.com/s/LaVEIxfhZ04GnuWiSuxIPA</id>
+        <link href="https://mp.weixin.qq.com/s/LaVEIxfhZ04GnuWiSuxIPA"/>
+        <updated>2021-09-25T21:39:54.000Z</updated>
+        <summary type="html"><![CDATA[【核心显卡】比比看，VEGA 7和UHD 750谁更胜一筹]]></summary>
+        <author>
+            <name>电脑吧评测室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing Library To Build REST API in Java]]></title>
+        <id>https://dzone.com/articles/building-rest-api-in-java</id>
+        <link href="https://dzone.com/articles/building-rest-api-in-java"/>
+        <updated>2021-09-25T17:33:22.000Z</updated>
+        <summary type="html"><![CDATA[API is not a new concept in software engineering. In fact, SOAP was invented in 1998 which was very popular back then, it is still used Today in large enterprise software. Representational State Trans]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot Actuator: Production-Ready Features]]></title>
+        <id>https://dzone.com/articles/spring-boot-actuator-production-ready-features-1</id>
+        <link href="https://dzone.com/articles/spring-boot-actuator-production-ready-features-1"/>
+        <updated>2021-09-25T16:07:43.000Z</updated>
+        <summary type="html"><![CDATA[In the video below, we take a closer LOOK at Spring Boot Actuator: Production-ready features. Let's get started!]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Testing With Cucumber]]></title>
+        <id>https://dzone.com/articles/api-testing-with-cucumber</id>
+        <link href="https://dzone.com/articles/api-testing-with-cucumber"/>
+        <updated>2021-09-25T15:59:10.000Z</updated>
+        <summary type="html"><![CDATA[An API represents a set of rules that enables services to communicate with each other. It is important to have a shared understanding of the API by the stakeholders. Behavior Driven Development (BDD)]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heap and Stack Memory Errors in Java]]></title>
+        <id>https://dzone.com/articles/heap-and-stack-memory-errors-in-java</id>
+        <link href="https://dzone.com/articles/heap-and-stack-memory-errors-in-java"/>
+        <updated>2021-09-25T15:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Heap memory - This is a special memory area where java objects are stored. 
+Stack memory - Temporary memory area to Store variables when method invoked.]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac技巧之把网页变成苹果电脑桌面壁纸的免费软件：Plash]]></title>
+        <id>http://www.mac52ipod.cn/post/apple-mac-macos-app-plash-website-desktop-wallpaper.php</id>
+        <link href="http://www.mac52ipod.cn/post/apple-mac-macos-app-plash-website-desktop-wallpaper.php"/>
+        <updated>2021-09-25T15:26:03.000Z</updated>
+        <summary type="html"><![CDATA[照片看腻了可以给 Mac 换点儿实用的壁纸，用这个叫 Plash 的免费软件可以把网页变成苹果电脑桌面壁纸，而且壁纸随网页内容动态刷新。
+我是用 Plash 直接把 Google Calendar 设成 Mac 壁纸了，随时看日历/日程。你也可以用新闻、网页邮箱、股票信息、天气预报等等网页做壁纸。
+Plash 在苹果 Mac App Store 应用商店的下载地址 https://apps.apple.com/cn/app/plash/id1494023538?mt=12
+Tags - 壁纸 , wallpaper]]></summary>
+        <author>
+            <name>bmwmengwei &lt;bmwmengwei@gmail.com&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扒开外衣仔细分析：String为什么不可变]]></title>
+        <id>https://juejin.cn/post/7011887760587882527</id>
+        <link href="https://juejin.cn/post/7011887760587882527"/>
+        <updated>2021-09-25T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[说到Java源码，我相信小伙伴们或多或少都有接触，比如util包中常见的ArrayList、HashMap、LinkedHashMap，还有前面我们学过的多线程相关类，如：Executors、Coun]]></summary>
+        <author>
+            <name>JavaGieGie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年11款最佳的开源 Kubernetes 工具]]></title>
+        <id>http://www.yunweipai.com/40245.html</id>
+        <link href="http://www.yunweipai.com/40245.html"/>
+        <updated>2021-09-25T15:05:19.000Z</updated>
+        <summary type="html"><![CDATA[到 2021 年，几乎所有接触过云基础设施的人都熟悉 Kubernetes 项目。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECS 选款利器！PTS助您快速上云！]]></title>
+        <id>https://juejin.cn/post/7011883481500221476</id>
+        <link href="https://juejin.cn/post/7011883481500221476"/>
+        <updated>2021-09-25T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[百闻不如一试！2021 年 9 月 24 日-2021 年 10 月 31 日，您可以只支付 10 块钱不到的试用成本，即可体验使用 PTS 来帮助 ECS 进行容量规划选择合适规格的整个流程！]]></summary>
+        <author>
+            <name>阿里巴巴云原生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morphling：云原生部署 AI ， 如何把降本做到极致？]]></title>
+        <id>https://juejin.cn/post/7011877956238868516</id>
+        <link href="https://juejin.cn/post/7011877956238868516"/>
+        <updated>2021-09-25T14:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Morphling 本意是游戏 Dota 中的英雄“水人”，他可以根据环境要求，通过灵活改变自身形态，优化战斗表现。我们希望通过 Morphling 项目，实现针对机器学习推理作业的灵活、智能的部署配]]></summary>
+        <author>
+            <name>阿里巴巴云原生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annotation-Free Spring]]></title>
+        <id>https://dzone.com/articles/annotation-free-spring</id>
+        <link href="https://dzone.com/articles/annotation-free-spring"/>
+        <updated>2021-09-25T14:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Some, if not most, of our judgments regarding Technology stacks come either from third-party opinions or previous experiences. Yet, we seem to be adamant about them. For a long time (and sometimes eve]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing Docker Desktop With hyperkit + minikube]]></title>
+        <id>https://dzone.com/articles/replacing-docker-desktop-with-hyperkit-minikube</id>
+        <link href="https://dzone.com/articles/replacing-docker-desktop-with-hyperkit-minikube"/>
+        <updated>2021-09-25T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[macOS is a Unix but it isn't a Linux so, unfortunately, if/when we need to use Linux-y things like Docker we need to install a VM just like in the Windows world. That's of course also True for Docker.]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[进步与变革，本土潮流企业的自我升级]]></title>
+        <id>https://36kr.com/p/1414038425261705</id>
+        <link href="https://36kr.com/p/1414038425261705"/>
+        <updated>2021-09-25T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[对于一个正在爆发中的赛道，鲜少有人静下心来思考，什么才是这个热门赛道最需要的。
+ 
+就像正在爆发中的中国潮流产业，前来瓜分概念的企业众多，却很少有人真正思考其背后的逻辑，以及如何让潮流产业实现自我造血，从而实现真正的破局。
+ 
+剥丝抽茧之后，潮流产业的突破性增长根本上还是源于青年消费群体对「个性化」和「身份认同感」的迫切需求。从这一点上来看，「原创性」与「品牌力」对企业而言就愈发重要，这也意味着单纯依靠渠道与供应链为王的时代逐渐结束了。
+ 
+现在，INNERSECT作为潮流产业的“变革者”就带着破局的“密码”而来。在一众火热的潮流文化活动中，它打破了人们的常规思路。在INNERSECT看来，潮流产业已然进入了2.0时代——一个“可持续的”、有着更多创新活力，推动行业继续往前深入发展的时代。
+ 
+
+ 
+INNERSECT 2020 现场 
+ 
+为此，INNERSECT完成了自身的进化，从1.0时代一路走来，INNERSECT一面连接海外顶级的潮流品牌进入中国市场，一面助力更多本土潮流品牌的发展。
+ 
+特别是在助力本土企业“品牌建设”和“创意策划与营销”上，INNERSECT潮流展以其独特的展会场景和精准深刻的影响力，助力本土品牌在18-25岁有消费能力的年轻人间建立认知，帮助品牌更好的完成故事传递，将品牌故事以更加契合的方式传递到消费者心中。
+ 
+作为搅动当下时代潮流文化的重要力量，INNERSECT为本土企业开辟了一条可行的道路。
+ 
+抓住中国潮流产业的黄金时代
+ 
+多种迹象都表明，中国潮流市场正在爆发。
+ 
+借助潮流之风，传统运动服饰品牌纷纷迎来第二春；新晋的创业型玩家也凭借潮流外壳实现了估值的水涨船高。甚至与各类UGC潮流内容相关的社区也顺势有了新一波热度。潮鞋、潮玩、配饰、手办，一股新的潮流势力正在各大平台崛起。而搅动其中的，正是95、00一代年轻人，是其审美意识、身…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​孟晚舟乘坐的中国政府包机飞抵深圳宝安国际机场]]></title>
+        <id>https://36kr.com/newsflashes/1414036361762439</id>
+        <link href="https://36kr.com/newsflashes/1414036361762439"/>
+        <updated>2021-09-25T13:52:10.000Z</updated>
+        <summary type="html"><![CDATA[孟晚舟乘坐的中国政府包机抵达深圳宝安国际机场。（央视新闻）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Cheat Sheet: Top 25 Commands and Creating Custom Commands]]></title>
+        <id>https://dzone.com/articles/bash-cheat-sheet-top-25-commands-and-creating-cust</id>
+        <link href="https://dzone.com/articles/bash-cheat-sheet-top-25-commands-and-creating-cust"/>
+        <updated>2021-09-25T13:44:21.000Z</updated>
+        <summary type="html"><![CDATA[The command line is something every developer should learn and implement into their Daily routine. It has become a Swiss Army knife of features behind deceptively simple commands, which allow you to g]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mybatis接口参数与xml占位符的几种映射关系介绍]]></title>
+        <id>https://juejin.cn/post/7011863840962904072</id>
+        <link href="https://juejin.cn/post/7011863840962904072"/>
+        <updated>2021-09-25T13:34:21.000Z</updated>
+        <summary type="html"><![CDATA[在 mybatis 的日常开发中，mapper 接口中定义的参数如何与 xml 中的参数进行映射呢？今天的知识点为mybatis开发中，mapper接口定义的参数与xml中占位符的几种映射绑定方式]]></summary>
+        <author>
+            <name>一灰灰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创维 S82 体验：少有的高色准 OLED 电视，也是主机玩家的理想显示器之选]]></title>
+        <id>http://www.geekpark.net/news/286303</id>
+        <link href="http://www.geekpark.net/news/286303"/>
+        <updated>2021-09-25T13:26:49.000Z</updated>
+        <summary type="html"><![CDATA[好或者不好，其实并不那么绝对，需要结合当前环境背景，才能做出相对合理的评价。
+十几年前，可能更多人对于电视的诉求，就是希望使用寿命可以更久一点。后来随着产业链上下游逐渐开始走向成熟，使用寿命已经不是问题，更好的音画质体验，成为了人们为一款电视买单的主要决定因素。时至今日，音画质表现，依旧是评价电视产品是否足够出色最为重要的标准，这两项指标决定了其下限在哪里。
+但无论手机、PC 还是电视，满足基础属性想要继续往上走，都是硬件能力和软件能力双向奔赴的结果，要有出色的硬件水准，更得找到合理途径让普通用户很容易便能感受到它的好。创维 S82 就是这样一款产品，好看、好玩、好用。
+
+
+屏幕里的世界，如何更真实一些
+电视机近百年的发展进程中，经过了一轮又一轮的产品形态迭代。虽然不同时代的电视机外观区别很大，其最为本质的追求并没有发生改变：希望尽可能隐藏掉物理屏幕，让你融入到眼前所看到的那个世界，去感受现实生活中那些可能无法经历的境遇。这便是我们常说的沉浸感，或者说身临其境的「真实感」。
+
+
+为了让屏幕里的世界变得更真实，大屏和高屏占比十分重要，但还远远不够，屏幕的核心始终是「显示」。除了在高屏占比和外观设计上打造沉浸感之外，这次创维将更多精力放到了色彩这两个字上，以更精准的色彩显示向「真实视界」靠近，而高色准是创维 S82 很大的一个亮点。
+
+
+
+极客之选老读者，或者平时关注手机产品的朋友，应该对 ΔE 这个符号并不陌生，作为评价屏幕色彩准确性的一项重要指标，之前我们在很多手机评测文章中都做过介绍。通常，当屏幕 ΔE 值小于 2 时，就可以划归到「专业显示设备」的范畴。
+创维 S82 的色准值比行业普遍标准来得更高。在创维 30+ 画质调校技术的支持下，这款产品将色准值做到了 0.86，即便放到内卷程度极为夸张的手机产品中，依旧处于比较靠前的水平。此外，它还支持 10.7 亿色显示，覆…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报名领奖｜云栖大会，10月19-22日杭州不见不散！]]></title>
+        <id>https://juejin.cn/post/7011861389618708511</id>
+        <link href="https://juejin.cn/post/7011861389618708511"/>
+        <updated>2021-09-25T13:25:01.000Z</updated>
+        <summary type="html"><![CDATA[2021年，云栖大会已经步入第13年，从最初站长大会，到全球顶级的科技盛会，云栖大会先后带来了达摩院、平头哥、含光芯片、城市大脑、小蛮驴、无影云电脑等诸多重磅发布。而今年的云栖大会，又会带来什么新惊喜]]></summary>
+        <author>
+            <name>阿里巴巴云原生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Receive Pub/Sub Messages to Your Spring Application]]></title>
+        <id>https://dzone.com/articles/receive-pubsub-messages-to-your-spring-application</id>
+        <link href="https://dzone.com/articles/receive-pubsub-messages-to-your-spring-application"/>
+        <updated>2021-09-25T13:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Pub/Sub is a messaging solution provided by GCP.
+Before we dive into the actual configuration we need to be aware that Spring Cloud for GCP is Now Managed by the Google Cloud Team. Therefore, the late]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Common API Gateway Request Transformation Policies]]></title>
+        <id>https://dzone.com/articles/8-common-api-gateway-request-transformation-polici</id>
+        <link href="https://dzone.com/articles/8-common-api-gateway-request-transformation-polici"/>
+        <updated>2021-09-25T13:11:05.000Z</updated>
+        <summary type="html"><![CDATA[API Gateway request transformation policies are incredibly powerful. There are many situations when an API developer can take advantage of request transformations to Adjust the Shape and values of a r]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于时间的处理 | 程序员必备小知识]]></title>
+        <id>https://juejin.cn/post/7011855309086031879</id>
+        <link href="https://juejin.cn/post/7011855309086031879"/>
+        <updated>2021-09-25T13:04:24.000Z</updated>
+        <summary type="html"><![CDATA[小知识，大挑战！！本文通过实际业务场景来介绍 Day.js 对时间的处理，欢迎掘友来补充实际业务场景。]]></summary>
+        <author>
+            <name>红尘炼心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy TiDB on Google Cloud Platform—Part 1]]></title>
+        <id>https://dzone.com/articles/how-to-deploy-tidb-on-google-cloud-platformpart-1</id>
+        <link href="https://dzone.com/articles/how-to-deploy-tidb-on-google-cloud-platformpart-1"/>
+        <updated>2021-09-25T12:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+This two-part blog series will show you how to get a simple TiDB cluster up and running on Google Cloud Platform (GCP). The goal is to let you quickly set up TiDB and learn about its benefits]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新东方2021财年收入42.77亿美元，未来或关闭部分学习中心并裁员]]></title>
+        <id>https://www.jiemodui.com/N/128530.html</id>
+        <link href="https://www.jiemodui.com/N/128530.html"/>
+        <updated>2021-09-25T12:43:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>美东时间9月24日，新东方发布截至5月31日的2021财年年度报告。2021财年，新东方收入42.77亿美元，同比增长19.5%；净利润为2.3亿美元，同比下降35.03%，归属于股东的净利润为3.34亿美元 ... 针对近期出台的校外培训监管政策，新东方表示，可能会在不久的将来对义务教育阶段的学科类培训采取进一步行动，包括关闭一定数量的学习中心，进行必要的裁员以维持运营。</p><p><a href='https://www.jiemodui.com/N/128530.html'>芥末堆 : 新东方2021财年收入42.77亿美元，未来或关闭部分学习中心与裁员</a></p><p><a href='https://www.tmtpost.com/nictation/5718498.html'>钛媒体 : 新东方2021财年营收达42.77亿美元，未来将关闭一些线下学习中心</a></p><p><a href='https://www.cnbeta.com/articles/tech/1183415.htm'>CNBeta : 新东方裁员转型 俞敏洪：薇娅1年卖1百亿 我带着老师直播也能上百亿</a></p><p><a href='https://www.chinaventure.com.cn/news/110-20210925-364651.html'>投中网 : 新东方大学生学习与发展中心全面升级，持续服务大学生成长成才</a></p><p><a href='https://www.jiemodui.com/N/128540.html'>芥末堆 : 新东方升级大学生业务，俞敏洪称不是转型而是回归</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大规模粒子数据的计算属性的交互选择(Interactive Selection on Calculated Attributes of Large-Scale Particle Data)]]></title>
+        <id>http://vis.pku.edu.cn/blog/interactiveselectiononparticledata/</id>
+        <link href="http://vis.pku.edu.cn/blog/interactiveselectiononparticledata/"/>
+        <updated>2021-09-25T12:37:40.000Z</updated>
+        <summary type="html"><![CDATA[一种使用计算属性进行选择的方法是在模拟过程中实时计算并根据属性选择粒子，然而如果计算所有粒子的属性，模拟时需要分配更多的内存空间并使用更长的时间 ... 首先在包含新选择粒子的小格中，检查小格内部未选择的粒子，如果满足扩展的条件，则对其进行标记，并将符合条件选择的状态为未选择的粒子的状态转换为新选择，将用来检查扩展条件的新选择粒子状态转换为被选择 ... 首先将第三步中标记为external的邻居]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micronaut, Quarkus, and Spring Boot Help You Develop Native Java Apps]]></title>
+        <id>https://dzone.com/articles/micronaut-quarkus-and-spring-boot-help-you-develop</id>
+        <link href="https://dzone.com/articles/micronaut-quarkus-and-spring-boot-help-you-develop"/>
+        <updated>2021-09-25T12:29:42.000Z</updated>
+        <summary type="html"><![CDATA[For decades, Java has been able to Invoke native programs on an operating system. JNI (Java Native Interface) and JNA (Java Native API) are commonly used to Invoke native programs (Java Native Access)]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATISFIMAL LAYOUT：一种分层节点链接网络可视化的模块化优化模型（STRATISFIMAL LAYOUT: A Modular Optimization Model for Laying out Layered Node-Link Network Visualizations）]]></title>
+        <id>http://vis.pku.edu.cn/blog/stratisfimal-layout/</id>
+        <link href="http://vis.pku.edu.cn/blog/stratisfimal-layout/"/>
+        <updated>2021-09-25T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[本文关注于计算网络的分层布局，在这种布局中，节点被排列在一组平行的轴上，来更好地展示层次或顺序关系 ... 本文提出了STRATISFIMAL LAYOUT [2]，一种模块化优化模型来计算最优的节点布局 ... 最小化边交叉：边交叉会对网络可视化的可读性产生严重的负面影响，因此，调整节点位置使边交叉的数量最小化是最优先的优化目标。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【春天的放牛班】观影团周限定——《灵媒》 (评论: 灵媒)]]></title>
+        <id>https://movie.douban.com/review/13884915/</id>
+        <link href="https://movie.douban.com/review/13884915/"/>
+        <updated>2021-09-25T12:22:31.000Z</updated>
+        <summary type="html"><![CDATA[野凡评论: 灵媒 (http://movie.douban.com/subject/35208823/)
+评价: 推荐
+
+{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"thumb":"https://img9.doubanio.com/view/thing_re...]]></summary>
+        <author>
+            <name>野凡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubbo3.0｜阿里巴巴服务框架三位一体的选择与实践]]></title>
+        <id>https://juejin.cn/post/7011842777520537608</id>
+        <link href="https://juejin.cn/post/7011842777520537608"/>
+        <updated>2021-09-25T12:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Dubbo3.0 是 Dubbo2.0 与 HSF 融合而来，是阿里经济体面向内部业务、商业化、开源的唯一标准服务框架。]]></summary>
+        <author>
+            <name>阿里巴巴云原生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 GPT-3 Tools for Developers, software and DevOps Engineers, and SREs]]></title>
+        <id>https://dzone.com/articles/3-gpt-3-tools-for-developers-software-engineers-de</id>
+        <link href="https://dzone.com/articles/3-gpt-3-tools-for-developers-software-engineers-de"/>
+        <updated>2021-09-25T12:08:24.000Z</updated>
+        <summary type="html"><![CDATA[GPT-3 is a neural network model that is trained to generate meaningful sentences. It has been observed that the generated sentences are of high quality and, when reading them, it rarely occurs to anyo]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于单元测试你不知道的那些事]]></title>
         <id>https://juejin.cn/post/7011839206427197477</id>
@@ -13,26 +866,6 @@
         <summary type="html"><![CDATA[`服务、粘合代码和存储`一般都是严格的访问代码（其特征是简单的顺序调用），这些不需要做单元测试。 而恰恰是这些代码，需要和很多的环境相关的上下文打交道来交换数据，所以也很难做单元测试，需要Mock很多]]></summary>
         <author>
             <name>webmote33</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟晚舟乘飞机即将抵达深圳，将按入境隔离政策隔离]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8070420.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8070420.shtml"/>
-        <updated>2021-09-25T11:56:29.000Z</updated>
-        <summary type="html"><![CDATA[南都记者注意到，从2018年12月1日，孟晚舟在加拿大温哥华机场被捕，到2021年9月24日，时间已经过去近三年1000多天 ... 孟晚舟在获释后发表简短讲话，表示：感谢我的祖国和祖国的人民，感谢你们的支持和帮助 ... 南都记者了解到，孟晚舟回到深圳后，将按照目前的“14+7”入境隔离政策，集中隔离14天后，再加7天不限制外出的小区管理。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在抖音电商，达人成为一门新职业了]]></title>
-        <id>http://www.geekpark.net/news/286423</id>
-        <link href="http://www.geekpark.net/news/286423"/>
-        <updated>2021-09-25T11:55:41.000Z</updated>
-        <summary type="html"><![CDATA[数据证明，在抖音电商平台上，很多垂直领域下的电商达人已经成长起来，他们为产品打开新的销路，成为品牌可以倚靠的重要力量 ... 这次抖音电商推出 DREAM UP 计划在能力、货品、流量侧帮助抖音电商达人 ... 平台带动了达人生态的繁荣，越来越多「干一件事业」而非「赚一份快钱」的达人让整个电商带货行业有了更强的基石，以此实现另一种正向的循环。]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -59,46 +892,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[摩托罗拉G Pure和Moto E40官方图片在发布前泄露]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1183419.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1183419.htm"/>
-        <updated>2021-09-25T11:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Moto G Pure和Moto E40之前已经在泄漏信息中出现，现在我们得到了另一轮官方渲染图 ... 我们已经对它的规格表有了相当多的了解，预计Moto G Pure将使用Helio G25芯片组，也可能是P22，基本配置为4GB内存和32GB存储 ... 在相机方面，G Pure可能会有一个4800万像素的主摄像头和一个200万像素的深度传感器，正面有一个500万像素的自拍相机，乎被安置在一]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟晚舟获释，深圳机场聚集大批群众欢迎孟晚舟回国（图）]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8069840.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8069840.shtml"/>
-        <updated>2021-09-25T11:50:47.000Z</updated>
-        <summary type="html"><![CDATA[记者崔萌]2021年9月25日，广东深圳 ... 宝安国际机场T3航站楼国际到达大厅，聚集了大量媒体和自发前来欢迎孟晚舟女士回国的人群，记者看到，今晚，只有温哥华起飞的国航CA552一班国际航班将降落宝安机场。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳亮灯欢迎孟晚舟回家，愿前路风平浪静]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8068754.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt8068754.shtml"/>
-        <updated>2021-09-25T11:47:08.000Z</updated>
-        <summary type="html"><![CDATA[“回家”二字，富有内涵，无数人之所以喜极而泣，就在于早就把孟晚舟当成了亲人 ... 就在8月26日——孟晚舟被加拿大非法拘押1000天之际，中国驻加拿大大使丛培武与孟晚舟通电话，除了表达深切慰问，请她坚定信心之外，还对加方错误行径予以严厉谴责 ... 欢迎孟晚舟回家，更愿晚舟归来后，前路风平浪静，不再起风波、风浪。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Galaxy S22 branding rumor calls for 'Note 22 Ultra' and 'S22 Pro' Model S]]></title>
-        <id>https://www.phonearena.com/news/galaxy-s22-branding-rumor-calls-for-note-22-ultra-s22-pro_id135305</id>
-        <link href="https://www.phonearena.com/news/galaxy-s22-branding-rumor-calls-for-note-22-ultra-s22-pro_id135305"/>
-        <updated>2021-09-25T11:43:16.000Z</updated>
-        <summary type="html"><![CDATA[the Galaxy Note 22 Ultra and Galaxy S22 Pro could be released alongside the Galaxy S22.]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[深入理解 redux 数据流和异步过程管理]]></title>
         <id>https://juejin.cn/post/7011835078594527263</id>
         <link href="https://juejin.cn/post/7011835078594527263"/>
@@ -109,81 +902,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[孟晚舟所乘航班已进入中国空域]]></title>
-        <id>https://www.pingwest.com/w/250297?utm_source=feed</id>
-        <link href="https://www.pingwest.com/w/250297?utm_source=feed"/>
-        <updated>2021-09-25T11:03:20.000Z</updated>
-        <summary type="html"><![CDATA[据央视新闻，搭载孟晚舟一行的中国政府包机已进入中国空域。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝尔金帝瓦雷 Elite 智能音箱体验：他们想做的，是一个音质比肩 HomePod 的无线充电器？]]></title>
-        <id>https://www.ifanr.com/1443620?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1443620?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-09-25T10:59:16.000Z</updated>
-        <summary type="html"><![CDATA[这是一款整合了无线充电器和智能音箱功能，主打居家场景的无线设备 ...  Sam，Belkin SOUNDFORM ELITE 搭载了两个 60W 低频单元，并用上类似帝瓦雷 Phantom 音箱的「PUSH-PUSH」双低频扬声器结构 ... 考虑到音箱的整体体积，以及还要给无线充电模块预留空间，Belkin SOUNDFORM ELITE 只用上了「2 低频 + 1 全频」的单元搭配，全频作为]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国庆假期缩短至3天？部分车站要查验核酸证明，十一出行注意]]></title>
-        <id>https://tech.ifeng.com/c/89pWnOcmi3F</id>
-        <link href="https://tech.ifeng.com/c/89pWnOcmi3F"/>
-        <updated>2021-09-25T10:51:54.000Z</updated>
-        <summary type="html"><![CDATA[根据疫情防控形势需要，部分火车站需查验48小时内核酸检测阴性证明，出行前请提前了解目的地要求 ... 确需外出，通过哈尔滨太平国际机场、铁路、公路以及客运站出行的人员，应及时了解目的地疫情防控工作要求，持48小时内核酸检测阴性证明，并做好自身防护 ... 根据福建省《关于进一步做好省内发生本土疫情地区交通出行疫情防控工作的通知》要求，发生本土疫情地区的群众，乘坐火车、动车、飞机等公共交通工具出省的]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企业级springboot落地：连接内外网邮箱，实现邮件提醒功能]]></title>
-        <id>https://juejin.cn/post/7011821818830913550</id>
-        <link href="https://juejin.cn/post/7011821818830913550"/>
-        <updated>2021-09-25T10:50:38.000Z</updated>
-        <summary type="html"><![CDATA[在调用过mq后，或者事件办完后，经常有邮件通知提醒的需求。而springboot也提供了start，只需要按照要求调用方法即可。但是网络上大多事如何调用外网邮箱的博文，本文将分别实现如何调用内外网邮件]]></summary>
-        <author>
-            <name>小黄鸡1992</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“我的世界”和“堡垒之夜”让小孩重新爱上学习]]></title>
-        <id>https://www.jiemodui.com/N/128533.html</id>
-        <link href="https://www.jiemodui.com/N/128533.html"/>
-        <updated>2021-09-25T10:42:21.000Z</updated>
-        <summary type="html"><![CDATA[有些教育工作者很讽刺地认为，解决在线学习缺失的办法就是简单的增加在线学习，但Fleming和他的学生表示，游戏设计和其他科技类话题可以很好地被转化成类似于Zoom这样的在线空间 ... 他领导Epic Games的教育推广工作，该公司是广受欢迎的《堡垒之夜》系列游戏的创造者 ... 现在，他们会让学生在曾被用于制作《堡垒之夜》(Fortnite)的虚幻引擎(Unreal Engine)中学习。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S22系列外形尺寸细节曝光：轻至167g/四边等宽]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1183409.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1183409.htm"/>
-        <updated>2021-09-25T10:38:41.000Z</updated>
-        <summary type="html"><![CDATA[数码博主@i冰宇宙曝光了三星Galaxy S22系列的细节 ... 其中Galaxy S22定位轻薄，重量只有167g，而Galaxy S22+则是四边等宽的设计 ... 按照惯例，Galaxy S22系列将会搭载高通下一代旗舰处理器骁龙898（全球首批搭载），另一版本则搭载Exynos 2200处理器，后者集成了AMD GPU。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果iPad mini6被质疑竖屏存在“果冻屏”问题]]></title>
-        <id>https://www.pingwest.com/w/250296?utm_source=feed</id>
-        <link href="https://www.pingwest.com/w/250296?utm_source=feed"/>
-        <updated>2021-09-25T10:19:02.000Z</updated>
-        <summary type="html"><![CDATA[有业内专家在接受《科创板日报》采访时表示，这一问题产生原因或为硬件安装影响了屏幕刷新方向，比如手机通常是上下刷新因而感知不明显 ... 屏幕出厂前横竖方向都会经过测试，“这一批产品或许也有良率的问题”。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国药集团中国生物复诺健mRNA疫苗产业化基地落地上海]]></title>
-        <id>https://36kr.com/newsflashes/1413819740034696</id>
-        <link href="https://36kr.com/newsflashes/1413819740034696"/>
-        <updated>2021-09-25T10:11:48.000Z</updated>
-        <summary type="html"><![CDATA[国药集团中国生物复诺健mRNA疫苗产业化基地开工仪式25日在上海举行 ... 该基地总建筑面积超过3.25万平方米，生产车间将超过1.6万平方米，竣工投产后将成为国内设计产能、技术方面领先的mRNA疫苗生产车间。]]></summary>
+        <title type="html"><![CDATA[AWS Web Application and DDoS Resiliency]]></title>
+        <id>https://dzone.com/articles/aws-web-application-amp-ddos-resiliency</id>
+        <link href="https://dzone.com/articles/aws-web-application-amp-ddos-resiliency"/>
+        <updated>2021-09-25T11:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Let ME start by explaining the term "DDoS" and then we will get into how AWS helps in creating resiliency against these kinds of attacks.
+DDoS
+DDoS stands for ‘Distributed Denial of Service’ attack in]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -212,16 +937,6 @@ INSERT INTO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[设计模式[一] 单例模式]]></title>
-        <id>https://juejin.cn/post/7011808553182691359</id>
-        <link href="https://juejin.cn/post/7011808553182691359"/>
-        <updated>2021-09-25T09:58:46.000Z</updated>
-        <summary type="html"><![CDATA[单例模式是一种常见的模式，有一个对象我们往往只需要一个，比如线程池、全局缓存、浏览器中的window对象等。在JavaScript开发中，单例模式用途同样广泛。]]></summary>
-        <author>
-            <name>漆黑之牙_</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[for 循环，while 循环，do…while 循环和其他 JavaScript 循环-比较和性能]]></title>
         <id>https://juejin.cn/post/7011807461849956366</id>
         <link href="https://juejin.cn/post/7011807461849956366"/>
@@ -242,41 +957,11 @@ INSERT INTO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[☕【Java技术指南】「JPA编程专题」让你不再对JPA技术中的“持久化型注解”感到陌生了！]]></title>
-        <id>https://juejin.cn/post/7011807105757741070</id>
-        <link href="https://juejin.cn/post/7011807105757741070"/>
-        <updated>2021-09-25T09:56:19.000Z</updated>
-        <summary type="html"><![CDATA[小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 JPA的介绍分析 Java持久化API (JPA) 显著简化了Java Bean的持久性并提供了一个对象关系映射方法，该方法使您可以采用声明]]></summary>
-        <author>
-            <name>李浩宇Alex</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[蚂蚁集团自研“摩斯隐私计算一体机”在乌镇正式发布]]></title>
         <id>https://tech.ifeng.com/c/89pCiDQFDei</id>
         <link href="https://tech.ifeng.com/c/89pCiDQFDei"/>
         <updated>2021-09-25T09:56:02.000Z</updated>
         <summary type="html"><![CDATA[<p>蚂蚁集团正式对外发布由旗下蚂蚁链团队研发的摩斯隐私计算一体机，为实现“数据可用不可见”增加新的行业实践 ... 隐私计算是通过使用加密处理、多方计算等方法来处理客户隐私数据，可实现“数据可用不可见”，是平衡数据利用与安全的重要路径之一，在全球数字经济迅速发展的大背景下，隐私计算作为数据安全领域的关键技术广受业界关注 ... 蚂蚁链方面介绍，摩斯一体机内嵌蚂蚁自研的业界首款多方安全计算算法加速卡，计算性能提升了数十倍。</p><p><a href='https://tech.ifeng.com/c/89pCiDQFDei'>凤凰科技 : 蚂蚁集团自研“摩斯隐私计算一体机”在乌镇正式发布</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[途牛面试总结（笔试+技术面）]]></title>
-        <id>https://juejin.cn/post/7011806170838990855</id>
-        <link href="https://juejin.cn/post/7011806170838990855"/>
-        <updated>2021-09-25T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[笔试 基础偏多 局部变量作为参数传入一个方法，修改之后，对外面的变量没有影响 78+78=123,是几进制运算的结果 13进制，来自牛客网 两个接口，一个接口m方法抛()，第二接口m方法抛()，继承他]]></summary>
-        <author>
-            <name>晚拜拜了安</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国科研人员研发出新型快充锂电池 充满电只需5分钟]]></title>
-        <id>https://tech.ifeng.com/c/89pSw1kBA4r</id>
-        <link href="https://tech.ifeng.com/c/89pSw1kBA4r"/>
-        <updated>2021-09-25T09:50:09.000Z</updated>
-        <summary type="html"><![CDATA[北京低碳清洁能源研究院院长卫昶分享环保技术如何应用于百姓生活 ... 卫昶介绍，北京低碳院的研究人员自主研发了一款新型快充锂电池，可以在5分钟内充好电，目前电池正在两轮电动车上试用，未来这项技术也可以用在新能源汽车上。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -292,66 +977,6 @@ INSERT INTO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8岁男童玩食品干燥剂引发爆炸致右眼失明]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1183405.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1183405.htm"/>
-        <updated>2021-09-25T09:46:39.000Z</updated>
-        <summary type="html"><![CDATA[近日，一名8岁男孩将食品干燥剂放进了有水的饮料瓶里，引发爆炸 ... 孩子后来坦承，他吃零食时发现包装里有小包干燥剂，好奇拿出来闻了闻后，把干燥剂丢入饮料瓶中，没想到一放进去就爆炸，一瞬间感觉到有东西喷进右眼，剧痛后就什么都看不到了 ... 食品中常用生石灰干燥剂，主要成分为氧化钙，遇水会发生化学反应，生成氢氧化钙，并释放大量热量。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[javascript 路线图—聊一聊 Hoisting(上)]]></title>
-        <id>https://juejin.cn/post/7011805399976247332</id>
-        <link href="https://juejin.cn/post/7011805399976247332"/>
-        <updated>2021-09-25T09:46:37.000Z</updated>
-        <summary type="html"><![CDATA[hoisting 翻译过来是变量提升，也就是变量和函数的声明会在物理层面移动到代码的最前面，其实并不是真的把代码移动到了最前面而是编译阶段进行了优化。]]></summary>
-        <author>
-            <name>zidea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端根据图片平均色值生成文字最佳显示颜色]]></title>
-        <id>https://juejin.cn/post/7011805353260089375</id>
-        <link href="https://juejin.cn/post/7011805353260089375"/>
-        <updated>2021-09-25T09:46:25.000Z</updated>
-        <summary type="html"><![CDATA[根据图片部分区域的平均色值，判断其YIQ值，通过这个值判断图片色彩是偏黑色系还是白色系。从而判断文本应该是黑色还是白色，基于哪个会具有更高的对比度，以此来提供最佳的可读性。]]></summary>
-        <author>
-            <name>chanceyliu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界首富又换人，亚马逊老板被挤下榜首，特斯拉掌门人马斯克登顶]]></title>
-        <id>https://tech.ifeng.com/c/89pRozIsQrD</id>
-        <link href="https://tech.ifeng.com/c/89pRozIsQrD"/>
-        <updated>2021-09-25T09:45:05.000Z</updated>
-        <summary type="html"><![CDATA[福布斯实时富豪榜数据显示，特斯拉CEO马斯克(Elon Musk)超过亚马逊创始人杰夫.贝索斯成为新的世界首富 ... 截至目前，马斯克身家为1996亿美元，位列福布斯世界富豪榜榜首 ... 值得关注的是，9月25日，据环球时报援引外媒消息，马斯克和女友Grimes在交往三年之后分手了。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[leetcode每日一题系列-两个字符串的删除操作-「序列DP+LCS」-「序列DP」]]></title>
-        <id>https://juejin.cn/post/7011804783669411877</id>
-        <link href="https://juejin.cn/post/7011804783669411877"/>
-        <updated>2021-09-25T09:44:50.000Z</updated>
-        <summary type="html"><![CDATA[leetcode-583-两个字符串的删除操作 [博客链接] 菜🐔的学习之路 掘金首页 [题目链接] 题目链接 [github地址] github地址 [题目描述] 给定两个单词 word1 和 wo]]></summary>
-        <author>
-            <name>saberlgy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZLMediaKit流媒体(一)编译安装]]></title>
-        <id>https://juejin.cn/post/7011803866941358117</id>
-        <link href="https://juejin.cn/post/7011803866941358117"/>
-        <updated>2021-09-25T09:40:33.000Z</updated>
-        <summary type="html"><![CDATA[小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 环境 ubuntu 18.04 64bit ZLMediaKit 20210924 ffmpeg 3.4.8 前言 ZLMediaKit 是]]></summary>
-        <author>
-            <name>迷途小书童的Note</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Incident Review – AWS Outage Led To Spikes In Response Times For Applications Using AWS Services]]></title>
         <id>https://dzone.com/articles/incident-review-aws-outage-led-to-spikes-in-respon-1</id>
         <link href="https://dzone.com/articles/incident-review-aws-outage-led-to-spikes-in-respon-1"/>
@@ -359,16 +984,6 @@ INSERT INTO
         <summary type="html"><![CDATA[On Tuesday, August 31, users across large parts of the West coast (US-West-2 region) were impacted by Major spikes in response time. Some of AWS’ most critical services were affected, including Lambda]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarama 源码阅读(一): 客户端是如何与 broker 通信的]]></title>
-        <id>https://juejin.cn/post/7011803117888995364</id>
-        <link href="https://juejin.cn/post/7011803117888995364"/>
-        <updated>2021-09-25T09:38:10.000Z</updated>
-        <summary type="html"><![CDATA[本节介绍了Go Kafka 客户端 Sarama 是如何与远程 broker通信的, 具体指如何发送请求并回收响应, 这也是之后 Sarama 实现功能的基础]]></summary>
-        <author>
-            <name>碧空尽</name>
         </author>
     </entry>
     <entry>
@@ -395,26 +1010,6 @@ INSERT INTO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C++中的I/O重定向]]></title>
-        <id>https://juejin.cn/post/7011801787015380999</id>
-        <link href="https://juejin.cn/post/7011801787015380999"/>
-        <updated>2021-09-25T09:35:29.000Z</updated>
-        <summary type="html"><![CDATA[小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 在 C 中，我们可以使用函数freopen()将现有的 FILE 指针重定向到另一个流。freopen() 的原型为  例如，要将标准输出重]]></summary>
-        <author>
-            <name>鲸落_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软Edge 94稳定版发布 迎来新的四周发布周期和"扩展稳定"通道]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1183395.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1183395.htm"/>
-        <updated>2021-09-25T09:33:58.000Z</updated>
-        <summary type="html"><![CDATA[微软在3月份解释说，这种更快的发布周期将为Edge用户带来更密集的新功能，但该公司还为企业用户提供了一个新的8周"扩展稳定"发布周期选项，每两周进行一次安全更新 ... 要选择8周的"扩展稳定"发布周期选项，IT管理员将需要使用组策略或通过微软端点管理器中的Intune选择新的渠道选项 ... 该公司解释说，微软Edge稳定版的8周"扩展稳定"发布周期选项将从微软Edge 94开始提供与偶数版一致]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国家能源局局长章建华：我国基本建成多轮驱动的能源稳定供应体系]]></title>
         <id>https://36kr.com/newsflashes/1413782505674370</id>
         <link href="https://36kr.com/newsflashes/1413782505674370"/>
@@ -422,116 +1017,6 @@ INSERT INTO
         <summary type="html"><![CDATA[国家能源局局长章建华25日表示，党的十八大以来，我国能源供应保障能力不断增强，基本建成了多轮驱动的能源稳定供应体系，能源自主保障能力始终保持在80%以上。（新华财经）]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型高效光学“晶体管”有望让计算速度提升1000倍]]></title>
-        <id>https://www.cnbeta.com/articles/science/1183393.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1183393.htm"/>
-        <updated>2021-09-25T09:33:07.000Z</updated>
-        <summary type="html"><![CDATA[省电和无需额外冷却，其速度还提升到了每秒 1 万亿次，较当前顶级商用晶体管领先 100~1000 倍 ... 大多数现代电子晶体管都需要数十倍的能量才能完成切换，而单电子方案又较高效晶体管要慢得多 ... 从更宏观的角度来看，研究人员认为他们打造的新型“光晶体管”，只不过是过去几年组装的不断增长的全光学组件工具包的其中一个。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟晚舟律师发表声明：期待14个月后对她的指控被完全撤销]]></title>
-        <id>https://www.jiemian.com/article/6637879.html</id>
-        <link href="https://www.jiemian.com/article/6637879.html"/>
-        <updated>2021-09-25T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[针对孟晚舟回国消息，孟晚舟律师William W. Taylor, III发表声明：我很高兴孟晚舟女士与美国司法部达成了暂缓起诉协议，且该协议已获得纽约东区法院法官ANN M. Donnelly的批准 ... 根据该协议条款，她不会被美国进一步起诉，加拿大的引渡程序将会终止 ... 孟女士没有认罪，我们十分期待14个月后对她的指控将被完全撤销。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13系列京东到家首销日：销售额同比iPhone 12增470%]]></title>
-        <id>https://36kr.com/newsflashes/1413780826150528</id>
-        <link href="https://36kr.com/newsflashes/1413780826150528"/>
-        <updated>2021-09-25T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[9月24日，iPhone 13系列新机在达达集团旗下本地即时零售平台京东到家首发开售。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone13系列京东到家首销日：销售额同比iPhone12增470%]]></title>
-        <id>https://36kr.com/newsflashes/1413780826150528</id>
-        <link href="https://36kr.com/newsflashes/1413780826150528"/>
-        <updated>2021-09-25T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[9月24日，iPhone 13系列新机在达达集团旗下本地即时零售平台京东到家首发开售。截至首销当日18时，iPhone 13系列在京东到家平台的销售额同比iPhone 12首销日增长470%，开售1小时销量即超800台。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克：芯片短缺是短期问题而非长期问题]]></title>
-        <id>https://36kr.com/newsflashes/1413780096521864</id>
-        <link href="https://36kr.com/newsflashes/1413780096521864"/>
-        <updated>2021-09-25T09:31:29.000Z</updated>
-        <summary type="html"><![CDATA[近日，马斯克在意大利参加一场直播活动时表示：“有很多芯片制造厂正在建设中，我认为到明年我们会有很好的产能。”此前，芯片企业英特尔和台积电已经宣布了在美国建设新工厂的计划，但预计几年内还不会上线。 (CNBC)]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科兴控股：有不法分子以子公司名义诈骗，已向公安部门报案]]></title>
-        <id>https://36kr.com/newsflashes/1413779449173382</id>
-        <link href="https://36kr.com/newsflashes/1413779449173382"/>
-        <updated>2021-09-25T09:30:49.000Z</updated>
-        <summary type="html"><![CDATA[近日有不法分子以科兴控股旗下子公司北京科兴中维生物技术有限公司（“科兴中维”）的名义，通过微信群等个人渠道散布投资科兴中维股权可获取融资分红收益等内容的诈骗信息。科兴中维已就此向属地公安部门报案。科兴控股郑重声明：科兴控股及其旗下的任何一家子公司从未发布过投资科兴中维股权可获取融资分红收益等内容的信息；科兴控股及其旗下子公司从未也绝不会通过微信群这样的非官方渠道发布任何有关科兴控股及其旗下子公司的任何信息。（证券时报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lox in Rust - 开坑]]></title>
-        <id>https://juejin.cn/post/7011800497145249799</id>
-        <link href="https://juejin.cn/post/7011800497145249799"/>
-        <updated>2021-09-25T09:30:11.000Z</updated>
-        <summary type="html"><![CDATA[用 Rust 实现一下 [craftinginterpreters](http://www.craftinginterpreters.com/)，这本书后面的垃圾回收使用得是标记清除算法，最近也在看]]></summary>
-        <author>
-            <name>飲馬江南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[❤️【python入门项目】使用 Tkinter 的 Python 日历 GUI 应用程序❤️]]></title>
-        <id>https://juejin.cn/post/7011800472663097380</id>
-        <link href="https://juejin.cn/post/7011800472663097380"/>
-        <updated>2021-09-25T09:28:41.000Z</updated>
-        <summary type="html"><![CDATA[在 Python 中，我们可以使用 Tkinter 制作 GUI。如果你非常有想象力和创造力，你可以用 Tkinter 做出很多有趣的东西。在这里，我们将使用 Tkinter 制作一个 Python]]></summary>
-        <author>
-            <name>海拥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海南印发科技型中小企业认定管理暂行办法 入库企业最高奖励5万元]]></title>
-        <id>https://36kr.com/newsflashes/1413777268381062</id>
-        <link href="https://36kr.com/newsflashes/1413777268381062"/>
-        <updated>2021-09-25T09:28:36.000Z</updated>
-        <summary type="html"><![CDATA[近日，《海南省科技型中小企业认定管理暂行办法》印发。据了解，海南省科技型中小企业经认定后将纳入海南省科技型中小企业库进行管理。入库的企业，由市县制定资助资金管理办法，鼓励市县财政根据科技研发投入情况给予每家最高不超过5万元奖励。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想汽车：理想汽车已经在全国拥有137家直营零售中心]]></title>
-        <id>https://36kr.com/newsflashes/1413776534771078</id>
-        <link href="https://36kr.com/newsflashes/1413776534771078"/>
-        <updated>2021-09-25T09:27:51.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，理想汽车在其官方微博发布消息称，理想汽车已经在全国拥有137家直营零售中心。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10初级 - Java对象系统基础]]></title>
-        <id>https://juejin.cn/post/7011797492102594573</id>
-        <link href="https://juejin.cn/post/7011797492102594573"/>
-        <updated>2021-09-25T09:16:35.000Z</updated>
-        <summary type="html"><![CDATA[对象基本概念：成员与初始化 什么是对象，对象就是数据和行为的集合 判断是否是对象的标准 new 运算符创造出来的都是对象。 特例装箱拆箱Integer a = 1; 对象由什么组成 所有的对象都在堆上]]></summary>
-        <author>
-            <name>snakeshe1010</name>
         </author>
     </entry>
     <entry>
@@ -565,28 +1050,6 @@ INSERT INTO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为公司发表声明：期待孟晚舟尽快安全回国]]></title>
-        <id>https://36kr.com/newsflashes/1413719335327111</id>
-        <link href="https://36kr.com/newsflashes/1413719335327111"/>
-        <updated>2021-09-25T08:29:40.000Z</updated>
-        <summary type="html"><![CDATA[华为公司发表声明：我们期待孟晚舟尽快安全回国，与家人团聚。华为将继续在美国纽约东区联邦地区法院的公司诉讼中维护自己的权利。（央视新闻）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serialize Access to a Shared Resource in Distributed Systems With DLM]]></title>
-        <id>https://dzone.com/articles/serialize-access-to-a-shared-resource-in-distribut</id>
-        <link href="https://dzone.com/articles/serialize-access-to-a-shared-resource-in-distribut"/>
-        <updated>2021-09-25T08:10:19.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Koshu Kunii on Unsplash
-Scenario
-Imagine in our application we need to update a value that is shared between all requests. It means we should control concurrent requests for manipulating this]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021中国民营企业500强出炉：华为、京东、恒力跻身营收前三甲]]></title>
         <id>https://www.tmtpost.com/nictation/5717785.html</id>
         <link href="https://www.tmtpost.com/nictation/5717785.html"/>
@@ -594,26 +1057,6 @@ Imagine in our application we need to update a value that is shared between all 
         <summary type="html"><![CDATA[<p>制造业民营企业500强入围门槛达100.51亿元，比上年增加11.33亿元 ... 从营收方面来看，今年13家企业营业收入超3000亿元，其中，华为投资控股有限公司（8913.68亿元）、京东集团（7686.24亿元）、恒力集团有限公司（6953.36亿元）、正威国际集团有限公司（6919.37亿元）、阿里巴巴（中国）有限公司（6442.08亿元）等5家企业营业收入超过6000亿元 ... 据全国工商联介绍，华为投资控股有限公司以8913.68亿元的营业收入规模，连续六年位居民营企业500强榜首、制造业民营企业500强榜首。</p><p><a href='https://www.tmtpost.com/nictation/5717785.html'>钛媒体 : 2021中国民企500强：华为连续六年第一，恒大缺席</a></p><p><a href='https://tech.ifeng.com/c/89pAHVLnWoy'>凤凰科技 : 2021中国民企500强：华为连续六年第一 恒大缺席</a></p><p><a href='https://tech.ifeng.com/c/89pImJULCzy'>凤凰科技 : 2021中国民营企业500强出炉：华为、京东、恒力跻身营收前三甲</a></p>]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电气装备集团有限公司与上海签约]]></title>
-        <id>https://36kr.com/newsflashes/1413682987341444</id>
-        <link href="https://36kr.com/newsflashes/1413682987341444"/>
-        <updated>2021-09-25T07:52:42.000Z</updated>
-        <summary type="html"><![CDATA[据上海发布，中国电气装备集团有限公司成立大会今天在上海举行。随后举行的签约仪式上，上海市委常委、副市长吴清，中国电气装备集团总经理周群代表双方签署战略合作协议。根据协议，双方将充分发挥中国电气装备集团在电气装备和先进储能、清洁能源发电与并网、海上风电等战略性产业上的优势，推动集团创新发展资源在沪集聚，合力打造世界级先进制造业集群，助力上海加快建设具有世界影响力的社会主义现代化国际大都市。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工信部部长肖亚庆：坚持单车智能和网联赋能并行 推动智能网联汽车产业高质量发展]]></title>
-        <id>https://36kr.com/newsflashes/1413681140946306</id>
-        <link href="https://36kr.com/newsflashes/1413681140946306"/>
-        <updated>2021-09-25T07:50:49.000Z</updated>
-        <summary type="html"><![CDATA[9月25日，工信部党组书记、部长肖亚庆出席2021世界智能网联汽车大会并致辞。肖亚庆表示，我们要把发展智能网联汽车作为重要战略方向，坚持单车智能和网联赋能并行发展路径，推动智能网联汽车产业实现高质量发展。肖亚庆强调，我国智能网联汽车发展正从测试验证转向多场景示范应用新阶段。要加快规模化示范应用，以城市/区域为载体，深化“车-路-网-云”协同发展，扩大北斗导航、5G通信等技术和产品应用。]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -627,33 +1070,26 @@ Imagine in our application we need to update a value that is shared between all 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL Server Index Maintenance for Enterprise Environments]]></title>
-        <id>https://dzone.com/articles/sql-server-index-maintenance-for-enterprise-enviro</id>
-        <link href="https://dzone.com/articles/sql-server-index-maintenance-for-enterprise-enviro"/>
-        <updated>2021-09-25T07:49:47.000Z</updated>
-        <summary type="html"><![CDATA[SQL indexes allow you to improve the performance of queries. However, if you do not maintain the indexes on a regular Basis, the database will become Slow. Implementing indexes for Enterprise environ]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊或于今秋推出大屏壁挂Echo智能设备和条形音箱]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1183361.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1183361.htm"/>
-        <updated>2021-09-25T07:29:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>亚马逊即将于下周二举办一场与新设备、功能和服务有关的发布会，其中就包括几款支持 Alexa 交互的智能设备产品线更新 ... 其中一款设备的代号为 Hoya，官方宣称它是配备了 15 英寸显示屏的大号 Echo 智能扬声器 ... 至于 Echo 家族的经典阵容，该公司已经在去年刷新了 Echo、Echo Show 和 Echo Dot。</p><p><a href='https://www.cnbeta.com/articles/tech/1183361.htm'>CNBeta : 亚马逊或于今秋推出大屏壁挂Echo智能设备和条形音箱</a></p><p><a href='https://www.theverge.com/2021/9/24/22691287/amazon-echo-alexa-devices-wall-mounted-soundbar-auto-robot'>The Verge : Amazon is reportedly working on an Alexa-powered soundbar and wall-mounted Echo</a></p><p><a href='https://www.slashgear.com/heres-what-amazons-big-alexa-event-could-bring-with-some-surprises-24692317/'>SlashGear : Here’s what Amazon’s Big Alexa event could bring – with some surprises</a></p><p><a href='https://mashable.com/article/amazon-echo-hoya?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29'>Mashable : Amazon reportedly wants to put a massive Echo on your wall</a></p><p><a href='https://www.phonearena.com/news/amazon-working-on-new-echo-devices-wearables-custom-chipsets_id135289'>Phone Arena : Amazon working on several new Echo devices, wearables, custom chipsets</a></p><p><a href='https://gizmodo.com/amazon-wants-to-put-a-giant-echo-on-your-wall-1847738440'>Gizmodo : Amazon Wants to Put a Giant Echo On Your Wall</a></p><p><a href='https://www.digitaltrends.com/home-theater/amazon-alexa-soundbar-camera-rumor/'>Digital Trends : A crotch-level Alexa Camera doesn’t sound like a great idea</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[迪士尼旗下漫威部门提起诉讼，希望保住多个复仇者联盟角色的版权]]></title>
         <id>https://www.cnbeta.com/articles/tech/1183357.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1183357.htm"/>
         <updated>2021-09-25T07:25:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>据外媒，迪士尼旗下的漫威部门提起诉讼，要求保住复仇者联盟角色包括钢铁侠、蜘蛛侠、奇异博士、蚁人、鹰眼、黑寡妇、猎鹰等的版权 ... 如果漫威输了，这些角色版权到期后，创造者的后人可能能拿回属于创造者的版权 ... 上个月，蜘蛛侠的创造者之一Steve Ditko的遗产委员会发布蜘蛛侠的版权到期提醒，称漫威将在2023年6月失去Ditko对该角色的版权。</p><p><a href='https://www.cnbeta.com/articles/tech/1183357.htm'>CNBeta : 迪士尼旗下漫威部门提起诉讼 希望保住多个复仇者联盟角色的版权</a></p><p><a href='https://www.theverge.com/2021/9/24/22691842/disney-marvel-sues-comic-artist-iron-man-avengers'>The Verge : Disney sues to keep its Avengers copyrights assembled</a></p>]]></summary>
+        <summary type="html"><![CDATA[<p>据外媒，迪士尼旗下的漫威部门提起诉讼，要求保住复仇者联盟角色包括钢铁侠、蜘蛛侠、奇异博士、蚁人、鹰眼、黑寡妇、猎鹰等的版权 ... 如果漫威输了，这些角色版权到期后，创造者的后人可能能拿回属于创造者的版权 ... 上个月，蜘蛛侠的创造者之一Steve Ditko的遗产委员会发布蜘蛛侠的版权到期提醒，称漫威将在2023年6月失去Ditko对该角色的版权。</p><p><a href='https://www.cnbeta.com/articles/tech/1183357.htm'>CNBeta : 迪士尼旗下漫威部门提起诉讼 希望保住多个复仇者联盟角色的版权</a></p><p><a href='https://www.theverge.com/2021/9/24/22691842/disney-marvel-sues-comic-artist-iron-man-avengers'>The Verge : Disney sues to keep its Avengers copyrights assembled</a></p><p><a href='https://www.businessinsider.com/marvel-sues-comic-book-artists-iron-man-thor-spider-man-2021-9?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : Marvel is suing former comic-Book artists to keep full control over characters including Iron Man, Thor, and Spider-Man</a></p>]]></summary>
         <author>
             <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人性与兽性只在一念之间，佛或魔都是质变到量变的过程 (评论: 人间我来过)]]></title>
+        <id>https://book.douban.com/review/13884424/</id>
+        <link href="https://book.douban.com/review/13884424/"/>
+        <updated>2021-09-25T06:58:42.000Z</updated>
+        <summary type="html"><![CDATA[及时雨评论: 人间我来过 (https://book.douban.com/subject/35542656/)
+评价: 推荐
+
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img1.doub...]]></summary>
+        <author>
+            <name>及时雨</name>
         </author>
     </entry>
     <entry>
@@ -731,56 +1167,6 @@ Day 10
 © 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。]]></summary>
         <author>
             <name>BeckMint</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北交所李永春：宣布设立北交所以来 精选层股票价格平均增长34%]]></title>
-        <id>https://36kr.com/newsflashes/1413604773926275</id>
-        <link href="https://36kr.com/newsflashes/1413604773926275"/>
-        <updated>2021-09-25T06:33:08.000Z</updated>
-        <summary type="html"><![CDATA[全国中小企业股份转让系统有限责任公司副总经理、北京证券交易所有限责任公司副总经理李永春9月25日在2021中关村论坛平行论坛之“多层次资本市场助力经济高质量发展论坛”上表示，宣布设立北交所以来，市场效应逐步显现，市场活力得到激发，精选层量价呈恢复性上行，日均成交额增长了2.7倍，股票价格平均增长了34%。在精选层带动下，创新层和基础层日均成交额股票价格分别增长了2.3倍和37%。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年海博会12月在海口举行]]></title>
-        <id>https://36kr.com/newsflashes/1413604142257543</id>
-        <link href="https://36kr.com/newsflashes/1413604142257543"/>
-        <updated>2021-09-25T06:32:29.000Z</updated>
-        <summary type="html"><![CDATA[2021中国（海南）国际海洋产业博览会将于12月3日至5日在海南国际会展中心举办，预计将有超过500家企业参展。本届展会以“共享海洋盛会共谋合作发展”为主题，旨在依托海南自贸港政策和区位优势，为国内外海洋渔业企业搭建一个行业交流、业务合作及品牌提升的国际展会平台。（海南日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上交所监事长潘学先：持续推进“新蓝筹”行动，注重提升上市公司质量]]></title>
-        <id>https://36kr.com/newsflashes/1413603545896577</id>
-        <link href="https://36kr.com/newsflashes/1413603545896577"/>
-        <updated>2021-09-25T06:31:53.000Z</updated>
-        <summary type="html"><![CDATA[9月25日，上海证券交易所监事长潘学先在2021中关村论坛“多层次资本市场助力经济高质量发展”分论坛表示，支持科技创新是资本市场的重要使命，资本市场是主力科创企业发展的重要枢纽。科创板赋能科创企业发展的作用日益显现。上交所将全面助力北京国际科技创新中心建设。北京地区一直是上交所服务的重点区域，帮助优质企业对接资本市场是上交所的应有之义。上交所将以北京地区科创板为中心，集中优势资源，精准发力，协同配合，引入资本市场活水。将持续推进“新蓝筹”行动，注重提升上市公司质量。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国银行：不再向境外的新建煤炭开采和新建煤电项目提供融资]]></title>
-        <id>https://36kr.com/newsflashes/1413602668467584</id>
-        <link href="https://36kr.com/newsflashes/1413602668467584"/>
-        <updated>2021-09-25T06:30:59.000Z</updated>
-        <summary type="html"><![CDATA[中国银行宣布：从2021年第四季度开始，除已签约项目外，将不再向境外的新建煤炭开采和新建煤电项目提供融资。未来将继续大力发展绿色金融，持续关注产业发展和政策变化，及时调整相关行业授信政策及流程，为中国实现"30?60目标"和全球实现《巴黎气候协定》目标贡献金融力量，为构建人类绿色家园贡献中行力量。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海南：杜绝在非学科类培训服务中混入学科类培训服务项目]]></title>
-        <id>https://36kr.com/newsflashes/1413601065408134</id>
-        <link href="https://36kr.com/newsflashes/1413601065408134"/>
-        <updated>2021-09-25T06:29:21.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，近日，海南省教育厅印发《海南省中小学校外培训服务类别审核鉴定指引（试行）》，指导校外培训机构规范开展学科类和非学科类培训服务，防范假借非学科类培训项目实际开展学科类培训服务等逃避监管行为。这份《指引》从培训目的、内容、方式、评价以及师资5个方面来制定审核鉴定标准。]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -866,51 +1252,11 @@ Day 10
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北向资金：本周扫货重点曝光 五粮液获净买入超14亿元]]></title>
-        <id>https://36kr.com/newsflashes/1413517409392257</id>
-        <link href="https://36kr.com/newsflashes/1413517409392257"/>
-        <updated>2021-09-25T05:04:15.000Z</updated>
-        <summary type="html"><![CDATA[本周三个交易日，北向资金本周累计净卖出15.79亿元，其中沪股通净卖出逾28亿元，深股通净买入逾12亿元。净买入金额居前三位的分别是五粮液、阳光电源、贵州茅台，净买入额分别为14.84亿元、11.05亿元、7.91亿元。净卖出额居于前三位的分别是招商银行、中国平安、平安银行，净卖出额分别为18.31亿元、14.58亿元、13.90亿元。（一财）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深交所副总经理李辉：深交所将全力支持北交所的建设和发展]]></title>
-        <id>https://36kr.com/newsflashes/1413516623943302</id>
-        <link href="https://36kr.com/newsflashes/1413516623943302"/>
-        <updated>2021-09-25T05:03:28.000Z</updated>
-        <summary type="html"><![CDATA[9月25日，深圳证券交易所副总经理李辉在2021中关村论坛“多层次资本市场助力经济高质量发展”分论坛表示，今年以来，深交所加快产品创新，完善服务体系，引导各类要素不断向创新领域集聚。深交所将全力支持北交所的建设和发展，与全市场各板块层次携手努力，共同为处在不同发展阶段不同类型的企业提供服务，进一步提升资本市场的活力和韧性，有效畅通科技创通和股权投资的正向推广。（证券时报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Kafka in Cybersecurity for SIEM/SOAR Modernization]]></title>
-        <id>https://dzone.com/articles/apache-kafka-in-cybersecurity-for-siem-soar-modernization</id>
-        <link href="https://dzone.com/articles/apache-kafka-in-cybersecurity-for-siem-soar-modernization"/>
-        <updated>2021-09-25T05:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Apache Kafka became the de facto standard for processing Data in Motion across enterprises and Industries. Cybersecurity is a key success factor across all use cases. Kafka is not just used as a backb]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海南省开展离岛免税促销活动，将发放离岛免税优惠券]]></title>
-        <id>https://36kr.com/newsflashes/1413515639461509</id>
-        <link href="https://36kr.com/newsflashes/1413515639461509"/>
-        <updated>2021-09-25T05:02:27.000Z</updated>
-        <summary type="html"><![CDATA[据海南省商务厅，为保持离岛免税销售持续稳定增长，加快释放离岛免税消费潜力，海南省从9月中旬开始开展新一轮离岛免税促销活动，多主题、多形式的系列促销活动将陆续推出。活动期间，海南省将陆续开展发放宣传资料、播放宣传视频、开展促销活动、发放离岛免税优惠券、加强客源地城市营销等工作，加速推进“旅游+免税”高质量融合发展。（海南日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[好未来CFO罗戎辞职，战略副总裁彭壮壮将接任]]></title>
         <id>https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7973761.shtml</id>
         <link href="https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7973761.shtml"/>
         <updated>2021-09-25T04:49:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>9月25日上午消息，好未来教育集团于昨日夜间发布公告，公司董事会已任命现任战略副总裁彭壮壮为首席财务官，自2021年11月1日起生效 ... 罗戎将于2021年10月29日卸任首席财务官，寻求其他职业发展机会 ... 加入公司之前，彭壮壮历任微软大中华区企业战略总经理、麦肯锡公司顾问和重要负责人。</p><p><a href='https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7973761.shtml'>新浪科技 : 好未来任命战略副总裁彭壮壮为首席财务官 接替罗戎</a></p><p><a href='https://www.jiemodui.com/N/128532.html'>芥末堆 : 好未来CFO罗戎辞职，战略副总裁彭壮壮将接任</a></p>]]></summary>
+        <summary type="html"><![CDATA[<p>9月25日上午消息，好未来教育集团于昨日夜间发布公告，公司董事会已任命现任战略副总裁彭壮壮为首席财务官，自2021年11月1日起生效 ... 罗戎将于2021年10月29日卸任首席财务官，寻求其他职业发展机会 ... 加入公司之前，彭壮壮历任微软大中华区企业战略总经理、麦肯锡公司顾问和重要负责人。</p><p><a href='https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7973761.shtml'>新浪科技 : 好未来任命战略副总裁彭壮壮为首席财务官 接替罗戎</a></p><p><a href='https://www.jiemodui.com/N/128532.html'>芥末堆 : 好未来CFO罗戎辞职，战略副总裁彭壮壮将接任</a></p><p><a href='https://iyiou.com/news/202109251022516'>亿欧 : 好未来首席财务官罗戎卸任，市值跌至29亿美元</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -931,16 +1277,6 @@ Day 10
 在影音表现上，S82内置创维AI画质引擎，可实现150万:1对比度、99.17% DCI-P3广色域、178°广视角和0.1ms灰阶响应速度。在智能交互体验方面，S82配备TrensAI® EYE全时AI明眸高进光灵动AI摄像头和“智慧眼”：前者拥有F1.8超大光圈，可以实现水平左右各45°及垂直向下25°灵动转向，满足用户的远程通话、全景全家福拍摄等需求。
  
 “智慧眼”则能与基于酷开系统深度开发定制的智慧管家系统深度联动，能实现智能语音调用、多路同屏显示、画中画显示、AI动体追踪、AI异响侦测、智能消息推送等智能视觉产品家用场景，为用户提供长幼看护、…]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟晚舟即将回到祖国]]></title>
-        <id>https://36kr.com/newsflashes/1413461436798593</id>
-        <link href="https://36kr.com/newsflashes/1413461436798593"/>
-        <updated>2021-09-25T04:07:19.000Z</updated>
-        <summary type="html"><![CDATA[经中国政府不懈努力，当地时间9月24日，孟晚舟女士已经乘坐中国政府包机离开加拿大，即将回到祖国，并与家人团聚。（新华社）]]></summary>
         <author>
             <name>36氪</name>
         </author>
@@ -976,7 +1312,7 @@ Day 10
  
 以数据技术驱动为核心的知识产权业务中台
  
-对于下游，安盾网通过平台链接律���端，提升营收和办案效率。目前已经链接超过550个律师团和120个调查团，基本上包括了全中国大多数的知识产权专业律师团队。对于律师团队与调查团队的选择标准，安盾网CEO艾勇告诉36氪，安盾选择具有相关维权经验的知识产权律师与调查团队。此外安盾还拥有一个孵化器学院，长期培训从业者，能够向行业不断输送人才。
+对于下游，安盾网通过平台链接律师端，提升营收和办案效率。目前已经链接超过550个律师团和120个调查团，基本上包括了全中国大多数的知识产权专业律师团队。对于律师团队与调查团队的选择标准，安盾网CEO艾勇告诉36氪，安盾选择具有相关维权经验的知识产权律师与调查团队。此外安盾还拥有一个孵化器学院，长期培训从业者，能够向行业不断输送人才。
  
 面对不同的细分行业，安盾也会制定对应的针对性解决方案。目前已经涵盖了电子通讯、设计、消费品、餐饮酒店、机械设备、教育培训、软件信息以及文化娱乐行业。安盾能够将诉讼的流程标准化、数字化，服务的企业超过了500家，且大部分都是上述行业的头部企业。
  
@@ -992,7 +1328,7 @@ Day 10
  
 本轮融资后将快速拓展更多的行业与更多的企业，贴近客户的需求。同时加大技术投入，利用更多大数据与人工智能技术获得解决方案，做出更普惠的产品。
  
-相比较于其他维权确权公司集中服务特定行业，安盾网不仅覆盖满足更多不同行业的针对性需求，还能为权益人够提供零成本的知识产权保护服务。
+相比较于其他维权确权公司集中服务特定行业，安盾网不仅覆盖满足更多不同��业的针对性需求，还能为权益人够提供零成本的知识产权保护服务。
  
 安盾网预计今年会有数亿元收入，市场依然存在非常大的需求。
  
@@ -1004,13 +1340,16 @@ Day 10
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超12亿剂，中国新冠疫苗出口居全球之首]]></title>
-        <id>https://36kr.com/newsflashes/1413437342455172</id>
-        <link href="https://36kr.com/newsflashes/1413437342455172"/>
-        <updated>2021-09-25T03:42:49.000Z</updated>
-        <summary type="html"><![CDATA[中国驻马达加斯加大使馆发布消息，9月24日，中国政府援助马达加斯加首批30万剂国药新冠疫苗运抵马达加斯加首都塔那那利佛。中国驻马达加斯加大使郭晓梅表示，截至目前，中国已经或正在向100多个国家和4个国际组织提供疫苗援助，向60多个国家出口疫苗，总量超过12亿剂，居全球首位。（环球网）]]></summary>
+        <title type="html"><![CDATA[理解东京，从《东京传》开始， (评论: 东京传)]]></title>
+        <id>https://book.douban.com/review/13884154/</id>
+        <link href="https://book.douban.com/review/13884154/"/>
+        <updated>2021-09-25T03:33:41.000Z</updated>
+        <summary type="html"><![CDATA[ammo评论: 东京传 (https://book.douban.com/subject/30415558/)
+评价: 推荐
+
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img3.doub...]]></summary>
         <author>
-            <name>36氪</name>
+            <name>ammo</name>
         </author>
     </entry>
     <entry>
@@ -1047,17 +1386,6 @@ Day 10
 午夜梦回，最是心底那一轮明月，那一江春水，那一缕乡愁，亦是我滞留他乡三年每分每秒的心灵归宿。秋风掠过，登机前，温哥华已需寒衣加身。此时，祖国的秋日正是天朗气清、暖阳和煦，期待一年好景致，再赏橙黄橘绿时。祝愿祖国的母亲生日快乐！回家的路，虽曲折起伏，却是世间最暖的归途。]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Process automation With Bernd Ruecker [Podcast]]]></title>
-        <id>https://dzone.com/articles/practical-process-automation-with-bernd-ruecker</id>
-        <link href="https://dzone.com/articles/practical-process-automation-with-bernd-ruecker"/>
-        <updated>2021-09-25T03:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Process automation is defined as “a centerpiece of digitalization efforts” – where Workflow engines are used as “a vital building block in Modern architectures.”
-In this episode of Cocktails, we talk]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1206,6 +1534,19 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[看文字的魔法师给你写命运的魔幻故事 (评论: 命运的魔术师)]]></title>
+        <id>https://book.douban.com/review/13884018/</id>
+        <link href="https://book.douban.com/review/13884018/"/>
+        <updated>2021-09-25T01:53:45.000Z</updated>
+        <summary type="html"><![CDATA[阳光灿烂评论: 命运的魔术师 (https://book.douban.com/subject/20499695/)
+评价: 力荐
+
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img1.doub...]]></summary>
+        <author>
+            <name>阳光灿烂</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[亚马逊10月下旬取消全食超市免费送货上门]]></title>
         <id>https://www.cnbeta.com/articles/tech/1183225.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1183225.htm"/>
@@ -1213,6 +1554,19 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
         <summary type="html"><![CDATA[<p>当地时间周五亚马逊旗下全食超市表示，将从今年10月25日开始在全美范围内向客户收取送货费用，取消为Prime会员提供的免费送货上门服务 ... 全食超市发言人周五表示，从10月25日开始，享受全食超市送货上门服务的顾客将被收取9.95美元的服务费 ... 在美国市场，亚马逊Prime会员的年费为119美元，在全食超市的订单金额超过35美元即可免费享受送货上门服务。</p><p><a href='https://www.cnbeta.com/articles/tech/1183225.htm'>CNBeta : 亚马逊10月下旬取消全食超市免费送货上门</a></p>]]></summary>
         <author>
             <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《不再争吵》拒绝心累，高冲突伴侣亲密相处的秘诀，读完瞬间清醒 (评论: 不再争吵)]]></title>
+        <id>https://book.douban.com/review/13884001/</id>
+        <link href="https://book.douban.com/review/13884001/"/>
+        <updated>2021-09-25T01:38:24.000Z</updated>
+        <summary type="html"><![CDATA[雨中小菊评论: 不再争吵 (https://book.douban.com/subject/35546368/)
+评价: 推荐
+
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img9.doub...]]></summary>
+        <author>
+            <name>雨中小菊</name>
         </author>
     </entry>
     <entry>
@@ -1298,67 +1652,7 @@ Icy与自己的“学生”边牧 
         <id>https://www.cnbeta.com/articles/tech/1183169.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1183169.htm"/>
         <updated>2021-09-25T01:12:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>在开发者发现他们的应用程序目前不能对所有动画使用120Hz的ProMotion刷新率后，人们对这是为了电池寿命而施加的限制还是一个错误感到困惑 ... 苹果表示，所有第三方应用程序可以充分利用120Hz ProMotion刷新率，但开发者需要通过在应用程序的plist中添加一个条目来声明他们的应用程序需要使用更高的帧率 ... 正如开发者发现的那样，第三方应用程序内的标准UI动画会自动与ProMotion显示技术配合，这对所有应用程序来说都是如此。</p><p><a href='https://www.cnbeta.com/articles/tech/1183169.htm'>CNBeta : 第三方 App 无法调用 iPhone 13 Pro 120Hz 刷新率</a></p><p><a href='https://www.cnbeta.com/articles/tech/1183219.htm'>CNBeta : 苹果澄清开发者疑虑 第三方应用可充分利用ProMotion</a></p><p><a href='https://tech.ifeng.com/c/89opdM6CyE3'>凤凰科技 : 苹果澄清：所有第三方App很快可充分利用120Hz ProMotion刷新率</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7972031.shtml'>新浪科技 : 苹果澄清：所有第三方App很快可充分利用120Hz ProMotion刷新率</a></p><p><a href='https://www.macrumors.com/2021/09/24/iphone-13-pro-third-party-promotion-limitations/'>Mac Rumors : Third-Party Apps Can't Take Full Advantage of iPhone 13 Pro 120Hz ProMotion Displays</a></p><p><a href='https://www.macrumors.com/2021/09/24/apple-promotion-third-party-app-support/'>Mac Rumors : Apple Says Third-Party Apps Can Take Full Advantage of ProMotion With Plist Entry, Core Animation Bug Fix Coming</a></p><p><a href='https://9to5mac.com/2021/09/24/iphone-13-promotion-third-party-apps/'>9to5Mac : Not so ProMotion: Third-party Apps limited to 60Hz animations on iPhone 13 Pro</a></p><p><a href='https://appleinsider.com/articles/21/09/24/apple-restricts-third-party-access-to-iphone-13-pros-120hz-promotion-display?utm_medium=rss'>AppleInsider : Apple restricts third-party Access to iPhone 13 Pro's 120Hz ProMotion Display</a></p><p><a href='https://www.phonearena.com/news/iphone-13-pro-and-pro-max-limit-third-party-apps-to-60Hz_id135299'>Phone Arena : iPhone 13 Pro and Pro Max limit third-party App animations to 60Hz</a></p><p><a href='https://www.engadget.com/apple-iphone-13-promotion-display-third-party-apps-225100034.html?src=rss'>Engadget : iPhone 13 Pro's 120Hz Display limits some third-party App animations to 60Hz</a></p><p><a href='https://9to5mac.com/2021/09/24/apple-promotion-software-third-party-apps/'>9to5Mac : Apple says third-party Apps will be able to take full advantage of iPhone 13 ProMotion Display, software fix forthcoming</a></p><p><a href='https://appleinsider.com/articles/21/09/25/apple-says-iphone-13-pro-promotion-available-to-all-apps-fix-for-core-animation-issue-coming-soon?utm_medium=rss'>AppleInsider : Apple says iPhone 13 Pro ProMotion available to all Apps, fix for Core Animation issue coming soon</a></p><p><a href='https://www.theverge.com/2021/9/24/22692557/apple-iphone-13-pro-max-high-refresh-rate-screen-promotion-animations-issue'>The Verge : Apple says an issue is preventing some animations from using high refresh rates on the iPhone 13 Pros</a></p><p><a href='https://www.imore.com/apple-clears-120hz-iphone-13-pro-confusion-developers?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheIphoneBlog+%28iMore%29'>iMore : Apple clears up 120Hz iPhone 13 Pro confusion for developers</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一晚2000元，我为什么要去酒店玩电竞？丨氪金Lite]]></title>
-        <id>https://36kr.com/p/1412316267124359</id>
-        <link href="https://36kr.com/p/1412316267124359"/>
-        <updated>2021-09-25T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 任雪芸
- 
-编辑 | 尚闻多
- 
-封面来源 | IC photo
- 
-酒店这个老生常谈的行业，又迎来新物种。
- 
-“亲子酒店”、“情趣酒店”仿佛已经不能再满足国人的住宿需求，电竞酒店正在成为行业的新风向。
- 
-根据同程旅行最新发布的《中国电竞酒店市场研究报告2021》显示，2021年全国电竞酒店的存量预计将达到1.5万家，到2023年将突破2万家。
- 
-不同于用户群体中的原生需求，电竞酒店的诞生与电竞行业的发展息息相关。继2008年，国家体育总局将电子竞技改批为第78个正式体育竞赛项后，电竞行业进入了火热发展期，以电子竞技为中心，同时带火了这条产业链的发展。
- 
-在专业赛事以外，电竞同时也是普通玩家生活中的调味剂，因此，作为能够提供“电竞感觉”的场所，电竞酒店就此诞生。
- 
-火热的市场引来的不止是创业玩家，诸如腾讯、京东、同程等巨头也在携资入局。今年6月份，同程艺龙同爱电竞酒店签署《战略合作协议》，投资了数千万元。
- 
-相比普通酒店，电竞酒店的魅力与电竞行业共存。但作为重资产的酒店行业，其在盈利层面一直饱受怀疑。
- 
-于是，当酒店被冠以电竞名义，资本火涌入之下，这到底是真实的需求还是吸睛的噱头？
- 
-网吧的进化
- 
-周明是英雄联盟的早期爱好者，这是一个需要团战和高端设备来配合的游戏。
- 
-从高中起，大部分休息时间周明都泡在了网吧。和朋友、同学一起开黑，（指玩游戏时，可以语音或者面对面交流，流行于各种对战类游戏中，如英雄联盟、王者荣耀等。）是周明对于学生生涯中记忆最为深刻的一部分。
- 
-那时的网吧是游戏爱好者的天下，而伴随着80后、90后这两代人成长历程，网吧在政策压力之下出现了分流。
- 
-2014年，百万张网吧执照审批全面放开，近乎饱和的市场加速了一众网吧的转型步伐，网咖这种“网吧与咖啡厅”的形式开始走入大众视野。据周明回忆，“在我上大学的时候，网吧就有所转变，比…]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Leadership Lessons I Learned From Microsoft, Netflix, Stack Overflow, GitLab, and Equinix]]></title>
-        <id>https://dzone.com/articles/five-leadership-lessons-i-learned-from-microsoft-n</id>
-        <link href="https://dzone.com/articles/five-leadership-lessons-i-learned-from-microsoft-n"/>
-        <updated>2021-09-25T00:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Three years into my software engineering Career I was loving life. I could fix anything in the codebase with no doubts in my ability. I was confident, too. Most 24 year olds are. When I was offered th]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Developer Velocity and Engineering Processes]]></title>
-        <id>https://dzone.com/articles/the-importance-of-developer-velocity-and-engineeri</id>
-        <link href="https://dzone.com/articles/the-importance-of-developer-velocity-and-engineeri"/>
-        <updated>2021-09-25T00:50:33.000Z</updated>
-        <summary type="html"><![CDATA[In our rapidly changing Technology landscape, it can be difficult to maintain a competitive advantage. Challenges present themselves Daily and staying ahead of your competition can feel daunting. At t]]></summary>
+        <summary type="html"><![CDATA[<p>在开发者发现他们的应用程序目前不能对所有动画使用120Hz的ProMotion刷新率后，人们对这是为了电池寿命而施加的限制还是一个错误感到困惑 ... 苹果表示，所有第三方应用程序可以充分利用120Hz ProMotion刷新率，但开发者需要通过在应用程序的plist中添加一个条目来声明他们的应用程序需要使用更高的帧率 ... 正如开发者发现的那样，第三方应用程序内的标准UI动画会自动与ProMotion显示技术配合，这对所有应用程序来说都是如此。</p><p><a href='https://www.cnbeta.com/articles/tech/1183169.htm'>CNBeta : 第三方 App 无法调用 iPhone 13 Pro 120Hz 刷新率</a></p><p><a href='https://www.cnbeta.com/articles/tech/1183219.htm'>CNBeta : 苹果澄清开发者疑虑 第三方应用可充分利用ProMotion</a></p><p><a href='https://tech.ifeng.com/c/89opdM6CyE3'>凤凰科技 : 苹果澄清：所有第三方App很快可充分利用120Hz ProMotion刷新率</a></p><p><a href='https://finance.sina.com.cn/tech/2021-09-25/doc-iktzqtyt7972031.shtml'>新浪科技 : 苹果澄清：所有第三方App很快可充分利用120Hz ProMotion刷新率</a></p><p><a href='https://www.macrumors.com/2021/09/24/iphone-13-pro-third-party-promotion-limitations/'>Mac Rumors : Third-Party Apps Can't Take Full Advantage of iPhone 13 Pro 120Hz ProMotion Displays</a></p><p><a href='https://www.macrumors.com/2021/09/24/apple-promotion-third-party-app-support/'>Mac Rumors : Apple Says Third-Party Apps Can Take Full Advantage of ProMotion With Plist Entry, Core Animation Bug Fix Coming</a></p><p><a href='https://9to5mac.com/2021/09/24/iphone-13-promotion-third-party-apps/'>9to5Mac : Not so ProMotion: Third-party Apps limited to 60Hz animations on iPhone 13 Pro</a></p><p><a href='https://appleinsider.com/articles/21/09/24/apple-restricts-third-party-access-to-iphone-13-pros-120hz-promotion-display?utm_medium=rss'>AppleInsider : Apple restricts third-party Access to iPhone 13 Pro's 120Hz ProMotion Display</a></p><p><a href='https://www.phonearena.com/news/iphone-13-pro-and-pro-max-limit-third-party-apps-to-60Hz_id135299'>Phone Arena : iPhone 13 Pro and Pro Max limit third-party App animations to 60Hz</a></p><p><a href='https://www.engadget.com/apple-iphone-13-promotion-display-third-party-apps-225100034.html?src=rss'>Engadget : iPhone 13 Pro's 120Hz Display limits some third-party App animations to 60Hz</a></p><p><a href='https://9to5mac.com/2021/09/24/apple-promotion-software-third-party-apps/'>9to5Mac : Apple says third-party Apps will be able to take full advantage of iPhone 13 ProMotion Display, software fix forthcoming</a></p><p><a href='https://appleinsider.com/articles/21/09/25/apple-says-iphone-13-pro-promotion-available-to-all-apps-fix-for-core-animation-issue-coming-soon?utm_medium=rss'>AppleInsider : Apple says iPhone 13 Pro ProMotion available to all Apps, fix for Core Animation issue coming soon</a></p><p><a href='https://www.theverge.com/2021/9/24/22692557/apple-iphone-13-pro-max-high-refresh-rate-screen-promotion-animations-issue'>The Verge : Apple says an issue is preventing some animations from using high refresh rates on the iPhone 13 Pros</a></p><p><a href='https://www.imore.com/apple-clears-120hz-iphone-13-pro-confusion-developers?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheIphoneBlog+%28iMore%29'>iMore : Apple clears up 120Hz iPhone 13 Pro confusion for developers</a></p><p><a href='https://www.phonearena.com/news/apple-says-120hz-refresh-rate-works-with-all-apps_id135301'>Phone Arena : Apple says its 120Hz refresh rate does Work with all third-party Apps</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -1394,45 +1688,16 @@ Icy与自己的“学生”边牧 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36氪首发 |「云车间」宣布完成天使轮融资，利用平台能力满足客户钣金产品定制化需求]]></title>
-        <id>https://36kr.com/p/1412007333057921</id>
-        <link href="https://36kr.com/p/1412007333057921"/>
-        <updated>2021-09-25T00:00:04.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，近日，云车间宣布完成百万美元天使轮融资，本轮融资由险峰长青领投，元一资本担任独家财务顾问。云车间CEO谢春雷表示，本轮融资主要用于钣金试制研发车间建设与人员扩充等方面。同时，云车间下一轮融资计划也已经启动。
- 
+        <title type="html"><![CDATA[星新一，通过科幻小说来讽刺社会 (评论: 喂——出来)]]></title>
+        <id>https://book.douban.com/review/13883942/</id>
+        <link href="https://book.douban.com/review/13883942/"/>
+        <updated>2021-09-24T23:56:08.000Z</updated>
+        <summary type="html"><![CDATA[禅王评论: 喂——出来 (https://book.douban.com/subject/35450962/)
+评价: 力荐
 
- 
-云车间交付的产品类型 受访人供图
- 
-云车间成立于2019年，是行业首家聚焦于装备制造产业的在线供应链管理与钣金协同制造平台。云车间通过在线平台可精准对接装备制造企业的钣金需求，并完成一体化的钣金设计交付，通过匹配优质供应商，云车间可降低钣金制造费用，保障产品交付与质量。
- 
-钣金加工行业是制造业中的较为基础和关键的一环。中研网相关文章指出，钣金加工虽然相对于金属加工来说只占20%~30%的比重，但是几乎所有的制造行业中都会涉及到钣金加工。谢春雷表示，无论是机床、医疗设备还是3C制造设备，都需要钣金件作为产品外壳，所以云车间的客户是所有装备制造企业。
- 
-谢春雷对36氪说道：“对装备制造企业来说，钣金件的非标程度非常高，同时需求量小批量多品种，这导致很多钣金大厂不愿意承接这样的订单，装备制造企业只能寻找中小型钣金工厂来生产产品。”
- 
-根据中研网数据显示，我国在长三角、珠三角及环渤海经济区等地均形成了以中小型企业为主的钣金产业集群，这些产业集群规模甚至达到上百家。云车间给出的调研数据则显示，截止2019年，仅长三角地区的钣金加工企业总量就超过了5000家。
- 
-普华有策有报告指出，虽然我国钣金加工行业中小型企业较多，但国内大部分中小钣金企业的设备自动化、数字化程度低，精密度和稳定性差，存在一定的产品质量风险。谢春雷表示，钣金加工行业与其他行业不同，小厂在技术方面并不具有优势，直接撮合装备制造企业和钣金小厂合作，很可能会造成“双输”的局面。
- 
-云车间平台可在线完成客户的钣金加工需求对接，并通过生成报价-产品工艺及数据化处理-分解订单-发布订单等流程，最终将生产任务下发至入驻平台的钣金加工企业。同时，云车间也会根据入驻平台的钣金加工企业的位置、加工设备型号、数量、状态进行实时管控与分析，为订单分解及派发工作提供数据保证。
- 
-
- 
-云车间平台界面 受访人供图
- 
-谢春雷表示，云车间不是撮合平台，业务流程的关键节点在于对客户的需求进行工艺数据化处理，而不是直接将需求下发至入驻平台的钣金厂。
- 
-云车间在工艺数据化处理环节，会对客户的钣金需求进行优化设计和技术能力的补充，并利用自建的数字原型库快速完成产品结构和制造工艺数据的产出，避免了钣金工厂根据人为经验私自对工艺图纸进行二次加工，保证了订单和产品的一致性。
- 
-谢春雷说道：“数字原型库的建立有一定难度，但从最终效果上看，数字原型库能够跳过中间的人工经验，真正实现端到端的数字化，是3D制造的实现途径。在未来，我们希望客户可以在云车间平台上实现钣金、机加工零件等非核心产品零组件的可视化快速定制。”
- 
-目前，入驻云车间的钣金加工企业已经超过50家，平台服务过的装备制造企业超过100家，通过为中小型钣金加工企业节省工艺处理成本、业务对接成本，云车间可在整体报价仍保持市场正常水平的情况下获利，盈利空间为15%左右。
- 
-根据云车间给出的资料显示，相较于传统模式，云车间的样单周期可由业内平均的28天缩短至最短7天，根据已满1年验证的情况看，云车间老客户年度购买额持续放大，NDR达212% 。
- 
-钣金行业可能需要摆脱人工经验依赖。谢春雷表示，应将钣金质量交给数字化技术来控制，中研网相关文章也指出，国内的手工钣金行业或将逐步退出市场，钣金加工行业必须引进先进的技术，向自动化方向发展。]]></summary>
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img2.doub...]]></summary>
         <author>
-            <name>36氪</name>
+            <name>禅王</name>
         </author>
     </entry>
     <entry>
@@ -1449,48 +1714,6 @@ Icy与自己的“学生”边牧 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YAKD: Yet Another Kubernetes Dashboard]]></title>
-        <id>https://dzone.com/articles/yakd-yet-another-kubernetes-dashboard</id>
-        <link href="https://dzone.com/articles/yakd-yet-another-kubernetes-dashboard"/>
-        <updated>2021-09-24T19:11:26.000Z</updated>
-        <summary type="html"><![CDATA[No, YAKD is not a new Kubernetes Dashboard Project, but that could be a good name for a new Kubernetes Dashboard application.
-The purpose of this Post is to list some existing Dashboard projects. The]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Basics of MySQL Query Caching]]></title>
-        <id>https://dzone.com/articles/the-basics-of-mysql-query-caching</id>
-        <link href="https://dzone.com/articles/the-basics-of-mysql-query-caching"/>
-        <updated>2021-09-24T19:11:08.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Queries are ubiquitous in the life of every MySQL database administrator or even a database-savvy developer. As we have already stated in some of our previous blog posts, queries are simp]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Businesses Should Ensure the security of Data on the Cloud]]></title>
-        <id>https://dzone.com/articles/why-businesses-should-ensure-security-of-data-on-t</id>
-        <link href="https://dzone.com/articles/why-businesses-should-ensure-security-of-data-on-t"/>
-        <updated>2021-09-24T19:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Cloud storage is projected to have significant utility for small and large businesses in the Next few years. Currently, around half of corporate Data is still stored on-premises. According to Statista]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Mantras to PIVOT Your Career]]></title>
-        <id>https://dzone.com/articles/7-mantras-to-pivot-your-career</id>
-        <link href="https://dzone.com/articles/7-mantras-to-pivot-your-career"/>
-        <updated>2021-09-24T18:55:20.000Z</updated>
-        <summary type="html"><![CDATA[The coronavirus pandemic caused massive downturns in numerous Industries across the world resulting in unemployment,Pay cuts, furloughs, and layoffs. This has changed The idea of a Career PIVOT from s]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[改编经典科幻小说需要敬畏心 (评论: 基地)]]></title>
         <id>https://movie.douban.com/review/13883857/</id>
         <link href="https://movie.douban.com/review/13883857/"/>
@@ -1501,27 +1724,6 @@ Queries are ubiquitous in the life of every MySQL database administrator or even
 {"entityMap": {}, "blocks": [{"text": "\u827e\u8428\u514b\u00b7\u963f\u8...]]></summary>
         <author>
             <name>Jeremy Q</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycle Time Breakdown: Reducing PR Review Time]]></title>
-        <id>https://dzone.com/articles/cycle-time-breakdown-reducing-pr-review-time</id>
-        <link href="https://dzone.com/articles/cycle-time-breakdown-reducing-pr-review-time"/>
-        <updated>2021-09-24T18:37:41.000Z</updated>
-        <summary type="html"><![CDATA[The Issue
-As a manager of a software development team, you are always under pressure to deliver value to the customer.  In order to do that more effectively, you monitor your Cycle Time and Work to ke]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Newman to run Postman Collections]]></title>
-        <id>https://dzone.com/articles/using-newman-to-run-postman-collections</id>
-        <link href="https://dzone.com/articles/using-newman-to-run-postman-collections"/>
-        <updated>2021-09-24T18:28:25.000Z</updated>
-        <summary type="html"><![CDATA[This is a brief introduction to how you can use the Newman library to make API testing automation a part of the continuous integration process. I will brief you on a few important things before on how]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1545,7 +1747,7 @@ As a manager of a software development team, you are always under pressure to de
         <summary type="html"><![CDATA[杜少卿评论: 自杀小队 (http://movie.douban.com/subject/3569910/)
 评价: 较差
 
-{"entityMap":{"0":{"type":"LINK","mutability":"MUTABLE","data":{"href":"http:/...]]></summary>
+{"entityMap": {"0": {"data": {"url": "http://www.imfdb.org/wiki/Suicide_...]]></summary>
         <author>
             <name>杜少卿</name>
         </author>
@@ -1561,33 +1763,17 @@ As a manager of a software development team, you are always under pressure to de
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deploying the Adobe PDF Embed API with Adobe Experience Platform Launch]]></title>
-        <id>https://dzone.com/articles/deploying-the-adobe-pdf-embed-api-with-adobe-exper</id>
-        <link href="https://dzone.com/articles/deploying-the-adobe-pdf-embed-api-with-adobe-exper"/>
-        <updated>2021-09-24T17:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Many organizations have PDF documents on their web properties. While PDFs are a reliable format for storing and distributing content, when left up to the browser to determine, the consumption experien]]></summary>
+        <title type="html"><![CDATA[如果有一天，我成了那个被捕猎的生物
+读《牙齿猎人》 (评论: 牙齿猎人)]]></title>
+        <id>https://book.douban.com/review/13883737/</id>
+        <link href="https://book.douban.com/review/13883737/"/>
+        <updated>2021-09-24T16:33:08.000Z</updated>
+        <summary type="html"><![CDATA[蜗牛格格评论: 牙齿猎人 (https://book.douban.com/subject/35582728/)
+评价: 力荐
+
+{"entityMap": {"0": {"data": {"origin": false, "src": "https://img1.doub...]]></summary>
         <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cybersecurity Trends Ruling the Financial Market]]></title>
-        <id>https://dzone.com/articles/top-4-cybersecurity-technologies-that-rule-the-fin</id>
-        <link href="https://dzone.com/articles/top-4-cybersecurity-technologies-that-rule-the-fin"/>
-        <updated>2021-09-24T16:22:57.000Z</updated>
-        <summary type="html"><![CDATA[While 2020 was all about the COVID-19 pandemic, it allowed the Digital world to flourish, with businesses investing more and more resources in developing frameworks to interact with customers online.]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Kafka vs. Oracle Transactional Event Queues as Microservices Event Mesh]]></title>
-        <id>https://dzone.com/articles/apache-kafka-versus-oracle-transactional-event-que</id>
-        <link href="https://dzone.com/articles/apache-kafka-versus-oracle-transactional-event-que"/>
-        <updated>2021-09-24T16:04:26.000Z</updated>
-        <summary type="html"><![CDATA[This blog focuses on transactional and message delivery behavior, particularly as it relates to microservice architectures.  There are of course numerous areas to compare MongoDB, PostgresSQL, and Kaf]]></summary>
-        <author>
-            <name>Readbub</name>
+            <name>蜗牛格格</name>
         </author>
     </entry>
     <entry>
@@ -1601,16 +1787,6 @@ As a manager of a software development team, you are always under pressure to de
 {"entityMap": {}, "blocks": [{"text": "\u5176\u5b9e\u5927\u5bb6\u4e5f\u5...]]></summary>
         <author>
             <name>栗冰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NgRx Best Practices Series: Introduction]]></title>
-        <id>https://dzone.com/articles/ngrx-best-practices-series-0-introduction</id>
-        <link href="https://dzone.com/articles/ngrx-best-practices-series-0-introduction"/>
-        <updated>2021-09-24T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[This is the First in a series of articles about building reactive applications in Angular using NgRx state management. I want to begin by laying out my personal relationship with NgRx and introduce an]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1691,27 +1867,7 @@ As a manager of a software development team, you are always under pressure to de
         <id>https://www.huxiu.com/article/459089.html?f=rss</id>
         <link href="https://www.huxiu.com/article/459089.html?f=rss"/>
         <updated>2021-09-24T13:24:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>9月24日晚间，海航集团有限公司官方发布公告称，今接到海南公安机关通知，海航集团有限公司董事长陈峰、首席执行官谭向东因涉嫌违法犯罪，被依法采取强制措施 ... 公开资料显示，2000年至2018年，任海航集团有限公司董事局主席 ... 2018年7月至2021年1月，任海航集团有限公司党委书记、董事长。</p><p><a href='https://www.huxiu.com/article/459089.html?f=rss'>虎嗅 : 还有5天，海航将面临最后大考</a></p><p><a href='https://www.huxiu.com/article/459171.html?f=rss'>虎嗅 : 陈峰坠落</a></p><p><a href='https://www.tmtpost.com/nictation/5715780.html'>钛媒体 : 海航集团党委书记顾刚：目前海航整体破产重整工作已进入最后冲刺阶段</a></p><p><a href='https://tech.ifeng.com/c/89nup4XyTE0'>凤凰科技 : 海航董事长陈峰、CEO谭向东涉嫌违法犯罪，被依法采取强制措施</a></p><p><a href='https://iyiou.com/news/202109251022496'>亿欧 : 涉嫌违法犯罪，海航集团董事长陈峰、CEO谭向东被依法采取强制措施</a></p><p><a href='https://www.jiemian.com/article/6636231.html'>界面 : 一代“掌舵人”黯然离场，海航集团董事长陈峰被依法采取强制措施</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber将英国7万名司机视为员工：开始提供养老金计划]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-09-24/doc-iktzqtyt7899656.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-09-24/doc-iktzqtyt7899656.shtml"/>
-        <updated>2021-09-24T13:03:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>今日，Uber宣布，将把司机收入的3%纳入养老金计划，而司机可以选择将其收入的至少5%纳入养老金计划 ... 英国养老金监管局对此表示，已经注意到Uber采取的“积极步骤”，并呼吁所有“零工经济”雇主为符合条件的员工登记参加养老金计划 ... 该发言人还称，英国养老金监管局将对没有“自愿和迅速”为员工提供养老金计划的雇主采取执法行动。</p><p><a href='https://finance.sina.com.cn/tech/2021-09-24/doc-iktzqtyt7899656.shtml'>新浪科技 : Uber将英国7万名司机视为员工：开始提供养老金计划</a></p><p><a href='https://www.cnbeta.com/articles/tech/1183103.htm'>CNBeta : Uber将英国7万名司机视为员工：开始提供养老金计划</a></p><p><a href='https://www.pingwest.com/w/250275?utm_source=feed'>品玩 : Uber 将在英国为约7万名网约车司机提供养老金计划</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传新东方将裁员超4万人，秋课结束后将停止小初学科业务线下招生]]></title>
-        <id>https://www.tmtpost.com/nictation/5715739.html</id>
-        <link href="https://www.tmtpost.com/nictation/5715739.html"/>
-        <updated>2021-09-24T12:59:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>报道称，新东方创始人俞敏洪在近日的高管会议上宣布，秋季课程结束后，新东方将逐步关闭B级校区以下小区的小学、初中学科业务，在此之前B级及以上校区至少保留一个教学点，消耗完存量课程，就开始逐步退费 ... 裁员也随业务收缩而来，俞敏洪还称，原计划8月底裁员4万人，但9月中旬裁员还不到1万人 ... 新东方停止小学和初中学科业务的线下招生意味着，新东方将放弃最重要的营收来源。</p><p><a href='https://www.tmtpost.com/nictation/5715739.html'>钛媒体 : 新东方计划裁员超过4万人，小学、初中学科业务将基本关停</a></p><p><a href='https://www.pingwest.com/w/250273?utm_source=feed'>品玩 : 新东方计划裁员超过 4 万人，小学、初中学科业务将基本关停</a></p><p><a href='https://tech.ifeng.com/c/89nz73pX3ak'>凤凰科技 : 传新东方将裁员超4万人，秋课结束后将停止小初学科业务线下招生</a></p><p><a href='https://iyiou.com/news/202109251022506'>亿欧 : 新东方计划裁员超4万人，小学、初中学科业务将逐步关停</a></p>]]></summary>
+        <summary type="html"><![CDATA[<p>9月24日晚间，海航集团有限公司官方发布公告称，今接到海南公安机关通知，海航集团有限公司董事长陈峰、首席执行官谭向东因涉嫌违法犯罪，被依法采取强制措施 ... 公开资料显示，2000年至2018年，任海航集团有限公司董事局主席 ... 2018年7月至2021年1月，任海航集团有限公司党委书记、董事长。</p><p><a href='https://www.huxiu.com/article/459089.html?f=rss'>虎嗅 : 还有5天，海航将面临最后大考</a></p><p><a href='https://www.huxiu.com/article/459171.html?f=rss'>虎嗅 : 陈峰坠落</a></p><p><a href='https://tech.ifeng.com/c/89pd1Yx3hOt'>凤凰科技 : 陈峰意外“坠落”</a></p><p><a href='https://www.tmtpost.com/nictation/5715780.html'>钛媒体 : 海航集团党委书记顾刚：目前海航整体破产重整工作已进入最后冲刺阶段</a></p><p><a href='https://tech.ifeng.com/c/89nup4XyTE0'>凤凰科技 : 海航董事长陈峰、CEO谭向东涉嫌违法犯罪，被依法采取强制措施</a></p><p><a href='https://iyiou.com/news/202109251022496'>亿欧 : 涉嫌违法犯罪，海航集团董事长陈峰、CEO谭向东被依法采取强制措施</a></p><p><a href='https://www.jiemian.com/article/6636231.html'>界面 : 一代“掌舵人”黯然离场，海航集团董事长陈峰被依法采取强制措施</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -1727,16 +1883,6 @@ As a manager of a software development team, you are always under pressure to de
 {"entityMap": {}, "blocks": [{"text": "\u4efb\u5609\u4f26\u662f\u4e2a\u5...]]></summary>
         <author>
             <name>恼娘_Phyllis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五菱首款两座新能源车“NanoEV”，将于29日天津车展正式亮相]]></title>
-        <id>https://www.tmtpost.com/nictation/5715597.html</id>
-        <link href="https://www.tmtpost.com/nictation/5715597.html"/>
-        <updated>2021-09-24T11:20:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>今日，上汽通用五菱宣布将推出五菱品牌首款两座新能源车型，新车命名为五菱NanoEV，作为GSEV（Global Small electric vehicle）全球小型纯电动汽车架构下的新成员，将于9月29日在2021中国(天津)国际汽车展览会正式亮相 ... 新车命名“五菱NanoEV”，取“Nano”的“纳米”之意，直观凸显其小型两座的属性 ... 五菱NanoEV顺势而来，基于小型两座新能源车的特性，既解决年轻一代出行痛点，又可满足其出行趣玩的美好需求。</p><p><a href='https://www.tmtpost.com/nictation/5715597.html'>钛媒体 : 五菱首款两座新能源车“NanoEV”，将于29日天津车展正式亮相</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1763,6 +1909,19 @@ As a manager of a software development team, you are always under pressure to de
 @宽治：《性爱自修室》第三季以一段万花筒式的「性爱混剪」迎来了自己的回归，也暗示了剧集对多样性的关注。在这一季中，莫戴尔高中的同学们继续探索着各种各样的性关系，但实际上，以性为线索，我们看到的是作为人的丰富性。本剧的一个核心观点就是，每个人都有权按照自己希望的样子展现、发展自己，而在众多自我表达的渠道中，性表达（包括你的性别身份、性癖好等）也许是最为特别且真诚的一种…]]></summary>
         <author>
             <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不管是故事还是人生，一切都应当美一些 (评论: 向阳而美)]]></title>
+        <id>https://book.douban.com/review/13883087/</id>
+        <link href="https://book.douban.com/review/13883087/"/>
+        <updated>2021-09-24T09:24:08.000Z</updated>
+        <summary type="html"><![CDATA[自然评论: 向阳而美 (https://book.douban.com/subject/35590588/)
+评价: 力荐
+
+{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
+        <author>
+            <name>自然</name>
         </author>
     </entry>
     <entry>
@@ -2322,19 +2481,6 @@ nova 的目标用户比较明确，从诞生之初就一直围绕年轻用户�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[成功不需要意志力 (评论: 意志力红利)]]></title>
-        <id>https://book.douban.com/review/13880648/</id>
-        <link href="https://book.douban.com/review/13880648/"/>
-        <updated>2021-09-23T02:36:54.000Z</updated>
-        <summary type="html"><![CDATA[古尔浪洼评论: 意志力红利 (https://book.douban.com/subject/35545244/)
-评价: 推荐
-
-{"entityMap":{},"blocks":[{"key":"c7e2s","text":"成功不需要意志力，那需要什么？","type":"unstyled","depth":0,"inlineStyleRanges":[],"...]]></summary>
-        <author>
-            <name>古尔浪洼</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[立陶宛：建议民众不买中国手机]]></title>
         <id>https://www.williamlong.info/archives/6566.html</id>
         <link href="https://www.williamlong.info/archives/6566.html"/>
@@ -2467,19 +2613,6 @@ Tags - applemusic]]></summary>
 {"entityMap": {"0": {"data": {"origin": false, "src": "https://img2.doub...]]></summary>
         <author>
             <name>阳光灿烂</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蛰伏20载！阿来以《尘埃落定》诀别旧时代；杜阳林以《惊蛰》畅怀新世界 (评论: 惊蛰)]]></title>
-        <id>https://book.douban.com/review/13880077/</id>
-        <link href="https://book.douban.com/review/13880077/"/>
-        <updated>2021-09-22T15:17:41.000Z</updated>
-        <summary type="html"><![CDATA[竹石评论: 惊蛰 (https://book.douban.com/subject/35511779/)
-评价: 推荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img9.doub...]]></summary>
-        <author>
-            <name>竹石</name>
         </author>
     </entry>
     <entry>
@@ -2701,19 +2834,6 @@ realme GT Neo 2 的整个机身背部，都采用了高饱和度的绿色作为�
 {"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https://img1.doubanio.com/view...]]></summary>
         <author>
             <name>第一导演</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要把自己活成反派 (评论: 心态)]]></title>
-        <id>https://book.douban.com/review/13878600/</id>
-        <link href="https://book.douban.com/review/13878600/"/>
-        <updated>2021-09-22T01:25:21.000Z</updated>
-        <summary type="html"><![CDATA[慕容复评论: 心态 (https://book.douban.com/subject/35552630/)
-评价: 推荐
-
-{"entityMap":{},"blocks":[{"key":"5l8kl","text":"今天我们谈论起心态问题时，好像只剩下“崩了”、“炸了”一类的形容词，而我本人也因为前一阵子也因为工作上的压力，让自己一直很稳的心态炸了好几回。所以看...]]></summary>
-        <author>
-            <name>慕容复</name>
         </author>
     </entry>
     <entry>
@@ -3000,19 +3120,6 @@ AR 眼镜的显示系统可以简单理解为一套投影系统，光机就是�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[没想到你是这样的梁启超 (评论: 最美生活)]]></title>
-        <id>https://book.douban.com/review/13875836/</id>
-        <link href="https://book.douban.com/review/13875836/"/>
-        <updated>2021-09-20T11:23:01.000Z</updated>
-        <summary type="html"><![CDATA[阿斯酉评论: 最美生活 (https://book.douban.com/subject/35584355/)
-评价: 推荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"thumb":"https://img1.doubanio.com/view/t...]]></summary>
-        <author>
-            <name>阿斯酉</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[有些话不吐不快 (评论: 峰爆)]]></title>
         <id>https://movie.douban.com/review/13875316/</id>
         <link href="https://movie.douban.com/review/13875316/"/>
@@ -3169,32 +3276,6 @@ ColorOS 12 是一加并入 OPPO 后，两个品牌共同推出的首款 OS，因
 {"entityMap":{},"blocks":[{"key":"456j9","text":"圣父，是众生之父。","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges"...]]></summary>
         <author>
             <name>柒</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和其光，同其“尘” (评论: 烟囱之城)]]></title>
-        <id>https://book.douban.com/review/13873415/</id>
-        <link href="https://book.douban.com/review/13873415/"/>
-        <updated>2021-09-19T09:17:05.000Z</updated>
-        <summary type="html"><![CDATA[芙裳评论: 烟囱之城 (https://book.douban.com/subject/35523691/)
-评价: 力荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>芙裳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古老的象形文字，传奇的埃及诸神 (评论: 埃及众神)]]></title>
-        <id>https://book.douban.com/review/13873031/</id>
-        <link href="https://book.douban.com/review/13873031/"/>
-        <updated>2021-09-19T05:23:57.000Z</updated>
-        <summary type="html"><![CDATA[禅王评论: 埃及众神 (https://book.douban.com/subject/35561160/)
-评价: 力荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img2.doub...]]></summary>
-        <author>
-            <name>禅王</name>
         </author>
     </entry>
     <entry>
@@ -3439,19 +3520,6 @@ Wechat 这样的做法，也符合其定位——首先是即时通讯软件，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【灵媒】深度解析——两个家族命运的碰撞 (评论: 灵媒)]]></title>
-        <id>https://movie.douban.com/review/13870512/</id>
-        <link href="https://movie.douban.com/review/13870512/"/>
-        <updated>2021-09-17T19:06:14.000Z</updated>
-        <summary type="html"><![CDATA[影探评论: 灵媒 (http://movie.douban.com/subject/35208823/)
-评价: 推荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https:...]]></summary>
-        <author>
-            <name>影探</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微信QQ放开了但没有完全放开外链限制；OPPO举办秋季新品发布会]]></title>
         <id>https://mp.weixin.qq.com/s/C_7M9m8gBC4KIIv_z_Hxmw</id>
         <link href="https://mp.weixin.qq.com/s/C_7M9m8gBC4KIIv_z_Hxmw"/>
@@ -3565,19 +3633,6 @@ Wechat 这样的做法，也符合其定位——首先是即时通讯软件，�
 这当然不是心理因素作祟，真实的原因是：如…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政治经济视角下的兴衰之道 (评论: 中信经典丛书005)]]></title>
-        <id>https://book.douban.com/review/13872580/</id>
-        <link href="https://book.douban.com/review/13872580/"/>
-        <updated>2021-09-17T08:36:50.000Z</updated>
-        <summary type="html"><![CDATA[煎茶评论: 中信经典丛书005 (https://book.douban.com/subject/35472554/)
-评价: 力荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img2.doub...]]></summary>
-        <author>
-            <name>煎茶</name>
         </author>
     </entry>
     <entry>
@@ -4075,31 +4130,6 @@ Tags - 五分钟无废话]]></summary>
         <summary type="html"><![CDATA[【装机帮扶站】第822期：联想刃9000GTI机箱配置推荐]]></summary>
         <author>
             <name>电脑吧评测室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为 MateStation X 评测：多设备协同办公时代的标杆级一体机]]></title>
-        <id>http://www.geekpark.net/news/285080</id>
-        <link href="http://www.geekpark.net/news/285080"/>
-        <updated>2021-09-13T13:26:42.000Z</updated>
-        <summary type="html"><![CDATA[在办公场景中，一体机是比较常见的 PC 品类，它有着简洁的设计，同时又能提供很大的屏幕，无论是日常家用，还是用来办公都非常舒适。不过，随着多设备协同逐渐成为当下的主流，如今市面上的一体机似乎跟不上时代的脚步了。
-
-在华为今天的智慧办公发布会上，华为 PC 产品阵容又增加了一名新成员——MateStation X 一体机，在 PC 产品上做出了许多创新的华为还能不能在一体机上继续带来新的体验，我们一起来了解下吧。
-
-
-熟悉的设计，但这次更显专业
-熟悉华为 PC 类目的朋友一眼就能发现，MateStation X 的外观设计和前段时间的 MateView 显示器非常相似，都属于简洁的商务风格，同时又不失时尚，很适合放在办公场景中使用。
-从一体机的角度来看，MateStation X 的设计就显得非常潮流了，毕竟这种形态的一体机并不多见，尤其是「个头很高」的 3:2 屏幕和极高的屏占比，让它看着很有辨识度。
-
-
-与 MateView 显示器一样，MateStation X 也采用了屏幕与主板分离式的设计，这样做可以让屏幕部分变得十分纤薄（最薄处只有 9.9 mm），机身整体线条也更加流畅规整，同时搭配上如今流行的平直边框设计，视觉上显得非常高端大气。
-
-
-
-分离式结构也将显示屏与核心部件分离开来，因此 MateStation X 的核心元器件和接口全放到了支架之中，如果和之前的 MateView 对比一下，很明显就能发现 MateStation X 的支架增宽了不少，毕竟这是台专业一体机，对内部空间有着一定的要求。
-将屏幕部分稍稍掀起，可以看到 MateStation X 的支架上还藏了一块「主板箱」，表面布满了散热开孔。这就是 MateStation X 的核心部分，其内藏有主板、风扇以及其他元器件。同时，「主板箱」也很巧妙地采用了隐藏式设计，无论从哪个角度看都非常隐蔽，不会破…]]></summary>
-        <author>
-            <name>极客公园</name>
         </author>
     </entry>
     <entry>
@@ -5078,26 +5108,6 @@ Tags - 硬件]]></summary>
         <summary type="html"><![CDATA[8月游戏耳机推荐]]></summary>
         <author>
             <name>电脑吧评测室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Her》最孤独的瞬间]]></title>
-        <id>https://mp.weixin.qq.com/s/eEo1IgWk_keQYAcCg12mRA</id>
-        <link href="https://mp.weixin.qq.com/s/eEo1IgWk_keQYAcCg12mRA"/>
-        <updated>2021-08-27T03:37:25.000Z</updated>
-        <summary type="html"><![CDATA[《Her》最孤独的瞬间]]></summary>
-        <author>
-            <name>懒人找资源</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YYDS，不限速下载！榨干！]]></title>
-        <id>https://mp.weixin.qq.com/s/uCH9uvOPxDHWX56JXajHDQ</id>
-        <link href="https://mp.weixin.qq.com/s/uCH9uvOPxDHWX56JXajHDQ"/>
-        <updated>2021-08-27T03:37:25.000Z</updated>
-        <summary type="html"><![CDATA[YYDS，不限速下载！榨干！]]></summary>
-        <author>
-            <name>懒人找资源</name>
         </author>
     </entry>
 </feed>
