@@ -1,16 +1,364 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-09T00:31:15.283Z</id>
+    <id>urn:2021-10-09T01:43:32.966Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-09T00:31:15.283Z</updated>
+    <updated>2021-10-09T01:43:32.966Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 15.0正式版停止签名验证]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1187985.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1187985.htm"/>
+        <updated>2021-10-09T01:40:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>随着iOS 15.0不再被签署，如果你已经更新到iOS 15.0.1，就不可能降级到该前者 ... iOS 15.0标志着一个重要的版本更新，引入了专注模式、实时文本、设备上的Siri、iCloud+、Safari的改进，以及更多的细节 ... iOS 15.0.1对一个错误进行了修复，该错误使经过认证的Apple Watch在佩戴口罩时无法被用来解锁iPhone 13机型。</p><p><a href='https://www.cnbeta.com/articles/tech/1187985.htm'>CNBeta : iOS 15.0.1发布后苹果停止签署iOS 15.0 降级不再可能</a></p><p><a href='https://tech.ifeng.com/c/8ABsqxs0Tu4'>凤凰科技 : iOS 15正式版停止签名验证 升级iOS 15.0.1/15.1 Beta后无法再降级</a></p><p><a href='https://www.macrumors.com/2021/10/08/apple-stops-signing-ios-15/'>Mac Rumors : Apple Stops Signing iOS 15.0 Following iOS 15.0.1 Release, Downgrading No Longer Possible</a></p><p><a href='https://9to5mac.com/2021/10/08/apple-stops-signing-ios-15-0-blocking-downgrades-from-ios-15-0-1-and-ios-15-1/'>9to5Mac : Apple stops signing iOS 15.0, blocking downgrades from iOS 15.0.1 and iOS 15.1</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36氪首发 | 臻驱科技获3亿元融资，加码研发碳化硅电驱方案]]></title>
+        <id>https://36kr.com/p/1432523273076358</id>
+        <link href="https://36kr.com/p/1432523273076358"/>
+        <updated>2021-10-09T01:38:20.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，国产功率半导体模块及电驱动系统解决方案公司臻驱科技完成3亿元的B2轮融资。本轮融资由中金资本领投，容亿投资、招商局资本、浦东科创集团旗下海望资本等新股东跟投。此外，君联资本、福睿基金、联想创投等老股东继续加码。
+ 
+据臻驱科技董事长兼CEO沈捷博士介绍，本轮融资将主要用于多个量产项目的运营资金保障、产线扩容，以及下一代碳化硅电驱动方案和功率半导体模块的研发和市场推广。
+ 
+臻驱科技成立于2017年，主要研发、生产和销售新能源汽车动力总成和高性能国产功率半导体模块。据官方介绍，目前，臻驱科技产品线覆盖从功率半导体模块、电机控制器到动力总成的新能源汽车全产业链产品，并稳定出货德国和中国。除了汽车领域，臻驱科技的产品还可同时应用至风光储能等清洁能源装备领域。
+ 
+36氪曾报道，臻驱科技在2019年2月宣布完成4000万元人民币的A+轮融资，投资方是拓金创投基金、锐合资本和深圳中南荷多。2020年8月，臻驱科技再次宣布获得1.5亿元人民币B轮融资，由君联资本领投，奥动新能源创始人蔡东青、联想创投集团、上海科创基金跟投。
+ 
+新能源汽车市场正快速增长，作为新能源车的核心零部件，电驱动系统也看到可观的创新和增长机会。据中汽协数据显示，2021年1-7月，新能源汽车产销分别达到150.4万辆和147.8万辆，同比增长均为2倍，前7个月产销均已超过2020年全年。
+ 
+此外，新能源车，尤其是纯电动汽车普遍面临补能效率压力，业界普遍认为解决方案之一是高压快充路线，但需要新一代功率器件的配套支持，这就对碳化硅半导体模块也提出了明确需求。
+ 
+臻驱科技领投方中金资本-中金启辰基金总经理徐怡也表示，新能源电驱动系统是新能源车最核心的子系统之一，随着电动化率的快速提升，国内新能源电驱动、以及核心功率器件行业将迎来爆发式增长，是个长坡厚雪的赛道。
+ 
+当然，电驱动行业并非新兴市场，如何应对竞争？臻驱科技方面表示，凭借着正向设计、测试和供应链整合能力，公司产品性能可以对标国际一线品牌，多款新能源汽车高性能电机控制器及自研功率模块，已打入海内外多家一线主机厂商及零部件供应商。
+ 
+同时，臻驱科技也先后获得ISO 14001环境管理体系认证和ISO26262:2018 ASIL-D最高级功能安全认证，帮助公司提升产品实力。
+ 
+更关键的是，今年一季度，臻驱科技在量产上取得明确进展，其已经获得国内某知名车企旗下数款乘用车车型的电控量产定点。据臻驱科技介绍，这些定点车型已在9月完成了夏季整车标定和测试，上市在即。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟将对微软Teams展开反垄断调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1187975.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1187975.htm"/>
+        <updated>2021-10-09T01:37:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>欧盟反垄断监管机构“欧盟委员会”正在跟进Slake technologies的一项投诉，开始询问微软的竞争对手：Microsoft Teams与Office的捆绑是否会给微软带来更大的影响力 ... 此举表明，欧盟可能对Microsoft Teams展开反垄断调查 ... 在问卷中，欧盟委员会询问微软竞争对手，捆绑产品是否让企业获得一些数据，从而进一步增强其市场力量，同时也会使竞争对手更难与其竞争。</p><p><a href='https://www.cnbeta.com/articles/tech/1187975.htm'>CNBeta : 欧盟要对微软Teams展开反垄断调查 已向竞争对手发出问卷</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本半导体材料厂商相继开始增强产能]]></title>
+        <id>https://36kr.com/newsflashes/1433132080037507</id>
+        <link href="https://36kr.com/newsflashes/1433132080037507"/>
+        <updated>2021-10-09T01:37:20.000Z</updated>
+        <summary type="html"><![CDATA[日经中文网消息，日本的半导体材料厂商将相继开始增强产能。硅晶圆厂商SUMCO在9月30日宣布投资2287亿日元，增产最先进的直径300毫米晶圆。此外，富士胶片控股将在到2023财年（截至2024年3月）的3年里，向半导体材料业务投资700亿日元；将向静冈县工厂投入45亿日元，提高最尖端的EUV（极紫外）光刻胶的产能。住友电木将对中国子公司苏州住友电木有限公司投入25亿日元，建设新生产线。（界面）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统计局：9月下旬烧碱价格环比上涨48.5%]]></title>
+        <id>https://36kr.com/newsflashes/1433131203231366</id>
+        <link href="https://36kr.com/newsflashes/1433131203231366"/>
+        <updated>2021-10-09T01:36:26.000Z</updated>
+        <summary type="html"><![CDATA[国家统计局披露，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2021年9月下旬与9月中旬相比，32种产品价格上涨，15种下降，3种持平。其中，烧碱（液碱，32%）价格为1193.6元/吨，环比上涨48.5%；聚氯乙烯（SG5）价格为11439.5元/吨，环比上涨12.9%。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行今日开展100亿元7天期逆回购操作]]></title>
+        <id>https://36kr.com/newsflashes/1433121187610247</id>
+        <link href="https://36kr.com/newsflashes/1433121187610247"/>
+        <updated>2021-10-09T01:26:15.000Z</updated>
+        <summary type="html"><![CDATA[中国央行今日开展100亿元逆回购操作，因今日无逆回购到期，当日实现净投放100亿元。本周，中国央行累计开展200亿元逆回购操作，因本周有3400亿元逆回购到期，本周实现净回笼3200亿元。（新浪财经）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来ES8登陆欧洲挪威，采取全球统一定价]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1187963.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1187963.htm"/>
+        <updated>2021-10-09T01:22:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>汽车在宣布进军欧洲后，旗下首款量产车ES8于9月30日在挪威完成上市并开启交付 ... 官方信息显示，ES8标准续航电池包（75度）车型的起售价为60.9万挪威克朗（约合人民币46万元） ... 对于旗下车型在挪威市场的定价方法，汽车企业传播高级总监马麟称，新车售价采用全球统一定价策略，同时结合综合运费、当地税费和运营成本等因素进行调整。</p><p><a href='https://www.cnbeta.com/articles/tech/1187963.htm'>CNBeta : 蔚来ES8登陆欧洲挪威 全球统一定价</a></p><p><a href='https://www.tmtpost.com/nictation/5752241.html'>钛媒体 : 蔚来ES8登陆欧洲挪威，采取全球统一定价</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google将AdSense转为首价拍卖]]></title>
+        <id>https://www.36kr.com/p/1432456215772801</id>
+        <link href="https://www.36kr.com/p/1432456215772801"/>
+        <updated>2021-10-09T01:22:44.000Z</updated>
+        <summary type="html"><![CDATA[由德克萨斯州和其他州总检察长牵头的一项针对Google的反垄断诉讼中， 指控Google正在以其展示广告网络 （包括 AdSense 内容广告） 和Google Ads为中心的非法垄断，而在此刻改变竞价模式， 以一种更公开透明的方式消除争议可能对Google的商业发展有更大的好处 ... 这次Google生态内的绝大多数产品都已经逐渐完成了竞价模式的改变，似乎Google真的如期博客文章中所述，将]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国金证券：非农低于预期不改美联储Taper节奏]]></title>
+        <id>https://36kr.com/newsflashes/1433112828018311</id>
+        <link href="https://36kr.com/newsflashes/1433112828018311"/>
+        <updated>2021-10-09T01:17:45.000Z</updated>
+        <summary type="html"><![CDATA[国金证券认为，非农数据表现不如预期不改美联储Taper节奏。虽然美联储对非农的数据并不会满意，但是通胀持续性超预期、9月私营部门的缺口并没有实际数值显示的那么大，不改美联储Taper的路径。后续仍需关注纽联储公布的一级交易商对于缩减购债的预期，若美联储11月正式Taper，市场预期决定了风险资产的波动程度。（新浪财经）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团遭 34.42 亿反垄断处罚；SpaceX 估值突破 1000 亿美元；字节否认「进军房产中介」｜极客早知道]]></title>
+        <id>http://www.geekpark.net/news/287476</id>
+        <link href="http://www.geekpark.net/news/287476"/>
+        <updated>2021-10-09T01:17:05.000Z</updated>
+        <summary type="html"><![CDATA[市监总局对美团施行 34.42 亿反垄断处罚 美团回应
+10 月 8 日消息，国家市场监管总局依法作出行政处罚决定，责令美团停止违法行为，并处以其 2020 年境内销售收入 3% 的罚款，计 34.42 亿元。总局公告显示，美团违反了《反垄断法》第十七条第一款第（四）项的「没有正当理由，限定交易相对人只能与其进行交易」。
+
+      
+美团回应称，「今天，我们收到了国家市场监督管理总局对美团作出的行政处罚决定。对此，我们诚恳接受，坚决落实，按照《行政处罚决定书》和《行政指导书》全面深入自查整改，杜绝『二选一』。美团将以此为戒，依法合规经营，自觉维护公平竞争秩序，切实履行社会责任，更好地服从和服务于经济社会发展大局，努力为国家经济高质量发展多做贡献。」（来源：凤凰网科技）
+
+          
+        
+淘宝特价版将接入微信支付，商家开始批量签约
+
+      
+      
+近日，淘特商家开始批量签约开通多元化支付协议，或在月内接入微信支付。依据协议描述，淘特将拓展多元化商品销售和支付渠道，将在特定场景支持淘特 App 多样化支付方式，通过引入第三方支付机构提供代收账款等服务。（来源：36 氪）
+
+
+
+
+马斯克旗下 SpaceX 估值超 1000 亿美元 为全球第二大私营公司
+
+据报道，经过本周早些时候的投资者出售股票，特斯拉 CEO 埃隆·马斯克（Elon Musk）旗下太空探索技术公司 SpaceX 的估值已超过 1000 亿美元。多位知情人士透露，SpaceX 与公司的新老投资者达成了协议，以每股 560 美元的价格从内部人士手中出售最多 7.55 亿美元的股票，使该公司估值增至 1003 亿美元。
+SpaceX 的新估值，使其成为世界上少有「百角兽」（Centicorn，市值超 1000 亿美元) 非上市公司之一。调研公司 CB Insights 数据显…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全力加码电气化！奥特能会是通用的杀手锏吗？]]></title>
+        <id>https://www.leikeji.com/article/42204</id>
+        <link href="https://www.leikeji.com/article/42204"/>
+        <updated>2021-10-09T01:09:22.000Z</updated>
+        <summary type="html"><![CDATA[进入新能源时代，通用电气化的速度并不算慢，大家熟知的雪佛兰Volt早在2010年就已经推出市场，走的还是没有里程焦虑的增程式模式，而在中国市场，目前通用旗下的电动车，有别克微蓝6、微蓝7，以及的雪佛兰畅巡，而凯迪拉克则暂时没有纯电动车型在售 ... 错过了最佳时机，但之前的努力并不是无用功，通用在新能源领域的积淀在行业中也是数一数二的，于是代表通用未来电气化战略的Ultium奥特能平台出现了 ..]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫星捕捉到南加州海岸附近的海洋石油泄漏事件]]></title>
+        <id>https://www.cnbeta.com/articles/science/1188051.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1188051.htm"/>
+        <updated>2021-10-09T01:08:00.000Z</updated>
+        <summary type="html"><![CDATA[这对于那些海滩附近的人来说可能是显而易见的，但是在广阔而深邃的蓝色海洋中，石油并不总是容易被发现 ... (如果阳光的角度合适，科学家们也可以利用太阳光来追踪大型的石油泄漏事件 ... 美国海岸警卫队和加州鱼类和野生动物部正在与当地城市和私营企业合作，以减轻石油泄漏的影响。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双11没死，直播却很猛]]></title>
+        <id>https://www.36kr.com/p/1432527961816705</id>
+        <link href="https://www.36kr.com/p/1432527961816705"/>
+        <updated>2021-10-09T01:00:38.000Z</updated>
+        <summary type="html"><![CDATA[一年一度的双11狂欢节快要到了，但双11再也不像曾经那样疯狂了 ... 最主要的是，双11不再是淘宝的特权，会有越来越多的用户在双11期间去到大主播的直播间消费购买 ... 本来品牌方在直播渠道就不赚钱，如果过于依赖于直播带货，尤其是一些新消费品牌，只会昙花一现。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google宣布为保护记者和高风险用户免受网络攻击做出新努力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1188047.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1188047.htm"/>
+        <updated>2021-10-09T00:53:35.000Z</updated>
+        <summary type="html"><![CDATA[它将为高风险用户提供一系列新的网络安全保护功能，此前一天，Google告诉大约1.4万名Gmail用户，他们已经成为俄罗斯政府组织APT28的目标 ... 该公司解释说：“我们很高兴能与这些领先的组织合作，保护高风险的用户群体，并获得更多关于高风险用户和组织的需求 ... 宣称用户可以开启高级保护计划（App）以加强对某些攻击的保护外，Google还表示，它正在与全球各地的组织合作，在2021年向]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家卫健委：10月8日新增确诊病例17例，均为境外输入病例]]></title>
+        <id>https://36kr.com/newsflashes/1433088133480073</id>
+        <link href="https://36kr.com/newsflashes/1433088133480073"/>
+        <updated>2021-10-09T00:52:38.000Z</updated>
+        <summary type="html"><![CDATA[国家卫健委数据显示，10月8日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例17例，均为境外输入病例（广西3例，云南3例，天津2例，辽宁2例，上海2例，湖南2例，福建1例，山东1例，陕西1例），含2例由无症状感染者转为确诊病例（均在湖南）。无新增死亡病例。新增疑似病例1例，为境外输入病例（在上海）。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中金：四季度煤炭供给将有所改善]]></title>
+        <id>https://36kr.com/newsflashes/1433084899851910</id>
+        <link href="https://36kr.com/newsflashes/1433084899851910"/>
+        <updated>2021-10-09T00:49:20.000Z</updated>
+        <summary type="html"><![CDATA[中金认为四季度煤炭供给将有所改善，供需矛盾将得到一定缓解。适度增加进口对煤炭供应将是有力补充，在边际上可能缓解当前的偏紧格局，但进口成本可能仍比较高昂。在当前形势下，在确保安全的前提下挖掘现有产能，并推进发电供热端中长协全覆盖，是煤炭保供的核心，同时亦有助于稳定市场预期，防止煤炭价格超涨。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WidsMob Panorama 3.22 图片拼接工具]]></title>
+        <id>https://xclient.info/s/widsmob-panorama.html</id>
+        <link href="https://xclient.info/s/widsmob-panorama.html"/>
+        <updated>2021-10-09T00:47:37.000Z</updated>
+        <summary type="html"><![CDATA[WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Reader for Safari 1.4.4 深色模式插件]]></title>
+        <id>https://xclient.info/s/dark-reader-for-safari.html</id>
+        <link href="https://xclient.info/s/dark-reader-for-safari.html"/>
+        <updated>2021-10-09T00:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Dark Reader 是一款帮你打开深色模式的浏览器插件，反转明亮的颜色，使其网页内容具有高对比度并且在易于夜间阅读，简单点来说就是一键将当前的网页转换为暗黑色。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WidsMob Viewer Pro 1.5 图片浏览和编辑应用]]></title>
+        <id>https://xclient.info/s/widsmob-viewer-pro.html</id>
+        <link href="https://xclient.info/s/widsmob-viewer-pro.html"/>
+        <updated>2021-10-09T00:45:56.000Z</updated>
+        <summary type="html"><![CDATA[WidsMob Viewer是照片浏览器中一个出色和明智的选择，它可以帮助您至少节省一半时间搜索照片。此外，您可以获得许多有用的照片编辑工具。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCommander 3.9.1 双窗格文件管理]]></title>
+        <id>https://xclient.info/s/dcommander.html</id>
+        <link href="https://xclient.info/s/dcommander.html"/>
+        <updated>2021-10-09T00:44:57.000Z</updated>
+        <summary type="html"><![CDATA[DCommander是一个双窗格文件管理器，让您完全控制您的计算机的文件系统。针对快速访问和用户友好性的优化，为从其他操作系统转换的新Mac用户以及需要更多计算机控制权的高级用户提供了完美的配套。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟要对微软Teams展开反垄断调查]]></title>
+        <id>https://www.pingwest.com/w/250972?utm_source=feed</id>
+        <link href="https://www.pingwest.com/w/250972?utm_source=feed"/>
+        <updated>2021-10-09T00:44:21.000Z</updated>
+        <summary type="html"><![CDATA[欧盟反垄断监管机构“欧盟委员会”正在跟进Slake technologies的一项投诉，开始询问微软的竞争对手：Microsoft Teams与Office的捆绑是否会给微软带来更大的影响力，重点集中在2016年至2021年间 ... 此举表明，欧盟可能对Microsoft Teams展开反垄断调查 ... 过去十年间，微软因所谓的“搭售”和其他做法，已被欧盟罚款22亿欧元（约合26亿美元）。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrefEdit 5.0 应用配置文件编辑器]]></title>
+        <id>https://xclient.info/s/prefedit.html</id>
+        <link href="https://xclient.info/s/prefedit.html"/>
+        <updated>2021-10-09T00:44:15.000Z</updated>
+        <summary type="html"><![CDATA[PrefEdit 是一款非常不错的开发编辑器和应用配置文件编辑工具。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eon 2.8.16 优秀的时间跟踪定时器]]></title>
+        <id>https://xclient.info/s/eon.html</id>
+        <link href="https://xclient.info/s/eon.html"/>
+        <updated>2021-10-09T00:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Eon 是一款Mac上优秀的时间跟踪定时器，支持中文界面，可以进行时间统计跟踪，设置定时器等，简单易用。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iCollections 7.0.70006 桌面图标清理]]></title>
+        <id>https://xclient.info/s/icollections.html</id>
+        <link href="https://xclient.info/s/icollections.html"/>
+        <updated>2021-10-09T00:42:39.000Z</updated>
+        <summary type="html"><![CDATA[通过iCollections你可以轻松整理电脑桌面上的图片及文件，并将文件分类分区域整理]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duplicate Photos Fixer Pro 4.0 重复图片清理]]></title>
+        <id>https://xclient.info/s/duplicate-photos-fixer-pro.html</id>
+        <link href="https://xclient.info/s/duplicate-photos-fixer-pro.html"/>
+        <updated>2021-10-09T00:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Duplicate Photos Fixer Pro 是一款重复图片清理软件，它能够为用户查找Mac上所有重复图片和接近的图片并将其删除，为您节省宝贵的磁盘空间。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[技巧]两种进入Windows 11安全模式的方法]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1188041.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1188041.htm"/>
+        <updated>2021-10-09T00:35:48.000Z</updated>
+        <summary type="html"><![CDATA[重启到安全模式允许用户临时禁用驱动程序和相关功能，帮助用户确认任何影响 PC 运行的系统关键问题 ... 本文将告诉你如何在 Windows 11 系统上启动到安全模式 ... 进入安全模式有两种方式，两种方式都比较简单，用户可以自行选择。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaleidoscope 3.0.2 CR2 功能强大的对比工具]]></title>
+        <id>https://xclient.info/s/kaleidoscope.html</id>
+        <link href="https://xclient.info/s/kaleidoscope.html"/>
+        <updated>2021-10-09T00:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisdem DVD Burner 6.1.0 光盘刻录]]></title>
+        <id>https://xclient.info/s/cisdem-dvd-burner.html</id>
+        <link href="https://xclient.info/s/cisdem-dvd-burner.html"/>
+        <updated>2021-10-09T00:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Cisdem DVDBurner是一款Mac平台上的光盘刻录软件，可以刻录数据光盘，DVD光盘以及音频光盘。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“番茄口袋”完成A+轮融资]]></title>
+        <id>https://36kr.com/newsflashes/1433068765576834</id>
+        <link href="https://36kr.com/newsflashes/1433068765576834"/>
+        <updated>2021-10-09T00:32:56.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，“番茄口袋”已于近期完成A+轮融资，投资方未作披露，本轮融资将主要用于线下门店的全国性布局、品牌建设、用户运营和人才引进等。这是在8月披露创新工场的5000万A轮融资后，番茄口袋在两个月内完成的又一轮融资。据官方介绍，番茄口袋成立于2020年，目前已完成在北京朝阳大悦城、西单大悦城、合生汇三家门店的布局，同时即将在11月开出第四家门店——三里屯主题概念店。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“云梦山海”完成数千万元天使轮融资]]></title>
+        <id>https://36kr.com/newsflashes/1433066691526275</id>
+        <link href="https://36kr.com/newsflashes/1433066691526275"/>
+        <updated>2021-10-09T00:30:49.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，沉浸式餐饮文化旅游地方新志“云梦山海”于近日完成数千万元天使轮融资，由梅花创投及消费产业投资人黄海作为合伙人的泽盛创投联合领投。本轮融资将用于门店运营、品牌建设、团队管理等。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“离媛”人设又在网红圈火了？]]></title>
+        <id>https://www.tmtpost.com/5751253.html</id>
+        <link href="https://www.tmtpost.com/5751253.html"/>
+        <updated>2021-10-09T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[可见，“离媛”、“病媛”中的苦情人设，以及“佛媛”中的信仰人设，都是在这些理念下应运而生的模板 ... ”张旭坦言，无论是卖惨的“离媛”、“病媛”，还是此前被媒体曝光的“佛媛”，都注定是难以长久的人设、没有持久生命力，至于“承载”人设的网红，自然会成为MCN用完即弃的棋子 ... 用户渐渐接受“网红卖的是人设”这一现实，但随着行业竞争的进一步加剧，MCN打造网红人设的尺度也变得越来越离谱。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[36氪首发 | 两月内完成两轮融资，「番茄口袋」获A+轮融资，加码Z世代的潮趣空间]]></title>
         <id>https://36kr.com/p/1432389522816644</id>
         <link href="https://36kr.com/p/1432389522816644"/>
         <updated>2021-10-09T00:29:48.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，「番茄口袋」已于近期完成A+轮融资，投资方未作披露，本轮融资将主要用于线下门店的全国性布局、品牌建设、用户运营和人才引进等。据了解，这是在8月披露创新工场的5000万A轮融资后，「番茄口袋」在两个月内完成的又一轮融资。
+        <summary type="html"><![CDATA[36氪获悉，「番茄口袋」已于近期完成A+轮融资，投资方未作披露，本轮融��将主要用于线下门店的全国性布局、品牌建设、用户运营和人才引进等。据了解，这是在8月披露创新工场的5000万A轮融资后，「番茄口袋」在两个月内完成的又一轮融资。
  
 「番茄口袋」成立于2020年，致力于为Z世代打造好玩的潮趣空间。目前，已完成在北京朝阳大悦城、西单大悦城、合生汇三家门店的布局，同时即将在11月开出第四家门店——三里屯主题概念店。据联合创始人&CEO王丽杰介绍，“三里屯作为时尚潮流聚集地，周围不乏国内外知名品牌，及各大Vintage买手店、中古店等，年轻人是主要客群，在结合时尚、潮流及年轻人对精致生活、社交等需求后，三里屯店在选品、内容和空间上做了进一步的优化，这将是一次品牌形象的全新升级。”
  
@@ -28,7 +376,7 @@
  
 接下来，「番茄口袋」将通过系统化梳理不同类别门店的运营、商品管理、线上营销、空间规划等，建立更加优化的单店模型、以便复制到其他一线以及新一线城市，达到开业即火爆的效果。
  
-另外，王��杰告诉36氪，团队对于选址比较慎重，希望各城市的首店都能成为“样板案例”，开出的门店在设计和定位上都会有差异化，这样用户也能获得多样的体验，成为年轻人打卡和种草的新选择。
+另外，王丽杰告诉36氪，团队对于选址比较慎重，希望各城市的首店都能成为“样板案例”，开出的门店在设计和定位上都会有差异化，这样用户也能获得多样的体验，成为年轻人打卡和种草的新选择。
  
 
  
@@ -44,21 +392,71 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[波音卫星互联网计划将在FCC投票表决，拟发射147颗卫星]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1188013.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1188013.htm"/>
+        <updated>2021-10-09T00:27:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>按照计划，该公司希望获准发射和运营147颗卫星，以提供宽带互联网接入服务 ... 2019年，埃隆·马斯克(Elon Musk)旗下太空探索技术公司SpaceX敦促FCC拒绝波音的申请，理由是该计划对其他系统构成了“有害干扰”，或者“至少施加适当的条件，以确保波音的运营不会损害其他运营商的利益” ... 今年4月，FCC投票批准了SpaceX的星链项目修订计划，该公司希望在比原定计划更低的地球轨道上部署更多卫星，这是其提供空基宽带互联网努力的重要组成部分。</p><p><a href='https://www.cnbeta.com/articles/tech/1188013.htm'>CNBeta : 波音卫星互联网计划将在FCC投票表决 拟发射147颗卫星</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 Promise.allSettled() ！新手老手都要会？]]></title>
+        <id>https://juejin.cn/post/7016856020395753509</id>
+        <link href="https://juejin.cn/post/7016856020395753509"/>
+        <updated>2021-10-09T00:26:39.000Z</updated>
+        <summary type="html"><![CDATA[本文已参与 「掘力星计划」 ，赢取创作大礼包，挑战创作激励金。 Promise.allSettled() 方法返回一个在所有给定的 promise 都已经 fulfilled 或 rejected 后]]></summary>
+        <author>
+            <name>前端小智</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田Mirai氢燃料电池车凭借845英里的零排放之旅创吉尼斯世界纪录]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1188039.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1188039.htm"/>
+        <updated>2021-10-09T00:20:21.000Z</updated>
+        <summary type="html"><![CDATA[丰田Mirai氢燃料电池车凭借其在南加州完成的845英里零排放之旅创下新的吉尼斯世界纪录：这是燃料电池汽车在不加氢的情况下行驶的最远距离 ... 经过5分钟的加注，2021年Mirai的气箱被密封并得到吉尼斯世界纪录官员的认证，然后团队离开了位于加州加迪纳的丰田技术中心 ... 丰田汽车北美公司执行副总裁Bob Carter表示：“2016年，丰田Mirai是第一辆可在北美零售的量产燃料电池电动汽]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微信回应“后台读取相册”：便于快速发图，新版本中将取消]]></title>
         <id>https://36kr.com/newsflashes/1433055948291720</id>
         <link href="https://36kr.com/newsflashes/1433055948291720"/>
         <updated>2021-10-09T00:19:53.000Z</updated>
-        <summary type="html"><![CDATA[有用户在网络贴出截图称“iOS版微信在后台反复读取用户相册”。微信回应称，iOS系统为App开发者提供相册更新通知标准能力，相册发生内容更新时会通知到App，提醒App可以提前做准备，该准备行为会被记录成读取系统相册。为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力。上述行为均仅在手机本地完成，最新版本中将取消对该系统能力的使用，优化快速发图功能。（澎湃）]]></summary>
+        <summary type="html"><![CDATA[微信回应称，iOS系统为App开发者提供相册更新通知标准能力，相册发生内容更新时会通知到App，提醒App可以提前做准备，该准备行为会被记录成读取系统相册 ... 为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力 ... 上述行为均仅在手机本地完成，最新版本中将取消对该系统能力的使用，优化快速发图功能。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信回应“后台读取相册”：便于快速发图，新版本中将取消]]></title>
+        <id>https://36kr.com/newsflashes/1433055948291720</id>
+        <link href="https://36kr.com/newsflashes/1433055948291720"/>
+        <updated>2021-10-09T00:19:53.000Z</updated>
+        <summary type="html"><![CDATA[10月8日，有用户在网络贴出截图称“iOS版微信在后台反复读取用户相册”。微信回应称，iOS系统为App开发者提供相册更新通知标准能力，相册发生内容更新时会通知到App，提醒App可以提前做准备，该准备行为会被记录成读取系统相册。为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力。上述行为均仅在手机本地完成，最新版本中将取消对该系统能力的使用，优化快速发图功能。（澎湃）]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果在Epic Games案中提出上诉 可能会将App Store的变化推迟数年]]></title>
+        <title type="html"><![CDATA[苹果在Epic Games案中提出上诉，可能会将App Store的变化推迟数年]]></title>
         <id>https://www.cnbeta.com/articles/tech/1188005.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1188005.htm"/>
         <updated>2021-10-09T00:19:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>法官在11月作出决定，如果苹果赢得了反禁制令，那么可能允许开发者规避15%至30%的App Store费用的规则变化可能不会生效，直到该案的上诉结束，这一过程可能需要数年 ... 9月，联邦法官伊冯娜·冈萨雷斯·罗杰斯在《堡垒之夜》制造商Epic提起的反垄断审判中，对10项罪名中的9项作出了有利于苹果的裁决 ... 苹果也被命令对其商店做出重大改变，允许移动应用程序引导消费者使用外部支付方式，这可能为逃避苹果应用商店的费用提供了一个途径。</p><p><a href='https://www.cnbeta.com/articles/tech/1188005.htm'>CNBeta : 苹果在Epic Games案中提出上诉 可能会将App Store的变化推迟数年</a></p><p><a href='https://www.macrumors.com/2021/10/08/apple-epic-games-lawsuit-appeal/'>Mac Rumors : Apple Files Appeal in Epic Games Lawsuit, Asks to Delay App Store Changes</a></p><p><a href='https://www.nytimes.com/2021/10/08/technology/apple-epic-games-lawsuit.html'>The New York Times : Apple Appeals App Store Ruling in Fight With Epic Games</a></p><p><a href='https://9to5mac.com/2021/10/08/apple-appeals-ruling-in-epic-games-case-and-app-store-changes-could-be-delayed/'>9to5Mac : Apple appeals ruling in Epic Games case and App Store changes could be delayed</a></p><p><a href='https://www.theverge.com/2021/10/8/22717271/apple-appeals-epic-games-ruling-anti-steering'>The Verge : Apple is appealing the Epic Games ruling it originally called a ‘resounding victory’</a></p><p><a href='https://appleinsider.com/articles/21/10/08/apple-appeals-ruling-in-epic-games-lawsuit-requests-stay-on-app-store-changes?utm_medium=rss'>AppleInsider : Apple appeals ruling in Epic Games lawsuit, requests stay on App Store changes</a></p>]]></summary>
+        <summary type="html"><![CDATA[<p>法官在11月作出决定，如果苹果赢得了反禁制令，那么可能允许开发者规避15%至30%的App Store费用的规则变化可能不会生效，直到该案的上诉结束，这一过程可能需要数年 ... 9月，联邦法官伊冯娜·冈萨雷斯·罗杰斯在《堡垒之夜》制造商Epic提起的反垄断审判中，对10项罪名中的9项作出了有利于苹果的裁决 ... 苹果也被命令对其商店做出重大改变，允许移动应用程序引导消费者使用外部支付方式，这可能为逃避苹果应用商店的费用提供了一个途径。</p><p><a href='https://www.cnbeta.com/articles/tech/1188005.htm'>CNBeta : 苹果在Epic Games案中提出上诉 可能会将App Store的变化推迟数年</a></p><p><a href='https://tech.ifeng.com/c/8ABwRfayYzF'>凤凰科技 : 苹果就Epic反垄断案提出上诉 App Store抽成调整或拖延多年</a></p><p><a href='https://www.macrumors.com/2021/10/08/apple-epic-games-lawsuit-appeal/'>Mac Rumors : Apple Files Appeal in Epic Games Lawsuit, Asks to Delay App Store Changes</a></p><p><a href='https://www.nytimes.com/2021/10/08/technology/apple-epic-games-lawsuit.html'>The New York Times : Apple Appeals App Store Ruling in Fight With Epic Games</a></p><p><a href='https://9to5mac.com/2021/10/08/apple-appeals-ruling-in-epic-games-case-and-app-store-changes-could-be-delayed/'>9to5Mac : Apple appeals ruling in Epic Games case and App Store changes could be delayed</a></p><p><a href='https://www.theverge.com/2021/10/8/22717271/apple-appeals-epic-games-ruling-anti-steering'>The Verge : Apple is appealing the Epic Games ruling it originally called a ‘resounding victory’</a></p><p><a href='https://appleinsider.com/articles/21/10/08/apple-appeals-ruling-in-epic-games-lawsuit-requests-stay-on-app-store-changes?utm_medium=rss'>AppleInsider : Apple appeals ruling in Epic Games lawsuit, requests stay on App Store changes</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三一重工建立工厂控制中心，打造智能柔性供应链；宇信科技与长城信息合作，输出智慧银行整体解决方案 | 36氪大公司数字化创新指南1008]]></title>
+        <id>https://36kr.com/p/1432341992390281</id>
+        <link href="https://36kr.com/p/1432341992390281"/>
+        <updated>2021-10-09T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[36氪To B产业组推出了新板块“大公司数字化创新指南”，我们会为大家汇总每日各行业大公司数字化创新业务的主要新闻 ... 双方联合输出的智慧银行整体解决方案，覆盖咨询、设计、软硬件实施、运营等一体化服务，且兼顾国产化需求 ，满足国有银行、股份制银行、城商行、农信社、农商行、民营银行不同场景的需求，全面推动银行网点的智慧转型 ... 以木业家居产业为突破口，大力实施企业端数字化改造，依托嘉善木业家]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -93,6 +491,26 @@
 双方联合输出的智慧银行整体解决方案，覆盖咨询、设计、软硬件实施、运营等一体化服务，且兼顾国产化需求 ，满足国有银行、股份制银行、城商行、农信社、农商行、民营银行不同场景的需求…]]></summary>
         <author>
             <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果将建立新的地区总部，以制作电影和电视节目]]></title>
+        <id>https://www.pingwest.com/w/250971?utm_source=feed</id>
+        <link href="https://www.pingwest.com/w/250971?utm_source=feed"/>
+        <updated>2021-10-09T00:18:28.000Z</updated>
+        <summary type="html"><![CDATA[苹果准备在美国卡尔弗城和洛杉矶交界处建设新地区总部，包括2幢办公楼，面积55万平方英尺（约5.1万平米），将会安置Apple TV+、Apple Music、工程与人工智能团队 ... 卡尔弗城是电影制作中心，索尼子公司哥伦比亚电影公司的总部就在那里。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook为一周之内两次宕机向用户致歉，现已恢复正常]]></title>
+        <id>https://www.pingwest.com/w/250970?utm_source=feed</id>
+        <link href="https://www.pingwest.com/w/250970?utm_source=feed"/>
+        <updated>2021-10-09T00:17:04.000Z</updated>
+        <summary type="html"><![CDATA[在最新一次宕机时Instagram、Messenger和Workplace受到影响 ...Facebook在周五晚上的声明中表示：“向在过去几小时内无法访问我们产品的用户致以诚挚的歉意。]]></summary>
+        <author>
+            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +594,16 @@ AI芯片初创公司地平线据悉考虑最早明年进行香港IPO。（彭博
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[可变刷新率立功：iPhone 13和iPhone 13 Pro续航实测对比]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1188023.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1188023.htm"/>
+        <updated>2021-10-09T00:04:37.000Z</updated>
+        <summary type="html"><![CDATA[在油管频道最新视频中，对比了 iPhone 13 和 iPhone 13 Pro 的续航时间 ... 两款 iPhone 都有一个 6.1 英寸的显示屏，但 iPhone 13 Pro 有一个 120Hz 的 ProMotion 显示屏，刷新率可变 ... 如前所述，与去年的 iPhone 12 和 iPhone 12 Pro 机型相比，iPhone 13 系列的电池寿命有所增强。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[36氪首发 | 从发票数字化到业财一体化系统，「迅联云」获过亿元A+轮融资]]></title>
         <id>https://36kr.com/p/1422260514307720</id>
         <link href="https://36kr.com/p/1422260514307720"/>
@@ -200,7 +628,7 @@ AI芯片初创公司地平线据悉考虑最早明年进行香港IPO。（彭博
  
 值得一提的是，上一轮融资后，迅联云推出了新业务板块“e安联”。
  
-随着数据安全法、个人隐私保护法等相关条例落地，数据作为资产的重要性，以及未来的权属分配会成为商业底线。陈玉刚表示，e安联正是希望让业务聚焦于应用，让数据真正安全可控地进行流转。去年团队与中科院达成合作，一直从事基于国产密码技术的相关研究，这一产品是国产密码技术的应用化和工程化，并构建了完全符合信创标准的数字安全技术国产化方案。
+随着数据安全法、个人隐私保护法等相关条例落地，数据作为资产的重要性，以及未来的权属分配会成为商业底线。陈玉刚表示，e安联正是希望让业务聚焦于应用，让数据真正安全可控地进行流转。去年团队与中科院达成合作，一直从事基于国产密码技术的相关研究，���一产品是国产密码技术的应用化和工程化，并构建了完全符合信创标准的数字安全技术国产化方案。
  
 他也补充，e安联会内嵌到迅联云产品中，而对于更高级别的计算和流转需求，此后迅联云也会进一步将其产品化。“以往很多业务数字化的做法是通过平台得到数据的授信，从而与银行或其他第三方进行交互，但是这样会有数据和隐私泄露风险，e安联正是确保数据资产属于企业自己的产品。”
  
@@ -234,7 +662,7 @@ AI芯片初创公司地平线据悉考虑最早明年进行香港IPO。（彭博
  
 截止到2021年3月，互联网用户数量11.62亿，仅比2020年规模低谷期9月份增加了822万。流量红利逐渐消失，企业对流量的诉求从新增到运营，“私域流量”概念正是由此而生。
  
-私域流量运营经历近几年的演变，其对应的产品从最初的小程序、H5，再到后来的企业微信，大多都是基于微信生态中的社会化客户关系管理（SCRM）。广义的SCRM希望将企业客户、员工、合作伙���在特定场景下的数据沉淀下来，以更好地与各方互动，让大数据支撑客户运营和营销活动。
+私域流量运营经历近几年的演变，其对应的产品从最初的小程序、H5，再到后来的企业微信，大多都是基于微信生态中的社会化客户关系管理（SCRM）。广义的SCRM希望将企业客户、员工、合作伙伴在特定场景下的数据沉淀下来，以更好地与各方互动，让大数据支撑客户运营和营销活动。
  
 但是私域不仅仅等于“流量”，而是企业第一方营销资产的总和。 2015 年起，群脉科技就开始围绕客户关系管理提供一系列的企业级私域解决方案，已在数字化转型赛道上耕耘多年，为此赛道较早进场的玩家，历经了私域流量从概念到落地的过程。
  
@@ -296,9 +724,9 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
  
 为什么电池需要运营？
  
-首先是安全隐患。由于部分种类锂离子电池自身结构及化学体系不稳定等因素，一旦发生碰撞、挤压、过充、短路等情况，易引发起火、爆炸等安全事故。仅2021上半年就有6000起电单车安全事故发生；2020年全国36起电气引发的较大火灾中，有11起是电动自行车引起，占到了总数的30.6%；
+首先是安全隐患。由于部分种类锂离子电池自身结构及化学体系不稳定等因素，一旦发生碰撞、��压、过充、短路等情况，易引发起火、爆炸等安全事故。仅2021上半年就有6000起电单车安全事故发生；2020年全国36起电气引发的较大火灾中，有11起是电动自行车引起，占到了总数的30.6%；
  
-其次，锂电池回收也难，回收问题造成了锂电池价值浪费。废旧动力电池处理不当会产生危害，比如三元锂电池中，电解液溶质六氟磷酸锂等属有毒物质且易潮解，可与空气中的微量水分反应生成氢氟酸等物质，造成水污染。而且退役的锂电池价值并未完全开发，三元锂电池中镍含量为12.1％，含钴3％，锂平均含量为1.9％，不能在电池中继续使用的原材料仍有其他用武之地。电池回收也是大工程量的工作，据中国汽车动力电池产业创新联盟最新数据，2020年我国动力电池累计退役总量约为20万吨，到2025年这一数字将上升至78万吨。而工信部全国授权有回收资质的公司只有27家。…]]></summary>
+其次，锂电池回收也难，回收问题造成了锂电池价值浪费。废旧动力电池处理不当会产生危害，比如三元锂电池中，电解液溶质六氟磷酸锂等属有毒物质且易潮解，可与空气中的微量水分反应生成氢氟酸等物质，造成水污染。而且退役的锂电池价值并未完全开发，三元锂电池中镍含量为12.1％，含钴3％，锂平均含量为1.9％，不能在电池中继续使用的原材料仍有其他用武之地。电池回收也是大工程量的工作，据中国汽车动力电池产业创新联盟最新数据，2020年我国动力电池累计退役总量约为20万吨，到2025年这一数字将上升至78万吨。而工信部全国授权有回收资质的公司只有27家…]]></summary>
         <author>
             <name>36氪</name>
         </author>
@@ -364,7 +792,7 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人人网和解侵吞公司资产诉讼 股东将获得补偿]]></title>
+        <title type="html"><![CDATA[人人网和解侵吞公司资产诉讼，股东将获得补偿]]></title>
         <id>https://tech.ifeng.com/c/8ABsqxs0Tn8</id>
         <link href="https://tech.ifeng.com/c/8ABsqxs0Tn8"/>
         <updated>2021-10-08T23:54:56.000Z</updated>
@@ -374,43 +802,13 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被指控泄露商业机密的苹果公司前雇员接受刑事调查]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1188011.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1188011.htm"/>
-        <updated>2021-10-08T23:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Simon Lancaster是苹果公司的前材料负责人，他因涉嫌向媒体泄露敏感商业机密而被这家科技巨头起诉，他因窃取这些信息而受到刑事调查 ... 这两起诉讼的性质相似，并且"产生于相同的事实核心"，苹果案中证据的发现可能会牵涉到 Lancaster的第五修正案权利，因为它涉及到未决的刑事调查 ... 补偿之外，苹果还声称，这位前雇员还促成了一项交易，为其初创公司 Arris 提供正面报道，以换取]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美债收益率陡然上行，外资增持中国债券趋势未改]]></title>
         <id>https://36kr.com/newsflashes/1433029201575560</id>
         <link href="https://36kr.com/newsflashes/1433029201575560"/>
         <updated>2021-10-08T23:52:41.000Z</updated>
-        <summary type="html"><![CDATA[市场人士认为，美元流动性过剩局面将随美联储调整货币政策而发生改变，这是近期美债收益率回升的内在原因，后续美债收益率仍面临一定的上行压力 ... 预计美债收益率上行和未来美联储调整货币政策对我国的影响有限且可控 ... 有机构指出，在外围环境日趋复杂的当下，中国债券可能成为避险港湾。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美债收益率陡然上行，外资增持中国债券趋势未改]]></title>
-        <id>https://36kr.com/newsflashes/1433029201575560</id>
-        <link href="https://36kr.com/newsflashes/1433029201575560"/>
-        <updated>2021-10-08T23:52:41.000Z</updated>
-        <summary type="html"><![CDATA[市场人士认为，美元流动性过剩局面将随美联储调整货币政策而发生改变，这是近期美债收益率回升的内在原因，后续美债收益率仍面临一定的上行压力。同时，预计美债收益率上行和未来美联储调整货币政策对我国的影响有限且可控。有机构指出，在外围环境日趋复杂的当下，中国债券可能成为避险港湾。（中证网）]]></summary>
+        <summary type="html"><![CDATA[市场人士认为，美元流动性���剩局面将随美联储调整货币政策而发生改变，这是近期美债收益率回升的内在原因，后续美债收益率仍面临一定的上行压力。同时，预计美债收益率上行和未来美联储调整货币政策对我国的影响有限且可控。有机构指出，在外围环境日趋复杂的当下，中国债券可能成为避险港湾。（中证网）]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook正试图阻止在其Marketplace上出售亚马逊雨林的土地]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1188009.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1188009.htm"/>
-        <updated>2021-10-08T23:52:08.000Z</updated>
-        <summary type="html"><![CDATA[你知道你可以在Facebook Marketplace上出售土地吗 ... 在生态保护区出售土地通常是非法的，而且会对生活在那里的动植物和人们产生负面影响，因此Facebook周五宣布他们正在改变其商务政策，明确禁止在Facebook及其Instagram和WhatsApp平台上出售受保护的土地 ...Facebook的公告是在BBC于2月对其市场进行调查后发布的，调查发现有人在Facebook的]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -424,46 +822,6 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Realme新机曝光：旗舰芯 本月发布]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-10-09/doc-iktzscyx8568440.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-10-09/doc-iktzscyx8568440.shtml"/>
-        <updated>2021-10-08T23:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Realme中国区营销总监@柒柒Spring称，将会有新机在本月发布 ... 从产品序列来看，将是Realme GT NEO 2手机的衍生版 ... 后者采用了三星120Hz E4高刷屏，搭载高通骁龙870旗舰处理器。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果税要崩溃了，又一国家做出判决：iOS必须开放第三方支付]]></title>
-        <id>https://www.36kr.com/p/1432992026672770</id>
-        <link href="https://www.36kr.com/p/1432992026672770"/>
-        <updated>2021-10-08T23:49:05.000Z</updated>
-        <summary type="html"><![CDATA[iOS平台的内购要求违反公平竞争原则，要求苹果必须尽快开放第三方支付渠道 ... 上个月ACM与苹果沟通，并没有向苹果提出罚款，但要求苹果改变应用内购买规则 ... 从现在的情况来看，苹果并不愿意开放第三方App下载渠道，那么就只能允许开发商在应用中添加其他支付渠道了。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实现Apple Watch Series 7的快速充电功能必须使用原装电缆]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1188007.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1188007.htm"/>
-        <updated>2021-10-08T23:47:48.000Z</updated>
-        <summary type="html"><![CDATA[如果你想利用快速充电的优势，你需要确保使用 Series 7附带的充电器，这是一个全新的"Apple Watch磁性快速充电器"，与旧款不同（旧款不提供类似的充电速度） ... 旧的USB-C充电器和新的型号从外观上看是一样的，但只有新的电缆可以为7系列全速充电（假设你有一个USB-C充电器可以输出适当的功率，也就是说--苹果推荐自己的20W USB-C充电器同样需要用新版电缆） ... 这也意味]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook为一周之内两次宕机向用户致歉，现已恢复正常]]></title>
-        <id>https://36kr.com/newsflashes/1433023549374080</id>
-        <link href="https://36kr.com/newsflashes/1433023549374080"/>
-        <updated>2021-10-08T23:46:56.000Z</updated>
-        <summary type="html"><![CDATA[在最新一次宕机时Instagram、Messenger和Workplace受到影响 ...Facebook在周五晚上的声明中表示：“向在过去几小时内无法访问我们产品的用户致以诚挚的歉意。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Facebook为一周之内两次宕机向用户致歉，现已恢复正常]]></title>
         <id>https://36kr.com/newsflashes/1433023549374080</id>
         <link href="https://36kr.com/newsflashes/1433023549374080"/>
@@ -471,36 +829,6 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         <summary type="html"><![CDATA[Facebook为一周之内两次宕机向用户致歉。在最新一次宕机时Instagram、Messenger和Workplace受到影响。Facebook在周五晚上的声明中表示：“向在过去几小时内无法访问我们产品的用户致以诚挚的歉意。我们已经修复问题，现在一切已经回归正常。”（新浪科技）]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国向半导体厂商索要信息？台湾知情人士透露真相]]></title>
-        <id>https://tech.ifeng.com/c/8ABsqxs0TvG</id>
-        <link href="https://tech.ifeng.com/c/8ABsqxs0TvG"/>
-        <updated>2021-10-08T23:46:03.000Z</updated>
-        <summary type="html"><![CDATA[中国台湾经济部门负责人王美花表示，这是美方对整个半导体供应链的措施，从上游到下游使用端，都请相关厂商填答，韩国、德国厂商也都有收到这个问卷，而非针对中国台湾 ... 息传达给厂商，厂商对这种方式比较放心，因为美国本来就是主要客户，所以厂商也会去就可能的信息去做填答 ... AIT发言人邓艾也通过书面回应称，美国商务部和半导体行业主要参与者的会面，讨论有关于半导体供应链的问题，其所衍生出向厂商询问资]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redmi K50 Pro+爆料：搭载骁龙898或2022年2月推出]]></title>
-        <id>https://finance.sina.com.cn/tech/2021-10-09/doc-iktzscyx8519312.shtml</id>
-        <link href="https://finance.sina.com.cn/tech/2021-10-09/doc-iktzscyx8519312.shtml"/>
-        <updated>2021-10-08T23:45:41.000Z</updated>
-        <summary type="html"><![CDATA[该系列将包括K50、K50 Pro以及K50 Pro+三款机型 ... 处理器方面，爆料显示，Redmi K50 Pro+将搭载骁龙898移动平台，内置5000mAh+电池，可能支持67W快充 ...Redmi K50 Pro+的后置摄像头可能配备了一颗1.08亿像素主摄像头和一颗潜望式镜头。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高盛：9月就业人数不及预期不会影响美联储宣布缩减购债计划]]></title>
-        <id>https://36kr.com/newsflashes/1433021819387523</id>
-        <link href="https://36kr.com/newsflashes/1433021819387523"/>
-        <updated>2021-10-08T23:45:10.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -514,26 +842,6 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metroid Dread is good, GTA Trilogy confirmed, and more | GB Decides 217]]></title>
-        <id>https://venturebeat.com/2021/10/08/gamesbeat-decides-217/</id>
-        <link href="https://venturebeat.com/2021/10/08/gamesbeat-decides-217/"/>
-        <updated>2021-10-08T23:44:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大消费板块王者归来，业内预计四季度顶流基金或将打赢“翻身仗”]]></title>
-        <id>https://36kr.com/newsflashes/1433021222911619</id>
-        <link href="https://36kr.com/newsflashes/1433021222911619"/>
-        <updated>2021-10-08T23:44:34.000Z</updated>
-        <summary type="html"><![CDATA[汇添富消费行业、银华富裕主题、景顺长城新兴成长、易方达消费行业近一个月分别上涨8.21%、5.54%、5.35%和3.85% ... 被动指数基金中，医药和消费类基金也成为近一个月涨幅居前的产品 ... 诺德基金总经理助理郝旭东表示，站在当前时点，展望四季度及明年，从中长期角度看，大消费和医药行业到了长期布局的时点。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大消费板块王者归来，业内预计四季度顶流基金或将打赢“翻身仗”]]></title>
         <id>https://36kr.com/newsflashes/1433021222911619</id>
         <link href="https://36kr.com/newsflashes/1433021222911619"/>
@@ -541,26 +849,6 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         <summary type="html"><![CDATA[数据显示，主动管理基金中，汇添富消费行业、银华富裕主题、景顺长城新兴成长、易方达消费行业近一个月分别上涨8.21%、5.54%、5.35%和3.85%；被动指数基金中，医药和消费类基金也成为近一个月涨幅居前的产品。诺德基金总经理助理郝旭东表示，站在当前时点，展望四季度及明年，从中长期角度看，大消费和医药行业到了长期布局的时点。（上证报）]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果在Epic Games案中提出上诉 可能会将App Store的变化推迟数年]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1188005.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1188005.htm"/>
-        <updated>2021-10-08T23:44:12.000Z</updated>
-        <summary type="html"><![CDATA[法官在11月作出决定，如果苹果赢得了反禁制令，那么可能允许开发者规避15%至30%的App Store费用的规则变化可能不会生效，直到该案的上诉结束，这一过程可能需要数年 ... 9月，联邦法官伊冯娜·冈萨雷斯·罗杰斯在《堡垒之夜》制造商Epic提起的反垄断审判中，对10项罪名中的9项作出了有利于苹果的裁决 ... 苹果也被命令对其商店做出重大改变，允许移动应用程序引导消费者使用外部支付方式，这可]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC版将迎来“史诗级”更新，或成为微信的重要战场]]></title>
-        <id>https://www.36kr.com/p/1432300494880389</id>
-        <link href="https://www.36kr.com/p/1432300494880389"/>
-        <updated>2021-10-08T23:43:35.000Z</updated>
-        <summary type="html"><![CDATA[微信PC版“自动登录”功能的曝光，也很快引发的外界的热议，并且当时#微信PC端支持自动登录#这一话题也很快登上了微博热搜榜 ... 相比于以往微信PC版的登录方式，“自动登录”功能无疑为用户减少了不少的操作步骤，但这对于以往一直以移动端为主的微信来说，显然也是非常大的动作 ... 此前微信PC版定位于手机端的延伸，是其在拥抱移动互利网时代后，对于用户在PC端使用需求的补充，并且在功能上，微信PC版]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -574,101 +862,11 @@ PTS（私域商城）则是私域流量运营的进一步实践。一开始，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧盟要对微软Teams展开反垄断调查，已向竞争对手发出问卷]]></title>
-        <id>https://36kr.com/newsflashes/1433014240968328</id>
-        <link href="https://36kr.com/newsflashes/1433014240968328"/>
-        <updated>2021-10-08T23:37:28.000Z</updated>
-        <summary type="html"><![CDATA[据报道，欧盟反垄断监管机构“欧盟委员会”正在跟进Slake Technologies的一项投诉，开始询问微软的竞争对手：Microsoft Teams与Office的捆绑是否会给微软带来更大的影响力，重点集中在2016年至2021年间。此举表明，欧盟可能对Microsoft Teams展开反垄断调查。过去十年间，微软因所谓的“搭售”和其他做法，已被欧盟罚款22亿欧元（约合26亿美元）。（新浪科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特斯拉股东大会：没有 Model 2，自动驾驶将对外授权，储能会迎来大幅增长]]></title>
         <id>https://www.36kr.com/p/1432582989348485</id>
         <link href="https://www.36kr.com/p/1432582989348485"/>
         <updated>2021-10-08T23:35:48.000Z</updated>
         <summary type="html"><![CDATA[<p>股东大会正式开始后的上半场是近况总结，主要内容为交付数据、工厂产能与规划，这些数据是特斯拉增长最直接的体现，也是大家对于特斯拉今后增长预判的一个窗口 ... 这还没完，如果你深入了解过 Model Y 那你应该知晓特斯拉对这台车的销量预期是超越 Model S + Model X + Model 3 的销量总和 ... 弗里蒙特工厂作为「老厂」产品线最齐，目前在售的特斯拉「Sexy」车型均有生产，后来的三座「新厂」中上海工厂生产 Model 3/Y，柏林工厂只生产 Model Y，奥斯汀工厂生产 Cybertruck 和 Model Y。</p><p><a href='https://www.36kr.com/p/1432582989348485'>36Kr : 特斯拉股东大会：没有 Model 2，自动驾驶将对外授权，储能会迎来大幅增长</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国庆假期楼市成交遇冷，百强房企9月销售金额同比降近四成]]></title>
-        <id>https://36kr.com/newsflashes/1433011803405953</id>
-        <link href="https://36kr.com/newsflashes/1433011803405953"/>
-        <updated>2021-10-08T23:34:59.000Z</updated>
-        <summary type="html"><![CDATA[机构最新发布的数据显示，“十一”假期，全国范围内新房、二手房市场普遍遇冷，以北京为代表的一线城市假期基本无成交。从销售情况看，9月多数房企销售金额和销售面积双双出现下滑。TOP100房企9月实现销售金额7596亿元，单月业绩规模不及8月，同比下降36.2%。（中证网）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将建立新的地区总部，以制作电影和电视节目]]></title>
-        <id>https://36kr.com/newsflashes/1433009079107209</id>
-        <link href="https://36kr.com/newsflashes/1433009079107209"/>
-        <updated>2021-10-08T23:32:13.000Z</updated>
-        <summary type="html"><![CDATA[苹果准备在美国卡尔弗城和洛杉矶交界处建设新地区总部，包括2幢办公楼，面积55万平方英尺（约5.1万平米），将会安置Apple TV+、Apple Music、工程与人工智能团队。卡尔弗城是电影制作中心，索尼子公司哥伦比亚电影公司的总部就在那里。（新浪科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克旗下SpaceX估值超1000亿美元��为全球第二大创业公司]]></title>
-        <id>https://36kr.com/newsflashes/1433001197534850</id>
-        <link href="https://36kr.com/newsflashes/1433001197534850"/>
-        <updated>2021-10-08T23:24:11.000Z</updated>
-        <summary type="html"><![CDATA[多位知情人士透露，SpaceX与公司的新老投资者达成了协议，以每股560美元的价格从内部人士手中出售最多7.55亿美元的股票，使该公司估值增至1003亿美元。此次交易为现有股票的二次出售，SpaceX并未从中筹集新资金。调研公司CB Insights数据显示，SpaceX现在是世界上第二大最具价值的创业公司，仅次于字节跳动公司（Bytedance），超过了金融科技公司Stripe。（新浪科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯子公司收购波兰游戏开发商Bloober Team近22%股权]]></title>
-        <id>https://36kr.com/newsflashes/1432999688535684</id>
-        <link href="https://36kr.com/newsflashes/1432999688535684"/>
-        <updated>2021-10-08T23:22:39.000Z</updated>
-        <summary type="html"><![CDATA[监管文件显示，腾讯控股子公司收购波兰电脑游戏生产商Bloober Team的21.97%股权，交易于10月6日通过华沙NewConnect平台上的双边大宗交易执行。（新浪财经）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉再次打破纪录：9个月交付超62万辆]]></title>
-        <id>https://36kr.com/newsflashes/1432997541035654</id>
-        <link href="https://36kr.com/newsflashes/1432997541035654"/>
-        <updated>2021-10-08T23:20:28.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉公布2021年第三季度汽车生产和交付数据，数据显示，特斯拉再次打破交付纪录，2021年前九个月的交付量已经超过627000辆。该公司在二季度首次交付了超过200000辆汽车，三季度的交付量甚至超过了240000辆。（凤凰网科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猪肉价格大跌，饲料行业又迎“涨价潮”]]></title>
-        <id>https://36kr.com/newsflashes/1432996202331783</id>
-        <link href="https://36kr.com/newsflashes/1432996202331783"/>
-        <updated>2021-10-08T23:19:07.000Z</updated>
-        <summary type="html"><![CDATA[近期，饲料行业迎来一波“涨价潮”。新希望、正邦科技、通威股份、正大集团、大北农等饲料企业陆续发布涨价通知，每吨价格上涨50元到100元之间，涉及浓缩料、乳猪料、鸡料、鱼料等多个饲料产品线。相关数据显示，我国能繁母猪存栏数在快速回升，由2019年9月底的1913万头增加到今年6月底的4564万头，扩增了2.3倍。能繁母猪大量增加，就意味着生猪的供给也在增加，这就造成了生猪价格大幅下跌。（央视财经）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想集团成中金公司今年科创板保荐终止“第九单”]]></title>
-        <id>https://36kr.com/newsflashes/1432991143968390</id>
-        <link href="https://36kr.com/newsflashes/1432991143968390"/>
-        <updated>2021-10-08T23:13:58.000Z</updated>
-        <summary type="html"><![CDATA[联想集团科创板上市审核状态变更为“终止”，其保荐机构为中金公司。据统计，中金公司今年以来共计有包括联想集团在内的九个科创板IPO保荐项目审核终止，申报企业包括吉利汽车、云知声、天广实生物、吉凯基因、天地环保等。（财联社）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15.0.1发布后苹果停止签署iOS 15.0 降级不再可能]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1187985.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1187985.htm"/>
-        <updated>2021-10-08T22:53:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>随着iOS 15.0不再被签署，如果你已经更新到iOS 15.0.1，就不可能降级到该前者 ... iOS 15.0标志着一个重要的版本更新，引入了专注模式、实时文本、设备上的Siri、iCloud+、Safari的改进，以及更多的细节 ... iOS 15.0.1对一个错误进行了修复，该错误使经过认证的Apple Watch在佩戴口罩时无法被用来解锁iPhone 13机型。</p><p><a href='https://www.cnbeta.com/articles/tech/1187985.htm'>CNBeta : iOS 15.0.1发布后苹果停止签署iOS 15.0 降级不再可能</a></p><p><a href='https://tech.ifeng.com/c/8ABsqxs0Tu4'>凤凰科技 : iOS 15正式版停止签名验证 升级iOS 15.0.1/15.1 Beta后无法再降级</a></p><p><a href='https://www.macrumors.com/2021/10/08/apple-stops-signing-ios-15/'>Mac Rumors : Apple Stops Signing iOS 15.0 Following iOS 15.0.1 Release, Downgrading No Longer Possible</a></p><p><a href='https://9to5mac.com/2021/10/08/apple-stops-signing-ios-15-0-blocking-downgrades-from-ios-15-0-1-and-ios-15-1/'>9to5Mac : Apple stops signing iOS 15.0, blocking downgrades from iOS 15.0.1 and iOS 15.1</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -1000,7 +1198,7 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         <updated>2021-10-08T13:04:13.000Z</updated>
         <summary type="html"><![CDATA[近日，全球营养健康解决方案服务商艾兰得健康控股有限公司宣布，已完成对加拿大OTC制造商Vita Health Products Inc.的全资收购，在加码巩固VMS市场的同时，进军更为广阔的OTC市场。
  
-至此，艾兰得已初步完成在中、美、英、加、德、荷等全球主要区域市场的第一阶段布局，并在荷兰和德国等有自己的直属企业。据艾兰得董事长常亮透露，Vita将是艾兰得供应链国际化及业务多元化再拓展的重要支点之一，收购完成后，艾兰得的业务范围从目前的VMS领域扩张到��有前景的OTC领域。
+至此，艾兰得已初步完成在中、美、英、加、德、荷等全球主要区域市场的第一阶段布局，并在荷兰和德国等有自己的直属企业。据艾兰得董事长常亮透露，Vita将是艾兰得供应链国际化及业务多元化再拓展的重要支点之一，收购完成后，艾兰得的业务范围从目前的VMS领域扩张到更有前景的OTC领域。
  
 常亮表示，根据公司规划，第一阶段就是完成在英语系发达国家市场主要领导性的地位。“疫情蔓延下，海外产品供应链受到一定程度的影响；而随着全球金融的波动，以及人流、物流出现障碍，加上合适的价格，公司认为现在是比较好的购买时机。”
  
@@ -1014,13 +1212,13 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
  
 常亮表示，Vita的VMS业务与艾兰得现有业务布局具有很强的协同效应；另外，Vita具备的小批量多品种生产能力，也将为艾兰得美国供应链提供柔性化的产能补充，提高美国市场的订单响应能力和交付能力。
  
-“首先，渠道相同，OTC的渠道与营养品在海��的渠道是一样的渠道，消费者选择的时候也是基于健康本身的目标去实现的；第二，所需的能力相同，不论是OTC还是营养品，我们都是基于我们强大的供应链的整合能力去实现这样的目标；第三，未来整个发展策略也是相同，就是基于全球化的布局和资源优势，分布在中、美、欧相互之间的融合和补充，为用户价值。”
+“首先，渠道相同，OTC的渠道与营养品在海外的渠道是一样的渠道，消费者选择的时候也是基于健康本身的目标去实现的；第二，所需的能力相同，不论是OTC还是营养品，我们都是基于我们强大的供应链的整合能力去实现这样的目标；第三，未来整个发展策略也是相同，就是基于全球化的布局和资源优势，分布在中、美、欧相互之间的融合和补充，为用户价值。”
  
 其实，过去十年来，艾兰得已依托10余起海外并购，打通全球营养品的生产、研发和销售全产业链战略布局，不断扩大在全球营养品制造领域的市场份额，在中、美、欧三地拥有10个世界级营养品生产基地和3个国际研发中心，海内外员工超过4500人，拥有营养品供应链全球布局优势。
  
 那么，缘何从国际化开始？常亮透露，在公司初进入产业时，从整个产业成熟度、产业合规性以及研发技术来看，其实海外市场特别是美国市场仍然是全球营养健康产业里的高点，而消费大市场是在中国，所以我们采取先从国际化开始，未来逐步向全球渗透；第二步，公司会加大对中国区业务市场的布局，把在国际化所建立起来的经验运用到中国市场上去。
  
-常亮认为，整个营养健康管理产��除了依托于产品，还依托于服务，即提供科学性体系化的产品服务能力；不过，基于大众对营养品的认知，国内市场还处在比较早期的阶段，背后也缺乏真正的具有严密科学性的服务能力——譬如在英国，通过专业的医生或营养师推荐，为消费者提供定制化、个性化的营养健康产品。
+常亮认为，整个营养健康管理产业除了依托于产品，还依托于服务，即提供科学性体系化的产品服务能力；不过，基于大众对营养品的认知，国内市场还处在比较早期的阶段，背后也缺乏真正的具有严密科学性的服务能力——譬如在英国，通过专业的医生或营养师推荐，为消费者提供定制化、个性化的营养健康产品。
  
 他表示，在持续布局全球市场的同时，艾兰得将进一步加大在中国市场的投资和业务整合，加速提升业务增长，打通跨境电商为中国消费者提供营养健康产品及服务。]]></summary>
         <author>
@@ -1038,16 +1236,14 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[电影《女人》影评 (评论: 女人)]]></title>
-        <id>https://movie.douban.com/review/13911749/</id>
-        <link href="https://movie.douban.com/review/13911749/"/>
-        <updated>2021-10-08T12:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Siren评论: 女人 (http://movie.douban.com/subject/34679722/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "\u5404\u79cd\u5404\u6837\u7684\u5...]]></summary>
+        <title type="html"><![CDATA[男子放鞭炮庆祝买新车，结果把别人车烧了]]></title>
+        <id>https://shadiao.plus/?p=1896</id>
+        <link href="https://shadiao.plus/archives/1896"/>
+        <updated>2021-10-08T12:15:15.000Z</updated>
+        <summary type="html"><![CDATA[9月26号，浙江温州。据黄金眼融媒，一男子买了辆新车，兴高采烈地放鞭炮庆祝。没想到，鞭炮的火星窜...
+男子放鞭炮庆祝买新车，结果把别人车烧了最先出现在沙雕新闻。]]></summary>
         <author>
-            <name>Siren</name>
+            <name>沙雕一号</name>
         </author>
     </entry>
     <entry>
@@ -1078,6 +1274,17 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         <summary type="html"><![CDATA[这几个优质软件，小懒力荐！]]></summary>
         <author>
             <name>懒人找资源</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子赌博无法提现报警称被诈骗]]></title>
+        <id>https://shadiao.plus/?p=1891</id>
+        <link href="https://shadiao.plus/archives/1891"/>
+        <updated>2021-10-08T12:03:19.000Z</updated>
+        <summary type="html"><![CDATA[男子赌博无法提现报警称被诈骗，被拘留6日罚款300元。 9月20日，浙江宁波男子刘某报警称自己在...
+男子赌博无法提现报警称被诈骗最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
         </author>
     </entry>
     <entry>
@@ -1118,19 +1325,6 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         <summary type="html"><![CDATA[英雄联盟手游开启不限号不删档测试；Pixel 6、一加9RT、黑鲨4S定档]]></summary>
         <author>
             <name>酷安数码</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重品《集结号》 (评论: 集结号)]]></title>
-        <id>https://movie.douban.com/review/13911648/</id>
-        <link href="https://movie.douban.com/review/13911648/"/>
-        <updated>2021-10-08T11:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Vivian评论: 集结号 (http://movie.douban.com/subject/1907464/)
-评价: 
-
-{"entityMap": {}, "blocks": [{"text": "\u8bf4\u300a\u96c6\u7ed3\u53f7\u3...]]></summary>
-        <author>
-            <name>Vivian</name>
         </author>
     </entry>
     <entry>
@@ -1220,7 +1414,7 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[性能测试之如何构造海量数据]]></title>
+        <title type="html"><![CDATA[性能测试之如何构造海量测试数据]]></title>
         <id>https://juejin.cn/post/7016640656831414280</id>
         <link href="https://juejin.cn/post/7016640656831414280"/>
         <updated>2021-10-08T10:34:05.000Z</updated>
@@ -1268,13 +1462,13 @@ iPad mini 6 本质上是一个民间叫法，在苹果目前的产品阵列中�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[说一说Handler这家快递公司]]></title>
+        <title type="html"><![CDATA[好家伙！Handler机制背后既然是一家快递公司]]></title>
         <id>https://juejin.cn/post/7016639443083886622</id>
         <link href="https://juejin.cn/post/7016639443083886622"/>
         <updated>2021-10-08T10:28:01.000Z</updated>
         <summary type="html"><![CDATA[前言 今天直接以讲故事的思路引导我们去看Handler的源码，希望能够加强大家的理解，留给我们的时间不多了，开始吧！ 故事简介 经过我每天敲23个小时的代码，终于存够了一个亿，我决定邮寄回给我远在家乡]]></summary>
         <author>
-            <name>码上行</name>
+            <name>朱凯_Dev</name>
         </author>
     </entry>
     <entry>
@@ -1314,17 +1508,6 @@ Apple Watch Series 7 是继 Apple Watch Series 4 之后，外观变化最大的�
 由于 Apple Watch Series 7 的产品页面暂未公布相关详细规格参数，对于不同型号表款的具体重量，暂时无法得知。通过旧款 Apple Watch 的相关参数可以发现，铝金属表壳版本的表款重量最轻，其次是钛金属版本，最重的是不锈钢版本。对于重量敏感的用户，可以据此作为选购 Apple Watch Series …]]></summary>
         <author>
             <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信回应用户相册问题：为便于用户聊天时快速发图]]></title>
-        <id>https://tech.ifeng.com/c/8AAuHHuXCQk</id>
-        <link href="https://tech.ifeng.com/c/8AAuHHuXCQk"/>
-        <updated>2021-10-08T10:08:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>微信针对后台反复读取用户相册回应称，iOS系统为App开发者提供相册更新通知标准能力，相册发生内容更新时会通知到App，提醒App可以提前做准备，App的该准备行为会被记录成读取系统相册 ... 微信称，当用户授权微信可以读取“系统相册权限”的前提后，为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力，使用户发送图片体验更快速流畅。上述行为均仅在手机本地完成，最新版本中我们将取消对该系统能力的使用，优化快速发图功能。
-</p><p><a href='https://tech.ifeng.com/c/8AAuHHuXCQk'>凤凰科技 : 曝微信后台数次读取用户相册 每次长达1分钟</a></p><p><a href='https://finance.sina.com.cn/tech/2021-10-08/doc-iktzqtyu0269956.shtml'>新浪科技 : 曝微信后台数次读取用户相册 每次长达1分钟</a></p><p><a href='https://www.cnbeta.com/articles/tech/1187903.htm'>CNBeta : 微信回应用户相册问题：为便于用户聊天时快速发图 最新版本将取消</a></p><p><a href='https://tech.ifeng.com/c/8ABCZDHhwQd'>凤凰科技 : 微信回应用户相册问题：为便于用户聊天时快速发图</a></p><p><a href='https://www.pingwest.com/w/250961?utm_source=feed'>品玩 : 微信回应读取用户相册问题</a></p><p><a href='https://tech.ifeng.com/c/8ABCZDHhwT6'>凤凰科技 : 在后台反复读取用户相册？微信回应：最新版本将取消</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1416,7 +1599,7 @@ OPPO与夏普签订专利许可协议
         <updated>2021-10-08T09:53:18.000Z</updated>
         <summary type="html"><![CDATA[Parcelable是Google团队专门为Android设计的序列化类，那在Java中已经有了Serializable序列化为什么还需要Parcelable呢？我们接下来就通过阅读Parcelabl]]></summary>
         <author>
-            <name>码上行</name>
+            <name>朱凯_Dev</name>
         </author>
     </entry>
     <entry>
@@ -1440,16 +1623,6 @@ OPPO与夏普签订专利许可协议
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华兴新经济基金完成四期美元基金首关，认缴金额近5.5亿美元]]></title>
-        <id>https://36kr.com/p/1431964724657792</id>
-        <link href="https://36kr.com/p/1431964724657792"/>
-        <updated>2021-10-08T09:23:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>在美元募资市场持续动荡的大环境之下，华兴新经济基金美元四期募资迅速完成首轮关账，主要得益于华兴长期以来所积累的市场影响力，这一方面助攻了其募资能力，也为当下的美元募资市场注入了一股强心剂 ... 自2013年成立至今，华兴新经济基金累计投资了包括蜂巢能源、理想汽车、经纬恒润、华大智造、追觅等近200家企业，并坚持为被投提供独特而优质的增值服务 ... 华兴新经济基金始终致力于内部树立企业道德规范，坚守善良正直，在为 LP、被投企业和社会创造经济价值的同时，积极承担社会责任。</p><p><a href='https://36kr.com/p/1431964724657792'>36Kr : 华兴新经济基金完成四期美元基金首关，认缴金额近5.5亿美元</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211008-364814.html'>投中网 : 华兴四期美元基金首关，认缴近5.5亿美元，AUM或超690亿元</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[机器学习-基础知识- 目标检测相关概念解释]]></title>
         <id>https://juejin.cn/post/7016623057250811941</id>
         <link href="https://juejin.cn/post/7016623057250811941"/>
@@ -1457,39 +1630,6 @@ OPPO与夏普签订专利许可协议
         <summary type="html"><![CDATA[小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 目标检测 Ground Truth Bounding Box (bbox) ROI (region of interest) IoU (In]]></summary>
         <author>
             <name>为为为什么</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞识科技完成近亿元A2轮融资]]></title>
-        <id>https://www.tmtpost.com/nictation/5750826.html</id>
-        <link href="https://www.tmtpost.com/nictation/5750826.html"/>
-        <updated>2021-10-08T09:20:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>国内VCSEL光芯片与光传感解决方案领军企业瑞识科技完成A2轮融资，本轮融资投资方包括华润润科资本和惠友资本 ... 瑞识科技(RAYSEES)成立于2018年，是一家源自硅谷的高科技公司，由美国海归博士团队创建 ... 瑞识已打通“芯片设计-光学集成封装-应用方案”的全产业链条，推出多款高性能VCSEL芯片和光学集成光模块产品，为消费电子、人脸识别、安防监控、激光雷达、智能硬件、医疗健康等超过100家行业客户提供服务并已实现KK级别量产交付。</p><p><a href='https://www.tmtpost.com/nictation/5750826.html'>钛媒体 : 瑞识科技完成近亿元A2轮融资</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211008-364803.html'>投中网 : 「瑞识科技」完成A2轮融资，华润润科资本和惠友资本共同投资</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go中的项目结构优化RESTful API服务运行]]></title>
-        <id>https://juejin.cn/post/7016622443380867109</id>
-        <link href="https://juejin.cn/post/7016622443380867109"/>
-        <updated>2021-10-08T09:19:04.000Z</updated>
-        <summary type="html"><![CDATA[[ ](#restful-api-in-go)GO中的RESTful API 这是一个中级的Go项目，在Go中运行的项目结构优化了RESTful API服务。该项目中的API是基于坚实和通用的原则设计]]></summary>
-        <author>
-            <name>尼耳多</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被赶鸭子上架，大概是很多人成长的开始 (评论: 五个扑水的少年)]]></title>
-        <id>https://movie.douban.com/review/13911486/</id>
-        <link href="https://movie.douban.com/review/13911486/"/>
-        <updated>2021-10-08T09:12:57.000Z</updated>
-        <summary type="html"><![CDATA[栗子酱评论: 五个扑水的少年 (http://movie.douban.com/subject/35030151/)
-评价: 推荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>栗子酱</name>
         </author>
     </entry>
     <entry>
@@ -1519,37 +1659,6 @@ OPPO与夏普签订专利许可协议
 我不想过多地赞美演员的演技，能自然地把人带到这场婚姻里，大段的对白、克制和爆发的情绪都证明了这一点。Oscar Issac 饰演的丈夫从最初得…]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最前线｜美团反垄断处罚落地：罚款34.42亿元约占年收入3% ，低于阿里4%]]></title>
-        <id>https://36kr.com/p/1432119217536640</id>
-        <link href="https://36kr.com/p/1432119217536640"/>
-        <updated>2021-10-08T08:56:36.000Z</updated>
-        <summary type="html"><![CDATA[时隔半年后，美团反垄断调查结果终于出炉。
- 
-10月8日，根据《反垄断法》第四十七条、第四十九条规定，综合考虑违法行为的性质、程度和持续时间等因素，市场监管总局依法对美团作出行政处罚决定，责令美团停止违法行为，全额退还独家合作保证金12.89亿元，并处以其2020年中国境内销售额1147.48亿元3%的罚款，计34.42亿元。
- 
-同时，向美团发出《行政指导书》，要求其围绕完善平台佣金收费机制和算法规则、维护平台内中小餐饮商家合法利益、加强外卖骑手合法权益保护等进行全面整改，并连续三年向市场监管总局提交自查合规报告，确保整改到位，实现规范创新健康持续发展。
- 
-长期研究竞争与反垄断的律师刘延喜在《中国纵向垄断协议公开案例研究报告》中分析，在2012年4月至2020年6月之间，达成并实施的19起行政处罚案中“行政罚款/销售额”的平均值为3.67%。
- 
-此次处罚，系继上海食派士、扬子江药业、公牛集团之后的半年内第四例“3%”的处罚，低于此前阿里巴巴销售收入的4%共计182.28亿元的处罚结果。
- 
-此前外界普遍推测美团的反垄断罚款将在60亿上下，34.42亿元的罚款好于市场预期，此前两日美团股价已累计涨幅达13%，股价重回250港币，反垄断罚款的落地，也使得美团又一利空落地。
- 
-根据美团财报，截至6月30日，美团的现金及现金等价物达713.8亿，“34.42亿外加12.89亿的保证金退还”的处罚结果对美团的现金流影响并不强烈。
- 
-以下为美团完整处罚结果以及行政指导书：
- 
- 
- 
-案件来源及���查经过
- 
- 
-根据举报，2021年4月起，本机关依据《中华人民共和国反垄断法》（以下简称《反垄断法》）对当事人涉嫌实施滥用市场支配地位行为开展了调查。期间，本机关进行了现场检查、调查询问，提取了相关证据材料；对其他竞争性平台、平台内经营者及相关行业协会广泛开展调查取证；对本案证…]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -1630,19 +1739,6 @@ Atari 2600 的装机量庞大到每三个美国家庭就拥有一台该型游戏
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【剧透预警】V／H／S／94全解析 (评论: 致命录像带94)]]></title>
-        <id>https://movie.douban.com/review/13911055/</id>
-        <link href="https://movie.douban.com/review/13911055/"/>
-        <updated>2021-10-08T06:08:52.000Z</updated>
-        <summary type="html"><![CDATA[EstalIe评论: 致命录像带94 (http://movie.douban.com/subject/35116325/)
-评价: 推荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img1.doub...]]></summary>
-        <author>
-            <name>EstalIe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[请立刻升级！大华摄像头2个PoC漏洞已在网上泄露]]></title>
         <id>https://www.freebuf.com/articles/290827.html</id>
         <link href="https://www.freebuf.com/articles/290827.html"/>
@@ -1650,106 +1746,6 @@ Atari 2600 的装机量庞大到每三个美国家庭就拥有一台该型游戏
         <summary type="html"><![CDATA[大华摄像头中的两个漏洞PoC（概念验证程序）已在网络上泄露，漏洞编号为CVE-2021-33044 和 CVE-2021-33045，攻击者可通过构建恶意数据包来绕过设备身份验证。]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PopClip 2021.10 不止让复制变得更简单]]></title>
-        <id>https://xclient.info/s/popclip.html</id>
-        <link href="https://xclient.info/s/popclip.html"/>
-        <updated>2021-10-08T05:33:34.000Z</updated>
-        <summary type="html"><![CDATA[PopClip 最基本的功能就是复制粘贴的使用，除此之外，再无拓展支持的情况下，根据鼠标选中的内容，PopClip 还自身支持链接的跳转打开、自带词典的翻译、邮件地址跳转、搜索引擎搜索、单词纠正等功能。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetWorker Pro 7.4.1 菜单栏网速监测显示工具]]></title>
-        <id>https://xclient.info/s/networker.html</id>
-        <link href="https://xclient.info/s/networker.html"/>
-        <updated>2021-10-08T05:32:39.000Z</updated>
-        <summary type="html"><![CDATA[NetWorker是一款在菜单栏监测显示网速的工具]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Toolkit 4.1.1 系统工具包]]></title>
-        <id>https://xclient.info/s/system-toolkit.html</id>
-        <link href="https://xclient.info/s/system-toolkit.html"/>
-        <updated>2021-10-08T05:31:52.000Z</updated>
-        <summary type="html"><![CDATA[System Toolkit 是为MacOS设计的一体化信息和维护应用程序。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WiFiSpoof 3.6.3 MAC地址修改工具]]></title>
-        <id>https://xclient.info/s/wifi-spoof.html</id>
-        <link href="https://xclient.info/s/wifi-spoof.html"/>
-        <updated>2021-10-08T05:31:17.000Z</updated>
-        <summary type="html"><![CDATA[WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alfred 4.6(1265) 效率神器]]></title>
-        <id>https://xclient.info/s/alfred.html</id>
-        <link href="https://xclient.info/s/alfred.html"/>
-        <updated>2021-10-08T05:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aText 2.39 输入增强工具]]></title>
-        <id>https://xclient.info/s/atext.html</id>
-        <link href="https://xclient.info/s/atext.html"/>
-        <updated>2021-10-08T05:29:41.000Z</updated>
-        <summary type="html"><![CDATA[aText是一款 Mac OS 上的输入增强工具，你可以通过aText保存你的一些常用的逻辑语句，在你需要使用到的时候通过快捷方式很方便的调用出来，对于编辑和书面工作有很大的帮助。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xliff Editor 2.9.6 XLIFF文件编辑工具]]></title>
-        <id>https://xclient.info/s/xliff-editor.html</id>
-        <link href="https://xclient.info/s/xliff-editor.html"/>
-        <updated>2021-10-08T05:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Xliff Editor是Mac平台上一款本地化XLIFF文件编辑工具，可以用来编辑Xliff格式的本地化文件，支持多个并发文件编辑，功能非常实用。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duplicate Manager Pro 1.4.2 重复文件查找]]></title>
-        <id>https://xclient.info/s/duplicate-manager-pro.html</id>
-        <link href="https://xclient.info/s/duplicate-manager-pro.html"/>
-        <updated>2021-10-08T05:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Duplicate Manager Pro 是专门用来查找和清理重复文件的工具，Mac上重复的照片、音乐、文档等文件都可以使用Duplicate Manager Pro 来扫描，轻松帮你管理和删除重复文件。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF Search 11.6 PDF文档搜索工具]]></title>
-        <id>https://xclient.info/s/pdf-search.html</id>
-        <link href="https://xclient.info/s/pdf-search.html"/>
-        <updated>2021-10-08T05:27:25.000Z</updated>
-        <summary type="html"><![CDATA[PDF Search 是Mac平台上一款pdf文件搜索工具，可以快速搜索文档、参考书或者笔记，让你轻松访问任何信息，还支持将文档转换为PDF格式转换，功能很实用！]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Receipts 1.9.11b5 财务发票管理软件]]></title>
-        <id>https://xclient.info/s/receipts.html</id>
-        <link href="https://xclient.info/s/receipts.html"/>
-        <updated>2021-10-08T05:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Receipts是一款非常好用的理财软件，具有财务状况管理操作，并拥有数据统计、金额转换等功能。]]></summary>
-        <author>
-            <name>xclient.info</name>
         </author>
     </entry>
     <entry>
@@ -1920,19 +1916,6 @@ Twitch 遭黑客泄漏代码以及财务记录
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这部剧编剧应该是周杰伦粉丝没错了。 (评论: 我的巴比伦恋人)]]></title>
-        <id>https://movie.douban.com/review/13910418/</id>
-        <link href="https://movie.douban.com/review/13910418/"/>
-        <updated>2021-10-08T00:11:55.000Z</updated>
-        <summary type="html"><![CDATA[不加糖也很甜评论: 我的巴比伦恋人 (http://movie.douban.com/subject/30132501/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "\u6211\u6709\u4e2a\u5927\u80c6\u7...]]></summary>
-        <author>
-            <name>不加糖也很甜</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Get All Employees Using Spring Boot Layered Architecture and JdbcTemplate]]></title>
         <id>https://dzone.com/articles/how-to-get-all-employees-using-spring-boot-layered-1</id>
         <link href="https://dzone.com/articles/how-to-get-all-employees-using-spring-boot-layered-1"/>
@@ -1950,45 +1933,6 @@ Twitch 遭黑客泄漏代码以及财务记录
         <summary type="html"><![CDATA[Both Angular 2 and AngularJS are great for E-Commerce, but which one you use for E-Commerce depends on your needs. AngularJS is good for building small-scale E-Commerce applications FAST while Angular]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有个地方我没看懂，为什么那个女的拿起照相机看到凶手两人结婚照的时候，就明白了一切 请问谁能解释一下？ (评论: 完美逃亡)]]></title>
-        <id>https://movie.douban.com/review/13910329/</id>
-        <link href="https://movie.douban.com/review/13910329/"/>
-        <updated>2021-10-07T19:29:19.000Z</updated>
-        <summary type="html"><![CDATA[顽皮的老鹿评论: 完美逃亡 (http://movie.douban.com/subject/3011380/)
-评价: 
-
-{"entityMap": {}, "blocks": [{"text": "\u8bf7\u95ee\u8c01\u80fd\u89e3\u9...]]></summary>
-        <author>
-            <name>顽皮的老鹿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[goodbye nic (评论: 驻院医生 第五季)]]></title>
-        <id>https://movie.douban.com/review/13910253/</id>
-        <link href="https://movie.douban.com/review/13910253/"/>
-        <updated>2021-10-07T17:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Jaki评论: 驻院医生 第五季 (http://movie.douban.com/subject/35465734/)
-评价: 力荐
-
-{"entityMap":{},"blocks":[{"key":"123k4","text":" ","type":"unstyled","depth":0,"inlineStyleRanges":[],...]]></summary>
-        <author>
-            <name>Jaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小成本电影中的佳作 (评论: 刺)]]></title>
-        <id>https://movie.douban.com/review/13910219/</id>
-        <link href="https://movie.douban.com/review/13910219/"/>
-        <updated>2021-10-07T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[下雨天评论: 刺 (http://movie.douban.com/subject/3217669/)
-评价: 推荐
-
-{"entityMap": {}, "blocks": [{"text": "1\u3001\u7535\u5f71\u7684\u751f\u...]]></summary>
-        <author>
-            <name>下雨天</name>
         </author>
     </entry>
     <entry>
@@ -2070,19 +2014,6 @@ Twitch 遭黑客泄漏代码以及财务记录
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[破案小能手在亲情与爱情中的无奈 (评论: 摩斯探长前传 第八季)]]></title>
-        <id>https://movie.douban.com/review/13909961/</id>
-        <link href="https://movie.douban.com/review/13909961/"/>
-        <updated>2021-10-07T15:01:30.000Z</updated>
-        <summary type="html"><![CDATA[猫巧巧评论: 摩斯探长前传 第八季 (http://movie.douban.com/subject/34945580/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "S8E02\u8fd9\u96c6\u8272\u8c03\u6e...]]></summary>
-        <author>
-            <name>猫巧巧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[罗昌平质疑抗美援朝正义性 引官媒批评]]></title>
         <id>https://www.williamlong.info/archives/6580.html</id>
         <link href="https://www.williamlong.info/archives/6580.html"/>
@@ -2152,19 +2083,6 @@ Join us for our First-ever Resilience edition. Our featured leaders include Kolt
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[洪氏父子传(剧透+文言长文) (评论: 峰爆)]]></title>
-        <id>https://movie.douban.com/review/13909574/</id>
-        <link href="https://movie.douban.com/review/13909574/"/>
-        <updated>2021-10-07T12:27:27.000Z</updated>
-        <summary type="html"><![CDATA[听筝评论: 峰爆 (http://movie.douban.com/subject/35231370/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "\u4e16\u6709\u6d2a\u59d3\u7236\u5...]]></summary>
-        <author>
-            <name>听筝</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[这个骚气的软件，全部免费！]]></title>
         <id>https://mp.weixin.qq.com/s/SMU36DhNy4Zs_QBTfZwzaA</id>
         <link href="https://mp.weixin.qq.com/s/SMU36DhNy4Zs_QBTfZwzaA"/>
@@ -2172,58 +2090,6 @@ Join us for our First-ever Resilience edition. Our featured leaders include Kolt
         <summary type="html"><![CDATA[这个骚气的软件，全部免费！]]></summary>
         <author>
             <name>懒人找资源</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果想把这电影当成爽片来看，那么看到1小时28分你就可以关电影了 (评论: 极盗行动)]]></title>
-        <id>https://movie.douban.com/review/13909322/</id>
-        <link href="https://movie.douban.com/review/13909322/"/>
-        <updated>2021-10-07T10:16:36.000Z</updated>
-        <summary type="html"><![CDATA[夏多先生评论: 极盗行动 (http://movie.douban.com/subject/34966343/)
-评价: 推荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"thumb":"https://img1.doubanio.com/view/thing...]]></summary>
-        <author>
-            <name>夏多先生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当脱口秀男演员吐槽他的女朋友 (评论: 脱口秀大会 第四季)]]></title>
-        <id>https://movie.douban.com/review/13909261/</id>
-        <link href="https://movie.douban.com/review/13909261/"/>
-        <updated>2021-10-07T09:33:44.000Z</updated>
-        <summary type="html"><![CDATA[名小川评论: 脱口秀大会 第四季 (http://movie.douban.com/subject/35206452/)
-评价: 还行
-
-{"entityMap": {}, "blocks": [{"text": "\u613f\u610f\u8bb2\u8131\u53e3\u7...]]></summary>
-        <author>
-            <name>名小川</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[藏在《鱿鱼游戏》背景中韩国工人真实的抗争故事 (评论: 鱿鱼游戏)]]></title>
-        <id>https://movie.douban.com/review/13910146/</id>
-        <link href="https://movie.douban.com/review/13910146/"/>
-        <updated>2021-10-07T09:10:26.000Z</updated>
-        <summary type="html"><![CDATA[隔壁车间玉主任评论: 鱿鱼游戏 (http://movie.douban.com/subject/34812928/)
-评价: 还行
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https://img9.doubanio.com/view...]]></summary>
-        <author>
-            <name>隔壁车间玉主任</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有很多话想说，短评写不下 (评论: 未麻的部屋)]]></title>
-        <id>https://movie.douban.com/review/13909001/</id>
-        <link href="https://movie.douban.com/review/13909001/"/>
-        <updated>2021-10-07T06:57:33.000Z</updated>
-        <summary type="html"><![CDATA[最幸运的幸运评论: 未麻的部屋 (http://movie.douban.com/subject/1395091/)
-评价: 力荐
-
-{"entityMap":{},"blocks":[{"key":"ebamf","text":"看完了这部电影，以为自己看懂了七七八八，看了一通影评，反而似懂非懂了，就按自己的理解随便记录一下：","type":"unstyled","depth":0,"inlineStyleRanges":[...]]></summary>
-        <author>
-            <name>最幸运的幸运</name>
         </author>
     </entry>
     <entry>
@@ -2244,19 +2110,6 @@ Join us for our First-ever Resilience edition. Our featured leaders include Kolt
 其中，推进较快、影响力相对最大的，要数加州于 2018 年颁布的《加州消费者隐私法案》（California Consumer Privacy Act of 2018, CCPA）及…]]></summary>
         <author>
             <name>JSGroup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女性悲剧与虐恋情结 (评论: 拯救与困惑1905-1949)]]></title>
-        <id>https://book.douban.com/review/13911579/</id>
-        <link href="https://book.douban.com/review/13911579/"/>
-        <updated>2021-10-07T06:01:27.000Z</updated>
-        <summary type="html"><![CDATA[冬惊评论: 拯救与困惑1905-1949 (https://book.douban.com/subject/35584025/)
-评价: 力荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>冬惊</name>
         </author>
     </entry>
     <entry>
@@ -2306,32 +2159,6 @@ Join us for our First-ever Resilience edition. Our featured leaders include Kolt
 此外，据《华尔街日报》报道，Facebook正在放缓一些新产品和功能的发布和开发，以确保它们不会给公司带来更多的审查或伤害儿童。（来源：华…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简要介绍 (评论: 台灣一黨獨裁體制的建立)]]></title>
-        <id>https://book.douban.com/review/13908547/</id>
-        <link href="https://book.douban.com/review/13908547/"/>
-        <updated>2021-10-07T00:53:58.000Z</updated>
-        <summary type="html"><![CDATA[栗子有毒评论: 台灣一黨獨裁體制的建立 (https://book.douban.com/subject/35201032/)
-评价: 推荐
-
-{"entityMap": {}, "blocks": [{"text": "\u672c\u4e66\u662f\u76f8\u5173\u9...]]></summary>
-        <author>
-            <name>栗子有毒</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫谈“赤名莉香” (评论: 东京爱情故事)]]></title>
-        <id>https://movie.douban.com/review/13908214/</id>
-        <link href="https://movie.douban.com/review/13908214/"/>
-        <updated>2021-10-06T16:33:45.000Z</updated>
-        <summary type="html"><![CDATA[双无找寻评论: 东京爱情故事 (http://movie.douban.com/subject/1438760/)
-评价: 力荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img2.doub...]]></summary>
-        <author>
-            <name>双无找寻</name>
         </author>
     </entry>
     <entry>
@@ -2387,32 +2214,6 @@ Geekpark：你的创业经历是怎样的？
 我们不做差旅，而是面向本地年轻人的住宿需求，主要是把玩的场景和住的场景结合。比如说，打游戏，看电影，玩桌游，这些是…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假如全季评 (评论: 假如…？ 第一季)]]></title>
-        <id>https://movie.douban.com/review/13907842/</id>
-        <link href="https://movie.douban.com/review/13907842/"/>
-        <updated>2021-10-06T14:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Discovery评论: 假如…？ 第一季 (http://movie.douban.com/subject/33408073/)
-评价: 
-
-{"entityMap":{},"blocks":[{"key":"eujhi","text":" ","type":"unstyled","depth":0,"inlineStyleRanges"...]]></summary>
-        <author>
-            <name>Discovery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的告别，是优雅的放手 (评论: 最好的告别)]]></title>
-        <id>https://book.douban.com/review/13907833/</id>
-        <link href="https://book.douban.com/review/13907833/"/>
-        <updated>2021-10-06T14:06:56.000Z</updated>
-        <summary type="html"><![CDATA[天空之城的支撑评论: 最好的告别 (https://book.douban.com/subject/26576861/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "2011\u5e74\u7684\u65f6\u5019\uff0...]]></summary>
-        <author>
-            <name>天空之城的支撑</name>
         </author>
     </entry>
     <entry>
@@ -2496,19 +2297,6 @@ Geekpark：你的创业经历是怎样的？
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[莎士比亚的影史首秀 (评论: 麦克白)]]></title>
-        <id>https://movie.douban.com/review/13907672/</id>
-        <link href="https://movie.douban.com/review/13907672/"/>
-        <updated>2021-10-06T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[不朽浩克评论: 麦克白 (http://movie.douban.com/subject/1299462/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "\u5965\u900a\u5a01\u5c14\u65af\u4...]]></summary>
-        <author>
-            <name>不朽浩克</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11正式版推送]]></title>
         <id>https://www.williamlong.info/archives/6579.html</id>
         <link href="https://www.williamlong.info/archives/6579.html"/>
@@ -2558,45 +2346,6 @@ Geekpark：你的创业经历是怎样的？
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快速成为咖啡达人，有这一本就够了 (评论: 好的咖啡)]]></title>
-        <id>https://book.douban.com/review/13907464/</id>
-        <link href="https://book.douban.com/review/13907464/"/>
-        <updated>2021-10-06T11:12:45.000Z</updated>
-        <summary type="html"><![CDATA[自然评论: 好的咖啡 (https://book.douban.com/subject/35510615/)
-评价: 力荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>自然</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30年后，我们会遇到老后破产吗？ (评论: 老后破产)]]></title>
-        <id>https://book.douban.com/review/13907357/</id>
-        <link href="https://book.douban.com/review/13907357/"/>
-        <updated>2021-10-06T10:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Riesling🥃评论: 老后破产 (https://book.douban.com/subject/30143251/)
-评价: 推荐
-
-{"entityMap": {"0": {"type": "SEPARATOR", "data": {}, "mutability": "IMM...]]></summary>
-        <author>
-            <name>Riesling🥃</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这本书让你摆脱畏难情绪 (评论: 图解SQL)]]></title>
-        <id>https://book.douban.com/review/13906973/</id>
-        <link href="https://book.douban.com/review/13906973/"/>
-        <updated>2021-10-06T07:05:18.000Z</updated>
-        <summary type="html"><![CDATA[芙裳评论: 图解SQL (https://book.douban.com/subject/35606881/)
-评价: 推荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"origin":false,"src":"https://img9.douban...]]></summary>
-        <author>
-            <name>芙裳</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android 平台的颜值标杆：Material You 应用大赏]]></title>
         <id>https://sspai.com/post/69117</id>
         <link href="https://sspai.com/post/69117"/>
@@ -2611,20 +2360,6 @@ Google 应用
 而在拨号应用中，拨号键盘收起时右下角的悬浮操作按钮也用上了同样风格的圆角矩形按钮，不同层级悬浮操作按钮也用不同的动态颜色进行了视觉区分；除了同样应用于搜索框背景、高亮选中背景、设置界面背景等区域的动态配色外，拨号应用的 底部导航栏 也通过采用不同动态颜色的图标和背景，…]]></summary>
         <author>
             <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《赤心巡天》：狠心将姜安安抛弃，
-后母宋如意的苦衷又有谁能知？ (评论: 赤心巡天·明月在天)]]></title>
-        <id>https://book.douban.com/review/13906616/</id>
-        <link href="https://book.douban.com/review/13906616/"/>
-        <updated>2021-10-06T03:25:21.000Z</updated>
-        <summary type="html"><![CDATA[雨中小菊评论: 赤心巡天·明月在天 (https://book.douban.com/subject/35586821/)
-评价: 推荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img3.doub...]]></summary>
-        <author>
-            <name>雨中小菊</name>
         </author>
     </entry>
     <entry>
@@ -2673,32 +2408,6 @@ Google 应用
 职业游戏玩家可以视作极端化的一般办公室人群，他们使用鼠标更加频繁、幅度更大、更需要长…]]></summary>
         <author>
             <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福藏在细枝末节间 (评论: 幸福的100个基本)]]></title>
-        <id>https://book.douban.com/review/13906461/</id>
-        <link href="https://book.douban.com/review/13906461/"/>
-        <updated>2021-10-06T01:38:18.000Z</updated>
-        <summary type="html"><![CDATA[芙裳评论: 幸福的100个基本 (https://book.douban.com/subject/35601274/)
-评价: 推荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>芙裳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伸张正义，还是保护谎言？ (评论: 军碑一九四二)]]></title>
-        <id>https://book.douban.com/review/13906203/</id>
-        <link href="https://book.douban.com/review/13906203/"/>
-        <updated>2021-10-05T17:17:51.000Z</updated>
-        <summary type="html"><![CDATA[东弗的幽灵评论: 军碑一九四二 (https://book.douban.com/subject/3758792/)
-评价: 很差
-
-{"entityMap": {"0": {"data": {"url": "http://zqb.cyol.com/content/2010-0...]]></summary>
-        <author>
-            <name>东弗的幽灵</name>
         </author>
     </entry>
     <entry>
@@ -2766,32 +2475,6 @@ Google 应用
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日记被全班同学偷看，该怎么办？ (评论: 小间谍哈瑞特)]]></title>
-        <id>https://book.douban.com/review/13905557/</id>
-        <link href="https://book.douban.com/review/13905557/"/>
-        <updated>2021-10-05T12:42:59.000Z</updated>
-        <summary type="html"><![CDATA[刘小满评论: 小间谍哈瑞特 (https://book.douban.com/subject/35478613/)
-评价: 力荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https://img3.doubanio.com...]]></summary>
-        <author>
-            <name>刘小满</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不应该鼓励的创作 (评论: 长津湖)]]></title>
-        <id>https://movie.douban.com/review/13905315/</id>
-        <link href="https://movie.douban.com/review/13905315/"/>
-        <updated>2021-10-05T10:46:28.000Z</updated>
-        <summary type="html"><![CDATA[田鼠菌评论: 长津湖 (http://movie.douban.com/subject/25845392/)
-评价: 较差
-
-{"entityMap": {}, "blocks": [{"text": "\u3010\u58f0\u660e\uff1a\u5355\u4...]]></summary>
-        <author>
-            <name>田鼠菌</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[乔布斯逝世 10 周年，苹果前首席设计师 Jony Ive 撰文纪念]]></title>
         <id>http://www.mac52ipod.cn/post/jony-ive-steve-jobs-memories-10th-anniversary.php</id>
         <link href="http://www.mac52ipod.cn/post/jony-ive-steve-jobs-memories-10th-anniversary.php"/>
@@ -2804,32 +2487,6 @@ Google 应用
 Tags - 乔布斯]]></summary>
         <author>
             <name>bmwmengwei &lt;bmwmengwei@gmail.com&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活有点烦，但也很好玩：一本治愈无数焦虑星人的非正常解压书 (评论: 生活有点烦 但也很好玩)]]></title>
-        <id>https://book.douban.com/review/13904959/</id>
-        <link href="https://book.douban.com/review/13904959/"/>
-        <updated>2021-10-05T07:45:16.000Z</updated>
-        <summary type="html"><![CDATA[沧海先声评论: 生活有点烦 但也很好玩 (https://book.douban.com/subject/35593985/)
-评价: 力荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https://img2.doubanio.com/v...]]></summary>
-        <author>
-            <name>沧海先声</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《冬与狮》序 | 兰晓龙 (评论: 冬与狮)]]></title>
-        <id>https://book.douban.com/review/13904765/</id>
-        <link href="https://book.douban.com/review/13904765/"/>
-        <updated>2021-10-05T05:35:14.000Z</updated>
-        <summary type="html"><![CDATA[人民文学出版社评论: 冬与狮 (https://book.douban.com/subject/35612591/)
-评价: 力荐
-
-{"entityMap":{},"blocks":[{"key":"7fgd5","text":"  ","type":"unstyled","depth":0,"inlineStyleRanges":[],"e...]]></summary>
-        <author>
-            <name>人民文学出版社</name>
         </author>
     </entry>
     <entry>
@@ -3024,19 +2681,6 @@ function bsfloatingwidget(elem) {
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好想再来一杯 (评论: 好的咖啡)]]></title>
-        <id>https://book.douban.com/review/13902332/</id>
-        <link href="https://book.douban.com/review/13902332/"/>
-        <updated>2021-10-04T02:22:55.000Z</updated>
-        <summary type="html"><![CDATA[麒麟评论: 好的咖啡 (https://book.douban.com/subject/35510615/)
-评价: 力荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"thumb":"https://img9.doubanio...]]></summary>
-        <author>
-            <name>麒麟</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[监管：严查密室逃脱、剧本杀场所；苹果游戏收入超索尼、任天堂综总和；《鱿鱼游戏》太火，韩国电信起诉Netflix]]></title>
         <id>http://www.geekpark.net/news/287325</id>
         <link href="http://www.geekpark.net/news/287325"/>
@@ -3063,32 +2707,6 @@ SpaceX 公司的回收团队已经成功取回了这艘货运飞船，其中关�
 特斯拉称，截至…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个叫诗织的21岁女孩，被他们合谋杀死了三次…… (评论: 桶川跟踪狂杀人事件)]]></title>
-        <id>https://book.douban.com/review/13902005/</id>
-        <link href="https://book.douban.com/review/13902005/"/>
-        <updated>2021-10-03T17:29:37.000Z</updated>
-        <summary type="html"><![CDATA[赤羽评论: 桶川跟踪狂杀人事件 (https://book.douban.com/subject/35094680/)
-评价: 力荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"src":"https://img2.do...]]></summary>
-        <author>
-            <name>赤羽</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是一场复仇之路，同时也是圆梦之旅 (评论: 起飞，降落)]]></title>
-        <id>https://book.douban.com/review/13901691/</id>
-        <link href="https://book.douban.com/review/13901691/"/>
-        <updated>2021-10-03T15:10:30.000Z</updated>
-        <summary type="html"><![CDATA[禅王评论: 起飞，降落 (https://book.douban.com/subject/35487184/)
-评价: 推荐
-
-{"entityMap": {"0": {"data": {"origin": false, "src": "https://img9.doub...]]></summary>
-        <author>
-            <name>禅王</name>
         </author>
     </entry>
     <entry>
@@ -3176,32 +2794,6 @@ toio 还有四套游戏主题可以选择，不过需要单独购买。选择孩
         <summary type="html"><![CDATA[想当程序员拿高薪，你可以考这个证书 ！]]></summary>
         <author>
             <name>酷安数码</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“那都是很好很好的，可是我偏不喜欢” (评论: 白马啸西风)]]></title>
-        <id>https://book.douban.com/review/13900896/</id>
-        <link href="https://book.douban.com/review/13900896/"/>
-        <updated>2021-10-03T09:54:25.000Z</updated>
-        <summary type="html"><![CDATA[张佳玮评论: 白马啸西风 (https://book.douban.com/subject/1793132/)
-评价: 力荐
-
-{"entityMap":{"0":{"type":"SEPARATOR","mutability":"IMMUTABLE","data":{}},"1":{"type":"SEPARATOR","mu...]]></summary>
-        <author>
-            <name>张佳玮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【翻译】《昔有尸》文库版解说 (评论: むかしむかしあるところに、死体がありました。)]]></title>
-        <id>https://book.douban.com/review/13900392/</id>
-        <link href="https://book.douban.com/review/13900392/"/>
-        <updated>2021-10-03T05:03:58.000Z</updated>
-        <summary type="html"><![CDATA[tatsu评论: むかしむかしあるところに、死体がありました。 (https://book.douban.com/subject/34440942/)
-评价: 力荐
-
-{"entityMap": {}, "blocks": [{"text": "\u89e3\u8bf4", "entityRanges": []...]]></summary>
-        <author>
-            <name>tatsu</name>
         </author>
     </entry>
     <entry>
@@ -3321,19 +2913,6 @@ toio 还有四套游戏主题可以选择，不过需要单独购买。选择孩
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如果用王家卫的风格拍长津湖 (评论: 长津湖)]]></title>
-        <id>https://movie.douban.com/review/13899575/</id>
-        <link href="https://movie.douban.com/review/13899575/"/>
-        <updated>2021-10-02T15:42:26.000Z</updated>
-        <summary type="html"><![CDATA[木青白白白评论: 长津湖 (http://movie.douban.com/subject/25845392/)
-评价: 还行
-
-{"entityMap": {}, "blocks": [{"text": "\u5f88\u4e45\u4ee5\u540e\u6211\u6...]]></summary>
-        <author>
-            <name>木青白白白</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支付宝宣布向银联云闪付开放线上场景]]></title>
         <id>https://www.williamlong.info/archives/6575.html</id>
         <link href="https://www.williamlong.info/archives/6575.html"/>
@@ -3395,19 +2974,6 @@ toio 还有四套游戏主题可以选择，不过需要单独购买。选择孩
 与此同时，蔚来同样成绩不俗，9 月共交付智能电动汽车 10，628 台，同比增长 125.7…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这段历史理应配得更好的电影 (评论: 长津湖)]]></title>
-        <id>https://movie.douban.com/review/13898021/</id>
-        <link href="https://movie.douban.com/review/13898021/"/>
-        <updated>2021-10-02T01:17:53.000Z</updated>
-        <summary type="html"><![CDATA[fevredream评论: 长津湖 (http://movie.douban.com/subject/25845392/)
-评价: 还行
-
-{"entityMap": {}, "blocks": [{"text": "       \u770b\u5b8c\u4e4b\u540e\u...]]></summary>
-        <author>
-            <name>fevredream</name>
         </author>
     </entry>
     <entry>
@@ -3638,19 +3204,6 @@ OPPO Watch Free 整体外观和 OPPO Watch 有着明显区别，它的屏幕�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿富汗为何是“失败国家”？ (评论: 无规则游戏)]]></title>
-        <id>https://book.douban.com/review/13902785/</id>
-        <link href="https://book.douban.com/review/13902785/"/>
-        <updated>2021-09-30T11:37:32.000Z</updated>
-        <summary type="html"><![CDATA[维舟评论: 无规则游戏 (https://book.douban.com/subject/30348068/)
-评价: 推荐
-
-{"entityMap":{},"blocks":[{"key":"3pd03","text":"塔利班已经胜利进占首都喀布尔，但世人很少把这看作是一场胜利，倒是普遍认为这再一次证明了阿富汗这个国家的失败。","type":"unstyled","depth":0,"inlineStyleRanges":...]]></summary>
-        <author>
-            <name>维舟</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雷电3百瓦CC数据线 29.9元；机械车载手机支架 1个16.8元]]></title>
         <id>https://mp.weixin.qq.com/s/-pOgiCdRJpsN04_Vyr_aZQ</id>
         <link href="https://mp.weixin.qq.com/s/-pOgiCdRJpsN04_Vyr_aZQ"/>
@@ -3721,32 +3274,6 @@ OPPO Watch Free 整体外观和 OPPO Watch 有着明显区别，它的屏幕�
 　　李佳佳的问题在于，没有创造出一个“不可复制”的个性品牌，她在“李子柒”品牌中只是贡献了一张脸，比较容易复制，如果她能够多贡献一些个性化的内容，复制起来就没那么容易了，比如“papi酱”和“美食作家王刚”这种就很难复制，另外，从烹饪专业度来说，我觉得王刚的作品比李子柒的作品不知道高到哪去了。李子柒的视频，要说专业度和质量来说，其实都不怎么样，也就是在海外红一些，国内最开始根本没人关注，李子柒YouTube频道主要针对外国人，外国人本来就是脸盲，换个演员扮演的话，外国人根本看不出来，继续在海外红下去的几率会很大。]]></summary>
         <author>
             <name>williamlone@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中世纪打假：204-205页的跨页大图不是原作 (评论: 中世纪之美)]]></title>
-        <id>https://book.douban.com/review/13893928/</id>
-        <link href="https://book.douban.com/review/13893928/"/>
-        <updated>2021-09-30T07:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Iris de mayo评论: 中世纪之美 (https://book.douban.com/subject/35431246/)
-评价: 推荐
-
-{"entityMap":{"0":{"type":"IMAGE","mutability":"IMMUTABLE","data":{"thumb":"https://img2.doub...]]></summary>
-        <author>
-            <name>Iris de mayo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[站在DNA双螺旋背后的科学家——克里克 (评论: 狂热的追求)]]></title>
-        <id>https://book.douban.com/review/13892903/</id>
-        <link href="https://book.douban.com/review/13892903/"/>
-        <updated>2021-09-29T16:34:45.000Z</updated>
-        <summary type="html"><![CDATA[芙裳评论: 狂热的追求 (https://book.douban.com/subject/34835154/)
-评价: 力荐
-
-{"entityMap": {"0": {"type": "IMAGE", "data": {"origin": false, "src": "...]]></summary>
-        <author>
-            <name>芙裳</name>
         </author>
     </entry>
     <entry>
@@ -4093,6 +3620,17 @@ Facebook 周一表示，将投资 5000 万美元与相关机构合作，建立�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[逃犯中秋节去派出所补办身份证被抓：以为假期警察会放松警惕]]></title>
+        <id>https://shadiao.plus/?p=1885</id>
+        <link href="https://shadiao.plus/archives/1885"/>
+        <updated>2021-09-27T15:40:02.000Z</updated>
+        <summary type="html"><![CDATA[9月19日，安徽亳州。中秋假期第一天。一男子到古城派出所补办身份证，细心的民警发现他竟是在逃嫌疑...
+逃犯中秋节去派出所补办身份证被抓：以为假期警察会放松警惕最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[快手加入搜索战局，将会改变什么]]></title>
         <id>http://www.geekpark.net/news/286829</id>
         <link href="http://www.geekpark.net/news/286829"/>
@@ -4120,6 +3658,72 @@ Facebook 周一表示，将投资 5000 万美元与相关机构合作，建立�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[工人装玻璃把自己隔在10楼外，求助消防营救]]></title>
+        <id>https://shadiao.plus/?p=1881</id>
+        <link href="https://shadiao.plus/archives/1881"/>
+        <updated>2021-09-27T15:34:53.000Z</updated>
+        <summary type="html"><![CDATA[9月19日，山东济宁消防发布一则救援视频：一名工人安装玻璃，把自己“封印”在了10楼窗外，无奈求...
+工人装玻璃把自己隔在10楼外，求助消防营救最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子头卡楼梯间进退两难，楼上租客报警]]></title>
+        <id>https://shadiao.plus/?p=1876</id>
+        <link href="https://shadiao.plus/archives/1876"/>
+        <updated>2021-09-27T15:29:34.000Z</updated>
+        <summary type="html"><![CDATA[近日，台州临海大洋街道西新村一幢6层的楼房里，一名男子附身趴在二楼通往三楼的楼梯间，头钻进了楼梯...
+男子头卡楼梯间进退两难，楼上租客报警最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要结婚了，手头有点紧，男子报警称5年前网恋被骗]]></title>
+        <id>https://shadiao.plus/?p=1871</id>
+        <link href="https://shadiao.plus/archives/1871"/>
+        <updated>2021-09-27T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[2016年，江苏南京的李先生通过交友软件认识一名女子，彼此交流十分投机，便想到要“奔现”。随后，...
+要结婚了，手头有点紧，男子报警称5年前网恋被骗最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子开网店按顾客订单偷衣服]]></title>
+        <id>https://shadiao.plus/?p=1867</id>
+        <link href="https://shadiao.plus/archives/1867"/>
+        <updated>2021-09-27T15:14:19.000Z</updated>
+        <summary type="html"><![CDATA[近日，南京一服装店报警称，从5月份起，店里陆续少了四五十条裤子。民警通过监控锁定并抓获嫌疑男子刘...
+男子开网店按顾客订单偷衣服最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花4万美容院治疗白头发，结果就是拔]]></title>
+        <id>https://shadiao.plus/?p=1861</id>
+        <link href="https://shadiao.plus/archives/1861"/>
+        <updated>2021-09-27T15:09:35.000Z</updated>
+        <summary type="html"><![CDATA[何女士是福建人，在重庆工作生活了近20年。去年7月，她常去的美容院推荐了一个白发转黑的项目，一个...
+花4万美容院治疗白头发，结果就是拔最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[司机遇查酒驾跳河抓回后酒精含量为零]]></title>
+        <id>https://shadiao.plus/?p=1857</id>
+        <link href="https://shadiao.plus/archives/1857"/>
+        <updated>2021-09-27T15:02:28.000Z</updated>
+        <summary type="html"><![CDATA[9月24日，安徽阜阳，一名奔驰司机遇夜查酒驾，弃车跳河。尴尬的是，该男子不会游泳，乖乖站在齐腰深...
+司机遇查酒驾跳河抓回后酒精含量为零最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[聊一下iPad mini6，没想象中的香，但够用]]></title>
         <id>https://mp.weixin.qq.com/s/IKZJPenQ11IMbmsquC78Zg</id>
         <link href="https://mp.weixin.qq.com/s/IKZJPenQ11IMbmsquC78Zg"/>
@@ -4127,48 +3731,6 @@ Facebook 周一表示，将投资 5000 万美元与相关机构合作，建立�
         <summary type="html"><![CDATA[聊一下iPad mini6，没想象中的香，但够用]]></summary>
         <author>
             <name>懒人找资源</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米真无线降噪耳机 3 Pro 上手：千元之下的「空间音频」体验几何？]]></title>
-        <id>http://www.geekpark.net/news/286756</id>
-        <link href="http://www.geekpark.net/news/286756"/>
-        <updated>2021-09-27T07:52:49.000Z</updated>
-        <summary type="html"><![CDATA[如今的小米降噪耳机系列其实历经数代产品的发布迭代，但实际上，过去发布的数款产品都因为定位以及代工的问题，或多或少的存在着各自的问题，在保有高性价比等鲜明特色的同时也饱受争议。
-不过，这些实际上都没有阻挡小米继续在 TWS 降噪耳机领域发力的决心：在小米 Civi 发布会中，小米耳机新品 —— 小米真无线降噪耳机 3 Pro 也一道亮相。
-
-
-外观设计上，耳机收纳仓的材质没有采用前代的亮面处理工艺，转而采用了类似 Air 2 Pro 的类磨砂处理工艺，实际手感上相比前代的亮面处理来的更舒服，更重要的是：长期使用之后会出现划痕的概率也会大大降低，至少笔者这样的同时兼具强迫症与颜值党的用户，使用起来会安心不少。
-
-
-另一个笔者比较在意的细节是：小米真无线降噪耳机 3 Pro 这次也将收纳仓中的耳机放置调整为与佩戴方向相同的设置，这样直接拿出来就可以很方便的佩戴，无需再将耳机旋转 180 度，使用起来会更加直觉。
-
-
-耳机本体则是加入了流线型的设计元素，外观，设计上更耳机柄上并没有任何实体按键，但小米为其设计了一个条状的压感指示区域，在按压之后会有对应的音频提示从耳机播放。
-虽然在耳机体积上，小米真无线降噪耳机 3 Pro 的尺寸相比隔壁的 AirPods Pro 要略微大了一圈，但意外的是单只耳机的重量仅为 4.8g（AirPods Pro 单只耳机重量为 5.5g），实际佩戴起来也更加稳定。在笔者的佩戴测试中，并没有出现因为甩头、跑步等剧烈运动，导致耳机位置松脱的情况。
-
-
-另外，包装内也提供了另外三组不同尺寸的耳塞，供用户根据自己的佩戴舒适度来更换。
-至于名称中的「降噪」，本次小米真无线降噪耳机 3 Pro 最高支持 40dB 的主动降噪能力，同时还引入了「自适应降噪」功能，会使用前馈麦克风与反馈麦克风相互配合，根据外部环境的噪声大小，动态调整耳机的降噪强度，官方号称能「有效降低 99% 的外界频段噪声」。
-在实际体验中，在相对较为安静的办公室环境内，小米真无线降噪耳机 3 Pro 能有效过滤掉背景中的杂音，但对于同事之间沟通的话语声、机械键盘的敲击声隔绝处理效果还是能听的较为清楚，反而是更加嘈杂的室外，咖啡厅等场景下，自适应降噪功能处理效果相对更加明显，能有效过滤掉更多背景杂音。
-
-
-哦对了，在前代产品备受用户吐槽的抗风噪功能优化上，小米真无线降噪耳机 3 Pro 也做出了不错的改进，在骑行测试下，抗风噪效果有明显的提升，自适应降噪的等级，也可以在设置中手动进行调整。
-另一个小米真无线降噪耳机 3 Pro 中主打的新功能则是发布会上重点介绍的「空间音频」：听命名就知道，这是一个借助算法来模拟三维空间感的功能，实际上小米官方也号称为了实现这一功能自研了头部追踪算法，搭配上杜比全景声的音频/影视资源，能创造出更加身临其境的视听效果。
-
-
-实际体验中，在爱奇艺中观看支持 5.1 声道的影视资源，借助耳机内置的六轴陀螺仪，体验最为明显的部分是音效会随着头部的转动而改变来源，相比传统的杜比立体声来的更加有趣。不过目前在检测算法上还有很多调整优化的空间。
-而且由于这一技术为小米自行研发，小米真无线降噪耳机 3 Pro 也是首款搭载这一技术的设备，目前这一技术也仅支持爱奇艺中的相关影视资源，小米也表示这一功能后续也会适配更多的设备。也希望后续会有更多平台影视资源能得到这一技术的优化加持。
-
-续航体验部分，小米真无线降噪耳机 3 Pro 官方表示有最高 27 小时的续航，在降噪关闭的情况下单次使用续航为 6 小时，降噪模式开启则是 4.5 小时。耳机收纳仓电池容量为 480mAh，40 分钟即可充满。当然，也支持无线充电功能。
-
-
-综合来讲，凭借降噪功能的升级、不错的机身质感，加上「空间音频」等新功能的加入，小米真无线降噪耳机 3 Pro 这款主打高端旗舰定位的真无线降噪耳机，在 699 元的售价定位中，会是一个相对门槛比较低的高端 TWS 耳机选择，仍然有着足够的竞争力，希望小米未来也能继续在软件上进一步优化这款耳机的体验，让其成为性价比更高的选择。
-
-
-本文由极客公园 GeekPark 原创发布，转载请添加极客君微信 geekparker。]]></summary>
-        <author>
-            <name>极客公园</name>
         </author>
     </entry>
     <entry>
@@ -4962,6 +4524,17 @@ Tags - 五分钟无废话]]></summary>
         <summary type="html"><![CDATA[垃圾佬的固态推荐（包含矿盘）]]></summary>
         <author>
             <name>电脑吧评测室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情侣酒后争吵开车到派出所评理,一个被罚一个被拘]]></title>
+        <id>https://shadiao.plus/?p=1852</id>
+        <link href="https://shadiao.plus/archives/1852"/>
+        <updated>2021-09-12T15:28:09.000Z</updated>
+        <summary type="html"><![CDATA[月5日，温州一名女子开着车带着男友来到派出所，希望民警帮他们评评理，然而两人浑身酒气。原来，这对...
+情侣酒后争吵开车到派出所评理,一个被罚一个被拘最先出现在沙雕新闻。]]></summary>
+        <author>
+            <name>沙雕一号</name>
         </author>
     </entry>
     <entry>
