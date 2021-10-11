@@ -20,7 +20,7 @@
           "description": "有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。...",
           "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
           "publishedOn": "2021-09-29T01:19:08.000Z",
-          "wordCount": 488,
+          "wordCount": 497,
           "title": "JavaScript 侦测手机浏览器的五种方法"
         },
         {
@@ -46,220 +46,454 @@
       "siteUrl": "https://readhub.me/",
       "articles": [
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188583.htm",
+          "id": "https://www.pingwest.com/w/251118?utm_source=feed",
           "author": null,
-          "description": "<p>近年来我国平台经济迅速发展，互联网平台企业快速壮大，新业态、新模式层出不穷，在诸多方面发挥了重要作用，成为我国经济增长的新引擎，但也出现了一些不和谐的现象，比如平台经济领域经营者要求商家“二选一”、“大数据杀熟”、未依法申报实施经营者集中等涉嫌垄断问题，严重破坏了市场竞争秩序，损害了社会公共利益和消费者的合法权益 ... 通过强化反垄断监管，严厉打击垄断行为，营造公平竞争的市场秩序，对平台经济发展就显得尤为重要 ... 自去年12月份召开的几场重要会议提出“强化反垄断和防止资本无序扩张”以来，我国在对平台反垄断监管方面持续发力，举措不断：今年2月7日，《国务院反垄断委员会关于平台经济领域的反垄断指南》发布，对涉及平台经济领域的“二选一”“大数据杀熟”“搭售行为”等问题作出了较为细化的规定。</p><p><a href='https://www.cnbeta.com/articles/tech/1188583.htm'>CNBeta : 评美团因垄断被罚：立规矩明底线 平台经济反垄断强监管信号强烈</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188583.htm",
-          "publishedOn": "2021-10-11T00:21:26.000Z",
+          "description": "<p>有许多在日常生活中的问题和功能困扰着老年用户，而在外工作的孩子们只能在每年假期回家才能帮他们处理一次问题 ... 为了解决这个问题，小米早在2019年就推出了“亲情守护”功能，并且不嫌手机阵营，任何安卓、苹果手机都能使用，其中可以通过安全围栏、运动轨迹功能，实时了解父母行踪，同时还能控制应用的使用时间，多方面保护家人安全、健康的使用手机 ... 为用户提供服务时依法收集的相关信息，小米也表示会根据国家法律法规的要求及《小米隐私政策》的约定进行删除处理。</p><p><a href='https://www.pingwest.com/w/251118?utm_source=feed'>品玩 : 小米MIUI“亲情守护”功能将于 10 月 30 日停止服务</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188947.htm'>CNBeta : 小米：“亲情守护”功能将于本月底停止服务</a></p>",
+          "link": "https://www.pingwest.com/w/251118?utm_source=feed",
+          "publishedOn": "2021-10-11T12:00:37.000Z",
+          "wordCount": 102,
+          "title": "小米：“亲情守护”功能将于本月底停止服务"
+        },
+        {
+          "id": "https://www.36kr.com/p/1436517814599301",
+          "author": null,
+          "description": "在资深魔术爱好者何櫹冠看来，真正的“魔术教学”不应是这样草草的揭秘，短视频无法完整呈现魔术表演的魅力，甚至会误导观众对于魔术的认知 ... 典型代表有“高雨田大魔王”，除了“敦煌飞天”这类酷炫的大型魔术，他的心灵魔术、撩妹魔术合集都是在街头给路人表演魔术，剧情或温暖、或搞笑 ... 以领头魔术公司奇幻森林为例，目前主营业务涵盖四方面：魔术策划设计及演艺经纪、魔术教育培训、魔术道具研发制作及国际引进",
+          "link": "https://www.36kr.com/p/1436517814599301",
+          "publishedOn": "2021-10-11T11:50:59.000Z",
+          "wordCount": 108,
+          "title": "2天涨粉百万，魔术短视频能变出“下一个刘谦”吗？"
+        },
+        {
+          "id": "https://www.36kr.com/p/1436230723714690",
+          "author": null,
+          "description": "谈起公司“宁愿花11K重招新人，也不愿意把9K花在老员工身上，留住老员工”这个话题，沉重又敏感，真是几家欢喜几家愁呀 ... 公司宁愿高薪招新人，也不愿意给老员工当下涨工资，即使让老员工一怒之下离职也在所不惜，这也许很残酷，但也早已是职场潜规则 ... 上面分析了公司不会轻易给你30～50%的涨薪幅度到9K的原因，那公司又为甚么宁可从外面招一个11K的新员工呢。",
+          "link": "https://www.36kr.com/p/1436230723714690",
+          "publishedOn": "2021-10-11T11:40:41.000Z",
+          "wordCount": 109,
+          "title": "宁愿花11K招新人，也不愿花9K留住老人，真实的原因太扎心"
+        },
+        {
+          "id": "https://dzone.com/articles/how-to-create-a-restful-client-in-go",
+          "author": null,
+          "description": "REST is an acronym for REpresentational State Transfer and is primarily an architecture for designing web services. Although web services Exchange information in HTML, RESTful services usually use JSO",
+          "link": "https://dzone.com/articles/how-to-create-a-restful-client-in-go",
+          "publishedOn": "2021-10-11T11:40:03.000Z",
+          "wordCount": 2382,
+          "title": "How To Create a Restful Client in Go?"
+        },
+        {
+          "id": "https://www.jiemodui.com/N/128739.html",
+          "author": null,
+          "description": "<p>在复课对象上，《通知》明确，一是经教育行政部门审批、民政或市场监管部门登记的现有校外培训机构，在疫情防控和安全工作检查验收合格后，可恢复线下培训 ... 具体来看，进入开封市校外培训机构白名单的学科类培训机构，在疫情防控和安全工作检查验收合格后，可依法依规开展线下培训 ... 对于未完成非营利性登记的学科类校外培训机构，其培训对象仅限2021年7月31日前已缴纳费用且消费未清零的学生，在未重新审核登记和新的收费政策出台前，此类培训机构不得收取新的课时费和招收新生，且复课时间不能超过2021年12月11日。</p><p><a href='https://www.jiemodui.com/N/128739.html'>芥末堆 : 学科类培训机构为何不能从事非学科培训？浙江金华：需坚持“一点一证”原则</a></p><p><a href='https://www.jiemodui.com/N/128737.html'>芥末堆 : 河南开封校外培训机构验收合格即日起可复课</a></p><p><a href='https://www.jiemodui.com/N/128738.html'>芥末堆 : 宁夏“双减”细则：网络平台不播发校外培训广告</a></p>",
+          "link": "https://www.jiemodui.com/N/128739.html",
+          "publishedOn": "2021-10-11T11:34:31.000Z",
+          "wordCount": 81,
+          "title": "河南开封校外培训机构验收合格即日起可复课"
+        },
+        {
+          "id": "https://www.huxiu.com/article/462572.html?f=rss",
+          "author": null,
+          "description": "自约100年前率先提出创新理论的约瑟夫·熊彼特以来，创新就不过把生产资料进行新的组合，而且，必须把创新同发明区别开来 ... 克里斯坦森的研究表明，创新可分为三类：持续性创新、效率式创新、开辟式创新 ... 成功的开辟式创新之后，必须要靠持续性创新和效率式创新来扩大战果、赢得竞争。",
+          "link": "https://www.huxiu.com/article/462572.html?f=rss",
+          "publishedOn": "2021-10-11T11:29:03.000Z",
+          "wordCount": 42,
+          "title": "如何用创新担起社会责任，实现共同富裕？"
+        },
+        {
+          "id": "https://www.huxiu.com/article/462687.html?f=rss",
+          "author": null,
+          "description": "中国疾病预防控制局精神卫生中心 2017 年数据表明，我国有各类精神障碍患者人数在 1 亿以上，其中重性精神疾病患者已超过 1600 万，并呈不断增加趋势 ... 有家属分享资源，“远郊有个在建的养老院，里边的管理人员承诺接受精神障碍患者，每人每个月收取 6000 元左右的生活费”，有家属提出质疑，“太远了，而且是家盈利机构，费用非一般工薪阶层家庭能承受的 ... 精神障碍患者家属正经历的、或即将",
+          "link": "https://www.huxiu.com/article/462687.html?f=rss",
+          "publishedOn": "2021-10-11T11:22:12.000Z",
+          "wordCount": 83,
+          "title": "精神障碍患者的父母，不敢老去"
+        },
+        {
+          "id": "https://www.36kr.com/p/1436457519971974",
+          "author": null,
+          "description": "在 10 月 5 号 Windows 11 正式推送那天，自由软件基金会（Free software Foundation，以下简称 FSF）直接“怼”道：“不使用 Windows 11 生活会更美好 ... FSF 活动经理 Greg Farough 对 Windows 11 批判的点在于，即便它是一个新版本操作系统，即便微软也在不断呼喊着鼓舞社区和团结的口号，但Windows 11 依旧是一个",
+          "link": "https://www.36kr.com/p/1436457519971974",
+          "publishedOn": "2021-10-11T11:20:38.000Z",
+          "wordCount": 291,
+          "title": "“不用 Windows 11 会更好”，FSF 霸气开“怼”"
+        },
+        {
+          "id": "https://www.alvinashcraft.com/2021/10/11/dew-drop-october-11-2021-3534/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://www.alvinashcraft.com/2021/10/11/dew-drop-october-11-2021-3534/",
+          "publishedOn": "2021-10-11T11:20:24.000Z",
+          "wordCount": 1205,
+          "title": "Dew Drop – October 11, 2021 (#3534)"
+        },
+        {
+          "id": "https://dzone.com/articles/costly-mistakes-made-by-developers-when-managing-s",
+          "author": null,
+          "description": "Photo Credit: Vxchange\nThere’s Now more money and information stored digitally than physically. Secrets unlock the infrastructure holding millions of dollars and intellectual property stored digitally",
+          "link": "https://dzone.com/articles/costly-mistakes-made-by-developers-when-managing-s",
+          "publishedOn": "2021-10-11T11:20:22.000Z",
+          "wordCount": 1778,
+          "title": "How to Intercept Costly security Mistakes That Developers Make When Managing Secrets"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1188937.htm",
+          "author": null,
+          "description": "<p>自2020年10月上线以来，微信“青少年模式”已经度过一周岁生日，期间，微信一直对“青少年模式”进行产品能力的持续迭代 ... 微信“青少年模式”已具备独立密码、时长限制、弹窗提醒、青少年专属内容池等功能，同时对微信生态内的公众号、小程序、视频号、小游戏、链接、摇一摇、看一看、搜一搜、游戏、直播、附近、购物、微信豆等功能进行了一系列限制 ... 借助新上线的“监护人授权”功能，监护人可以更为灵活地通过“青少年模式”为孩子提供健康的成长环境，助力孩子身心的健康发育。</p><p><a href='https://www.cnbeta.com/articles/tech/1188937.htm'>CNBeta : 微信青少年模式新升级 首创监护人授权功能上线</a></p><p><a href='https://www.pingwest.com/w/251117?utm_source=feed'>品玩 : 微信发布新版本：青少年模式上线“监护人授权”功能</a></p><p><a href='https://tech.ifeng.com/c/8AG4c4LkeFE'>凤凰科技 : 微信发布新版本：青少年模式上线“监护人授权”功能</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188937.htm",
+          "publishedOn": "2021-10-11T11:18:50.000Z",
           "wordCount": 197,
-          "title": "评美团因垄断被罚：立规矩明底线 平台经济反垄断强监管信号强烈"
+          "title": "微信发布新版本：青少年模式上线“监护人授权”功能"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188529.htm",
-          "author": null,
-          "description": "<p>王思聪@大众点评，并质问道：“这就是上万亿市值公司的安全系统吗 ... 从王思聪发布的截图中可以看到，系统提示：由于你在2021年10月9日通过美团将大众点评账号“王思聪”绑定的手机号更新为：137****2797，因此你需要使用新手机号重新登录 ... 随后，大众点评回应，非常抱歉给王思聪带来了不愉快的用户体验，相关账号已在王思聪反馈后的第一时间内予以保护性冻结。</p><p><a href='https://www.cnbeta.com/articles/tech/1188529.htm'>CNBeta : 王思聪称大众点评账号被别人改绑手机 质疑美团安全系统</a></p><p><a href='https://tech.ifeng.com/c/8AEKUqVEVrW'>凤凰科技 : 王思聪称大众点评账号被别人改绑手机 质疑美团安全系统</a></p><p><a href='https://tech.ifeng.com/c/8AF3QIAfE4D'>凤凰科技 : 王思聪怼大众点评 自己的号竟被别人改绑手机！官方：该账户已冻结</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188589.htm'>CNBeta : 王思聪大众点评号被人改绑手机 官方回应：该账户已冻结</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188529.htm",
-          "publishedOn": "2021-10-11T00:11:41.000Z",
-          "wordCount": 204,
-          "title": "王思聪大众点评号被人改绑手机 官方回应：该账户已冻结"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/science/1188601.htm",
-          "author": null,
-          "description": "任务科学家一直在分析陨石坑地面的岩石，这些岩石目前被解释为火成岩，估计是火山熔岩流的结果 ... 一旦这些岩石被送回地球，直接确定这些岩石的日期的能力将使科学家更好地了解火星何时可能成为一个可居住的星球 ... 调查表明，这些岩石被水广泛地风化了，水被认为改变了陨石坑的地面，这意味着它们在相当长的时间内受到水的影响。",
-          "link": "https://www.cnbeta.com/articles/science/1188601.htm",
-          "publishedOn": "2021-10-11T00:04:53.000Z",
-          "wordCount": 195,
-          "title": "NASA：杰泽罗陨石坑的岩石显示了持续水相互作用的证据"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/science/1188593.htm",
-          "author": null,
-          "description": "发表在《The Astrophysical Journal》期刊上的论文中，来自康涅狄格大学物理学助理教授 Daniel Anglés-Alcázar 通过全新的高能模拟，解决了围绕这些巨大和神秘的宇宙特征的一些问题 ... Anglés-Alcázar 表示：“超大质量黑洞在星系演化中起着关键作用，我们正试图了解它们如何在星系中心生长的 ... Anglés-Alcázar 说，对于一些黑洞来说",
-          "link": "https://www.cnbeta.com/articles/science/1188593.htm",
-          "publishedOn": "2021-10-10T23:59:28.000Z",
-          "wordCount": 219,
-          "title": "科学家利用全新建模破解大质量黑洞和类星体之谜"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188591.htm",
-          "author": null,
-          "description": "美国铸币局已经宣布了根据 American Women Quarters Program计划发行的限量版25美分硬币，包括将在每个季度中出现的五个著名人物 ... 这五位将出现在25美分硬币上的著名女性是 Maya Angelou、DR. Sally Ride、 Wilma Mankiller、Nina Otero-Warren及 Anna May Wong（黄柳霜） ... 从2022年到202",
-          "link": "https://www.cnbeta.com/articles/tech/1188591.htm",
-          "publishedOn": "2021-10-10T23:52:17.000Z",
-          "wordCount": 216,
-          "title": "前NASA宇航员Sally Ride的头像将出现在限量版25美分硬币上"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188589.htm",
-          "author": null,
-          "description": "王思聪@大众点评，并质问道：“这就是上万亿市值公司的安全系统吗 ... 从王思聪发布的截图中可以看到，系统提示：由于你在2021年10月9日通过美团将大众点评账号“王思聪”绑定的手机号更新为：137****2797，因此你需要使用新手机号重新登录 ... 随后，大众点评回应，非常抱歉给王思聪带来了不愉快的用户体验，相关账号已在王思聪反馈后的第一时间内予以保护性冻结。",
-          "link": "https://www.cnbeta.com/articles/tech/1188589.htm",
-          "publishedOn": "2021-10-10T23:50:26.000Z",
-          "wordCount": 198,
-          "title": "王思聪大众点评号被人改绑手机 官方回应：该账户已冻结"
-        },
-        {
-          "id": "https://www.pingwest.com/w/251053",
+          "id": "https://www.pingwest.com/a/251107?utm_source=feed",
           "author": null,
           "description": "<div type=\"html\"/>",
-          "link": "https://www.pingwest.com/w/251053",
-          "publishedOn": "2021-10-10T23:45:23.000Z",
-          "wordCount": 78,
-          "title": "滴滴出行：捐赠3000万元驰援山西救灾"
+          "link": "https://www.pingwest.com/a/251107?utm_source=feed",
+          "publishedOn": "2021-10-11T11:17:48.000Z",
+          "wordCount": 65,
+          "title": "观察 | 新车缺芯了，二手车就因此更好卖了吗？"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188585.htm",
+          "id": "https://36kr.com/newsflashes/1436533138456193",
           "author": null,
-          "description": "”马斯克是在柏林超级工厂举办的一次大型活动上发表这番言论的，预计在几周内，该工厂的汽车将开始下线 ... 自特斯拉2019年宣布柏林工厂项目以来，人们就一直在担心该工厂的人员配备问题 ... 特斯拉正在努力填补柏林工厂的职位空缺，称德国缺乏熟练的电池工人。",
-          "link": "https://www.cnbeta.com/articles/tech/1188585.htm",
-          "publishedOn": "2021-10-10T23:45:21.000Z",
-          "wordCount": 195,
-          "title": "马斯克称担心特斯拉柏林工厂招不够人"
+          "description": "中国汽车工业协会秘书长助理兼技术部部长王耀一行到长城汽车股份有限公司调研交流 ... 双方针对区块链大数据平台、数据安全和可信存证、新能源汽车充换电问题、新能源补贴退坡、氢能市场预期、智能网联产业生态建设等热点问题开展了深入的交流，并表示希望下一步在智能网联与新能源相关领域开展更加深入的交流与合作。",
+          "link": "https://36kr.com/newsflashes/1436533138456193",
+          "publishedOn": "2021-10-11T11:17:04.000Z",
+          "wordCount": null,
+          "title": "中汽协秘书长助理王耀带队赴长城汽车交流"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188577.htm",
+          "id": "https://www.36kr.com/p/1436523324259970",
           "author": null,
-          "description": "Facebook全球事务副总裁周日表示，Instagram将推出新措施，“引导”青少年用户远离潜在的有害内容，并暗示年轻用户为了自己的心理健康“休息一下” ...Facebook全球事务副总裁、英国前副首相尼克·克莱格解释了一些有可能帮助青少年用户的变化 ... 克莱格在接受CNN采访时说：“我们将引入一些我认为会产生相当大影响的东西，那就是当我们的系统看到青少年在反复看同样的内容，而且是可能不利",
-          "link": "https://www.cnbeta.com/articles/tech/1188577.htm",
-          "publishedOn": "2021-10-10T23:38:56.000Z",
-          "wordCount": 195,
-          "title": "Instagram将提示青少年为了心理健康“休息一下”"
+          "description": "从 2012 年的 Surface RT 算起，微软就一直想把 Surface 系列打造成个人移动设备的标杆，通过二合一等多种新形态赋予触控笔记本一些实用意义，推动笔记本触屏化（或者说平板笔电化） ... 最近，微软发布了一款全新的「三合一」产品：由 Surface Pro、Surface Laptop、Surface Studio「融合」而成的 Surface Laptop Studio ...",
+          "link": "https://www.36kr.com/p/1436523324259970",
+          "publishedOn": "2021-10-11T11:15:09.000Z",
+          "wordCount": 268,
+          "title": "用上新姿势的 Surface，能重新定义「触屏电脑」吗？"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188553.htm",
+          "id": "https://finance.sina.com.cn/tech/2021-10-11/doc-iktzqtyu0839840.shtml",
           "author": null,
-          "description": "<p>该公司将在其应用程序中引入新措施，以保护青少年免受有害内容侵害，因为美国立法者正在调查此事 ... 新举措将在必要时被监管考虑在内，以便人们根据我们的系统所说的话与实际发生的情况相匹配 ... “我们将推出一些我认为会产生重大影响的东西，我们的系统会发现青少年一遍又一遍地观看相同的内容，而这些内容可能不利于他们的幸福“。</p><p><a href='https://www.cnbeta.com/articles/tech/1188553.htm'>CNBeta : Facebook将试图“推动”青少年远离有害内容</a></p><p><a href='https://tech.ifeng.com/c/8AFDNF4GViw'>凤凰科技 : Facebook高管：愿向监管部门开放算法 助青少年远离有害内容</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188577.htm'>CNBeta : Instagram将提示青少年为了心理健康“休息一下”</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188553.htm",
-          "publishedOn": "2021-10-10T23:29:54.000Z",
-          "wordCount": 198,
-          "title": "Facebook将试图“推动”青少年远离有害内容"
+          "description": "天津滨海高新区党委书记、管委会主任夏青林表示，高新区与恒大汽车是发展的命运共同体，要一起面对困难，一起抢抓机遇，并将在资金政策、审批、协调相关部门、各类金融机构等各方面提供必要帮助，支持企业尽快走出困境，助力恒大汽车早日实现量产目标 ... 参会的供应商代表纷纷表示，相信恒大汽车能迅速走出至暗时刻，愿一同努力，保证相关零配件保质保量按时完成，确保天津工厂恒驰首车下线 ... 今年以来，恒大造车持续",
+          "link": "https://finance.sina.com.cn/tech/2021-10-11/doc-iktzqtyu0839840.shtml",
+          "publishedOn": "2021-10-11T11:13:15.000Z",
+          "wordCount": 164,
+          "title": "恒大汽车召开合作伙伴大会 恒驰首车明年初在天津下线"
         },
         {
-          "id": "https://tech.ifeng.com/c/8AFDNF4GVmz",
+          "id": "https://www.pingwest.com/w/251119?utm_source=feed",
           "author": null,
-          "description": "当地时间2021年10月10日，以色列内盖夫沙漠拉蒙陨石坑附近，科学家体验模拟火星生活。",
-          "link": "https://tech.ifeng.com/c/8AFDNF4GVmz",
-          "publishedOn": "2021-10-10T23:25:17.000Z",
+          "description": "恒大汽车总裁刘永灼在会上通报了恒大造车的进展，并透露恒驰5将于明年初在天津下线 ... 恒大汽车高管在会上表示，公司已打响了为期三个月的攻坚战，要确保恒驰首车明年初在天津工厂下线，而首款量产车将是在上海车展上邀请媒体试驾的恒驰5。",
+          "link": "https://www.pingwest.com/w/251119?utm_source=feed",
+          "publishedOn": "2021-10-11T11:10:13.000Z",
+          "wordCount": 80,
+          "title": "恒大汽车召开合作伙伴大会，恒驰5将于明年初在天津下线"
+        },
+        {
+          "id": "https://www.36kr.com/p/1436507223950467",
+          "author": null,
+          "description": "商业竞争不进则退，淘宝直播与生俱来的流量难题，至今仍然没有解决的迹象，随着淘宝直播自身的发展，流量天花板这个房间里的大象只会越来越明显 ... 淘宝的处境非常微妙，按理说淘宝才是阿里体系中最需要流量的业务，其流量转化效率也最高，但如果接入微信（如果后者允许的话），就会面临流量体系被打破、广告定价权被削弱的风险，所以淘宝至今不在与微信互联互通之列，淘宝的流量饥渴也依然没有解决之道 ... 淘宝缺流量",
+          "link": "https://www.36kr.com/p/1436507223950467",
+          "publishedOn": "2021-10-11T11:01:35.000Z",
+          "wordCount": 84,
+          "title": "淘宝直播找不到“二环”"
+        },
+        {
+          "id": "https://www.jiemodui.com/N/128741.html",
+          "author": null,
+          "description": "深化北京非首都功能疏解，全面助力雄安新区建设，一大批在京高校响应国家号召，走上了“搬迁”的道路，它们或将成为雄安新区高等教育的奠基人和先驱者 ... 按照目前北京高校在京郊分布校区情况来说，在部委所属的高校中，有观点认为最有可能搬迁的高校是学校面积有限且没有新校区的大学 ... 对于此事，众说纷纭，不过北京名校林立，不论是哪些高校搬进雄安，其实都体现了在京高校积极响应“为首都解压”的政策号召，积极",
+          "link": "https://www.jiemodui.com/N/128741.html",
+          "publishedOn": "2021-10-11T10:57:54.000Z",
+          "wordCount": 82,
+          "title": "多所高校，搬迁进行时"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1188445.htm",
+          "author": null,
+          "description": "<p>定价方面，Office 2021家庭和学生版748元，小型企业版1998元，专业版5298元，这和上一代Office 2019完全一致 ... 相同点方面，三大版本均只能在一台设备上激活使用（Office 365最多6人），提供5GB OneDrive云存储空间等，但需注意专业版没有Mac支持，Windows平台的话需Win10或Win11系统运行 ... 和Office 365的常用常新不同，微软强调，Office 2021是一次性购买经典Office应用后永久使用，包含Word，Excel，PowerPoint等适用于单台Windows PC或Mac的应用程序。</p><p><a href='https://www.cnbeta.com/articles/tech/1188445.htm'>CNBeta : Office 2021中文版正式发售：748元起、可永久使用</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188445.htm",
+          "publishedOn": "2021-10-11T10:54:30.000Z",
+          "wordCount": 212,
+          "title": "Office 2021中文版正式发售：748元起、可永久使用"
+        },
+        {
+          "id": "https://36kr.com/newsflashes/1436508808298115",
+          "author": null,
+          "description": "通富微电发布公告称，预计2021年前三季度归母净利2.79亿元-3.19亿元，同比增长85.66%-112.26% ... 预计第三季度盈利6.8亿元-7.2亿元，同比增159.73%-175.01%。",
+          "link": "https://36kr.com/newsflashes/1436508808298115",
+          "publishedOn": "2021-10-11T10:52:19.000Z",
+          "wordCount": null,
+          "title": "通富微电：预计前三季度净利润同比增86%-112%"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/8AG4c4LkeFE",
+          "author": null,
+          "description": "开启该功能后，青少年们将能够根据实际生活、学习需要远程申请监护人授权，以访问公众号文章、小程序、链接以及延长视频号使用时间 ... 此前，未成年用户开启“青少年模式”后，在视频号只能观看平台精选的青少年内容池，家长也可以对小程序、公众号等产品能力设置使用权限，提高青少年的保护力度 ... 微信“青少年模式”已具备独立密码、时长限制、弹窗提醒、青少年专属内容池等功能，同时对微信生态内的公众号、小程序",
+          "link": "https://tech.ifeng.com/c/8AG4c4LkeFE",
+          "publishedOn": "2021-10-11T10:49:36.000Z",
           "wordCount": 10,
-          "title": "身临其境！科学家在以色列拉蒙陨石坑模拟火星生活"
+          "title": "微信发布新版本：青少年模式上线“监护人授权”功能"
         },
         {
-          "id": "https://www.pingwest.com/w/251052",
+          "id": "https://www.tmtpost.com/5759234.html",
           "author": null,
-          "description": "<p>2021中国电影年度票房(含预售)正式突破400亿元，持续保持全球单一市场票房冠军头衔 ... 影片方面，前三名组成第一集团，一骑绝尘，其中《你好李焕英》拿下54.13亿，《唐人街探案3》收获45.15亿，《长津湖》已经入账40.15亿，而且还在继续狂奔，超过《唐人街探案3》毫无悬念，追赶《你好李焕英》也不是没有希望。</p><p><a href='https://www.pingwest.com/w/251052'>品玩 : 2021中国电影票房破400亿，继续全球第一</a></p>",
-          "link": "https://www.pingwest.com/w/251052",
-          "publishedOn": "2021-10-10T23:23:16.000Z",
-          "wordCount": 77,
-          "title": "2021中国电影票房破400亿，继续全球第一"
+          "description": "造型科技感十足，发声腔体采用4Ω5W扬声器，蓝牙5.0连接协议，低功耗技术，连接快速、稳定，磁悬浮音响带有断电保护，低耗电量，赶紧下单购买吧 ... 整个音响的造型就像科幻般的飞船，运行时自带七彩的氛围灯光，在自动悬浮的音乐中，享受视觉和听觉的双重盛宴 ... 造型科技感十足，发声腔体采用4Ω5W扬声器，蓝牙5.0连接协议，低功耗技术，连接快速、稳定，磁悬浮音响带有断电保护，低耗电量，赶紧下单购买",
+          "link": "https://www.tmtpost.com/5759234.html",
+          "publishedOn": "2021-10-11T10:48:00.000Z",
+          "wordCount": 517,
+          "title": "飞船既视感，享受视听双重盛宴｜钛空好物推荐"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188567.htm",
+          "id": "https://dzone.com/articles/how-to-create-a-fully-automated-job-board-using-no",
           "author": null,
-          "description": "上述的这些行为之外，美团还搞了一个 “ 保证金 ” 的政策，餐馆和美团签订独家协议的时候，都要缴纳数百元到数千元的保证金，而如果违反了美团的政策，美团就要扣掉这部分保证金 ... 这次对美团 3% 的处罚虽然很多，但是也是看在了美团本身积极承认错误，配合调查的份上，处罚书上面说，美团在调查开始前自己主动就承认实施了 “ 二选一 ” 行为，并且调查过程中，还主动提供了执法机构没有掌握的重要证据 ..",
-          "link": "https://www.cnbeta.com/articles/tech/1188567.htm",
-          "publishedOn": "2021-10-10T23:21:26.000Z",
-          "wordCount": 394,
-          "title": "这份万字处罚书不仅罚了美团34亿 还扒开了它的秘密"
+          "description": "In this tutorial I'm going to show you how to create a job board website in a few simple steps, using only no-code tools. First I will scrape the Data from the Dribbble job board, and list those Jobs",
+          "link": "https://dzone.com/articles/how-to-create-a-fully-automated-job-board-using-no",
+          "publishedOn": "2021-10-11T10:45:46.000Z",
+          "wordCount": 1368,
+          "title": "How To Create a Fully Automated Job Board Using No-Code Tools"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188535.htm",
+          "id": "https://www.tmtpost.com/nictation/5759171.html",
           "author": null,
-          "description": "<p>10月2日夜间至6日，山西大部分地区出现极端强降水天气，彼时正值国庆假期，“山西暴雨”关键词登上热搜，洪涝灾害引发全国关注 ... 山西大部分地区出现的极端强降水天气引发山洪和地质灾害，山西近期严重洪涝灾害已致全省11个市76个县（市、区）175.71万人受灾，12.01万人紧急转移安置，284.96万亩农作物受灾，1.7万余间房屋倒塌 ... 上述信息外，山西省晋中市召开新闻发布会，通报防汛救灾相关情况显示，在本次强降雨过程中，111条河流出现不同程度的洪水，汾河、清漳河、乌马河等主要河流流量均达到近几十年来的最高值。</p><p><a href='https://www.cnbeta.com/articles/tech/1188535.htm'>CNBeta : 山西洪涝灾害已致175万余人受灾：多条河流流量达到近几十年来最高值</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188549.htm'>CNBeta : 从60万米高空看山西水灾有多严重</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188535.htm",
-          "publishedOn": "2021-10-10T23:19:46.000Z",
-          "wordCount": 195,
-          "title": "山西洪涝灾害已致175万余人受灾：多条河流流量达到近几十年来最高值"
+          "description": "<p>得益于零售网络的快速扩张和营销活动的高效推动，国内市场势头强劲，销量高达392112辆，同比增长59.9% ... 针对下沉市场的推出的GOVA系列入门车型G0、“五杀选手”F0和面向女性用户推出的C0车型销量占比约为40.6%。</p><p><a href='https://www.tmtpost.com/nictation/5759171.html'>钛媒体 : 小牛电动Q3两轮电动车销量397079辆，同比增长58.3%</a></p><p><a href='https://www.36kr.com/p/1436363462131333'>36Kr : 小牛电动CFO离职背后：股价与市值较高点已腰斩，单车价格连续多季下滑</a></p>",
+          "link": "https://www.tmtpost.com/nictation/5759171.html",
+          "publishedOn": "2021-10-11T10:43:26.000Z",
+          "wordCount": 177,
+          "title": "小牛电动Q3两轮电动车销量397079辆，同比增长58.3%"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188565.htm",
+          "id": "https://36kr.com/newsflashes/1436499113442948",
           "author": null,
-          "description": "一系列能源危机让多国陷入困境，但即便如此，德国依然坚持在明年关闭最后三座核电站，成为西方工业大国里第一个全面弃核的国家 ... 不仅是核能，按照德国的计划，2038年前将关闭所有煤电厂，2050年前将放弃使用天然气 ... 法国作为全球核电大国，计划在2035年前，把核电占比从目前的75%降为50%。",
-          "link": "https://www.cnbeta.com/articles/tech/1188565.htm",
-          "publishedOn": "2021-10-10T23:19:35.000Z",
-          "wordCount": 199,
-          "title": "2038年前德国将关闭所有煤电厂 欧洲多国缩减核能"
+          "description": "广东省食药监局发布广东省医疗器械注册人制度试点批准产品名单（截至2021-10-8），华为腕部单导心电采集器正式批准生产，受托人为歌尔股份有限公司以及潍坊京为高科电子科技有限公司 ... 除腕部单导心电采集器外，华为还有三款医疗器械进入优先审批程序 ... 分别是腕部心电血压记录仪（MLY-B10、MLY-B11）、心电分析系统（ECG-1）、心率失常分析系统（PPG-1）。",
+          "link": "https://36kr.com/newsflashes/1436499113442948",
+          "publishedOn": "2021-10-11T10:42:27.000Z",
+          "wordCount": null,
+          "title": "华为正式获批开始生产医疗器械"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188563.htm",
+          "id": "https://www.huxiu.com/article/462212.html?f=rss",
           "author": null,
-          "description": "本周早些时候，一名吹哨人在国会委员会上发表了令人震惊的证词后，Facebook发言人尼克·克莱格(Nick Clegg)在美国全国广播公司(NBC)周日的《新闻见面会》上说，这家社交媒体和它的表亲Instagram即将发生变化 ... 前英国副首相、现为Facebook全球事务和通信副总裁的克莱格说，该公司在取消为2020年美国大选实施的安全措施后，将设法减少政治在人们的信息流中的存在 ...Fa",
-          "link": "https://www.cnbeta.com/articles/tech/1188563.htm",
-          "publishedOn": "2021-10-10T23:16:19.000Z",
-          "wordCount": 199,
-          "title": "Facebook发言人在电视节目中表示将寻求\"更多朋友，更少政治\""
+          "description": "最近，NBA球星库里花18万美元在无聊猿俱乐部买了一个数字头像 ... 无聊猿俱乐部是NFT市场上最火的社区，这个俱乐部的作品以猿猴为主题，一共出品了10000张不同的猿猴作品，各不相同的猴子被认为是NFT界的联名限量款。",
+          "link": "https://www.huxiu.com/article/462212.html?f=rss",
+          "publishedOn": "2021-10-11T10:40:14.000Z",
+          "wordCount": 28,
+          "title": "花18万美元，就买了个数字头像？"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188561.htm",
+          "id": "https://www.36kr.com/p/1436407765368448",
           "author": null,
-          "description": "10月10日晚间，博主@数码闲聊站爆料，明年是联发科冲击高端市场的关键一年，联发科下一代旗舰芯片将是前期唯一一款基于台积电4nm工艺打造的产品 ... 此前披露的信息显示，联发科下一代旗舰Soc可能会命名为天玑2000 ... 作为对手，联发科下一代旗舰芯片使用的是台积电4nm工艺，表现值得期待。",
-          "link": "https://www.cnbeta.com/articles/tech/1188561.htm",
-          "publishedOn": "2021-10-10T23:12:35.000Z",
+          "description": "在威尔逊的指导下，博士生贝琪•克里夫（Becky Cliffe）对哥斯达黎加树懒保护中心中的圈养个体采用了这种“日记”装置，这个保护中心是世界上唯一的树懒保护中心 ... 最近一项关于树懒毛发的研究表明，树懒的毛发是多种真菌的家园，这些真菌可以抵抗造成疟疾和美洲锥虫病的寄生虫，并且对某些人类乳腺癌细胞也有一定的抗性 ... 对于克里夫来说，树懒对藻类和其它微生物的钟爱最合理的解释就是树懒要用它们来",
+          "link": "https://www.36kr.com/p/1436407765368448",
+          "publishedOn": "2021-10-11T10:39:47.000Z",
+          "wordCount": 72,
+          "title": "慢吞吞的树懒总是很懒？别再误会它们了"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/8AG4KWUMF4O",
+          "author": null,
+          "description": "有网友爆料称，鸿星尔克给山西捐赠了泡面、矿泉水、矿工靴等物资，山西网友还晒出了鸿星尔克物资的照片 ... 于是，“鸿星尔克悄悄给山西捐物资”的话题登上微博热搜排行榜第一，阅读量达到4.5亿次，讨论次数2.6万，有网友称赞：“默默无闻的付出，给鸿星尔克这样的中国企业点赞” ... “5000万物资援驰河南”话题登上热搜，网友纷纷表示要为鸿星尔克“野性消费”，还有网友为鸿星尔克赠送了开到2140年的微",
+          "link": "https://tech.ifeng.com/c/8AG4KWUMF4O",
+          "publishedOn": "2021-10-11T10:36:50.000Z",
+          "wordCount": 12,
+          "title": "鸿星尔克捐款再上热搜，下降了5年的市占率能否反弹？"
+        },
+        {
+          "id": "https://36kr.com/newsflashes/1436492124241543",
+          "author": null,
+          "description": "青少年们将能够根据实际生活、学习需要远程申请监护人授权，以访问公众号文章、小程序、链接以及延长视频号使用时间。",
+          "link": "https://36kr.com/newsflashes/1436492124241543",
+          "publishedOn": "2021-10-11T10:35:21.000Z",
+          "wordCount": null,
+          "title": "微信青少年模式新增“监护人授权”功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1188837.htm",
+          "author": null,
+          "description": "<p>作为全球最大的芯片封装生产基地，马来西亚受疫情的影响，不少芯片产业工厂被迫停工限产，这也进一步加剧了全球汽车芯片供应短缺的现状 ... 理想汽车回应：“这个信息是不属实的，我们确实努力的在芯片缺少的情况下尽全力保证芯片供应，在现在这个芯片供应紧张的情况下，各家车企都会选择在正规渠道购买现货芯片来保证供应，是一个很正常的行业行为 ... 其在汽车芯片采购价格基本稳定的情况下，大幅加价销售部分汽车芯片，加价率最高达4543%。</p><p><a href='https://www.cnbeta.com/articles/tech/1188837.htm'>CNBeta : EPB芯片短缺 黑市涨价800倍购买 理想汽车回应</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188837.htm",
+          "publishedOn": "2021-10-11T10:27:17.000Z",
           "wordCount": 200,
-          "title": "联发科下一代旗舰SoC曝光 基于台积电4nm工艺"
+          "title": "EPB芯片短缺 黑市涨价800倍购买 理想汽车回应"
         },
         {
-          "id": "https://www.cnbeta.com/articles/tech/1188559.htm",
+          "id": "https://dzone.com/articles/how-to-use-react-with-react-bootstrap",
           "author": null,
-          "description": "Google正在为Android版Chrome浏览器开发一个新的可访问性选项 ... 新的页面缩放功能的设计是为了解决传统的文字缩放功能在一些网站上不能正常工作的问题，它可以使得视障人士更容易看到手机上的小文本，而不用担心页面代码的问题导致缩放操作失效 ... 从下面的GIF中可以看出，激活该功能后，一个新的选项将在页面信息下拉菜单中出现，尽管它以后可能会移到其他地方。",
-          "link": "https://www.cnbeta.com/articles/tech/1188559.htm",
-          "publishedOn": "2021-10-10T23:10:03.000Z",
-          "wordCount": 201,
-          "title": "Android版Chrome浏览器将新增页面缩放功能"
+          "description": "Over the last several years, the popularity of single-page applications has resulted in a flood of JavaScript frameworks, such as Angular, React, Vue.js, Ember, and many more. As a result, using a DOM",
+          "link": "https://dzone.com/articles/how-to-use-react-with-react-bootstrap",
+          "publishedOn": "2021-10-11T10:26:05.000Z",
+          "wordCount": 1681,
+          "title": "How To Use React With React Bootstrap?"
         },
         {
-          "id": "https://www.pingwest.com/w/251052",
+          "id": "https://www.cnbeta.com/articles/tech/1188647.htm",
           "author": null,
-          "description": "2021中国电影年度票房(含预售)正式突破400亿元，持续保持全球单一市场票房冠军头衔 ... 影片方面，前三名组成第一集团，一骑绝尘，其中《你好李焕英》拿下54.13亿，《唐人街探案3》收获45.15亿，《长津湖》已经入账40.15亿，而且还在继续狂奔，超过《唐人街探案3》毫无悬念，追赶《你好李焕英》也不是没有希望。",
-          "link": "https://www.pingwest.com/w/251052",
-          "publishedOn": "2021-10-10T23:01:00.000Z",
-          "wordCount": 77,
-          "title": "2021中国电影票房破400亿，继续全球第一"
+          "description": "<p>股东大会上马斯克表示，特斯拉有信心保持至少50%的年化增长率，同时立下“2030年实现销量2000万辆”的目标 ... 股东大会上，马斯克还宣布了特斯拉降低成本的“五步计划”：电池设计、电池工厂建设、正极材料、负极材料、车辆集成五大板块，将为每辆特斯拉车辆降低69%的支出，电池成本则减少一半，进一步推动特斯拉的销量增长 ... 这次股东大会上，马斯克终于做出决定，明年特斯拉总部将从加州迁到德州奥斯汀市，也就是特斯拉德州新工厂所在地。</p><p><a href='https://www.cnbeta.com/articles/tech/1188647.htm'>CNBeta : 多重风险难挡马斯克野心 特斯拉目标年销2000万辆被指欲垄断汽车业</a></p><p><a href='https://www.tmtpost.com/5759154.html'>钛媒体 : 马斯克为特斯拉立下新目标：提销量、造新车、迁总部</a></p><p><a href='https://finance.sina.com.cn/tech/2021-10-11/doc-iktzscyx9071561.shtml'>新浪科技 : 特斯拉业绩让许多做空者选择放弃</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188647.htm",
+          "publishedOn": "2021-10-11T10:23:38.000Z",
+          "wordCount": 208,
+          "title": "马斯克为特斯拉立下新目标：提销量、造新车、迁总部"
         },
         {
-          "id": "https://gizmodo.com/best-cosplay-nycc-2021-1847836148",
+          "id": "https://dzone.com/articles/prestodb-query-on-kafkaoracle-and-postgresql",
           "author": null,
-          "description": "POP culture fans of all ages flocked to the Jacob Javits Center in Manhattan for New York Comic Con 2021 after missing last year’s convention due to covid restrictions. While it was a much lighter cro",
-          "link": "https://gizmodo.com/best-cosplay-nycc-2021-1847836148",
-          "publishedOn": "2021-10-10T21:28:00.000Z",
-          "wordCount": 817,
-          "title": "The Coolest and Most Impressive Cosplay From NYCC 2021"
+          "description": "About PrestoDB\nWe can call PrestoDB a distributed SQL query engine developed by Facebook. Among the main users of PrestoDB in the world are Facebook, Netflix, Airbnb, Dropbox, Uber, LinkedIn, Twitter.",
+          "link": "https://dzone.com/articles/prestodb-query-on-kafkaoracle-and-postgresql",
+          "publishedOn": "2021-10-11T10:20:49.000Z",
+          "wordCount": 1020,
+          "title": "PrestoDB Query on Kafka, Oracle, and PostgreSQL"
         },
         {
-          "id": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+          "id": "http://blog.nsfocus.net/weekly-20211004/",
           "author": null,
           "description": "<div type=\"html\"/>",
-          "link": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-          "publishedOn": "2021-10-10T21:20:41.000Z",
-          "wordCount": 1631,
-          "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google"
+          "link": "http://blog.nsfocus.net/weekly-20211004/",
+          "publishedOn": "2021-10-11T10:19:08.000Z",
+          "wordCount": 188,
+          "title": "绿盟威胁情报周报（20211004-20211010）"
         },
         {
-          "id": "https://gizmodo.com/animaniacs-parodies-thundercats-in-its-first-season-2-c-1847835959",
+          "id": "https://www.cnbeta.com/articles/tech/1188871.htm",
           "author": null,
-          "description": "When Animaniacs returned with a brand new season on Hulu last year, the end result was something nostalgic, but not entirely sure WHO it was for. New episodes are just a month away from release, and t",
-          "link": "https://gizmodo.com/animaniacs-parodies-thundercats-in-its-first-season-2-c-1847835959",
-          "publishedOn": "2021-10-10T20:10:00.000Z",
-          "wordCount": 450,
-          "title": "Animaniacs Parodies Thundercats in Its First Season 2 Clip"
+          "description": "<p>跟特斯拉门店谈好价格为一万六千元后，车主将车辆从100公里外拖到门店，到店后工作人员表示车内很多线路需要更换，费用需要七八万 ... 车主对费用表示不满，特斯拉工作人员一天后回复只需跟换两根线路，但需对电池、电机等进行检测，费用还是要七八万 ... 门店不能满足其低价维修诉求，顾客即开始在门店外采用一系列低俗方法滋事，欲施加压力逼迫特斯拉妥协给其维修。</p><p><a href='https://www.cnbeta.com/articles/tech/1188871.htm'>CNBeta : 不满维修费 车主在特斯拉车上放满花圈维权</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188883.htm'>CNBeta : 特斯拉回应车主放花圈维权：车主低俗方法滋事</a></p><p><a href='https://tech.ifeng.com/c/8AFz5cfcfyN'>凤凰科技 : 特斯拉回应“车主花圈维权”：水泡车流入市场 车主已两次被警方传唤</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188925.htm'>CNBeta : 特斯拉回应“车主花圈维权”：不提倡按闹分配 坚持公平公正处理</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188871.htm",
+          "publishedOn": "2021-10-11T09:05:37.000Z",
+          "wordCount": 198,
+          "title": "特斯拉回应车主放花圈维权：车主低俗方法滋事"
         },
         {
-          "id": "https://www.slashgear.com/parents-choice-baby-food-recalled-at-walmart-over-arsenic-levels-10694600/",
+          "id": "https://www.chinaventure.com.cn/news/80-20211011-364834.html",
           "author": null,
-          "description": "Some Parent’s Choice baby food sold at Walmart has been recalled over higher than acceptable inorganic arsenic levels, a new recall advisory has revealed. The arsenic levels were discovered by the FDA",
-          "link": "https://www.slashgear.com/parents-choice-baby-food-recalled-at-walmart-over-arsenic-levels-10694600/",
-          "publishedOn": "2021-10-10T19:31:03.000Z",
-          "wordCount": 620,
-          "title": "Parent’s Choice baby food recalled at Walmart over arsenic levels"
+          "description": "<p>全球领先的智能船舶服务平台E-PORTS宣布获得住友商事亚洲资本的B2轮战略投资，仅一个月前，E-PORTS刚刚完成由金沙江联合资本领投的B1轮融资，两轮融资共计超1亿元 ... E-PORTS作为全球首创智能船舶服务管理平台，以领先的互联网信息的技术，联通和脉动产业链上下游，为全球船舶经营管理方、港口服务商以及港口，提供了一个智能化的，高效的，即时的，综合海运物流服务管理平台 ... 实现船舶和港口信息及时有效地传输、智能匹配船舶在港服务、可视化船舶在港服务动态，通过数据信息化和服务标准化有效的安排和管控船舶在港期间的服务，大大提高了船舶在港期间的装卸作业效率。</p><p><a href='https://www.chinaventure.com.cn/news/80-20211011-364834.html'>投中网 : E-PORTS完成新一轮战略融资，数字化海运物流服务基础建设再谱新章</a></p><p><a href='https://www.cyzone.cn/article/653991.html'>创业邦 : 融资丨「E-PORTS」完成B2轮战略融资，数字化海运物流服务基础建设再谱新章</a></p>",
+          "link": "https://www.chinaventure.com.cn/news/80-20211011-364834.html",
+          "publishedOn": "2021-10-11T09:01:50.000Z",
+          "wordCount": 135,
+          "title": "E-PORTS完成新一轮战略融资"
         },
         {
-          "id": "https://mashable.com/video/animaniacs-season-2-trailer-premiere-date?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29",
+          "id": "https://www.chinaventure.com.cn/news/80-20211011-364845.html",
           "author": null,
-          "description": "Nevermind the fact that \nAnimaniacs\n premiered in 1993. In this, our First look at Season 2 of Hulu's reborn \nAnimaniacs\n, we get a parody take on the \nThundercats\n opening theme song where the title",
-          "link": "https://mashable.com/video/animaniacs-season-2-trailer-premiere-date?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Mashable+%28Mashable%29",
-          "publishedOn": "2021-10-10T19:24:38.000Z",
-          "wordCount": 659,
-          "title": "Hulu's 'Animaniacs' riff on 'Thundercats' and the '80s in our First look at Season 2"
+          "description": "<p>中储国能（北京）技术有限公司宣布完成1.8亿元的Pre-A轮融资 ... 该轮融资由招银国际领投，上一轮领投方、老股东中科创星追投，联想之星、普华资本、华控基金、南京麒麟等机构跟投 ... 「中储国能」是中国压缩空气储能领域的开拓者和引领者，同时也是国际领先压缩空气储能系统解决方案提供商，技术来源于中国科学院工程热物理研究所。</p><p><a href='https://www.chinaventure.com.cn/news/80-20211011-364845.html'>投中网 : 中储国能完成1.8亿元Pre-A轮融资，招银国际领投</a></p>",
+          "link": "https://www.chinaventure.com.cn/news/80-20211011-364845.html",
+          "publishedOn": "2021-10-11T08:58:01.000Z",
+          "wordCount": 135,
+          "title": "中储国能完成1.8亿元Pre-A轮融资，招银国际领投"
+        },
+        {
+          "id": "https://36kr.com/p/1435977174597256",
+          "author": null,
+          "description": "<p>疫情以来，商用服务机器人备受资本关注，在人与人接触较难，酒店、餐饮等企业招工难的背景下，商用机器人商业模式逐渐被更多人认可 ... 景吾智能CEO郭震介绍，在酒店配送机器人业务上，酒店配送机器人的核心技术较为成熟，清洁机器人需要投入更多的研发及创新意识 ... 景吾智能经过多年的技术积累，创新的开发出了复合智能服务机器人这一新的产品类型，很好的解决了服务机器人在复杂场景下的实用性问题，核心技术已经在酒店清洁这个领域得到证明。</p><p><a href='https://36kr.com/p/1435977174597256'>36Kr : 36氪首发 ｜ 「景吾智能」完成近亿元A轮融资，开拓酒店清洁机器人市场</a></p><p><a href='https://www.cyzone.cn/article/654043.html'>创业邦 : 融资丨商用机器人企业「景吾智能」完成近亿元A轮融资，东方富海领投</a></p>",
+          "link": "https://36kr.com/p/1435977174597256",
+          "publishedOn": "2021-10-11T08:54:13.000Z",
+          "wordCount": null,
+          "title": "商用机器人企业「景吾智能」完成近亿元A轮融资"
+        },
+        {
+          "id": "https://www.tmtpost.com/nictation/5758778.html",
+          "author": null,
+          "description": "<p>工信部、中央网信办多次表态，要求持续提升IPv6网络能力，加快组织开展IPv6技术创新和融合应用试点工作 ... 移动网络IPv6活跃用户数超过1800万，固定宽带网络IPv6活跃用户超过290万，城域网IPv6流量占比超过5% ... 山东省委网络安全和信息化委员会办公室拟进行全省IPv6规模部署进展情况评估。</p><p><a href='https://www.tmtpost.com/nictation/5758778.html'>钛媒体 : 工信部：协同推进云、管、端、用等各环节IPv6深化改造</a></p><p><a href='https://www.pingwest.com/w/251062'>品玩 : 多个省市推进IPv6规模部署和应用</a></p>",
+          "link": "https://www.tmtpost.com/nictation/5758778.html",
+          "publishedOn": "2021-10-11T08:40:33.000Z",
+          "wordCount": 173,
+          "title": "多个省市推进IPv6规模部署和应用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1188835.htm",
+          "author": null,
+          "description": "<p>“2021民营企业研发投入500家榜单”入围门槛为上年度研发投入2.37亿元 ... 500家企业研发费用总额7429亿元，其中，研发投入最高的企业研发费用1419亿元 ... 研发投入前1000家民营企业的研发费用总额8185亿元，同比增长16.2%，占全国企业研发经费支出的33.6%。</p><p><a href='https://www.cnbeta.com/articles/tech/1188835.htm'>CNBeta : 民营企业研发投入500家榜单出炉 华为稳居榜首</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188835.htm",
+          "publishedOn": "2021-10-11T08:36:43.000Z",
+          "wordCount": 198,
+          "title": "民营企业研发投入500家榜单出炉：华为稳居榜首"
+        },
+        {
+          "id": "https://www.jiemian.com/article/6684341.html",
+          "author": null,
+          "description": "<p>2021年10月11日起，蚂蚁矿机将停止向中国大陆（不含中国香港和中国台湾）地区发货 ... 针对已采购远期产品的大陆地区客户，比特大陆工作人员将与其联系，提供替代方案 ... 公告指出，比特大陆为响应中国政府的碳中和政策，已经完成了几批次碳指标采购，指标主要来源于中国云南、新疆等地的清洁能源发电项目。</p><p><a href='https://www.jiemian.com/article/6684341.html'>界面 : 快看 | 比特大陆旗下蚂蚁矿机将停止向大陆地区发货</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188875.htm'>CNBeta : 比特大陆：蚂蚁矿机停止向中国大陆发货</a></p>",
+          "link": "https://www.jiemian.com/article/6684341.html",
+          "publishedOn": "2021-10-11T08:30:12.000Z",
+          "wordCount": 49,
+          "title": "比特大陆：蚂蚁矿机停止向中国大陆发货"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/8AFpxk81M28",
+          "author": null,
+          "description": "<p>用户可以在 2021年10月11日至11月10日24点，前往App端的点滴守护页面，确认相关信息，申领款项 ... 在2021年10月11日24点之前，首次确诊不幸罹患重大疾病的成员，可于2022年4月9日24点前，继续发起申请，符合原互助条件的，将由平台承担相应救助金 ... 今年以来，已有美团互助、水滴互助、轻松互助、百度灯火互助、悟空互助、小米互助、宁互宝等相继宣布关停。</p><p><a href='https://tech.ifeng.com/c/8AFpxk81M28'>凤凰科技 : 滴滴“点滴守护”宣布关停 返还之前分摊的全部费用</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188881.htm'>CNBeta : 滴滴“点滴守护”宣布关停：此前分摊费用全部返还</a></p>",
+          "link": "https://tech.ifeng.com/c/8AFpxk81M28",
+          "publishedOn": "2021-10-11T08:19:44.000Z",
+          "wordCount": 16,
+          "title": "滴滴“点滴守护”宣布关停，返还之前分摊的全部费用"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/8AFpxk81MDa",
+          "author": null,
+          "description": "<p>小红书回应媒体称，公司会阶段性与资本市场保持沟通，但暂无明确IPO计划 ... 公开资料显示，小红书成立于2013年6月，是一个生活方式平台和消费决策入口，创始人为毛文超和瞿芳 ... 官网资料显示，小红书以“Inspire Lives 分享和发现世界的精彩”为使命，用户可以通过短视频、图文等形式记录生活点滴，分享生活方式，并基于兴趣形成互动。</p><p><a href='https://tech.ifeng.com/c/8AFpxk81MDa'>凤凰科技 : 网传小红书考虑将在香港上市，公司回应：暂无明确IPO计划</a></p>",
+          "link": "https://tech.ifeng.com/c/8AFpxk81MDa",
+          "publishedOn": "2021-10-11T08:09:05.000Z",
+          "wordCount": 11,
+          "title": "网传小红书考虑将在香港上市，回应：暂无明确IPO计划"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1188819.htm",
+          "author": null,
+          "description": "<p>郑州金水区税务局运用大数据实现信息系统自动提取数据，加大文娱领域从业人员税收征管力度，追征一名网红的662.44万元税款收入国库 ... 二股的工作人员在第一时间与文化路税务分局进行沟通，了解这笔税款的来龙去脉 ... 截至目前，这名纳税人分15笔结清了税款，共补交税款634.66万元，滞纳金27.78万元，合计662.44万元。</p><p><a href='https://www.cnbeta.com/articles/tech/1188819.htm'>CNBeta : 郑州追征一网红超662万税款：含滞纳金27万余元，已结清</a></p>",
+          "link": "https://www.cnbeta.com/articles/tech/1188819.htm",
+          "publishedOn": "2021-10-11T08:04:55.000Z",
+          "wordCount": 200,
+          "title": "郑州追征一网红超662万税款"
+        },
+        {
+          "id": "https://www.36kr.com/p/1435210519101058",
+          "author": null,
+          "description": "<p>家庭健身科技品牌「Yesoul 野小兽」近日已完成过亿元人民币 A 轮融资，本轮融资由小米集团领投，顺为资本跟投 ... 野小兽成立于 2015 年，是国内最早一批布局家庭智能健身赛道的企业之一，旗下明星健身产品有动感单车、跑步机、划船机、椭圆机等 ... 秉承“生命就要野”的品牌主张，野小兽激励更多人通过运动保持乐观向上的生活方式。</p><p><a href='https://www.36kr.com/p/1435210519101058'>36Kr : 36氪独家 | 家庭健身科技品牌「Yesoul野小兽」获过亿人民币小米领投A轮融资，为健身人群提供更加愉悦的运动体验</a></p><p><a href='https://www.cyzone.cn/article/653810.html'>创业邦 : 首发丨「Yesoul野小兽」完成过亿元A轮融资，小米领投布局未来十年新赛道</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211011-364854.html'>投中网 : 家庭健身科技品牌「Yesoul野小兽」获过亿元人民币A轮融资</a></p>",
+          "link": "https://www.36kr.com/p/1435210519101058",
+          "publishedOn": "2021-10-11T07:52:23.000Z",
+          "wordCount": 81,
+          "title": "家庭健身科技品牌「Yesoul野小兽」获过亿元人民币A轮融资"
+        },
+        {
+          "id": "https://tech.ifeng.com/c/8AFnxMhSfRn",
+          "author": null,
+          "description": "<p>广东省食药监局发布了广东省医疗器械注册人制度试点批准产品名单（截至2021-10-8），华为腕部单导心电采集器正式批准生产，注册证号为：粤械注准20202071705，受托人为歌尔股份有限公司以及潍坊京为高科电子科技有限公司 ... 除腕部单导心电采集器外，华为还有三款医疗器械进入优先审批程序 ... 早在今年5月，华为方面透露，华为首款可以测量血压的智能手表已通过医疗器械注册检验，下一步将联合专业医疗机构开启注册临床试验，预计在今年下半年正式上市。</p><p><a href='https://tech.ifeng.com/c/8AFnxMhSfRn'>凤凰科技 : 华为正式获批开始生产医疗器械</a></p><p><a href='https://tech.ifeng.com/c/8AFmYoXbozQ'>凤凰科技 : 华为正式获批生产医疗器械 腕部单导心电采集器将进行生产</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188859.htm'>CNBeta : 广东省食药监局正式批准华为进入医疗器械领域</a></p>",
+          "link": "https://tech.ifeng.com/c/8AFnxMhSfRn",
+          "publishedOn": "2021-10-11T07:48:36.000Z",
+          "wordCount": 25,
+          "title": "华为正式获批生产医疗器械"
+        },
+        {
+          "id": "https://www.cyzone.cn/article/654039.html",
+          "author": null,
+          "description": "<p>华夏英泰(北京)生物技术有限公司(简称“华夏英泰”)宣布完成超2亿元人民币的B轮融资 ... 本轮融资由华创资本领投，祥峰投资、弘晖资本、道远资本等跟投，老股东仙瞳资本、昌发展等追加投资持续支持 ... 华夏英泰由国际知名分子免疫学家林欣教授于2018年领衔创立，在创新型T细胞免疫治疗领域取得诸多技术突破。</p><p><a href='https://www.cyzone.cn/article/654039.html'>创业邦 : 融资丨「华夏英泰」完成华创资本领投超2亿元B轮融资，加速开发创新型细胞治疗药物</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211011-364848.html'>投中网 : 「华夏英泰」完成超2亿元B轮融资，华创资本领投</a></p><p><a href='https://www.chinaventure.com.cn/news/111-20211011-364856.html'>投中网 : 华夏英泰完成超2亿元B轮融资，加速推进创新型细胞治疗药物</a></p>",
+          "link": "https://www.cyzone.cn/article/654039.html",
+          "publishedOn": "2021-10-11T07:25:37.000Z",
+          "wordCount": 140,
+          "title": "「华夏英泰」完成超2亿元B轮融资，华创资本领投"
+        },
+        {
+          "id": "https://mongoing.com/archives/80449",
+          "author": null,
+          "description": "不管您是社区成员和contributors，还是社区普通用户，不管您是MongoDB深度用户还是刚入门，这里欢迎您来分享Freetalk或建言献策 ... 2. 也可以直接发起话题邀请，我们将评估并公布相应话题，并在社区寻找朋友来分享 ... 2021年10月16号前提交话题分享申请的朋友，我们将随机抽取5名幸运儿送出MongoDB定制T 恤或马克杯。",
+          "link": "https://mongoing.com/archives/80449",
+          "publishedOn": "2021-10-11T07:04:48.000Z",
+          "wordCount": 181,
+          "title": "MongoDB中文社区 Freetalk，一起来玩快闪！"
+        },
+        {
+          "id": "https://www.freebuf.com/news/291182.html",
+          "author": null,
+          "description": "解决了适用于Windows、Mac和Linux的Chrome浏览器版本的四个高危漏洞，漏洞编号分别是 CVE-2021-37977、CVE-2021-37978、CVE-2021-37979和CVE-2021-37980。",
+          "link": "https://www.freebuf.com/news/291182.html",
+          "publishedOn": "2021-10-11T05:41:16.000Z",
+          "wordCount": 152,
+          "title": "速看！谷歌Chrome四个高危漏洞已更新"
+        },
+        {
+          "id": "https://dzone.com/articles/how-to-develop-magic",
+          "author": null,
+          "description": "A guy at Reddit once told ME \"it's just configuration\" when I told him about Magic. His prove for such a statement, was a Link to Magic.library, which barely contains any C# code at all. Of course, co",
+          "link": "https://dzone.com/articles/how-to-develop-magic",
+          "publishedOn": "2021-10-11T04:27:31.000Z",
+          "wordCount": 720,
+          "title": "How to develop Magic"
         },
         {
           "id": "https://dzone.com/articles/the-power-of-jfrog-build-info-build-metadata-part",
@@ -267,17 +501,8 @@
           "description": "What Is the Concept Behind the Term “Build-info”?\nLet's start at the very beginning and clarify the basic principle behind the term build-info. The term \"build-info\" has been coined for many years by",
           "link": "https://dzone.com/articles/the-power-of-jfrog-build-info-build-metadata-part",
           "publishedOn": "2021-10-10T19:12:36.000Z",
-          "wordCount": 1804,
+          "wordCount": 1818,
           "title": "The Power of JFrog Build Info (Build Metadata), Part I"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188555.htm",
-          "author": null,
-          "description": "早在8月，福特就授予通用汽车的Cruise一词的商标问题对通用汽车提起了诉讼 ... 这场争执始于福特宣布将其驾驶辅助软件称为BlueCruise ... 通用汽车和福特汽车现在已经同意解决关于BlueCruise名称的法律纠纷。",
-          "link": "https://www.cnbeta.com/articles/tech/1188555.htm",
-          "publishedOn": "2021-10-10T18:39:17.000Z",
-          "wordCount": 199,
-          "title": "福特和通用就BlueCruise商标的法律纠纷达成和解"
         },
         {
           "id": "https://dzone.com/articles/how-to-map-and-reduce-items-from-a-list-in-java",
@@ -285,7 +510,7 @@
           "description": "Mapping items from a List means that each item from that List will be converted into another object.  Reducing items from a List means that all items from that List will be combined into a single obje",
           "link": "https://dzone.com/articles/how-to-map-and-reduce-items-from-a-list-in-java",
           "publishedOn": "2021-10-10T18:23:09.000Z",
-          "wordCount": 694,
+          "wordCount": 682,
           "title": "How to Map and Reduce Items From a List in Java"
         },
         {
@@ -294,7 +519,7 @@
           "description": "Selenium Grid 4 is already in the prerelease stage. That means that Now is a great time to check updates on your current Project and be ready for the changes and new features.\nHub implementation was r",
           "link": "https://dzone.com/articles/selenium-grid-4-and-appium-1",
           "publishedOn": "2021-10-10T17:55:42.000Z",
-          "wordCount": 626,
+          "wordCount": 623,
           "title": "Selenium Grid 4 and Appium"
         },
         {
@@ -303,7 +528,7 @@
           "description": "Introduction\nThis article is a follow-up to the Data Platform series where we describe how to design and build a new Data Platform:\nData Platform as a Service.\nData Platform: The New Generation Data L",
           "link": "https://dzone.com/articles/data-platform-building-an-enterprise-cdc-solution",
           "publishedOn": "2021-10-10T15:49:48.000Z",
-          "wordCount": 3350,
+          "wordCount": 3372,
           "title": "Data Platform: Building an Enterprise CDC Solution"
         },
         {
@@ -312,7 +537,7 @@
           "description": "Last week, I described different techniques to quicken your Maven builds. Today, I'd like to widen the scope and do the same for Maven builds inside Docker.\nBetween each run, we change the source code",
           "link": "https://dzone.com/articles/faster-maven-builds-in-docker",
           "publishedOn": "2021-10-10T14:08:02.000Z",
-          "wordCount": 1862,
+          "wordCount": 1867,
           "title": "Faster Maven Builds in Docker"
         },
         {
@@ -321,7 +546,7 @@
           "description": "Builds require a few properties, chief among them reproducibility. I would consider speed to be low on the order of priorities. However, it's also one of the most limiting factors to your release cycl",
           "link": "https://dzone.com/articles/faster-maven-builds",
           "publishedOn": "2021-10-10T13:42:41.000Z",
-          "wordCount": 1635,
+          "wordCount": 1624,
           "title": "Faster Maven Builds"
         },
         {
@@ -330,26 +555,8 @@
           "description": "Stateful microservices are not a new concept. They have their pros and cons and can shine in highly loaded systems. There are examples of using stateful microservices with Apache Cassandra on board. I",
           "link": "https://dzone.com/articles/stateful-microservices-with-apache-ignite",
           "publishedOn": "2021-10-10T13:28:31.000Z",
-          "wordCount": 1001,
+          "wordCount": 1011,
           "title": "Stateful Microservices With Apache Ignite"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188311.htm",
-          "author": null,
-          "description": "<p>10月8日晚间，上交所官方公告了关于终止对联想集团公开发行存托凭证(CDR)并在科创板上市审核的决定，此时距离其科创板IPO申请才过去了仅仅8天，创造了一个尴尬的记录 ... 联想集团表示，向上交所提交有关建议发行中国存托凭证及上市的申请材料后，考虑到公司业务规模及复杂度，招股说明书中的财务信息可能会在申请的审阅过程中过期失效，同时审慎考虑最新发行上市等资本市场相关情况后，联想决定撤回中国存托凭证于科创板上市及买卖的申请 ... 业界认为，联想集团如此短时间内就撤回科创板IPO申请，很可能不是“主动要求撤回”，而是被“要求撤回”。</p><p><a href='https://www.cnbeta.com/articles/tech/1188311.htm'>CNBeta : 联想科创板上市猝停：负债率高、研发支出少 三高管年薪近两亿</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188521.htm'>CNBeta : 联想回应科创板IPO终止：财务信息可能过期失效</a></p><p><a href='https://www.jiemian.com/article/6684429.html'>界面 : 快看｜联想回应终止科创板IPO：考虑到公司业务规模及复杂程度，审慎考虑资本市场</a></p><p><a href='https://tech.ifeng.com/c/8AEXFZLteQ0'>凤凰科技 : 终止科创板上市后，联想回应：审慎考虑资本市场情况做出的决定</a></p><p><a href='https://www.pingwest.com/w/251051'>品玩 : 联想回应科创板IPO终止：财务信息可能过期失效</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188311.htm",
-          "publishedOn": "2021-10-10T12:45:28.000Z",
-          "wordCount": 202,
-          "title": "联想回应科创板IPO终止：财务信息可能过期失效"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8AE7occr56j",
-          "author": null,
-          "description": "<p>近日，山西遭遇持续降雨，多地接连发生崩塌、滑坡等地质灾害，城市内涝严重。10月10日，小米、腾讯、字节跳动、阿里巴巴、网易等纷纷宣布向山西受灾地区捐款。</p><p><a href='https://tech.ifeng.com/c/8AE7occr56j'>凤凰科技 : 驰援山西！小米公益基金会宣布捐赠1000万元</a></p><p><a href='https://tech.ifeng.com/c/8AEBPvWQOIx'>凤凰科技 : 驰援山西！腾讯宣布捐赠5000万元</a></p><p><a href='https://www.leikeji.com/article/42302'>雷科技 : 5000万！腾讯紧急捐款：帮助山西抗雨灾、保护文物</a></p><p><a href='https://tech.ifeng.com/c/8AEJ2rd0srI'>凤凰科技 : 多家企业驰援山西，腾讯捐5000万、小米捐1000万……</a></p><p><a href='https://tech.ifeng.com/c/8AEKUqVEVgT'>凤凰科技 : 驰援山西！字节跳动宣布捐赠5000万元</a></p><p><a href='https://tech.ifeng.com/c/8AEKUqVEVhO'>凤凰科技 : 挚文集团宣布向山西灾区捐赠1000万元</a></p><p><a href='https://tech.ifeng.com/c/8AEM5utTKix'>凤凰科技 : 百度宣布捐赠5000万元 紧急驰援山西救灾</a></p><p><a href='https://tech.ifeng.com/c/8AEXFZLteTw'>凤凰科技 : 驰援山西！阿里巴巴、蚂蚁集团共同捐赠7000万元</a></p><p><a href='https://tech.ifeng.com/c/8AEXFZLteUc'>凤凰科技 : 唯品会宣布向山西慈善总会捐赠1000万元 抗击洪涝灾情</a></p><p><a href='https://tech.ifeng.com/c/8AEhetIYmUn'>凤凰科技 : 滴滴出行捐赠 3000 万元紧急驰援山西救灾</a></p>",
-          "link": "https://tech.ifeng.com/c/8AE7occr56j",
-          "publishedOn": "2021-10-10T12:11:22.000Z",
-          "wordCount": 11,
-          "title": "多家企业驰援山西，腾讯、阿里、字节、小米等捐款"
         },
         {
           "id": "http://www.yunweipai.com/40305.html",
@@ -361,58 +568,13 @@
           "title": "Nginx-Ingress 控制器到底怎样实现的，这篇文章教你看明白了"
         },
         {
-          "id": "https://tech.ifeng.com/c/8AEDmcyWuC9",
-          "author": null,
-          "description": "<p>针对近期斗鱼App开屏页面上线H&M品牌广告事宜，斗鱼直播发文致歉，并称发现问题后，平台已在第一时间将该广告下线，并由公司领导层组织相关部门进行深刻反省 ... 斗鱼直播表示，发生此种问题，暴露了平台商务广告审批流程漏洞，平台将进一步优化相关流程，杜绝此类事件再次发生 ... 随后，斗鱼直播工作人员向媒体表示：这是公司内部审核问题，相关广告已被下架。</p><p><a href='https://tech.ifeng.com/c/8AEDmcyWuC9'>凤凰科技 : 国庆期间为HM挂开屏广告，斗鱼致歉：已第一时间将广告下线</a></p>",
-          "link": "https://tech.ifeng.com/c/8AEDmcyWuC9",
-          "publishedOn": "2021-10-10T10:42:46.000Z",
-          "wordCount": 10,
-          "title": "国庆期间为HM挂开屏广告，斗鱼致歉"
-        },
-        {
           "id": "https://dzone.com/articles/fundamental-components-reusable-dotnet-microservices-platform",
           "author": null,
           "description": "Development Teams frequently need to build new microservices to either add new functionality or replace existing microservices. However, microservices must support some standard features such as provi",
           "link": "https://dzone.com/articles/fundamental-components-reusable-dotnet-microservices-platform",
           "publishedOn": "2021-10-10T07:45:50.000Z",
-          "wordCount": 2177,
+          "wordCount": 2174,
           "title": "3 Fundamental Components of a Reusable .Net Microservices Platform"
-        },
-        {
-          "id": "https://www.jiemian.com/article/6681531.html",
-          "author": null,
-          "description": "<p>蜂巢能源10月9日宣布，当天与江苏省常州市金坛区人民政府签署合作协议，计划在常州新增投资约150亿元，主要用于建设年产约40 GWh的新能源电池项目 ... 在B轮融资发布会期间，蜂巢能源董事长兼CEO杨红新告诉界面新闻记者，该公司目前的电池产能为12 GWh，明年规划实现产能约70 GWh ... 杨红新在上述采访时透露，蜂巢能源今年的电池出货量有望达到4 GWh，争取冲击国内第六，该公司的远期目标是进入国内动力电池排名的前三位。</p><p><a href='https://www.jiemian.com/article/6681531.html'>界面 : 投资150亿，蜂巢能源将再次扩产电池项目</a></p>",
-          "link": "https://www.jiemian.com/article/6681531.html",
-          "publishedOn": "2021-10-10T04:58:45.000Z",
-          "wordCount": 53,
-          "title": "蜂巢能源将投资150亿再次扩产电池项目"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ADGcN9X9pG",
-          "author": null,
-          "description": "<p>在日前召开的第十届中国支付清算论坛上，中国人民银行副行长范一飞表示，2016年以来，中国人民银行累计处罚银行、支付机构1436家次，罚没11.3亿元 ... 引导22家支付机构主动退出市场，对17家支付机构不予续展，撤销2家严重违规支付机构业务许可，行业优胜劣汰的市场退出机制初步形成 ... 要坚持常态化严监管，坚决防止支付机构因内外部原因铤而走险，为违法违规行为提供支付通道或挪用客户备付金，必须以更大决心、更强力度和更实举措，切实防范和化解各类风险挑战。</p><p><a href='https://tech.ifeng.com/c/8ADGcN9X9pG'>凤凰科技 : 支付严监管成常态：近5年累计罚没支付机构11.3亿元</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188393.htm'>CNBeta : 支付严监管成常态：近5年累计罚没支付机构11.3亿元</a></p>",
-          "link": "https://tech.ifeng.com/c/8ADGcN9X9pG",
-          "publishedOn": "2021-10-10T03:00:17.000Z",
-          "wordCount": 11,
-          "title": "支付严监管成常态：近5年累计罚没支付机构11.3亿元"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ADhikBM3Yf",
-          "author": null,
-          "description": "<p>央视财经表示：国产供应商过度依赖苹果，并不是一件好事，并呼吁企业不能全部押宝在苹果身上，应该加大自主研发投入，并掌握自己的核心技术才能走得长远 ... 今年5月，苹果公布了2020年全球供应商名单，其中有34家供应商遭到剔除 ... 工信部信息通信经济专家委员会委员刘兴亮：多元化转型是大部分“果链”企业减轻“苹果依赖症”的一个有效途径，它们都在试图将鸡蛋放进不同篮子里，不被苹果所束缚。</p><p><a href='https://tech.ifeng.com/c/8ADhikBM3Yf'>凤凰科技 : 被苹果抛弃 中国电子公司利润暴跌90% 央视发声</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188383.htm'>CNBeta : 34家供应商被砍 央视发声：摆脱苹果依赖症</a></p>",
-          "link": "https://tech.ifeng.com/c/8ADhikBM3Yf",
-          "publishedOn": "2021-10-10T02:50:18.000Z",
-          "wordCount": 11,
-          "title": "34家供应商被砍，央视发声：摆脱苹果依赖症"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188367.htm",
-          "author": null,
-          "description": "<p>韩国芯片制造商三星电子和SK海力士可能不得不在赚取利润的国家缴纳部分公司税 ... 去年，三星电子和SK海力士分别缴纳了4.8万亿韩元（约合40亿美元）和1.4万亿韩元（约合11.7亿美元）的公司税 ... 该机构表示，这项税收协议将有助于韩国政府征收更多税收，因为谷歌和Facebook等全球科技巨头将不得不在2023年规则生效时在韩国缴纳更多公司税。</p><p><a href='https://www.cnbeta.com/articles/tech/1188367.htm'>CNBeta : 国际企业税收规则生变 三星电子、SK海力士或要在当地缴纳部分公司税</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188367.htm",
-          "publishedOn": "2021-10-10T02:40:41.000Z",
-          "wordCount": 207,
-          "title": "国际企业税收规则生变，三星电子、SK海力士或要在当地缴纳部分公司税"
         },
         {
           "id": "https://dzone.com/articles/apereo-cas-step-by-step-guide-to-implement-a-custom-authentication-handler",
@@ -420,170 +582,8 @@
           "description": "As described in a previous article about getting an Apereo CAS application up and running, we used the default username and password to log in to the CAS. But in a Real-world scenario, we need to impl",
           "link": "https://dzone.com/articles/apereo-cas-step-by-step-guide-to-implement-a-custom-authentication-handler",
           "publishedOn": "2021-10-10T02:27:53.000Z",
-          "wordCount": 1104,
+          "wordCount": 1095,
           "title": "Apereo CAS: Step by Step Guide To Implement a Custom Authentication Handler"
-        },
-        {
-          "id": "https://dzone.com/articles/group-of-similar-interests-api-group-in-anypoint-p",
-          "author": null,
-          "description": "In this article, understand API Groups using a Real-world analogy of our DZone. :)\nWhat Is API Group?\nAt DZone, we have Integration, Cloud, MicroServices, etc. as separate zones. Each zone has article",
-          "link": "https://dzone.com/articles/group-of-similar-interests-api-group-in-anypoint-p",
-          "publishedOn": "2021-10-10T02:09:07.000Z",
-          "wordCount": 1420,
-          "title": "API Group in Anypoint Platform"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188395.htm",
-          "author": null,
-          "description": "<p>央行行长易纲在国际清算银行（BIS）监管大型科技公司国际会议上表示，在强化反垄断监管、维护公平竞争秩序方面，中国在 2021 年出台了平台经济领域的反垄断指南，强化反垄断和防止资本无序扩张 ... 未来，我们将发挥好与反垄断部门的监管合力，遏制滥用市场优势地位的垄断行为，积极应对算法歧视等新型垄断问题 ... 易纲还表示，针对平台公司在支付领域的不正当竞争行为，推动大型互联网平台公司开放封闭场景，在支付方式上给消费者更多选择，从而为中小企业创造发展空间。</p><p><a href='https://www.cnbeta.com/articles/tech/1188395.htm'>CNBeta : 易纲谈大型科技公司监管：积极应对算法歧视等新型垄断问题</a></p><p><a href='https://tech.ifeng.com/c/8ADhikBM3gP'>凤凰科技 : 央行行长回应反垄断：积极应对算法歧视等新型问题</a></p><p><a href='https://www.tmtpost.com/5755559.html'>钛媒体 : 易纲详解金融科技带来的监管挑战：部分平台公司垄断，挑战传统银行经营模式</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188395.htm",
-          "publishedOn": "2021-10-10T01:48:26.000Z",
-          "wordCount": 193,
-          "title": "央行行长回应反垄断：积极应对算法歧视等新型问题"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188297.htm",
-          "author": null,
-          "description": "<p>加德卡里表示，他希望“印度制造”的特斯拉在印度本地销售并向全世界出口 ... 今年1月，特斯拉在印度班加罗尔注册成立“特斯拉印度汽车及能源私人有限公司”，宣布将尽快进军印度市场 ... 今年3月，加德卡里曾向特斯拉公开承诺，如果特斯拉在印度生产电动汽车，印度将提供相应的激励措施，以确保他们的生产成本低于中国。</p><p><a href='https://www.cnbeta.com/articles/tech/1188297.htm'>CNBeta : 印度交通部长：特斯拉应在当地建厂而不要销售“中国制造”</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188297.htm",
-          "publishedOn": "2021-10-10T01:07:27.000Z",
-          "wordCount": 194,
-          "title": "印度交通部长：特斯拉应在当地建厂而不要销售“中国制造”"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ADMhATBiEo",
-          "author": null,
-          "description": "<p>特斯拉CEO马斯克现宣布，特斯拉可能将尝试在柏林的超级工厂生产电动卡车，并表示很有可能将于明年在欧洲推出全自动驾驶测试软件 ... 马斯克还表示，出于“最后一刻的担忧”，此前承诺将在周五向符合条件的司机推出的全FSD辅助驾驶测试版将进一步推迟 ... 该功能被称为完全自动驾驶，但实际上仍然只是辅助驾驶范畴，它仍然需要高水平的监管，甚至可以说没有这种监督是相当危险的，所以特斯拉在向更多用户推出全自动驾驶FSD测试版时显得非常谨慎。</p><p><a href='https://tech.ifeng.com/c/8ADMhATBiEo'>凤凰科技 : 马斯克：尝试在柏林生产卡车 明年于欧洲推出FSD测试软件</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188377.htm'>CNBeta : 马斯克：尝试在柏林生产卡车 明年于欧洲推出FSD测试软件</a></p>",
-          "link": "https://tech.ifeng.com/c/8ADMhATBiEo",
-          "publishedOn": "2021-10-10T01:03:37.000Z",
-          "wordCount": 15,
-          "title": "马斯克：尝试在柏林生产卡车，明年于欧洲推出FSD测试软件"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ACykUqXLPu",
-          "author": null,
-          "description": "<p>Rivian方面表示，未来该公司将不断完善动力电池垂直整合的能力，包括电池相关的化学开发、模块和封装工程、BMS设计、关键原材料采购、电池制造专业知识，以及执行所需验证和测试的先进内部实验室等 ... Rivian已计划投资约50亿美元（约合人民币323.5亿元）在美国的德克萨斯州沃思堡附近建立一家新工厂 ... Rivian R1T和R1S均采用其提供的2170型圆柱体锂离子电池，而三星SDI正在考虑在Rivian位于美国伊利诺伊州的工厂附近建设配套工厂。</p><p><a href='https://tech.ifeng.com/c/8ACykUqXLPu'>凤凰科技 : 特斯拉劲敌Rivian将自产电池 新工厂已在筹建</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188315.htm'>CNBeta : 特斯拉劲敌Rivian将自产电池 新工厂已在筹建</a></p>",
-          "link": "https://tech.ifeng.com/c/8ACykUqXLPu",
-          "publishedOn": "2021-10-10T00:47:04.000Z",
-          "wordCount": 25,
-          "title": "特斯拉劲敌Rivian将自产电池，新工厂已在筹建"
-        },
-        {
-          "id": "https://www.cnbeta.com/articles/tech/1188309.htm",
-          "author": null,
-          "description": "<p>马斯克表示，如果可能，特斯拉将尝试在柏林的超级工厂生产电动卡车 ... 马斯克 （Elon Musk）表示，柏林超级工厂的量产数量将为5000辆/周，希望达到10000辆/周，计划于今年11月、12月开始生产，但较难实现量产 ... 马斯克进一步表示，柏林超级工厂生产的汽车将供应整个欧洲地区，最初的电池供应可能来自特斯拉中国。</p><p><a href='https://www.cnbeta.com/articles/tech/1188309.htm'>CNBeta : 特斯拉将尝试在柏林超级工厂生产电动卡车 数量为5000辆/周</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188369.htm'>CNBeta : 特斯拉公布柏林工厂首个小目标：每辆Model Y车身生产只需45秒</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188585.htm'>CNBeta : 马斯克称担心特斯拉柏林工厂招不够人</a></p><p><a href='https://www.businessinsider.com/tesla-gigafest-gigafactory-elon-musk-berlin-rave-music-ferris-wheel-2021-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : Tesla has transformed its Berlin Gigafactory into a festival site with rave Music, a Ferris wheel, and food stalls for 9,000 visitors</a></p><p><a href='https://www.businessinsider.com/elon-musk-tesla-worried-labor-shortage-berlin-gigafactory-europe-gigafest-2021-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29'>Business Insider : Elon Musk says Tesla is worried about a potential labor shortage at its Berlin Gigafactory</a></p><p><a href='https://www.engadget.com/tesla-berlin-gigafactory-production-start-date-145218970.html?src=rss'>Engadget : Tesla's Berlin Gigafactory could produce EVs as soon as November</a></p><p><a href='https://www.slashgear.com/teslas-berlin-factory-expects-to-produce-its-first-vehicles-next-month-10694591/'>SlashGear : Tesla’s Berlin factory expects to produce its First vehicles Next month</a></p>",
-          "link": "https://www.cnbeta.com/articles/tech/1188309.htm",
-          "publishedOn": "2021-10-10T00:06:04.000Z",
-          "wordCount": 206,
-          "title": "特斯拉将尝试在柏林超级工厂生产电动卡车，每周生产5000辆"
-        },
-        {
-          "id": "https://dzone.com/articles/performance-impact-of-javalangsystemgetproperty",
-          "author": null,
-          "description": "‘java.lang.System.getProperty(\n)’ is a common API used by Java developers to read the System properties that are configured during application startup time. i.E. when you pass “-DappName=buggyApp” as",
-          "link": "https://dzone.com/articles/performance-impact-of-javalangsystemgetproperty",
-          "publishedOn": "2021-10-09T19:17:20.000Z",
-          "wordCount": 966,
-          "title": "The Performance Impact of java.lang.System.getProperty()"
-        },
-        {
-          "id": "https://dzone.com/articles/spring-boot-implementing-pagination-and-get-users",
-          "author": null,
-          "description": "In the video below, we take a closer LOOK at Spring Boot - Implementing pagination and get users web service endpoint | RESTful Web Services. Let's get started!",
-          "link": "https://dzone.com/articles/spring-boot-implementing-pagination-and-get-users",
-          "publishedOn": "2021-10-09T19:13:30.000Z",
-          "wordCount": 302,
-          "title": "Spring Boot - Implementing Pagination and Get Users Web Service Endpoint | RESTful Web Services"
-        },
-        {
-          "id": "https://dzone.com/articles/microservice-testing-strategies",
-          "author": null,
-          "description": "Introduction\nMicroservices are distributed in nature, in any architecture there can be many microservices involved. There are various components involved in any microservice like service can consume e",
-          "link": "https://dzone.com/articles/microservice-testing-strategies",
-          "publishedOn": "2021-10-09T19:06:57.000Z",
-          "wordCount": 851,
-          "title": "Microservice Testing Strategies"
-        },
-        {
-          "id": "https://dzone.com/articles/dynamic-sorting-in-ms-sql-server",
-          "author": null,
-          "description": "What Is Sorting?\nSorting is a process of arranging items in a sequence by some standard or principle.\nIn ms SQL, the ORDER BY clause is used to arrange the Data in ascending or descending order.",
-          "link": "https://dzone.com/articles/dynamic-sorting-in-ms-sql-server",
-          "publishedOn": "2021-10-09T17:14:31.000Z",
-          "wordCount": 537,
-          "title": "Dynamic Sorting in ms SQL Server"
-        },
-        {
-          "id": "https://dzone.com/articles/panel-discussion-about-kafka-edge-networking-and-5G",
-          "author": null,
-          "description": "The oil & Gas and mining Industries require Edge Computing for low latency and zero trust use cases. Most IT architectures are hybrid with big data Analytics in the Cloud and safety-critical Data proc",
-          "link": "https://dzone.com/articles/panel-discussion-about-kafka-edge-networking-and-5G",
-          "publishedOn": "2021-10-09T16:32:56.000Z",
-          "wordCount": 1407,
-          "title": "Panel Discussion About Kafka, Edge, Networking, and 5G"
-        },
-        {
-          "id": "https://dzone.com/articles/how-to-configure-customize-and-utilize-ballerina-logs",
-          "author": null,
-          "description": "Ballerina’s built-in logging module is designed to give you critical visibility into your applications with minimal setup. Whether you’Re just getting started or already using Ballerina’s logging modu",
-          "link": "https://dzone.com/articles/how-to-configure-customize-and-utilize-ballerina-logs",
-          "publishedOn": "2021-10-09T16:19:21.000Z",
-          "wordCount": 1811,
-          "title": "How to Configure, Customize, and Use Ballerina Logs"
-        },
-        {
-          "id": "https://dzone.com/articles/busting-the-10x-software-engineer-myth",
-          "author": null,
-          "description": "Leaders often feel proud of their high performers. In reality, having \"10x engineers\" in your software organization may be a sign of an organization that is set out to fail in the long run.\nAs an engi",
-          "link": "https://dzone.com/articles/busting-the-10x-software-engineer-myth",
-          "publishedOn": "2021-10-09T16:04:04.000Z",
-          "wordCount": 1218,
-          "title": "Busting the 10x software Engineer Myth"
-        },
-        {
-          "id": "https://dzone.com/articles/fast-key-value-store-with-postgresql",
-          "author": null,
-          "description": "Introduction to Key-Value Store\nWe have seen several features in PostgreSQL that goes Beyond relational storage, such as:\nJSON\nGeospatial Data\nFuzzy Search\nFull-Text\nThis article will explore the key-",
-          "link": "https://dzone.com/articles/fast-key-value-store-with-postgresql",
-          "publishedOn": "2021-10-09T15:50:31.000Z",
-          "wordCount": 927,
-          "title": "FAST Key-Value Store With PostgreSQL"
-        },
-        {
-          "id": "https://dzone.com/articles/transfer-data-with-animated-qr-codes",
-          "author": null,
-          "description": "QR code is useful to transfer Data across different devices. An Android device can Exchange Data with an iOS device through a QR code. It does not require setting up a Wireless network and does not ha",
-          "link": "https://dzone.com/articles/transfer-data-with-animated-qr-codes",
-          "publishedOn": "2021-10-09T15:40:22.000Z",
-          "wordCount": 2421,
-          "title": "Transfer Data With Animated QR codes"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ACsfT52kZz",
-          "author": null,
-          "description": "<p>近期，有消息称，理想汽车从黑市收购了数千片电子驻车（EPB）芯片，EPB 芯片的正常价格约为 6 元/片，理想汽车的收购价格达到了约 5000 元/片，超出正常价格 800 倍 ... 今日，理想汽车对此消息予以否认。\n</p><p><a href='https://tech.ifeng.com/c/8ACsfT52kZz'>凤凰科技 : 理想汽车从黑市收购EPB芯片 单价超出正常价格800倍</a></p><p><a href='https://tech.ifeng.com/c/8ACrfXtBjlR'>凤凰科技 : 以800倍高价黑市收购芯片？理想汽车否认，此前被曝雷达芯片短缺</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188295.htm'>CNBeta : 报道称理想汽车从黑市收购EPB芯片 相关负责人否认存在此事</a></p><p><a href='https://www.jiemian.com/article/6682710.html'>界面 : 从黑市收购电子驻车芯片？理想汽车回应称：消息不属实</a></p><p><a href='https://tech.ifeng.com/c/8ADq1aQPJy7'>凤凰科技 : 原价6元的芯片加价800多倍花了5000元？理想汽车紧急回应</a></p>",
-          "link": "https://tech.ifeng.com/c/8ACsfT52kZz",
-          "publishedOn": "2021-10-09T13:13:47.000Z",
-          "wordCount": 15,
-          "title": "理想汽车否认“以 800 倍高价收购黑市芯片“传闻"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ACjbXawezk",
-          "author": null,
-          "description": "<p>各企业整改情况回函包括：1、360浏览器、360安全卫士所属公司、暴风影音、小鸟壁纸等表示保证弹窗内容合法合规 ... 视频、QQ浏览器、爱奇艺、酷我音乐等表示明确标注“广告”字样及内容来源 ... 4、搜狗输入法、360安全卫士、迅雷、酷我音乐、爱奇艺等表示优化弹窗尺寸大小、弹出频率等形式问题。</p><p><a href='https://tech.ifeng.com/c/8ACjbXawezk'>凤凰科技 : 江苏消保委约谈后续 PC端弹窗问题相关企业这样整改</a></p><p><a href='https://www.cnbeta.com/articles/tech/1188247.htm'>CNBeta : 江苏消保委公布约谈后续 PC端弹窗问题相关企业这样整改</a></p><p><a href='https://www.pingwest.com/w/251031'>品玩 : 爱奇艺腾讯视频等14家企业承诺整改PC端弹窗问题</a></p>",
-          "link": "https://tech.ifeng.com/c/8ACjbXawezk",
-          "publishedOn": "2021-10-09T11:09:44.000Z",
-          "wordCount": 11,
-          "title": "爱奇艺腾讯视频等14家企业承诺整改PC端弹窗问题"
-        },
-        {
-          "id": "https://tech.ifeng.com/c/8ACeNk0T5Lr",
-          "author": null,
-          "description": "<p>运用多方式、多渠道持续开展法规宣传和行政指导，对广大电商主体进行合规教育，压实平台主体责任，推动交易环境持续向好 ... 分级分类开展平台企业合规报告、风险评估和信息公示工作，围绕“双十一”等重要时间节点、关系民生的重要商品和服务领域，开展行政指导，压实平台主体责任 ... 实现平台监测、分析预警、数据对接、线上执法、信息公示、技术支撑等一体化、穿透式监管，实施线上产品质量、食品安全、价格、不正当竞争、广告、电子商务等综合监管，为线上综合执法提供基础支撑。</p><p><a href='https://tech.ifeng.com/c/8ACeNk0T5Lr'>凤凰科技 : 国家市场监管总局：围绕“双十一”等重要时间节点等开展行政指导</a></p>",
-          "link": "https://tech.ifeng.com/c/8ACeNk0T5Lr",
-          "publishedOn": "2021-10-09T11:05:57.000Z",
-          "wordCount": 16,
-          "title": "国家市场监管总局：围绕“双十一”等重要时间节点等开展行政指导"
         }
       ]
     },
@@ -592,6 +592,51 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/69247",
+          "author": "少数派编辑部",
+          "description": "本期《派评》的主要内容有：\n\n💰 小星记账：人性化细节拉满的 Android 记账 App。\n📷 Halide 针对非 Pro 系列 iPhone 推出微距模式。\n✍️ 老牌国产建站工具 Typlog 更新 3.0 大版本。\n🛏️ Aphrodite：你的两性健康追踪日历。\n……\n\n你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。\n不容错过的新 App\n虽然少数派一直在为大家发发现和介绍各平台上的优质 App，但仍有不少设计、功能、交互、体验都非常优秀的 App，还没有被我们发掘和介绍。它们可能是一款老 App，也可能是近期上架的新 App，我们会在这里介绍给你。\n小星记账：人性化细节拉满的记账应用\n\n平台：Android\n关键词：记账\n\n@Noah_Choi：我尝试过太多记账 App，也曾针对国内或国外、大厂或独立开发的作品进行深度体验，不过目前在 Android 平台中，我还没有找到一款称心如意的记账 App，并非是它们不够强大，而是在人性化细节上仍有欠缺，尤其是在信用账户管理方面。而小星记账这款 App 则细节拉满，甚至让我产生了「平行宇宙里的自己开发了这款 App」的错觉。\n从功能上来说，小星记账提供了账户管理、预算管理、报销管理、报表统计、周期事件、多张本等基础功能，满足日常需求完全足够，甚至也可以满足一些进阶记账和资产管理需求。报表页面最下方还会根据当前账户情况给出总结建议。\n\n小星记账的一个主打功能是「自动记账」，这也是许多国产记账应用都在发力的方面，它能够识别支付宝、微信、云闪付、美团、京东等多种支付渠道，并且能分别在扫码付款、控件调用付款、转账红包等多种场景进行判断，具体使用方法详见应用内使用说明，其中也针对实现原理和隐私安全进行了单独说明。\n\n人性化细节方面是小星记账的一个优…",
+          "link": "https://sspai.com/post/69247",
+          "publishedOn": "2021-10-11T09:43:49.000Z",
+          "wordCount": 348,
+          "title": "派评 | 近期值得关注的 App"
+        },
+        {
+          "id": "https://sspai.com/post/69229",
+          "author": "数字工具组",
+          "description": "🎁文末有评论送码活动，不要错过！\n\n如果看过《尽管去做》 这本书，了解 Getting Things Done（下文简称 GTD）理论，一定对书中的这张图不陌生：\n\n简单来说，我们在工作、生活中遇到需要处理的信息，根据用处被分为备忘、参考资料、项目计划、日程表和待办事项。一个良好运转的效率工具流，需要处理好其中的每一类信息。\n因此，开发者们通常是针对其中某一类信息，设计出备受好评的效率工具。任务管理类的代表作有 OmniFocus、Things，日程管理类的有 Fantastical，备忘笔记类的有 Bear。不少应用更进一步，尝试应对不同的需求，例如 Sorted3 融合了日程规划和任务管理。\n如果说有一款效率工具，能够应对这套工具流中的各种场景，而且无论个人还是团队，都能满足高效工作的需求，肯定会认为有点太过理想化了。\n但滴答清单正朝着这个理想进化。不要被名字中的「清单」误导，滴答清单其实是一款以任务管理为核心，能够兼顾全平台、多场景的效率多面手。\n \nAll in one 的个人效率多面手\n设计关乎效率\n判断一名士兵是否优秀，只需要看他的配枪的保养情况。同理，一款效率工具的好坏，从它的设计就能初见端倪。优秀的设计能让使用者自然操作，不会被粗糙的细节干扰到使用流畅度。\n而关于滴答清单的设计，则要从它「出口转内销」的故事说起。与绝大多数国产应用不同，2013 年滴答团队就发布了滴答清单的国际版「TickTick」，2014 年 9 月才登陆国内的应用市场。\n这样的经历，让滴答清单的设计保持了简洁、克制。没有广告只是最基础的，合理的信息布局才是体现滴答设计实力的地方。应用首先根据场景划分模块，例如任务、日历、打卡等功能，分散在不同的页面中，保证互不干扰，同时统一收拢在左侧边栏，方便随时切换。\n 任务管理界面\n而每一个模块之下，则依据需求设计布局。例如最常用的任务管理页面，…",
+          "link": "https://sspai.com/post/69229",
+          "publishedOn": "2021-10-11T08:12:49.000Z",
+          "wordCount": 117,
+          "title": "限时福利｜滴答清单工具升值包上架：全平台效率多面手"
+        },
+        {
+          "id": "https://sspai.com/post/69239",
+          "author": "广陵止息",
+          "description": "相信对于大多数 iPad 用户来说，脱胎于 iOS 的 iPadOS 今年的更新幅度并不大；但对于不少经常需要在 iPad 上需要同时打开多个 App 的用户来说，iPadOS 15 上的多任务样式可是有了不少新改进，包括了：多任务菜单、轻松访问所有 App、App 架以及新的一种分屏样式等，接下来我们一起来看看吧。\n直观明了的分屏入口\n原先想要触发多任务，你需要先知道 iPad 具备多任务的这个功能，再要正确地拖拽出来，才能正确地触发多任务；如果你之前没有关注过 iPadOS 的多任务的使用逻辑，那前几次大概率都不能正确触发想要的多任务效果。\n而 iPadOS 15 中新增加分屏入口被称为「多任务菜单」，即正在显示的 App 顶部都有一个「…」的菜单，通过它可以让我们更加直观明了的看到分屏入口。进一步可以选择这个 App 是全屏独占、分屏浏览、侧拉或是在屏幕中间打开。\n\n一旦确定了 App 的分屏模式，iPadOS 15 将把 App 自动退移到旁边并露出主屏幕，相比之前只能在 Dock 上选择应用，现在拓展到整个主屏幕加上 App 资源库，可以更自由地选择想要分屏的应用，大大提高了分屏的使用场景。\n\n此外在屏幕中间打开也是本次 iOS 15 新增的功能，可以在左右分屏的基础上再打开一个居中的窗口，在不改变当前多任务布局的情况下浏览、回复邮件备忘录等信息。\n\n当然你还是可以和以前一样，按住分屏入口进行拖拽，创建新的多任务界面。此外，新的分屏入口也不只承担着入口的职责，它还承担着 iPadOS 15 上多任务的一个新功能「App 架」。\n通过「App 架」清晰掌握全局\n从 iPadOS 最初的版本开始，我们就可以给已经适配过的应用同时打开多个窗口，这原本是好事，但在实际使用过程中 App 切换器会因为过多的窗口变得一团糟。此外，如果你一个应用同时打开了多个窗口，你不能直接通过点击应用图标直接决定将要打开的窗口，往往需要长按图标进入二级菜单以后才能展示这个应用的窗口，步骤不仅繁琐而且也不够直观。\n而解决这两个问题最好的办法就是通过 App 架。App 架是 iPadOS 15 带来的一项新功能，简单来说通过这个功能我们可以清晰地看到当前的应用目前打开的所有窗口。\n\n你打开了同一应用的多个窗口后，App 架会自动在以下情况出现：\n\n再次点击这个应用的图标，回到这个应用\n点击多任务菜单\n改变分屏浏览或是侧拉中的应用时\n\n当你一旦开始在屏幕上开始操作，App 架将会自动消失。除了帮助你切换窗口，App 架还可以帮你快速管理窗口——上滑关闭一个窗口或是点击「+」再新建一个窗口。\n更快速地创建改变多任务布局\n\n剩下的就是布局上的改变，iPadOS 15 中侧拉的应用也会显示在 App 切换器里了。和 App 架相似的工作区功能也依然存在，依旧是通过长按图标进入二级菜单选择显示所有窗口，可以新建、划走或是重新打开之前被关闭的窗口。\n\n此外在 iPadOS 15 上，当你位于 App 切换器时，可以直接把一个应用程序拖拽到已经打开的窗口上，新的分屏视图就会自动创建了。\n\n最后，iPadOS 15 也支持通过支持的外接键盘创建多任务布局和改变多任务的样式，终于可以不用在键盘上工作到一半，却要用手指在 iPad 屏幕上指指点点了。\n关联文章\n\niOS / iPadOS 15 正式版来了，升级后先试试这些新功能\niOS 15 最受欢迎功能之一，不装 App 轻松实现「图片转文字」：实况文本\n具透 | iOS 15 通知管理和专注模式详解\n比苹果官方用户手册更易读、更全面：少数派系统指南·iOS 15\n具透 | iOS 15 备忘录：它能替代第三方笔记应用吗？\n\n> 下载少数派 客户端、关注 少数派公众号，带你了解 Apple 新硬件 & 新系统 📱\n> 特惠、好用的硬件产品，尽在 少数派 sspai 官方店铺 🛒\n© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。",
+          "link": "https://sspai.com/post/69239",
+          "publishedOn": "2021-10-11T06:30:49.000Z",
+          "wordCount": 172,
+          "title": "具透 | 你的下一台电脑何须是电脑，iPadOS 15 多任务处理功能详解"
+        },
+        {
+          "id": "https://sspai.com/post/69050",
+          "author": "cyll__",
+          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n家里有个 Raspberry Pi 4B 只装了 HomeBridge 来接入家电，感觉有点浪费，正好又有简单的家庭影音库需求，所以就有了这篇文章。\nRaspberry Pi 4B 这代搭配千兆网口和 USB 3.0 ，终于换掉了一直令人诟病的 USB 2.0 ，至此速度理论上可以跑满千兆带宽，基本上能满足我的日常需求。\n需要设备材料：\n\nRaspberry Pi 4B 搭载 Raspberry Pi OS（其它 OS 的也可以）\nTF 卡（做系统盘）\n千兆路由器\nCAT6 网线\n一个硬盘\n\n第一步：硬盘挂载\n手动挂载硬盘\n毕竟 TF 卡做系统盘也存不了多少数据，所以第一件事就是把准备好的硬盘挂载上，我用的是旧电脑拆下来西数机械硬盘，买了个硬盘盒让它发挥余热。\n首先插上硬盘通过sudo fdisk -l查看以下硬盘状态：\nsudo fdisk -l\n这个就是我们插上的硬盘，此时我们可以挂载到指定目录下：\nsudo mount 设备名称  自定义的指定目录\n举例： sudo mount /dev/sda1  /media/pi/O\n记得先创建一下 storage 文件夹：sudo mkdir /media/pi/O\n再次查看硬盘状态df -h，此时 /dev/sda1 已经挂载上去了。\ndf -h\n以上就是手动挂载的方式，但是迫于断电重启的问题，每次挂载有点麻烦，所以设置启动时自动挂载硬盘是个不错的办法。\n自动挂载硬盘\n在系统开机时会主动读取 /etc/fstab 这个文件中的内容，根据文件里面的配置挂载磁盘。\n所以我们只需在 /e…",
+          "link": "https://sspai.com/post/69050",
+          "publishedOn": "2021-10-11T03:29:00.000Z",
+          "wordCount": 375,
+          "title": "小身材，大用途：使用树莓派搭建家庭存储及影音库"
+        },
+        {
+          "id": "https://sspai.com/post/69231",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事\n一加 9RT 将于 10 月 13 日发布\n一加在其官方微博上公布了即将于 10 月 13 日发布的一加 9R 的升级机型一加 9RT 的部分性能参数信息。一加 9RT 将采用骁龙 888 5G 、LPDDR5、UFS 3.1 以及三星 120Hz 高刷 E4 直屏，电池容量为 4500mAh，支持 65T 超级闪充。来源\n\n此外同步发布的还有一款真无线降噪耳机一加 Buds Z2，据悉这款耳机将可以减少高达 40db 的噪音，提供 IP55 防护等级，支持蓝牙 5.2 和 Dolby Atmos，还将支持快速充电，在 10 分钟的充电时间内可以为用户提供 5 小时的播放时间。来源 (1, 2)\n\nApple 申请推迟调整 App Store 规则\n10 月 9 日，根据最新美国法令文件显示，Apple 就 App Store 规则调整向法院提出推迟申请，认为该举措会给消费者带来不好的影响，具体结果待 11 月 16 日听证会后确认。\n此前，Epic Game 与 Apple 的相关诉讼结果于 9 月 11 日 出炉，Epic 仅在「App 内无法使用第三方付费机制违反加州的公平竞法」这一项控诉上获得法官支持，取得胜诉，其它方面均为 Apple 胜诉。Apple 也被要求不得「在 App 内购之外，阻止开发者在 App 中加入按键、链接或其它引导消费者至第三方购买渠道的机制」，并且也不得「阻止开发者与顾客透过 App 内取得的联络方式，在 App 外进行沟通」。这项禁令计划将在公布日起 90 天后正式生效。来源\n新一代特斯拉 Roadster 预计于 2023 年发布\n10 月 9 日，在特斯拉年度股东大会上，马斯克表示新一代特斯拉 Roadster 跑车预计将于 2023 年发布，该跑车将拥有更快的百里加速以及全新的配色方案。来源\n爱奇艺、腾讯视频等针对广告弹窗问题提出整改方案\n针对 PC 软件的弹窗问题，江苏省消保委对相关企业进行了约谈，而近期相关企业也给出了相关的积极回复，相关企业表示将确保弹窗内容合法合规、明确标注广告字样和内容来源、确保一键关闭无障碍实现、优化弹窗尺寸大小以及弹出频率、优化网络弹窗设置、设置弹出周期、取消下载默认勾选、加强软件审核机制等。\n后续消保委将根据企业自查整改情况，将呈报专项建议，强化行政监督的力量，同时发起团体标准并规范行业发展，跟踪整改效果，对网络弹窗问题持续关注。来源\nApple Watch Series 7 部分型号延长至 11 月出货\n10 月 8 日是 Apple Watch Series 7 的预售首日，首批 10 月 15 日发货的款型售罄之后，目前预定 Apple Watch Series 7 任何型号，等待发货的时间至少要 2 周以上，也就是说最快拿到货的用户也要等到 11 月份，不锈钢以及钛金属表壳型号几乎立刻显示了 11 月 2 日至 9 日等更久的时间。来源\n\nFacebook 就再次宕机问题进行说明道歉\n10 月 9 月，Facebook 官方负责人再次发布道歉信息，表示对于本周内出现的两次 Facebook 宕机事故，原因是因为工作人员对服务器配置调成时出现错误，目前已完成修复，并对用户表示歉意。来源\n看看就行的小道消息\n\n外媒 Pigtou 近期在网站上爆料出了三星 Galaxy S22 模具照片，据照片显示 S22 将采用曲面屏设计。来源\n\n少数派的近期动态\n\n📷️ 国庆拍的照片想发朋友圈？来 一派 聊聊你会用到的修图工具吧！\n📖《少数派系统指南 · iOS 15》上架预购八折优惠中，更多介绍请前往 栏目页面 查看。\n🎁 少数派会员通讯《科技漫游第1期》上线，超两万字内容为你满载而来。\n📕 由少数派出版实体书《数字时代的效率手册》上线电商平台，立即前往 5 折下单，电子书版也已上架 Kindle 商店。\n\n你可能错过的文章\n\n具透 | iOS 15 备忘录：它能替代第三方笔记应用吗？\n数字存储完全指南 01：储存设备的诞生与历史\n谁看了你的 iOS 相册？这款直观、免费的小工具可以告诉你：隐私洞见\niOS 15 支持 Safari 扩展了，这 10+ 个应用值得一试\n\n> 下载 少数派 2.0 客户端、关注 少数派公众号，解锁全新阅读体验 📰\n> 实用、好用的 正版软件，少数派为你呈现 🚀\n \n© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。",
+          "link": "https://sspai.com/post/69231",
+          "publishedOn": "2021-10-11T00:50:54.000Z",
+          "wordCount": 285,
+          "title": "派早报：一加 9RT 将于 10 月 13 日发布、Apple 申请推迟调整 App Store 规则等"
+        },
         {
           "id": "https://sspai.com/post/69101",
           "author": "北鸮",
@@ -636,51 +681,6 @@
           "publishedOn": "2021-10-09T06:31:07.000Z",
           "wordCount": 354,
           "title": "玩转 Obsidian：以知识内化为目标，做好阅读和记录"
-        },
-        {
-          "id": "https://sspai.com/post/69086",
-          "author": "lep",
-          "description": "在 iOS 15 中，Safari 浏览器迎来了重大变化。除了饱受争议的界面更新外，Safari 浏览器还向 macOS 版本看齐，加入了对第三方扩展的支持。随着 iOS 15 正式版的上线，我们也为你搜集了 App Store 上 14 个好用的 Safari 扩展，希望能帮你把 Safari 变得更好用。\n如何管理 Safari 扩展\n在下载支持 Safari 扩展的 App 后，你可以点击 Safari 浏览器地址栏左侧的扩展图标后，在「管理扩展」选项中开启需要运行的扩展功能，并对其可以读取和修改的网页进行约束。\n\n此外，你也可以在「设置-Safari 浏览器-扩展」中对不同插件的开关和权限进行选择。\n\n与此同时，App Store 的 「应用」 标签页中也增加了对应的分类。经过我的实际体验，这些 App 的 Safari 浏览器扩展提供了令人眼前一亮的功能。\n密码管理\n1Password\n早在 2018 年，iOS 12 中新提供的 API 就为第三方密码管理 App 赋予了和系统自带钥匙串功能平起平坐的能力。通过键盘上的选词栏，1Password 无需在应用间跳转，即可实现自动填充密码和一次性验证码、查找和创建账户等功能。而现在借助全新的 Safari 浏览器扩展，1Password 的使用体验得以更加接近桌面端。\n在开启扩展后，当你在网页上进行注册时，1Password 会在下方提供「在 1Password 中保存」的选项，从而让你可以更为便捷地将账户信息添加至 1Password 中；而在输入登录信息后，1Password 还会询问是否将当前的登录信息保存至 App 中，从而避免了在 App 中手动输入相关内容的麻烦。\n\n在下次登陆时，1Password 会用同样的方式显示已经保存的用户名，点击即可将账户信息自动填充至当前页面。值得一提的是，如果你在 1Pas…",
-          "link": "https://sspai.com/post/69086",
-          "publishedOn": "2021-10-09T03:00:00.000Z",
-          "wordCount": 526,
-          "title": "iOS 15 支持 Safari 扩展了，这 10+ 个应用值得一试"
-        },
-        {
-          "id": "https://sspai.com/post/69142",
-          "author": "waychane",
-          "description": "继 9 月 15 日新一代 Apple Watch 发布之后，Apple Watch Series 7 终于将在一个月后的 10 月 15 日正式开售；而在今晚，如果你准备入手新款 Apple Watch，可以于 20:00 前往 Apple 官网或者 Apple Store 应用进行线上订购，以便在正式发售之后，能够尽快拿到新表。\n如果你有购入 Apple Watch 的计划，但是不准备选择新款，近期也会是一个不错的时机，毕竟新款上市之后，旧款产品势必将迎来价格下调。那么，面对不同的型号、尺寸和款式，Apple Watch 应该如何选择？少数派为你整理了一些重要信息，希望能够对你的选购提供参考。\n外观\nApple Watch Series 7 是继 Apple Watch Series 4 之后，外观变化最大的一代升级：屏幕显示区域更大、边框更窄，还有全新配色可供选择。\n\n其中，不锈钢表壳依旧提供银色、金色、石墨色1可供选择，钛金属表壳提供常规钛金属配色和深空黑色可选。铝金属表壳变化最大，提供了经过重新设计的午夜色、星光色、绿色、新款蓝色和红色可供选择。\n午夜色、星光色、绿色、新款蓝色和红色\n从材质上看，铝金属表壳观感呈现哑光质感，并且不易产生划痕；不锈钢表壳经过抛光打磨，质感更加出色，缺点也较明显，容易产生划痕；钛金属表壳的光亮程度介于铝金属与不锈钢之间，表面呈现材质特有的拉丝质感，得益于材料特性，适合存在金属过敏症状的用户选择。\n银色、石墨色、金色\n由于 Apple Watch Series 7 的产品页面暂未公布相关详细规格参数，对于不同型号表款的具体重量，暂时无法得知。通过旧款 Apple Watch 的相关参数可以发现，铝金属表壳版本的表款重量最轻，其次是钛金属版本，最重的是不锈钢版本。对于重量敏感的用户，可以据此作为选购 Apple Watch Series …",
-          "link": "https://sspai.com/post/69142",
-          "publishedOn": "2021-10-08T10:12:07.000Z",
-          "wordCount": 389,
-          "title": "新一代 Apple Watch 今晚开卖，如何选择适合自己的那一款？"
-        },
-        {
-          "id": "https://sspai.com/post/69183",
-          "author": "少数派编辑部",
-          "description": "☕️ TL;DR\n\n近期佳作推荐：[美剧] 婚姻生活、[电影] 援助、[动画] 古见同学有交流障碍症。、[综艺] 屋檐之夏、[美剧] 女佣、🔦 [电影] 犬之力、[电影] 酷爱电影的庞波小姐、[丹麦剧] 寒栗\n几则精彩预告：好莱坞科幻片《沙丘》发布终极预告，10 月 22 日中国内地上映、动画剧集《银翼杀手：黑莲花》11 月 13 日上线、《权力的游戏》衍生剧集《龙之家族》2022 年上线、《生化危机：欢迎来到浣熊市》公布预告，11 月 24 日北美上映\n几则影视资讯：Apple TV+ 正式续订《基地》第二季、英剧《浴血黑帮》将制作电影版、台剧《华灯初上》11 月 26 日上线 Netflix、西蒙·金伯格执导电影《355》发布全新海报和预告，2022 年 1 月 7 日北美上映\n🎬 秋日特辑：这 10 部电影，让你不再错过秋天的短暂赏味期 🍁\n\n👀 N 部作品推荐\n根据读者反馈，如果推荐语涉及剧透（对故事核心、暗线、伏笔、结局等关键要素的透露），我们会在对应作品的标题前增加 🔦 的 Emoji。\n如有其他建议也欢迎在评论区提出，感谢大家对「看什么」栏目的喜爱和支持。\n[美剧] 婚姻生活\n\n关键词：剧情\n片长：60 分钟（单集）× 5 集；豆瓣链接\n\n我不喜欢你了，要怎么补救？\n\n@宇宙浪费指南 ：如果说斯嘉丽的《婚姻故事》中那段争吵名场面带给人的是扑面而来的压迫感，让人代入感极强、忍不住想逃，那么这部《婚姻生活》则是漫不经心的带人走入并感受他们的婚姻，再一点点令人窒息。\n这部剧改编自 Ingmar Bergman 1973 年的瑞典迷你剧，故事聚焦一对当代美国夫妇，重新审视爱情、憎恨、欲望、一夫一妻制、婚姻及离婚等议题。\n我不想过多地赞美演员的演技，能自然地把人带到这场婚姻里，大段的对白、克制和爆发的情绪都证明了这一点。Oscar Issac 饰演的丈夫从最初…",
-          "link": "https://sspai.com/post/69183",
-          "publishedOn": "2021-10-08T09:01:13.000Z",
-          "wordCount": 422,
-          "title": "本周看什么丨最近值得一看的 8 部作品"
-        },
-        {
-          "id": "https://sspai.com/post/69124",
-          "author": "Vanilla",
-          "description": "借着 iPhone 13 Pro 系列和 iOS 15 正式发布的东风，NOMO RAW 在近日也更新了 2.0 大版本，新版主要是新增了一个 ProRAW 编辑器，这也就意味着我可以像使用相机一样来使用 NOMO RAW，在拍照的时候只需要专注于「构图」，后期的所有事情都可以在拍摄结束后再一一调整。\n如果你和我一样是一名手机摄影爱好者，并且恰好你使用的手机是 iPhone 12 Pro 系列或者 iPhone 13 Pro 系列，那么你一定要尝试一下 NOMO RAW，因为它赋予了 iPhone 摄影更加强大的功能，不管是日常记录还是专业拍摄，都能获得绝佳的创作体验。\n先拍后调，不错过每一个精彩的瞬间\n借助于 Apple ProRAW 格式，NOMO RAW 在相机界面的左上角打开 RAW 开关后，有充分的后期空间对拍好的照片进行调整。2.0 版本新增的这个 ProRaw 编辑器，采用了 16-bit 的全流程色彩管线，极大程度地降低了在各个环节中色彩失真或丢失的问题，可以对照片从画幅比例、色彩方案、曝光（RAW）、色温（RAW）、色调（RAW）、锐化（RAW）、阴影（RAW）、高光、对比度、饱和度、胶片颗粒、暗角等多达 11 项进行调整。\n根据 飞猪老师的介绍，其中有 5 项标注了是专门针对 RAW 格式的照片来进行的，比如说曝光调整，就是按照标准的 EV 标定，对 ProRAW 文件进行重新解析，也就是说在不超过动态范围的情况下，它和我在拍摄时调整曝光的结果，是没有区别的。\n\n在「编辑图片」界面的右下角，可以看到一个放大镜一样的图标，这其实是一个「放大镜」辅助工具，灵感来自胶片摄影中的「观片器」，可以对照片从 200% 到 1:1 进行放大，方便我在观察照片细节的同时也可以兼顾整张照片的观感。\n\n得益于强大的 ProRAW 编辑器，我使用 NOMO RAW 拍照的流程…",
-          "link": "https://sspai.com/post/69124",
-          "publishedOn": "2021-10-08T07:30:00.000Z",
-          "wordCount": 243,
-          "title": "在 iPhone 上还原相机体验，让「拍好照片」变得更简单：NOMO RAW 2.0"
-        },
-        {
-          "id": "https://sspai.com/post/69078",
-          "author": "Kiririn",
-          "description": "Matrix 首页推荐\nMatrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。\n文章代表作者个人观点，少数派仅对标题和排版略作修改。\n\n20 世纪 80 年代是一个全世界都在「折腾」的年代，方兴未艾的游戏业界也不例外。80 年代初，债台高筑的任天堂折腾出了 Game & Watch 和 FC 红白机，不但一举扭转颓势，并且开始大举进军家用游戏机行业，夸下了「两年卖出三百万台」的海口 —— 尽管全日本当年的家用游戏机总销量都还没达到这个数字。虽然山内溥的发言在任天堂社内也被当成疯话，但是相对于大洋彼岸的游戏机巨头雅达利来说，这种「折腾」的「格局」显然还是小了点。\nAtari 2600 的装机量庞大到每三个美国家庭就拥有一台该型游戏机。\n「旧日支配者」的「格局」有多大？\n作为二十世纪七八十年代游戏业界的绝对统治者，雅达利从街机起家，后凭借着 Atari 2600 成功闯入并迅速占领了北美大陆的家用游戏机市场 （依靠自家街机业务输血熬死了其他竞争对手  ），公司市值从 3000 万美元一度膨胀至 32 亿美元，好不风光。\n起初，雅达利主要依靠移植自家的街机游戏来扩张游戏阵容，然而可移植的游戏数量毕竟有限，很快雅达利就开始组建一支专为 Atari 2600 制作游戏的开发团队。看起来，雅达利似乎已经站在了游戏业界的「风口」，拿到了软件行业的第一手「头部资源」，以游戏开发为「抓手」，以自家的街机移植作品为「护城河」，建立起了自家产品的「生态闭环」，实施了对友商产品的「降维打击」，重新制定了家用游戏机的「行业打法」，在游戏开发到发行的过程中实现了「端到端的短、平、快式处理」，进入了某种良性循环。 当代互联网大厂直呼内行 。\n雅达利为 Atari 2600 平台推出的游戏数量繁…",
-          "link": "https://sspai.com/post/69078",
-          "publishedOn": "2021-10-08T06:33:44.000Z",
-          "wordCount": 240,
-          "title": "雅达利是怎么把自己「折腾至死」的？"
         }
       ]
     },
@@ -690,12 +690,21 @@
       "siteUrl": "https://www.williamlong.info/",
       "articles": [
         {
+          "id": "https://www.williamlong.info/archives/6583.html",
+          "author": "user@gmail.com (guest)",
+          "description": "10月8日，有用户在网络贴出截图称“iOS版微信在后台反复读取用户相册”。根据用户描述，新版iOS 15的“隐私”功能有“记录App活动”，可以存储7天内App访问位置或麦克风等数据，上述用户发现，微信在用户未主动激活应用的情况下，在后台数次读取相册，每次读取时间长达40秒至1分钟不等。\n\r\n\r\n　　除微信外，该用户同时表示，发现多款国产软件也存在后台频繁读取用户相册的行为。对此，该用户表示质疑：“为什么要这么操作，究竟读取了什么额外信息，如何处理用户隐私？读取用户隐私信息必须要让用户知情，这是底线。”\n\r\n\r\n　　针对微信在后台反复读取用户相册一事，10月8日晚，腾讯对此回应，iOS 系统为App开发者提供相册更新通知标准能力，相册发生内容更新时会通知到App，提醒App可以提前做准备，App的该准备行为会被记录成读取系统相册。\n\r\n\r\n　　当用户授权微信可以读取“系统相册权限”的前提后，为便于用户在微信聊天中按“+”时可以快速发图，微信使用了该系统能力，使用户发送图片体验更快速流畅。上述行为均仅在手机本地完成，最新版本中微信将取消对该系统能力的使用，优化快速发图功能。\n\r\n\r\n　　稿源：每日经济新闻",
+          "link": "https://www.williamlong.info/archives/6583.html",
+          "publishedOn": "2021-10-10T11:15:44.000Z",
+          "wordCount": 254,
+          "title": "微信回应后台读取相册"
+        },
+        {
           "id": "https://www.williamlong.info/archives/6582.html",
           "author": "user@gmail.com (guest)",
           "description": "10月8日消息，国家市场监管总局依法对美团在中国境内网络餐饮外卖平台服务市场实施“二选一”垄断行为作出行政处罚，责令美团停止违法行为，全额退还独家合作保证金12.89亿元，并处以其2020年中国境内销售额1147.48亿元3%的罚款，计34.42亿元。\n\r\n\r\n　　美团对此回应表示，“今天，我们收到了国家市场监督管理总局对美团作出的行政处罚决定。对此，我们诚恳接受，坚决落实，按照《行政处罚决定书》和《行政指导书》全面深入自查整改，杜绝‘二选一’。美团将以此为戒，依法合规经营，自觉维护公平竞争秩序，切实履行社会责任，更好地服从和服务于经济社会发展大局，努力为国家经济高质量发展多做贡献。”\n\r\n\r\n　　市场监管总局的公告显示，美团有主动承认、主动提供证据、主动全面自查整改行为，总局考虑了美团在调查过程中主动提供了执法机关尚未掌握的重要证据、停止“二选一”行为并全面自查整改、积极退还已收取的独家合作保证金等因素，做出上述处理意见。\n\r\n\r\n　　国家市场监管总局认证监管司司长刘卫军曾表示，市场体系的核心在于公平竞争，反垄断法是维护社会主义市场经济秩序的基本法律。市场监管总局将根据反垄断法的规定，加大重大案件的查办力度，充分发挥典型案件的引领示范指导作用，满足广大经营者对公平竞争环境的期望，切实保护广大消费者的切身利益。\n\r\n\r\n　　针对于罚款金额，长期研究竞争与反垄断的律师刘延喜在《中国纵向垄断协议公开案例研究报告》中分析，在2012年4月至2020年6月之间，达成并实施的19起行政处罚案中，“行政罚款/销售额”的平均值为3.67%.\n\r\n\r\n　　据了解，此次处罚，系继上海食派士、扬子江药业、公牛集团之后的半年内第四例“3%”的反垄断处罚。\n\r\n\r\n　　外卖平台的商业纠纷近年不绝于耳，饿了么和美团双方之间互诉持续已久，双方多次被罚。4月13日，市场监管总局会同中央网信办、税务总局召开了互联网平台企业行政指导会，要求阿里巴巴、腾讯、百度、京东、美团、拼多多等34家企业对强迫商家进行“二选一”等问题进行全面自查、彻底整改。\n\r\n\r\n　　上述专家表示，此次反垄断处罚落地，或许可以终结外卖领域的“二选一”乱象。此次处罚，也为其他互联网平台企业提供了清晰的指引：对于此前积累下来的历史问题，应当以规范、合规、健康为原则进行主动调整。（程琦）\n\r\n\r\n　　来源：东方网",
           "link": "https://www.williamlong.info/archives/6582.html",
           "publishedOn": "2021-10-08T16:20:52.000Z",
-          "wordCount": 262,
+          "wordCount": 257,
           "title": "美团因垄断被罚34亿"
         },
         {
@@ -769,15 +778,6 @@
           "publishedOn": "2021-09-30T16:10:31.000Z",
           "wordCount": 380,
           "title": "网站SSL证书出现错误和解决过程"
-        },
-        {
-          "id": "https://www.williamlong.info/archives/6573.html",
-          "author": "williamlone@gmail.com (williamlong)",
-          "description": "最近一段时间，在全球拥有上亿粉丝的顶流网红李子柒“消失”，成为网络舆论的一个热点。该事件的起因，是自七月中旬开始，她在各平台的账号均陷入长时间停更状态。\n\r\n\r\n　　在此之前，李子柒曾在社交平台上吐槽和抱怨：有网友从她“半夜被恶心到了”“大清早报了个警”等言论里，陆陆续续察觉到李子柒应该是遇到麻烦事了。而随后“资本”这个字眼的出现，则将麻烦的源头指向了她所工作的公司：杭州微念。\n\r\n\r\n　　李子柒原名李佳佳，生于1990年，四川绵阳人。据她自述，小时候因为父母离异和父亲的早逝，过得相当困难，不得不回到爷爷奶奶身边继续生活。爷爷做过乡厨，善于农活，也会编制竹器。此外，李子柒还曾和爷爷一起做木工，陪奶奶做饭，庄稼成熟时她也会下地干活。耳濡目染学到的很多东西，也成为了其日后短视频作品的重要素材。在她读小学五年级的时候爷爷去世，奶奶开始独自抚养她，生活也变得难以为继。\n\r\n\r\n　　14岁那年，李子柒辍学前往城市打拼，其间睡过公园椅子，当过服务员，还学过打碟。2012年，因为奶奶生病没人照顾，她便辞掉原来的工作，回到老家，照顾奶奶，每天陪着奶奶，做好吃的给奶奶吃。\n\r\n\r\n　　2015年底，在表弟的鼓励下，李子柒接触美拍等短视频创作平台，开始了视频内容的创作。2016年9月，微念科技创始人刘同明私信表达对李子柒视频内容的喜爱，称可以给她带来微博资源支持。后来，李子柒签约了MCN机构微念科技，粉丝数量也一路飙升。\n\r\n\r\n　　近日，有消息称李子柒在股权架构中“吃了亏”，暴露了李子柒和资本方之间潜在的冲突和矛盾。\n\r\n\r\n　　我觉得，李佳佳（李子柒）的弱点在于，她是“可复制”的，并不具备“不可替代性”，没有创造出独立的个性品牌，只是一个扮演李子柒品牌的演员而已。\n\r\n\r\n　　在公司眼中，李佳佳只是一个打工者，比她条件更好的视频博主比比皆是，企业依靠前期的风险投入来运营出一个品牌，打工者如果不能好好处理和企业的关系，那么对于一个企业来说，这就是一个不可控的巨大风险，企业也只能选择培养另一个员工来替代她。\n\r\n\r\n　　对于李佳佳来说，有两个选择，一个是继续和微念公司合作，延续原有流程继续发布视频和运营品牌，另一个是自己单干，自己创建公司运营独立品牌。\n\r\n\r\n　　如果李佳佳单干的话，可能就无法继续使用“李子柒”品牌了，因为“李子柒”的品牌和账号是由微念公司控制的，李佳佳需要自己找团队，自己开账号，一切要从零开始做起，公司的初期的投入和风险都很高，摄影、推广、运营的人工成本都需要高额的成本，一旦新品牌失败了就要赔不少钱，但如果成功了的话，李佳佳的个人收益将有可能提升一个台阶。\n\r\n\r\n　　李佳佳在原有“李子柒”品牌中的的贡献有限，基本上就是贡献了一张脸而已，连嘴都不肯张一下，编剧、导演、摄影、灯光、发布、运营、推广等等，都是公司的人做的，特别是YouTube账号的运营和推广需要极大的难度，国内公司懂海外运营的人本来就不多，海外运营其实是一项非常复杂和高成本的工作，投入的运营和推广成本非常高，其成功带有相当大的偶然性，如果李佳佳和原公司分手，那么原先公司只需要找个长得像的人继续扮演李子柒就可以继续发展下去，没有什么法律方面的问题。\n\r\n\r\n　　李佳佳的问题在于，没有创造出一个“不可复制”的个性品牌，她在“李子柒”品牌中只是贡献了一张脸，比较容易复制，如果她能够多贡献一些个性化的内容，复制起来就没那么容易了，比如“papi酱”和“美食作家王刚”这种就很难复制，另外，从烹饪专业度来说，我觉得王刚的作品比李子柒的作品不知道高到哪去了。李子柒的视频，要说专业度和质量来说，其实都不怎么样，也就是在海外红一些，国内最开始根本没人关注，李子柒YouTube频道主要针对外国人，外国人本来就是脸盲，换个演员扮演的话，外国人根本看不出来，继续在海外红下去的几率会很大。",
-          "link": "https://www.williamlong.info/archives/6573.html",
-          "publishedOn": "2021-09-30T09:03:42.000Z",
-          "wordCount": 322,
-          "title": "我看李子柒事件"
         }
       ]
     },
@@ -787,274 +787,274 @@
       "siteUrl": "http://36kr.com",
       "articles": [
         {
-          "id": "https://36kr.com/newsflashes/1435899362377349",
+          "id": "https://36kr.com/newsflashes/1436564807155332",
           "author": null,
-          "description": "银河证券指出，结合十一黄金周的消费数据来看，我们认为2021年可选渠道的向上恢复弹性空间更大，表现或优于必选消费渠道。我们继续维持2021年年度策略中“数字化”大主题、推荐可选消费的逻辑不变，alpha将成为预期收益的重要来源”的主线，重点推荐经营确定性较高、具备一定品牌影响力的制造品牌商与具备一定保价和顺价能力的渠道品牌商；同时建议关注购百、超市、专业连锁、一次性卫生用品板块内的优质标的。（一财）",
-          "link": "https://36kr.com/newsflashes/1435899362377349",
-          "publishedOn": "2021-10-11T00:32:21.000Z",
+          "description": "36氪获悉，长沙银行发布公告称，持股比例5.47%的公司兴业投资拟6个月内通过集中竞价、大宗交易方式减持所持公司不超过2200万股，即减持比例不超过总股本的0.547%。",
+          "link": "https://36kr.com/newsflashes/1436564807155332",
+          "publishedOn": "2021-10-11T11:49:17.000Z",
           "wordCount": null,
-          "title": "银河证券：2021年推荐可选消费的逻辑不变"
+          "title": "长沙银行：兴业投资拟减持公司不超0.547%股份"
         },
         {
-          "id": "https://36kr.com/p/1435895927750276",
+          "id": "https://36kr.com/newsflashes/1436533138456193",
           "author": null,
-          "description": "六个月之后，源码资本又一次宣布完成五期人民币基金的募集，规模超70亿元。这是2021年中国创投市场迄今公开的最大的单期人民币基金。在不久前的2021年4月和2020年10月，源码分别宣布完成了10亿美元和38亿人民币基金的募集。\n \n如果用募资能力定义一家机构的实力，源码在双币市场均已完成自我证明。自此，这家成立仅7年的机构资产管理规模达到350亿人民币。\n \n纵向来看，源码的规模增长曲线也十分陡峭：以人民币基金为例，其2017年三期15亿元、2020年四期达到38亿元，但五期近乎翻倍。这进一步证明，在资金溢出、好案子越来越贵的当下，头部基金的规模化已成必然。\n \n关于未来的基金投向，源码资本创始合伙人曹毅表示，“五期人民币基金募资完成后，源码有更多力量支持中小企业发展，投早、投小、投科技，推动科技创新、产业数字化、人工智能、机器人、先进制造、碳中和等领域的发展。”\n \n“双币”开花\n \n如果加上4月募集的10亿美元，源码在2021年完成的募资总额已近140亿元，占据其AUM的40%。\n \n源码资本发家于美元基金——它在成立之初的第二支基金规模为1.5亿美元。但如今人民币基金也正成为源码的募资主场。源码资本人民币基金募资负责人景雯娜表示，此次人民币基金募资工作从正式开始到完成“仅用了三个多月时间”。她同时强调：“源码将继续保持基金规模在合适的体量。”\n \n在2021年，实现如此规模的基金募集实属不易。尽管如今人们普遍认为，人民币市场会愈发转强。但总体而言，人民币出资人群体相较此前并未出现根本变化，甚至有诸多曾经声量颇大的市场化母基金也在面对资金枯竭的局面。\n \n来自CVSource投中数据显示，2020年VC/PE市场新成立基金的认缴规模共计4518亿美元、同比下滑2.8%，整体募资退回至5年前水平。这更加凸显源码此次募资规模的醒目。\n \n作为VC2.0时代的代表基金，源码…",
-          "link": "https://36kr.com/p/1435895927750276",
-          "publishedOn": "2021-10-11T00:30:13.000Z",
+          "description": "日前，中国汽车工业协会秘书长助理兼技术部部长王耀一行到长城汽车股份有限公司调研交流。双方针对区块链大数据平台、数据安全和可信存证、新能源汽车充换电问题、新能源补贴退坡、氢能市场预期、智能网联产业生态建设等热点问题开展了深入的交流，并表示希望下一步在智能网联与新能源相关领域开展更加深入的交流与合作。（证券时报）",
+          "link": "https://36kr.com/newsflashes/1436533138456193",
+          "publishedOn": "2021-10-11T11:17:04.000Z",
           "wordCount": null,
-          "title": "源码资本又完成超70亿人民币募集，这些钱要怎么投？"
+          "title": "中汽协秘书长助理王耀带队赴长城汽车交流"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435896465260165",
+          "id": "https://36kr.com/newsflashes/1436531795361408",
           "author": null,
-          "description": "36氪获悉，中国电力发布公告称，就资产重组建议，经与吉电股份进行多轮讨论和谈判并咨询外部专业顾问后，本公司与吉电股份未能就交易的核心条款达成完全一致。为了本公司、吉电股份及各自股东的利益，双方同意终止资产重组建议。",
-          "link": "https://36kr.com/newsflashes/1435896465260165",
-          "publishedOn": "2021-10-11T00:29:25.000Z",
+          "description": "吉林省相关部门介绍，目前吉林电力供需基本上达到了平衡。截至目前，吉林22家主力电厂库存159万吨，比最低时增加60万吨，库存7天以下电厂全部“清零”。 （证券时报）",
+          "link": "https://36kr.com/newsflashes/1436531795361408",
+          "publishedOn": "2021-10-11T11:15:42.000Z",
           "wordCount": null,
-          "title": "中国电力：终止资产重组建议与吉电股份未能就交易核心条款达成完全一致"
+          "title": "库存7天以下电厂全部“清零”，吉林电力供需实现基本平衡"
         },
         {
-          "id": "https://36kr.com/p/1435210519101058",
+          "id": "https://36kr.com/newsflashes/1436508808298115",
           "author": null,
-          "description": "文 | 姚兰\n \n36氪独家获悉，家庭健身科技品牌「Yesoul野小兽」近日已完成过亿人民币A轮融资，本轮由小米集团领投，顺为资本与清科创投跟投，TEM资本以及青桐资本担任本轮财务顾问。随着小米集团的投资，「Yesoul野小兽」也正式成为小米旗下生态链企业。\n \n据了解，「Yesoul野小兽」本轮所募集资金将主要用于智能硬件新品开发、优化供应链体系、强化线上课程内容以及开拓海外市场等方面。\n \n「Yesoul野小兽」成立于2015年，通过“硬件+内容”的模式，从居家场景切入为用户提供专业且有趣的健身服务。\n \n创始人兼CEO骆少猛有着20年健身行业经验，曾任知名健身设备品牌舒华VP。核心成员主要来自传统硬件领域和互联网行业，在硬件技术开发、软件技术规划和管理、课程研发、用户运营等方面拥有多年经验。\n \n产品方面，2017年推出智能家用动感单车，同年上线YESOUL APP为用户提供专业在线内容，以软硬件结合的优势迅速打开市场；2019年，推出智能家用跑步机；2020年，推出智能划船机。据生意参谋和京东商智2021年1-6月数据显示，2021上半年「Yesoul野小兽」动感单车销售额在天猫与京东双渠道均位居该品类第一。\n \n\n \n野小兽智能动感单车S1\n \n内容方面，据介绍「Yesoul野小兽」每年课程生产可达3000堂，完播率达87.3%，用户周均训练近4次，单次平均训练时长27分钟。\n \n健身行业正在经历洗牌与重塑\n \n“十四五”重点建设体育强国，数字化、智能化、多元化健身时代即将到来。\n \n据相关数据显示，2020年我国健身房市场规模超过1200亿元，与此同时，健身设备市场规模达到526亿元，在线健身产品市场规模达到1749亿元，在线健身产品市场规模迅速增长。截至2020年底，中国健身行业的健身会员数约为7029万(不含港澳台)，中国的健身人口渗透率为5.02%，与欧美…",
-          "link": "https://36kr.com/p/1435210519101058",
-          "publishedOn": "2021-10-11T00:28:07.000Z",
+          "description": "36氪获悉，通富微电发布公告称，预计2021年前三季度归母净利2.79亿元-3.19亿元，同比增长85.66%-112.26%；预计第三季度盈利6.8亿元-7.2亿元，同比增159.73%-175.01%。",
+          "link": "https://36kr.com/newsflashes/1436508808298115",
+          "publishedOn": "2021-10-11T10:52:19.000Z",
           "wordCount": null,
-          "title": "36氪独家 | 家庭健身科技品牌「Yesoul野小兽」获过亿人民币小米领投A轮融资，为健身人群提供更加愉悦的运动体验"
+          "title": "通富微电：预计前三季度净利润同比增86%-112%"
         },
         {
-          "id": "https://36kr.com/p/1435890501992069",
+          "id": "https://36kr.com/p/1436424440659586",
           "author": null,
-          "description": "多家企业驰援山西，阿里系、腾讯、百度、字节等捐款已超3亿。\n \n\n \n安居客\n \n36氪获悉，港交所信息显示，安居客此前递交的IPO招股书已呈“失效”状态。目前，相关申请资料已不支持阅览或下载。\n \n联想集团\n \n36氪获悉，联想集团日前在港交所发布公告称，提交上市申请材料后，考虑到公司业务规模及复杂度，招股说明书中的财务信息可能会在申请的审阅过程中过期失效。同时，审慎考虑最新发行上市等资本市场相关情况后，本公司决定撤回中国存托凭证于科创板上市及买卖的申请。集团业务运营状况良好，撤回申请将不会对本集团的财务状况造成任何不利影响。\n \n\n \n多家企业驰援山西，阿里系、腾讯、百度、字节等捐款已超3亿\n \n新华社10月10日报道，据山西省应急管理厅消息，山西近期严重洪涝灾害已致全省11个市76个县（市、区）175.71万人受灾。针对受灾情况，多家互联网科技企业宣布对山西受影响地区进行捐赠。据不完全统计，阿里系、腾讯、百度、字节等公司捐款金额已超3亿元。（澎湃新闻）\n \n\n \n针对陕西、山西严重洪涝灾害，国家减灾委、应急管理部启动国家Ⅳ级救灾应急响应\n \n从应急管理部获悉，10月9日12时，国家减灾委、应急管理部针对陕西、山西两省近期严重洪涝灾害，启动国家Ⅳ级救灾应急响应，派出工作组赶赴灾区实地查看灾情，指导和协助地方做好受灾群众转移安置和基本生活救助等工作。（人民网）\n \n网友曝美团 App iOS 版 24 小时不间断定位，每 5 分钟请求一次\n \niOS 15 系统新增的 “ 记录 App 活动 ” 功能可以对应用获取存储、通话记录、定位等数据的行为进行监控，详细记录。有网友今日发布一段视频，展现了美团 App iOS 版连续 24 小时不间断获取定位的行为。美团 App 从 10 月 6 日起便开始获取位置信息，频率高达每 5 分钟一次。这一行为一直持续到 10 月 8 日…",
-          "link": "https://36kr.com/p/1435890501992069",
-          "publishedOn": "2021-10-11T00:25:08.000Z",
+          "description": "10月11日，据万达官微消息，万达集团董事长王健林接下中国一汽董事长徐留平交给的红旗轿车钥匙后，表示他要亲自带头万达副总裁以上高管，全部换乘红旗汽车。\n \n这一幕发生在万达与一汽的合作签约仪式上。\n \n据悉万达将与红旗及红旗伙伴共同成立汽车服务公司，依托万达旗下商业广场和文旅项目，在全国范围内建设“全新红旗商超体验店”，未来将建设“红旗万达智慧社区”。\n \n此前，万达集团和中国一汽于8月20日在长春签署了战略合作协议。从官方消息来看，早在7月14日，红旗经销商泰岳集团曾发布消息称，一汽红旗、万达集团、泰岳集团在北京进行战略合作会谈，三方初步达成合作意向。\n \n万达不是第一次涉足汽车相关领域，2016年曾投资入股银隆新能源。天眼查显示，目前万达集团仍持有银隆新能源3.73%股份，是银隆新能源的第六大股东。",
+          "link": "https://36kr.com/p/1436424440659586",
+          "publishedOn": "2021-10-11T10:49:54.000Z",
           "wordCount": null,
-          "title": "8点1氪｜多家互联网公司驰援山西捐款超3亿；美团APP被曝24小时不间断获取定位；57％网友暂不升级Win11系统"
+          "title": "王健林称其本人和万达高管全部换乘红旗汽车"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435892074167939",
+          "id": "https://36kr.com/newsflashes/1436499113442948",
           "author": null,
-          "description": "今年以来，在全球货币宽松和经济复苏共振下，大宗商品价格整体出现较大幅度上涨，同时也带动了A股周期板块走强。以动力煤为首的黑色系商品持续表现强势。其中，动力煤主力合约2201期价年内最高涨幅已逾140%，创出了上市以来的新高。多家机构分析认为，四季度即将迎来煤电需求高峰，且今年拉妮娜现象导致冷冬出现较早，煤电需求的爆发力预计将更强，煤炭和电力的保供压力不小，预计周期类资产仍会表现出强势行情。（证券日报）",
-          "link": "https://36kr.com/newsflashes/1435892074167939",
-          "publishedOn": "2021-10-11T00:24:57.000Z",
+          "description": "据媒体报道，近日，广东省食药监局发布广东省医疗器械注册人制度试点批准产品名单（截至2021-10-8），华为腕部单导心电采集器正式批准生产，受托人为歌尔股份有限公司以及潍坊京为高科电子科技有限公司。除腕部单导心电采集器外，华为还有三款医疗器械进入优先审批程序。分别是腕部心电血压记录仪（MLY-B10、MLY-B11）、心电分析系统（ECG-1）、心率失常分析系统（PPG-1）。（经济网）",
+          "link": "https://36kr.com/newsflashes/1436499113442948",
+          "publishedOn": "2021-10-11T10:42:27.000Z",
           "wordCount": null,
-          "title": "动力煤期价年内最高涨逾140% 四季度机构仍看好周期类资产"
+          "title": "华为正式获批开始生产医疗器械"
         },
         {
-          "id": "https://36kr.com/p/1416517580904064",
+          "id": "https://36kr.com/p/1436458203627136",
           "author": null,
-          "description": "过去十年，随着科技的更迭演进，产业互联网浪潮悄然兴起。美团、贝壳、滴滴相继在食、住、行三大场景中打造出了一个基础设施平台，实现了相应产业链流程的标准化与可复制化。\n \n然而，这仅仅是一个开始，更深入的改造仍在继续。“医食住行”四大场景中，门槛最高、最难实现数字化的医药产业也在慢慢发生变革。\n \n近年来，随着医药改革迈入深水区，医药供应链的扁平化进程也正在提速，渠道下移成为必然，控费降价成为行业共识。尤其是院外零售市场，由于市场格局分散，流通环节中存在着大量不同层级、不同服务能力的中间商，各个市场主体都面临效率低、成本高的压力。 \n \n上述市场特征也使得医药流通领域尤其适合产业互联网涉足——从链接、撮合，线下转线上，实现交易流程数字化开始，再深入至从生产到流通到零售的各个环节，让每一个环节都更高效、更简单。\n \n为此，医药智慧供应链综合服务平台药师帮在这一过程中做出了诸多尝试。在今年9月��办的西普会上，药师帮官方给出了一组数据，目前平台已覆盖超40万家用户，合作3000家品牌/服务商，可售SKU达300万个，覆盖超2000个县市，单月最高交易额达30亿元，年交易额超过300亿元。\n \n\n \n图片来源：企业官方\n \n药师帮CEO张步镇介绍到，从2015年公司创立之初，国内医药流通行业被国药控股、九州通、华润等行业龙头牢牢把控，“防守相当严密”，互联网企业即便烧钱也很难生存。基于此，药师帮将视角锁定在了基层医疗/农村市场，截至到目前药师帮依然没有进入上海，在北京则才开完仓。\n \n相当零散且对价格敏感的基层市场决定了其互联网化和规模化覆盖的难度。张步镇透露，目前在药师帮平台上平均订单值也只在800元左右，常常是300-400元。如何在这样低的订单额（涵盖快递费用）下让供应商有钱赚、且药店还觉得便宜？解题密码在于要真正做到效率优先。\n \n \n \n首先，上游供应链的改造。据悉，药师帮花了4年时间将供应链仓库从原来几千块钱一个单拆成几百块钱，通过高效地物流分拣、顺丰快递快速发货，把发票、订单全部电子化，提高了上游的整体效率。值得一提的是，在西普会上，药师帮还与白云山、碧生源、华润三九、上海医药等10多家工业药企达成合作。\n \n \n其次，下游能效的提升。张步镇介绍到，公司目前培养了3000个全职BD跑全国县级市场，一个BD一天要进八家店，平均一个月要进220家店，每家店的闭环检查全在移动互联网上完成，提高整体的管理效率。\n \n \n最后，降低药店门槛。通过下级终端SaaS系统布局的逐渐密集，药师帮目前可以快速给药店授信，额度数十万不等，药店可直接在平台下单，从而增加整个系统运转效率。\n \n \n具体在产业互联网的实践上，张步镇认为，主要有四个阶段：首先是软件化，很早以前大部分公司就基本完成了，但容易形成孤岛；紧接着，在线化便非常有必要，一旦在线化整个系统就跟身体一样，任何一个地方出现了问题就会快速传到大脑并不断更新，围绕着消费者转；然后，一旦围绕着消费者转就是数字化，即实现精确度量，譬如通过在诊所投放数字化检测设备等；最后，则是智能化。\n \n举例来看，现在药师帮在全国有21个自营分仓，平台有超过100亿是通过自营分仓往外发货，采购人员买什么、从哪里买、什么价格买、这一批次要买多少货全部都是系统定义的，如果有差错下一轮就会不断地更新迭代，不需要采购总监盯着。\n \n据张步镇介绍，基于上述机制，药师帮基本所有分仓库存周转可以达到20天左右，整个仓大约管理着六千到七千个SKU也较少出现长滞销库存。 在用户行为特征方面，数据显示，线上用户呈现“高频”特征，其中零售药店平均每月下单次数超过30次，即一天1单，连锁总部更是达到了一天2-3单的频次。\n \n此外，药师帮也在探索一些新的C端营销形式，譬如“直播”、“拼团”等，因用户决策路径短，目前这类模式已被30-45岁的线上采购用户群体所广泛接受。 \n \n时至今日，药师帮也依然将目光锁定在30家店以下的小连锁，今年开始慢慢覆盖一些中大型连锁采购，诊所也在加紧布局。张步镇透露，公司的最终目标是服务国内50万个药店，并为基层诊所提供检测和辅助诊疗服务，成就30个亿级的新爆品。",
-          "link": "https://36kr.com/p/1416517580904064",
-          "publishedOn": "2021-10-11T00:24:24.000Z",
+          "description": "作者：李亚静\n \n编辑：石亚琼\n \n5G新应用\n \n武汉市8条地铁线路实现移动5G网络全覆盖\n \n近日，中国移动湖北公司完成了武汉市地铁全线网总共209座车站5G覆盖，覆盖总运营里程超300千米，武汉市轨交线网全面迈入5G时代。根据现场测试，车站平均上行速率达120Mbps、下行速率达900Mbps，远高于现有4G网络平均速率。据了解，为了让乘客在地铁站台和飞驰的车厢上均体验到优质5G服务，湖北移动工作人员创新组网模式，通过数字化室分等手段，采用分布式5G皮基站覆盖���铁站台优化站台和隧道的5G网络质量。和4G基站相比，5G皮基站带宽更宽，通道数更多，容量更高，时延更低，能够让5G信号覆盖到地铁的每一个角落。\n \n→《武汉市8条地铁线路实现移动5G网络全覆盖》\n \n广西首台5G+网联无人机实现空中警务巡逻\n \n今年国庆期间，北海移动投入全广西首台5G网联无人机，联合北海市公安局启动“陆空一体化”警务巡逻模式，对银滩景区重要路段、海岸线开展“空中巡逻+空中执法”工作，利用5G网联无人机自动巡航、远程喊话功能等创新应用，及时纠正非法游艇载客、道路交通违法行为，疏导交通拥堵区域。据介绍，5G网联无人机是基于中低空5G网络连续覆盖条件下，实现5G网络信号替代飞手控制无人机信号，并通过中国移动自主研发的凌云无人机网联平台实现航线规划、数图同步实时互控功能，实现超视距范围内无人机远程调度与控制，以及区域内无人化、常态化的警务巡查。利用5G网络切片、边缘计算等能力，北海移动将人工智能等技术与警务管理有机结合，自主规划航线地理侦查，有效提高侦查效率、保护居民生命财产安全，对推动公安警务行业向数字化转型、构建智慧城市有着积极的意义。\n \n→《广西首台5G+网联无人机助力北海交通》\n \n阿拉善首个5G应用项目落地额济纳旗大漠胡杨林景区\n \n据了解，至2020年9月底，额济纳旗大漠胡杨林景区5…",
+          "link": "https://36kr.com/p/1436458203627136",
+          "publishedOn": "2021-10-11T10:39:08.000Z",
           "wordCount": null,
-          "title": "覆盖40万家机构、2000个县市，「药师帮」如何实践医药产业互联网？"
+          "title": "武汉市8条地铁线路实现移动5G网络全覆盖；广西首台5G+网联无人机实现空中警务巡逻 | 36氪5G创新日报1011"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435890975227522",
+          "id": "https://36kr.com/newsflashes/1436492124241543",
           "author": null,
-          "description": "中金公司发文称，2021年8月，NOAA宣布拉尼娜现象有再次上演的迹象，气候再次反转在即。拉尼娜气候可能引发得寒冷天气或将利好能源、煤炭、纺服化纤、尿素化肥等相关产业链，加剧市场对冬季能源短缺的担忧，在一定程度上推升天然气、取暖油、煤炭、棉纺织、化肥等大宗商品价格。（证券时报）",
-          "link": "https://36kr.com/newsflashes/1435890975227522",
-          "publishedOn": "2021-10-11T00:23:50.000Z",
+          "description": "36氪获悉，微信正式发布iOS8.0.15新版本，再次升级微信青少年模式，上线“监护人授权”新功能。据官方介绍，开启该功能后，青少年们将能够根据实际生活、学习需要远程申请监护人授权，以访问公众号文章、小程序、链接以及延长视频号使用时间。监护人可通过个人微信账号远程对申请进行授权操作。",
+          "link": "https://36kr.com/newsflashes/1436492124241543",
+          "publishedOn": "2021-10-11T10:35:21.000Z",
           "wordCount": null,
-          "title": "中金公司：拉尼娜气候或将加剧大宗商品价格波动"
+          "title": "微信青少年模式新增“监护人授权”功能"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435890036915840",
+          "id": "https://36kr.com/newsflashes/1436487154138758",
           "author": null,
-          "description": "字节跳动的视觉技术负责人王长虎已于近期离职。据官方介绍，王长虎于2017年加入字节跳动人工智能实验室，任科学家、技术总监，其主要研究方向包括计算机视觉、视频理解、多媒体检索和机器学习等。在担任人工智能实验室总监一职达3年之久后，王长虎于今年1月担任字节跳动的视觉技术负责人。（Tech星球）",
-          "link": "https://36kr.com/newsflashes/1435890036915840",
-          "publishedOn": "2021-10-11T00:22:52.000Z",
+          "description": "据商务部消息，近日，商务部与中国进出口银行签署关于推进商务高质量发展，服务构建新发展格局的战略合作协议。根据协议，商务部发挥政策协调优势，进出口银行发挥融资优势，双方围绕商务工作在构建新发展格局中的“三个重要”新定位，强化政策协同、信息共享和资源互补，促进企业、项目和金融资源精准对接，加强金融支持实体经济力度，共同推进“十四五”商务高质量发展。（上证报）",
+          "link": "https://36kr.com/newsflashes/1436487154138758",
+          "publishedOn": "2021-10-11T10:30:17.000Z",
           "wordCount": null,
-          "title": "字节视觉技术负责人王长虎离职，曾任人工智能实验室总监"
+          "title": "商务部与中国进出口银行签署促进商务高质量发展，服务构建新发展格局战略合作协议"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435887214739072",
+          "id": "https://36kr.com/newsflashes/1436486278495872",
           "author": null,
-          "description": "东北证券指出，产品提价和结构调整，可以化解原材料价格上涨压力；预计白电企业三季报盈利能力有明显增强，毛利率和净利率水平有望提升。市场担心白电需求受地产的负面影响。作为地产后周期板块，家电确会受地产影响，但需求一般滞后地产3-4个季度，目前需求仍比较旺盛。当前白电估值处在底部位置，现在配置具有一定的性价比，预计四季度会有估值修复以及估值切换的行情。（第一财经）",
-          "link": "https://36kr.com/newsflashes/1435887214739072",
-          "publishedOn": "2021-10-11T00:20:00.000Z",
+          "description": "36氪获悉，京威股份发布公告称，公司计划投资建设10GWh锂电池项目，锂电池产品将应用于新能源车动力系统和储能系统。本次投资为一期工程，年产能为2GWh，建设期12个月，项目投资额8亿元。",
+          "link": "https://36kr.com/newsflashes/1436486278495872",
+          "publishedOn": "2021-10-11T10:29:24.000Z",
           "wordCount": null,
-          "title": "东北证券：白色家电行业将迎来估值修复机会"
+          "title": "京威股份：拟投资建设10GWh锂电池项目"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435885333315201",
+          "id": "https://36kr.com/newsflashes/1436481539817093",
           "author": null,
-          "description": "天风证券研报认为，四季度行业投资机会更聚焦在能够提高附加值、顺应产业升级趋势的细分领域。四季度相对利好的是能够向外转移成本压力的出口优势性行业，和受益于国内流动性宽松的内需成长性行业。相对利空的是定价能力弱、成本敏感的中游制造业，对内需衰退敏感的消费周期类行业，和对海外流动性敏感的部分板块。（证券时报）",
-          "link": "https://36kr.com/newsflashes/1435885333315201",
-          "publishedOn": "2021-10-11T00:18:05.000Z",
+          "description": "36氪获悉，IDC最新数据显示，2021年第三季度全球PC市场出货量达到8670万台，同比增长3.9%，连续第六个季度实现增长。其中，联想集团出货1977万台，同比增长3.1%，市占率22.8%蝉联第一位；HP出货量1760万台，同比下降5.8%，市占率20.3%。",
+          "link": "https://36kr.com/newsflashes/1436481539817093",
+          "publishedOn": "2021-10-11T10:24:35.000Z",
           "wordCount": null,
-          "title": "天风证券：四季度投资机会聚焦能够提高附加值的细分领域"
+          "title": "IDC：三季度全球PC市场出货量8670万台，连续第六个季度实现增长"
         },
         {
-          "id": "https://36kr.com/p/1435225509199495",
+          "id": "https://36kr.com/p/1436460427918977",
           "author": null,
-          "description": "文 | 姚兰\n \n36氪获悉，个护品牌「IS是否」近期已完成数千万人民币A轮融资，由鲲智资本领投，传化资本和为来卓识资本跟投，青桐资本担任独家财务顾问。据了解，本轮融资将主要用于研发投入、多产品线拓展、品牌建设以及人才引进等。\n \n「IS是否」成立于2019年，定位“专注VC美白的潮牌美妆个护品牌”。2020年6月天猫旗舰店正式上线，现已推出15款SKU，据称用户复购率达到15%（个护行业平均复购率在10%左右）。\n \n创始人米卡告诉36氪，肌肤是与外界接触最多的器官，人们每天所产生的情绪都会通过肌肤不良症状表现出来，而很早就感受到虚拟与现实世界落差的Z世代，总有许多要独自面对的情绪。对于他们来说，在私密、轻松、自由的空间，通过具有仪式感的洗澡带来的自我与肌肤的双重情绪释放，是生活里必不可少的“做回自己时刻”。这也是「IS是否」希望通过产品带来的体验。\n \n根据英敏特针对沐浴用品&身体护理市场规模预测，2021-2025年预估中国市场规模是400-510亿，新品牌的成长空间很大。\n \n在产品研发端，「IS是否」洞察到当代年轻人的“新护肤观” —— 从“面部焦点”转移到“全身变美”需求，身体护理和面部��理变得同等重要。「IS是否」专注于VC身体美白，已覆盖品类包含沐浴露、磨砂膏、身体乳等，以及手部美白的手膜、护手霜，后续也会陆续上线颈部美白等产品线，从全身美白到局部美白，全面覆盖身体美白需求。\n \n\n \n图片由企业提供\n \n据团队介绍，「IS是否」自主研发“珍珠微囊包裹技术”， 将VC整理包裹成一颗一颗珍珠，置于沐浴露中。使用时随压泵头挤出，珍珠瞬间爆开激发活性，即用即鲜，较好发挥了VC的美白功效。以此专利技术为核心，「IS是否」不断研发以VC为主打成分，辅以其他偏酸性美白成分的新品。\n \n个护领域如何打造爆款产品？在米卡看来，需要为用户提供“不可取代的产品体验”。这就为团队提出了三种能力的要求：第一，提高消费者洞察能力，及时对市场变化做出快速反应；第二，持续稳定的产品迭代能力；第三，有节奏的品牌运营能力，在品牌发展的初期、中期、后期做对应的、有侧重的事。\n \n据CBNData联合天猫国际发布的《天猫国际个护家清行业消费洞察报告》显示，年轻一代消费者对于沐浴体验更加注重，是追求沐浴高阶享受的主力人群。其中，香氛身体洗护产品消费增长稳定，其独特的香味甚至成为一些洗护产品的主要卖点。「IS是否」选择与拥有171年历史的法国罗伯特香精公司合作，采用专业调香技术，定制低调小众的香氛，希望给用户带来不一样的沐浴护理体验。\n \n营销层面，「IS是否」倾向于用跨界联名，触达更多用户。与日本人气动漫kobitos的联名就是一次有效的尝试。未来，「IS是否」将继续围绕“情绪释放”的品牌核心理念，探索其他联动玩法。\n \n\n \n图片由企业提供\n \n团队方面，创始人米卡曾是央企零售品牌负责人、上市鞋服品牌负责人、国货头部彩妆品牌电商负责人，有13年零售快消行业经验；其他核心成员在产品研发、电商运营、品牌策划等方面也拥有多年经验。",
-          "link": "https://36kr.com/p/1435225509199495",
-          "publishedOn": "2021-10-11T00:14:53.000Z",
+          "description": "大公司\n \n联想集团回应撤回科创板上市申请：财务信息可能在申请审阅过程中过期失效\n \n36氪获悉，联想集团日前在港交所发布公告称，提交上市申请材料后，考虑到公司业务规模及复杂度，招股说明书中的财务信息可能会在申请的审阅过程中过期失效。同时，审慎考虑最新发行上市等资本市场相关情况后，本公司决定撤回中国存托凭证于科创板上市及买卖的申请。集团业务运营状况良好，撤回申请将不会对本集团的财务状况造成任何不利影响。\n \n脉脉：人工智能相关职位数较年初增加50%\n \n36氪获悉，脉脉人才大数据显示，2021年以来，人工智能行业人才供求数量环比呈连续增长趋势，相关职位数较年初增加50%。商汤、科大讯飞、数美成为2021年AI人才吸引力最强的三家人工智能企业。此外，在第三季度脉脉人工智能百万年薪岗位中，技术类职位占比超90%，CTO薪水远超其它C-level岗位。\n \nTCL科技：24.54亿元收购苏州华星30%股权\n \n36氪获悉，TCL科技发布公告称，为增强公司在半导体显示产业的领先优势，公司子公司TCL华星光电技术有限公司近日通过苏州市公共资源交易中心以 24.54亿元公开摘牌获得苏州华星光电技术有限公司30%股权，并与苏州工业园区国有资本投资运营控股有限公司签署《股权转让协议》。交易完成后，苏州华星成为TCL华星的全资子公司。\n \n欧拉余飞调任WEY轿车品牌总经理，长城重启轿车从WEY开始\n \n36氪获悉，近日，从多处消息人士获悉，长城汽车欧拉品牌营销总经理余飞发生岗位变动，将调往长城旗下高端品牌WEY品牌任轿车品牌总经理。这也意味着长城汽车WEY品牌轿车项目已箭在弦上。消息人士称，就像长城汽车董事长魏建军器重文飞（现任长城汽车沙龙智行CEO），余飞也将挑起大梁。对此，WEY品牌方面表示，暂时不方便透露消息。\n \n国美零售：与国美管理订立管理服务框架协议\n \n国美零售发布公告披露与国…",
+          "link": "https://36kr.com/p/1436460427918977",
+          "publishedOn": "2021-10-11T10:22:13.000Z",
           "wordCount": null,
-          "title": "36氪首发 | 从浴室场景切入解决“肌肤情绪”问题，个护品牌「IS是否」完成数千万人民币A轮融资"
+          "title": "氪星晚报｜脉脉：人工智能相关职位数较年初增加50%；Facebook将试图“推动”青少年远离有害内容；国家药监局开展化妆品“线上净网线下清源”专项行动"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435881951854208",
+          "id": "https://36kr.com/newsflashes/1436464243981952",
           "author": null,
-          "description": "在顺利完成跨季跨节之后，本周将迎来万亿元央行资金到期回笼，市场资金面直面10月首个考验。分析人士指出，跨季后资金面迅速回暖，货币市场利率显著回落，央行通过存量逆回购到期回笼部分资金，可避免流动性过度投放，符合货币政策稳健取向。复杂形势下，货币调控须审时度势，但维持流动性合理充裕仍相当确定，预计10月公开市场操作先收后放，周内MLF操作值得关注。 (中证网)",
-          "link": "https://36kr.com/newsflashes/1435881951854208",
-          "publishedOn": "2021-10-11T00:14:39.000Z",
+          "description": "据诺贝尔奖官网消息，2021年诺贝尔经济学奖于北京时间10月11日正式揭晓，由David Card，Joshua D. Angrist和 Guido W. Imbens获得。（参考消息）",
+          "link": "https://36kr.com/newsflashes/1436464243981952",
+          "publishedOn": "2021-10-11T10:06:59.000Z",
           "wordCount": null,
-          "title": "万亿资金本周到期回笼，公开市场操作料先收后放"
+          "title": "2021年诺贝尔经济学奖揭晓"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435876846108289",
+          "id": "https://36kr.com/newsflashes/1436455786069636",
           "author": null,
-          "description": "日前，国家市场监督管理总局依法对美团在中国境内网络餐饮外卖平台服务市场实施“二选一”垄断行为作出行政处罚。此次对美团开出高达34.42亿元的罚单，是继市场监管总局今年4月份对阿里巴巴集团控股有限公司作出反垄断处罚后，在平台经济领域采取的又一次重大反垄断执法行动，是“立规矩、儆效尤”，透露出强化平台经济反垄断监管的强烈信号，并且这种监管将会呈现出系统化、常态化的态势。（证券日报）",
-          "link": "https://36kr.com/newsflashes/1435876846108289",
-          "publishedOn": "2021-10-11T00:09:27.000Z",
+          "description": "乘联会统计，9月第五周车市零售达到日均11.3万辆，同比下降13%，表现相对偏弱。本周相对今年8月的第五周增长26%。随着国内的疫情防控进入新的平稳阶段，购车需求相对旺盛，经销商的卖车数据月初较强。新能源车出现爆发增长，环比增长动力强，A00级和A0级电动车的市场表现较好。（证券时报）",
+          "link": "https://36kr.com/newsflashes/1436455786069636",
+          "publishedOn": "2021-10-11T09:58:23.000Z",
           "wordCount": null,
-          "title": "证券日报评美团垄断被罚：立规矩明底线，平台经济反垄断强监管信号强烈"
+          "title": "乘联会：9月第五周车市零售同比下降13%"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435873799175814",
+          "id": "https://36kr.com/newsflashes/1436450808774273",
           "author": null,
-          "description": "中金公司指出，当前汽车产业电动化程度不断加深，并开始向智能化和网联化拓展。智能化和网联化双轮驱动，不仅成为实现高阶自动驾驶的必要条件，也演化为行业未来科技创新和消费升级的方向。我们看好在车联网领域具备先发优势的整车企业和快速崛起能力的配套零部件企业，建议关注具有技术领先优势和快速迭代能力的企业。（第一财经）",
-          "link": "https://36kr.com/newsflashes/1435873799175814",
-          "publishedOn": "2021-10-11T00:06:21.000Z",
+          "description": "据国外媒体报道，谷歌准备在本月晚些时候推出一个名为“ Pixel Pass”的新订阅包。据知情人士透露，Pixel Pass是一项基于订阅的服务，将Pixel手机与类似Apple One的谷歌高级订阅合集与延长保修捆绑在一起。文件显示它将在购买Pixel设备时通过Google Fi和谷歌商店出售。（TechWeb）",
+          "link": "https://36kr.com/newsflashes/1436450808774273",
+          "publishedOn": "2021-10-11T09:53:19.000Z",
           "wordCount": null,
-          "title": "中金公司：看好在车联网领域具备先发优势的整车企业和快速崛起能力的配套���部件企业"
+          "title": "报道称谷歌将推出“Pixel Pass”订阅服务"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435873373929096",
+          "id": "https://36kr.com/newsflashes/1436446238703241",
           "author": null,
-          "description": "随着国庆结束，飞天茅台价格趋势得以完整呈现。10月10日，飞天茅台延续国庆期间平稳态势，终端价在2800元/瓶上下浮动，甚至“到今年春节前飞天茅台价格估计会保持稳定了”的声音频繁出现。业内专家指出，茅台加大直供渠道合作范围在一定程度上遏制了价格持续上涨。（北京商报）",
-          "link": "https://36kr.com/newsflashes/1435873373929096",
-          "publishedOn": "2021-10-11T00:05:55.000Z",
+          "description": "36氪获悉，长城汽车发布公告称，公司9月销售100022台，同比下降15.1%；1-9月累计销售884045台，同比增长29.87%。9月海外销售11437台，1-9月累计销售97946台。9月新能源车销售12770台，1-9月累计销售84731台。",
+          "link": "https://36kr.com/newsflashes/1436446238703241",
+          "publishedOn": "2021-10-11T09:48:40.000Z",
           "wordCount": null,
-          "title": "茅台旺季价格挥别3000元"
+          "title": "长城汽车：9月销售100022台，同比下降15.1%"
         },
         {
-          "id": "https://36kr.com/p/1416567080736387",
+          "id": "https://36kr.com/newsflashes/1436441458884228",
           "author": null,
-          "description": "作者 | 咏仪\n \n编辑 | 苏建勋\n \n36氪获悉，「神州云合」宣布近期完成B轮融资，麦星投资及嘉实投资领投，老股东红杉中国、IDG资本跟投。本轮融资将用于新产品研发、销售体系及市场推广，以及服务体系建设。\n \n此前，神州云合曾获得红杉中国数千万A轮融资、IDG的A+轮融资，以及普华资本数千万元Pre-A轮融资。\n \n企业纳税申报分为一般纳税人和小规模企业，对于一般纳税人而言，每月都要进行纳税申报。如果是一个集团企业，各类业务系统已经非常复杂，并且下属每一个子公司都需要有专人进行手动纳税申报，这就是一个数十人甚至上百人的团队。而各地各省市的申报规则都有很大不同，流程复杂，需要耗费大量人力和时间。\n \n成立于2016年的神州云合正是瞄准纳税申报这一核心环节，为企业提供Saas产品，以及延伸的财税相关服务。2019年，神州云合正式推出了财云通平台，服务大企业客户。\n \n神州云合创始人兼CEO周奇兵对36氪表示，在公司创立前五年，神州云合均是投入到自动纳税申报的研发当中，直到去年正式搭建起了覆盖全国36税区、全税种、全行业的复杂系统。\n \n“尽管国地税合并，但由于税种不同，各企业申报的场景也不同，每个月地方的申报规则变化频繁，所以建设自动化系统的门槛很高。”周奇兵表示。而神州云合的核心成员均来自财税、支付和供应链领域，主要来自阿里、安永、SAP、HP、用友、金蝶等团队，曾参与国家税务总局的金税工程以及纳税申报标准建设，团队在财税行业均有十年以上从业经验，积累了大量纳税申报行业经验。\n \n直到去年，周奇兵认为团队真正搭建起纳税申报的“高速公路1.0，能够让服务的大型集团客户能够几乎全自动地完成纳税申报工作，包括税务申报表核对、凭证录入及核销，分子公司的信息采集、底稿制作及修改、应缴实缴核对等环节均可自动完成，申报人员一键式即可生成申报表、财务报表和完税凭证等档案直接归集到集团“。\n \n此后，从去年到现在，神州云合在纳税申报SaaS平台的基础上拓展了更多功能，包括从全税种申报表到所得税汇算清缴申报、重点税源申报、纳税风险管控等功能，税种也进一步增加，包括个人所得税申报等等，产品正式迭代至2.0版本，定位财税综合性服务云平台，包括五大云——税务云、费控云、发票云、协同云、资金云，能够实现业务、财务、税务、发票、资金管理无缝衔接和数据共享。\n \n在商业化落地层面，去年在销售投入较少的情况下，神州云合已经服务多个大型企业客户，包括安踏、理想汽车、碧桂园、汇丰银行、银河证券等行业龙头客户。此外，对于中小客户，神州云合亦有相应产品和解决方案。\n \n大型客户业务复杂，内部IT结构也一样，SaaS产品很难标准化就一套走天下，不过周奇兵表示，由于财税申报系统相较一般SaaS产品而言通用型较高，并且当前神州云合的产品标准化程度已经较高，服务大型客户时很多时候都只需要很少人员即可沟通并实施完成。交付团队通过自研的ETL工具，以及标准接口、API等方式，能够显著提高现场交付效率。\n \n财税自动化、一体化和智能化是近年来的创业热门赛道，不少创业公司都以财务共享中心或者自动化SaaS平台等产品入局。对于市场竞争，周奇兵表示，当前发票自动化市场已成红海，玩家众多，但神州云合更关注纳税申报自动化环节，进销项发票管理只是神州云合的其中一个功能模块。并且，纳税申报环节联通企业内部财务系统以及外部的税务局等机构，业务关系复杂，业务和系统建设壁垒都很高。\n \n谈及本轮融资后发展计划，周奇兵表示，公司首先会进一步完善销售体系，并在医疗、地产、金融等重点行业继续拓展龙头客户。而在产品层面，近期产品也已经迭代至2.0版本，神州云合在下半年也会继续做延伸功能，加大研发。\n \n麦星投资高级合伙人邬炜表示，神州云合的产品复杂度极高，是天生的SaaS产品，可以很好的解决企业客户在业财税一体化进程中面临的问题。目前，神州云合的产品已经帮助国内数十家头部集团企业实现财税工作的系统化、自动化和智能化工作。我们看到了神州云合伴随最优秀的中国企业客户共同成长，也很荣幸有机会伴随神州云合共同成长。\n \n嘉实投资CEO仇小川表示，神州云合让财税能为企业运营感知反馈，从而提升运营效率，众多行业头部集团性企业因使用财云通平台大幅节省报税人力和时间成本。公司拥有全税种、全地区的直连申报能力，始终坚持云端部署，实现了财税软件真正意义上的SaaS化。我们相信，神州云合将有效帮助企业释放越来越大的价值，加速行业发展。\n \n谈及本轮融资后发展计划，周奇兵表示，公司首先会进一步完善销售体系，并在医疗、地产、金融等重点行业继续拓展龙头客户。而在产品层面，近期产品也已经迭代至2.0版本，神州云合在下半年也会继续做延伸功能，加大研发。\n \n相关阅读\n \n36氪首发| 构建面向集团企业的全国纳税自动申报平台，「神州云合」获红杉中国数千万元A轮融资",
-          "link": "https://36kr.com/p/1416567080736387",
-          "publishedOn": "2021-10-11T00:00:17.000Z",
+          "description": "36氪获悉，充电基础设施领域首个基金项目“隐碳基金”签约仪式在南京举办。该基金总规模10亿人民币，一期规模2亿人民币，由普洛斯隐山资本与云快充共同发起，南京市建邺区东南高新产业发展基金企业（有限合伙）、南京浦口开发区高科技投资有限公司、长园深瑞继保自动化有限公司等共同出资，并由普洛斯隐山资本担任基金管理人，由第三方充电物联网云快充担任资产管理人。",
+          "link": "https://36kr.com/newsflashes/1436441458884228",
+          "publishedOn": "2021-10-11T09:43:48.000Z",
           "wordCount": null,
-          "title": "36氪首发 | 定位一站式纳税自动申报SAAS平台，「神州云合」获亿元级B轮融资"
+          "title": "普洛斯隐山资本与云快充共同发起充电桩产业基金"
         },
         {
-          "id": "https://36kr.com/p/1432271778594434",
+          "id": "https://36kr.com/newsflashes/1436436322090633",
           "author": null,
-          "description": "文｜陈曦宁   编辑｜彭孝秋\n \n受疫情影响，游客旅行只能选择国内目的地，这也让各类旅行方式迎来了大众市场：网红景点打卡、网红民宿拍摄、野奢露营等都逐渐成为年轻人热爱的度假方式。但随着各类媒体曝光，颜值民宿的侧面是坑还是宝藏？这种订房时的不确定性也开始逐渐劝退一众游客。\n \n那么，民宿们除了颜值还能有什么？又如何提高复购？这都成为了问题。这其中，文旅品牌树蛙部落通过集团协同及广泛合作给出了自己的答案。\n \n\n \n树蛙部落活动\n \n“你在高端酒店里可能吃的是米其林，但在树蛙部落可以吃到当地才有的特色菜，夜里我们带你去追萤火虫看星星，体验自然。”树蛙部落创始人付丛伟这样对36氪解释树蛙与星级酒店的区别。\n \n据他透露，树蛙部落旗下民宿均房单价在2000元左右，价格并不输豪华酒店，但年均入住率能达到80-85%。在他的民宿客群中，亲子客群占比很大，不少人在入住时会选择5000多元的套餐，这样入住时不止是体验自然中的民宿生活，还能带孩子参与专业的亲子营地课程。在这样的经营理念下，成立于2018年的树蛙部落目前已实现盈利，2020年的全年营收达到4000万元人民币。\n \n据悉，树蛙部落隶属于乡伴集团，专注于开发乡村自然保护主题民宿，这些民宿以农村集体用地为载体，发展民宿和自然教育的同时带领当地乡村发展，目前旗下已有浙江余姚、贵州铜仁、江西新余、婺源等八个项目。2017年，树蛙部落的第一个项目浙江余姚树蛙部落以众筹形式开启，最终募集资金1200余万元，此外浙江省文旅旗下古村落保护基金也对项目进行了注资。2018年，拥有14间客房、一间三联书店的余姚树蛙部落开门营业，当年均入住率能达到95%以上。\n \n此后，树蛙部落通过与各地合作的形式落地轻资产民宿项目，类似在地文旅类集团的民宿项目解决方案提供商。合作达成后，在注资2000万-1亿元左右的定制化服务中，树蛙部落可在90天内实现从建造到开门营业的全过程。\n \n\n \n树蛙部落场景\n \n付丛伟表示，这得益于树蛙部落项目的高度模块化。据了解，树蛙部落的模块化体现在方方面面。小到房间的策划与建设——树蛙部落的民宿房间分为蝴蝶房、种子房等数种形态，建筑方式固定，建筑结构以拼接为主且都抬高于地面不易受在地地形影响，因此，一旦确定建造，能很快完工。此外，每个树蛙部落的功能区也被模块化，且具备一定延展性。\n \n目前，树蛙部落还不断与世界自然基金会(WWF)、三联书店、信谊图画书等品牌进行跨界深度合作，让民宿在提供住宿之余，还拥有主题书店、自然学校、主题餐饮、艺文空间、文创商品等不同功能模块，若民宿需要可在建造时便放入园区规划内。\n \n这些不同品类的功能区建设也指向树蛙部落的下一个增长点：从依靠颜值、环境吸引客流转变成依靠内容吸引用户。付丛伟透露，目前树蛙部落营收的10%已经来源于自然教育等配套项目，在之后他要把这个份额扩大到50%。\n \n“我们认为未来的住宿和旅游其实是以内容为导向的，我们未来不止是卖一个房间或是床的概念，我们希望售出的是自然体验。”付丛伟说。当内容的价值得到体现，这将更好拉动潜在收益及用户复购。也是基于此，树蛙部落此后的设计中加入了大量的自然教育元素，从路边的自然教育知识科普到教学功能室一应俱全。每年，有100多场自然体验类活动在各民宿中举办，如植物版画、彩虹跑、森林徒步等。付丛伟表示，未来两年内他也将扩充树蛙部落的民宿网络到20-30个。\n \n树蛙部落的经营理念其实并不是孤例。\n \n随着旅游业的发展及海外游的限制，越来越多的从业者都开始意识到有价值的内容活动对于旅行本身的意义。今年六月，伴随阿那亚戏剧节的举办，在活动的十一天里，河北秦皇岛文旅项目阿那亚迅速聚集了全国12万多名游客；剧本杀、沉浸式体验市场井喷后，不少文旅项目也借此引入活动吸引客流；日前宣布获得数千万融资的享梦游也是如此，在打造旅行产品时着重体验、社交类活动的设计，以自办或合作的形式策划各类活动丰富旅行体验。\n \n文旅行业的下一站在哪里？各行业内容方、各类供应商及客户渠道方的深度���同合作必不可少。",
-          "link": "https://36kr.com/p/1432271778594434",
-          "publishedOn": "2021-10-11T00:00:00.000Z",
+          "description": "国家药监局决定自2021年10月至2022年10月，再次在全国范围内组织开展化妆品“线上净网线下清源”专项行动。此次专项行动的三大工作重点为：第一，清理整治未经注册或者未备案的化妆品。第二，清理整治标签违法宣称的化妆品。第三，清理整治存在质量安全风险的化妆品。（证券时报）",
+          "link": "https://36kr.com/newsflashes/1436436322090633",
+          "publishedOn": "2021-10-11T09:38:35.000Z",
           "wordCount": null,
-          "title": "结合自然教育做轻资产文旅，「树蛙部落」会是民宿新方向吗？"
+          "title": "国家药监局开展化妆品“线上净网线下清源”专项行动"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435866783760006",
+          "id": "https://36kr.com/newsflashes/1436435386580611",
           "author": null,
-          "description": "上海市国资委介绍，上海国资国企将进一步深度参与临港新片区、浦东引领区建设，正在实施和未来五年计划实施的项目超过400个。“十四五”期间将推动国有企业多地上市发展，新增国有控股上市公司20余家，深度转换混合所有制企业经营机制。（解放日报）",
-          "link": "https://36kr.com/newsflashes/1435866783760006",
-          "publishedOn": "2021-10-10T23:59:13.000Z",
+          "description": "国家广播电视总局网站消息，近日，该局发布《广播电视和网络视听“十四五”发展规划》，提出贯彻落实影视业综合改革和文娱领域综合治理的工作部署要求，从严从实、标本兼治，深入开展广播电视和网络视听行业综合治理工作。坚持网上网下统一导向、统一标准、统一尺度，完善调控措施，加强主体监管和内容管理。探索建立网络视听关键岗位从业人员管理机制和长期培养机制，加强对网络综艺节目、网络秀场直播和电商直播、短视频等新业态管理。（人民日报）",
+          "link": "https://36kr.com/newsflashes/1436435386580611",
+          "publishedOn": "2021-10-11T09:37:38.000Z",
           "wordCount": null,
-          "title": "上海市国资委：“十四五”期间将推动国有企业多地上市发展"
+          "title": "广电总局：加强对网络综艺、电商直播、短视频等新业态管理"
         },
         {
-          "id": "https://36kr.com/p/1433656228396674",
+          "id": "https://36kr.com/newsflashes/1436432840801926",
           "author": null,
-          "description": "36氪获悉，果蔬纤维清体品牌「21BEAUTY」近日已完成数百万天使轮融资，投资方未作披露。据了解，本轮融资将主要用于产品研发、人才引进以及渠道拓展等方面。\n \n 「21BEAUTY」创立于2021年4月，致力于成为年轻人心中的未来健康生活方式创新品牌。创始人兼CEO马斯Mars是一名连续创业者，拥有百度/小米公司大厂工作背景，曾先后担任药给力CMO、莱杯咖啡Co-founder，具备十年以上品牌和用户增长操盘经验。\n \n「21BEAUTY」从上班、健身、户外出差、身体恢复等场景切入，主打30秒shake一杯高能清体纤维新鲜果蔬汁。目前，「21BEAUTY」在小程序共上线「晨间水光纤维素shake」「午间抗氧虾青素shake」「夜间胶原鳕鱼素shake」三款shake shake 院线版高能清体包。\n \n\n \n图片由企业提供\n \n以代表产品「晨间纤维素shake包」为例，15g一袋产品包含了150g羽衣甘蓝、50g菠菜、1/2椰子、100mg透明质酸钠、0.5盏燕窝酸和20亿后生元乳杆菌。马斯称，一包15g的shake计划清体包，相当于1碗蔬菜沙拉和3袋营养补剂。\n \n\n \n图片由企业提供\n \n据悉，「21BEAUTY」联合焦点福瑞达集团在国内成立食品工程研发联合实验室，秉持配方不超过6种食品的工程设计原则，在不使用任何添加剂（如蔗糖代糖）的前提下进行-35CFD超冷冻干燥技术，希望打造出符合低碳饮食理念的产品。团队表示，产品中的燕窝酸、透明质酸钠、虾青素、胶原蛋白等功能性配方均坚持严格按科学文献标准要求添加量原则，不进行概念性添加。\n \n马斯告诉36氪，今年3月份功能食品“上半场”用户教育已经完成，且行业也发生了一些变化：“抛开剂量和原料谈功效”这些以天花乱坠的概念为卖点的产品正逐步被用户抛弃，复购率不尽如人意；用户的认知和需求已经迭代，一款有作用的健康创新食品必须满足“功能原料好”和“成分剂量科学”两个标准。\n \n天猫2021年8月发布的《2021饮料消费趋势洞察》指出，90后年轻消费者在细分纯果蔬汁和功能饮料上的消费增速以16%领先于整体人群，功能性食品和果蔬饮料可谓90后人群机会新品类。\n \n冻干果蔬这种快速获取营养的清体饮食方式已在美国流行了近十年，通过21天冻干果蔬纤维营素shake shake改善身体健康状态的新型清体饮食方式在ins上被众多健身、时尚领域的达人广泛传播。\n \n团队遵循马斯提出的“像做App一样做食品产品”的逻辑，制定了一套包括甜度、酸度、产区、颗粒度、加工目数、密度、温度等28项数字化纬度的加工生产标准。具体言之，研发团队在这些标准下，通过食品工程和营养口感的设计，将所有原料数据进行重组分类，保证产品外包装颜色、原料颜色、冲饮后颜色三个颜色纬度一致。\n \n由于受到冻干果蔬粉密度、生产下料中卡粉、塑封温度飞粉、开封后结块等严重的损耗率问题影响，国内冻干果蔬行业供应链生产线的效率始终不尽如人意，良品率也无法达标。为此，「21BEAUTY」联合焦点福瑞达共同调研国外冻干食品品牌生产经验，与广州、深圳等地的硬件工厂技术工程师寻找解决方案，自主研发关键零部件、单独开模，以解决加工环节中的效率问题。\n \n\n \n图片由企业提供\n \n据马斯介绍，产品外包装视觉设计由中央美术学院设计师团队负责，品牌还立足“可持续环保”理念，外包装全部采用FSC认证的进口特种环保纸张，该纸张由CHANEL、DIOR等品牌的意大利供应商提供；团队独立研发了一款三层新型复合材料包装，解决了单一透明材质无法保证高透密封、耐高温等问题。此外，品牌放弃一次性塑料瓶方案，用进口 tritan 奶瓶级材质定制了“shake shake瓶”，后者拥有可重复使用、三段式开合360度不漏水、颜色不沾杯、一冲即净等特点。\n \n接下来，「21BEAUTY」将考虑拓展线上和线下渠道，达到触达更多用户的目的。",
-          "link": "https://36kr.com/p/1433656228396674",
-          "publishedOn": "2021-10-10T23:58:39.000Z",
+          "description": "北向资金今日小幅净买入1.87亿元。药明康德、招商银行、美的集团分别获净买入3.83亿元、3.05亿元、2.94亿元。五粮液净卖出额居首，金额为6.41亿元。（证券时报）",
+          "link": "https://36kr.com/newsflashes/1436432840801926",
+          "publishedOn": "2021-10-11T09:35:02.000Z",
           "wordCount": null,
-          "title": "36氪首发 | 果蔬纤维清体品牌「21BEAUTY」完成数百万天使轮融资，想打造一款“口袋版行走的现榨果蔬门店”"
+          "title": "药明康德、招商银行今日获北向资金净买入超3亿元"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435862492118659",
+          "id": "https://36kr.com/newsflashes/1436431894527618",
           "author": null,
-          "description": "其中，周一到周四逆回购到期规模分别为2000亿、1000亿、1000亿和1000亿元，均为14天期；周五有100亿元7天期逆回购到期。周五还有5000亿元1年期MLF到期。（新浪财经）",
-          "link": "https://36kr.com/newsflashes/1435862492118659",
-          "publishedOn": "2021-10-10T23:54:51.000Z",
+          "description": "36氪获悉，小牛电动发布公告称，三季度两轮电动车售出397079辆，同比增长58.3%；其中国内市场销量392112辆，同比增长59.9%。报告期内，小牛电动国内新增320家门店，截至9月底，其国内门店达2686家。",
+          "link": "https://36kr.com/newsflashes/1436431894527618",
+          "publishedOn": "2021-10-11T09:34:05.000Z",
           "wordCount": null,
-          "title": "本周共5100亿元逆回购以及5000亿元MLF到期"
+          "title": "小牛电动：三季度电动车销量39.7万辆，同比增长58.3%"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435857978113671",
+          "id": "https://36kr.com/newsflashes/1436416473611908",
           "author": null,
-          "description": "从海口市自然资源和规划局获悉，近日，《海口市国土空间总体规划（2020-2035）（公众版）》已完成编制工作，进行公示，并从即日起至11月8日公开征求社会各界和市民的意见和建议。《规划》中提出，预计到2035年，海口常住人口将达到400万人，建设用地规模550.73平方公里，按照“东进、西提、南育、北联、中优”的原则统筹全域空间资源配置，扭转海口现状单中心的空间格局，向多组团、网络化的空间结构转变。 (南海网)",
-          "link": "https://36kr.com/newsflashes/1435857978113671",
-          "publishedOn": "2021-10-10T23:50:16.000Z",
+          "description": "安信策略统计显示，9月权益类基金发行延续趋缓，“赎旧买新”有所缓解。9月共有137只基金完成发行，合计募集约1430亿份，环比回落约280亿；近期公募基金发行速度稳定在350亿/周左右。或受8月以来市场反弹影响，权益类基金赎回压力得到明显缓解。近四周调研热度环比提升的一级行业包括采掘、银行、非银等。调研热度明显上升的二级行业包括家用轻工、环保工程、农产品加工、材料等。（证券时报）",
+          "link": "https://36kr.com/newsflashes/1436416473611908",
+          "publishedOn": "2021-10-11T09:18:23.000Z",
           "wordCount": null,
-          "title": "《海口市国土空间总体规划（2020-2035）（公众版）》公开征求意见"
+          "title": "安信策略：基金发行延续趋缓，权益类基金赎回压力明显缓解"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435852910198403",
+          "id": "https://36kr.com/newsflashes/1436414133141125",
           "author": null,
-          "description": "作为一种技术手段，网络游戏防沉迷系统的推行，针对的正是未成年人的沉迷现象。但在一些网络交易平台上，存在游戏账号租卖业务，用户可通过租号、买号等途径绕过监管，无限制玩网游。这意味着，青少年进入网络游戏的第一道关口仍存在着漏洞，值得引起重视。应当明确的是，游戏企业是防沉迷工作的主体，必须积极履行社会责任，为下一代的健康成长负责，切实推动行业健康发展。（人民日报）",
-          "link": "https://36kr.com/newsflashes/1435852910198403",
-          "publishedOn": "2021-10-10T23:45:06.000Z",
+          "description": "36氪获悉，四维图新公告称，预计第三季度盈利667.7万元-2136.65万元，上年同期亏损3138万元；预计前三季度亏损4896.5万元-3427.55万元，上年同期亏损1.95亿元。报告期内，公司销售收入稳步增长，芯片出货量较上年同期增加，但汽车电子芯片供应紧张以及原材料价格增长等仍然给公司造成较大影响。受定增募集资金收益增加影响，公司前三季度亏\n损大幅收窄，第三季度单季实现扭亏。",
+          "link": "https://36kr.com/newsflashes/1436414133141125",
+          "publishedOn": "2021-10-11T09:16:01.000Z",
           "wordCount": null,
-          "title": "人民日报时评：让未成年人远离网游沉迷"
+          "title": "四维图新：预计第三季度盈利667.7万元-2136.65万元，同比扭亏"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435851116674696",
+          "id": "https://36kr.com/p/1436321818377857",
           "author": null,
-          "description": "据不完全统计，截至10月10日，22省份公布国庆假期文旅数据。其中，四川省一马当先，黄金周期间接待游客6782.28万人次，实现旅游综合收入509.04亿元，按可比口径比较，分别恢复到2019年同期的99.95%和95.97%，较2020年同期分别增长29.85%和21.41%。此外，江苏、江西国庆旅游收入均超400亿元；河南、贵州紧随其后，位于“300亿元梯队”。(中新网)",
-          "link": "https://36kr.com/newsflashes/1435851116674696",
-          "publishedOn": "2021-10-10T23:43:17.000Z",
+          "description": "文 ｜ 王毓婵\n \n编辑 ｜ 张信宇\n \n5个诞生不足一年的女性动漫角色，能撑起多大的生意？\n \n7月，在哔哩哔哩（下称 B 站）主办的一次漫展上，乐华娱乐旗下虚拟偶像 5 人女团 A-SOUL 的展位被围得水泄不通。A-SOUL人气看起来要远超过对面舞台的知名虚拟歌姬洛天依，而洛天依已经出道十年，曾是一代中国二次元宅男的精神寄托。\n \nA-SOUL的表演被录成视频上传了 B 站。看着台下人山人海引吭高歌，评论区一片喜气祥和。这一战极大鼓舞了A-SOUL的粉丝。\n \n\n \nBW A-SOUL 表演现场观众 图片来源：和_邪_社Jimmy\n \n“下一站，鸟巢！”一位狂热的粉丝充满期待写道。1140 个人用点赞表达了要把 A-SOUL 送进鸟巢的决心，也有比较冷静的人回复说，下一站应该是7月17日的乐华家族演唱会。\n \n乐华娱乐是一家著名经纪公司，在中国内娱享有盛名，举足轻重。在过去十多年，乐华娱乐先后捧红包括王一博、孟美岐等当红艺人。它的老板杜华女士在光鲜亮丽但暗流涌动的娱乐圈里浸淫多年，许多人认为她是这个圈子的教母级人物之一。但在传统艺人经纪之外，乐华娱乐需要更快的业绩增长，真人偶像时不时的塌房事件也需要更稳定的风险控制，二次元虚拟偶像业务看起来是它的一个选择。\n \nA-SOUL不是乐华娱乐第一次尝试虚拟偶像，却是目前看起来最接近成功的一次。\n \n但一场小小的滑铁卢打击了 A-SOUL 粉丝们的野心。“7.17 乐华家族演唱会”，在一线流量艺人王一博、孟美岐们的感召力下，台下坐的大多是这些三次元明星的粉丝。A-SOUL 作为全场唯一虚拟偶像表演时，被台下观众喝起了倒彩：“别唱了！下去！”\n \n这段表演同样被上传到了 B 站，很多 A-SOUL 粉丝在评论区发泄着愤怒和委屈。他们抗议三次元饭圈的不良习气，还有一些人批评演唱会效果没搞好。虽然乐华为 A-SOUL 专门在舞台上安…",
+          "link": "https://36kr.com/p/1436321818377857",
+          "publishedOn": "2021-10-11T08:25:42.000Z",
           "wordCount": null,
-          "title": "22省份国庆旅游成绩单：四川入账509亿"
+          "title": "虚拟偶像不是换皮生意 | 深氪lite"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435843014327941",
+          "id": "https://36kr.com/p/1436356335828610",
           "author": null,
-          "description": "根据Wind数据，2021年前三季度，已有2506家A股公司公开了投资者关系活动记录，较去年同期大增逾1000家。整体来看，2021年前三季度约有362家A股公司收获百家以上机构调研，被调研总次数超过100次的有249家。其中，最热门标的依旧归属于医疗白马股迈瑞医疗。从2020年开始，迈瑞医疗便超越海康威视，成为受到最多机构调研的A股公司。 （证券时报）",
-          "link": "https://36kr.com/newsflashes/1435843014327941",
-          "publishedOn": "2021-10-10T23:35:02.000Z",
+          "description": "国庆前夕刚被受理IPO申请，但在10月8日晚间，联想集团就终止了其发行上市的审核，成为首家以CDR（中国存托凭证）形式回A的红筹上市公司的计划也宣布告吹。\n \n从联想在港交所发布的公告来看，其撤回上市申请的原因如下：在提交上市申请材料后，考虑到公司业务规模及复杂度，招股说明书中的财务信息可能会在申请的审阅过程中过期失效。同时，审慎考虑最新发行上市等资本市场相关情况后，公司决定撤回中国存托凭证于科创板上市及买卖的申请。\n \n联想还称，撤回科创板上市申请不会对公司财务状况造成任何不利影响，公司将继续密切关注情况，如有任何有关建议发行中国存托凭证及上市的重大更新及发展���将适时另行作出公告。\n \n受此消息影响，10月11日，联想集团港股开盘跌幅超过17%，市值价格跌破900亿港元。\n \n“回A”戛然而止\n \n实际上，联想一直有“回A”的计划。\n \n今年1月，联想就宣布董事会已批准可能发行中国存托凭证（CDR）、并向上交所科创板申请CDR上市及买卖的初步建议，中金公司对联想本次的上市进行辅导。\n \n彼时，联想集团董事长兼CEO杨元庆曾公开表示，这“有助于增强公司战略与国内蓬勃发展的资本市场的紧密连接，提升内地投资人投资联想的便利性，从而进一步释放联想的价值”。\n \n8月中旬，联想在2022财年第一季度财报的投资者电话会上，也强调，“回归科创板将帮助联想增强国际与国内两个市场的紧密连接，实现两个市场协同效应最大化。”\n \n而从联想的上市招股书也能看出，其自2019财年至2021财年，营收规模分别达3424亿元、3527亿元、4116亿元，盈利能力尽显。净利润分别为42.47亿元、55.94亿元、86.85亿元，毛利率分别为 14.44%、16.48%和 16.08%。\n \n仅以营收规模看，联想集团若本次在科创板挂牌成功，会成目前科创板营收规模最大的企业。\n \n再从招股书看，联想集团本次计划融资金额为100亿元，实施周期为3年。其中55%用来投资新产品及解决方案研发项目，10%用于产业战略投资项目，35%用于补充流动资金。\n \n值得注意的是，根据此前证监会发布的《科创板上市公司证券发行注册管理办法（试行）》中规定，“募集资金应投资于科技创新领域，符合国家产业政策及土地环保法规要求。”“发行可转债的募集资金不得用于弥补亏损和非生产性支出。”\n \n但联想集团的高负债率与技术创新能力一直被诟病，随着本次“回A”的突然终止，外界的负面舆论也在加大。\n \n科技浓度较低？\n \n本次回A招股书也显示，截至2019年3月31日、2020年3月31日和2021年3月31日，公司资产负债率（合并）分别为86.34%、87.37%和90.50%。\n \n其实对比同行，联想的这一负债率或许不足为奇。惠普的负债率经常超过100%，戴尔的负债率也在100%左右。但如果单纯对比数值，联想在技术投入上的问题更加严重。且在外界更多看来，联想本次科创板上市最大的阻碍在于——其研发费率远低于科创板其它上市公司，“科技”浓度较低。\n \n据联想招股书披露，2019年3月31日、2020年3月31日和2021年3月31日，其集团研发投入分别为102.03亿元、115.17亿元、120.38亿元。虽然研发投入的绝对金额较高，但仅占各期收入的比例却较低，分别为2.98%、3.27%、2.92%，研发费用率也分别2.48%、2.63%、2.39%，这在科创板中并不算高。\n \n今年上半年，据上交所统计，科创板公司研发投入金额已合计达到254.03亿元；剔除采用第五套标准上市的公司后，研发投入占营业收入比例平均为14%。\n \n此外需要关注的是，在各报告期内，联想集团的研发费用主要为职工薪酬费用，占研发费用比例分别为65.93%、62.47%、60.65%。而联想集团管理层薪酬过高也一直是老生常谈的话题。\n \n纵观联想发展历史，其于1994年赴港上市，并于1995年发行美国存托凭证。从行业地位来看，联想集团仍是全球最大的PC（个人电脑）产品供应商，PC是其业务基本盘。\n \n但对于当下的联想，所遇到的舆论困境和业务发展困境的求解之道，或许还取决于能否超越PC，在其着力的人工智能、大数据等新兴领域有所作为。摆脱消费者对其“组装厂”的刻板印象，是为关键。\n \n\n \n扫码关注获取更多财经信息~",
+          "link": "https://36kr.com/p/1436356335828610",
+          "publishedOn": "2021-10-11T08:25:27.000Z",
           "wordCount": null,
-          "title": "前三季度机构调研热情高涨，迈瑞医疗被“翻牌”最多"
+          "title": "市场大事件｜联想终止科创板IPO，股价跌幅超17%"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435839885016709",
+          "id": "https://36kr.com/p/1436260161683077",
           "author": null,
-          "description": "太空探索技术公司蓝色起源表示，由于预计西得克萨斯州会有强风，NS18的目标发射时间推迟到10月13日。（财联社）",
-          "link": "https://36kr.com/newsflashes/1435839885016709",
-          "publishedOn": "2021-10-10T23:31:51.000Z",
+          "description": "36氪获悉，熬夜养护品牌「解你Release U」母公司曼士元已完成数百万元人民币种子轮融资，本轮由硅谷知名风投机构Plug and Play以及一家国内生物科技企业联合投资。\n \n曼士元是一家新成立的功能性食品公司，在2020年获得了雀巢研发加速器的扶持，旗下已孵化功能性食品子品牌「解你」，主要面向90、95后年轻人群提供熬夜养护解决方案，主打产品为解你益生菌，自今年中旬“老爸评测”上线后，获得超1万名种子用户，此外还新推出益生菌蒟蒻果冻、熬夜玻尿酸水饮产品。\n \n\n \n解你益生菌冲饮\n \n曼士元创始人王小侠是江南大学食品硕士，曾在亿滋国际负责产品战略升级，还曾参与创业曲奇品牌项目，并因经常熬夜萌生为晚睡人群提供身体修复产品的想法。\n \n王小侠告诉36氪，之所以选择从零食转向功能食品，有一个原因是零食产品供应链及技术门槛都相对较低，这带来的一个问题：产品生命周期变短，毛利也不断被压缩，新品牌需要面临不断推出新品的压力。\n \n「解你」的创业则是希望做出一个长期、可持续抓住消费者的刚需品，“而非为了口感上的好吃、好看，”王小侠表示，大方向就是健康化、功能性食品，并以此为切入口，向家庭健康食品方向延伸。\n \n熬夜是「解你」产品核心场景落地点。王小侠向36氪表示，有数据显示，国内熬夜人群规模已经达到3亿人，由此带来的健康、亚健康问题突出，尤其90后、95后年轻人是熬夜主要人群，熬夜后的修复与降低伤害，以及如何安稳入眠是核心问题点。 \n \n功能性食品是这两年消费创投的热门赛道之一，各类功效的益生菌、玻尿酸补充、代餐产品五花八门，如薄荷健康、WounderLab、buffx等。「解你」种子轮投资人朱晓雯认为，熬夜场景受众人群很广，围绕熬夜场景根据不同细分需求逐步推出对应的产品矩阵，是一个很好的切入口。\n \n在创始人王小侠看来，20-35岁之间的熬夜人群需求一般分三类：外在颜值保持、内在身体健康以及熬夜后提振精神。「解你」的差异化定位在于并非解决某个单一功能需求，而希望跟熬夜场景强结合。\n \n据悉，针对前述三类需求，「解你」分别开发不同类型的产品，且每款产品都会做大量的营养分析和从基础生物科技出发，溯源原料源头定向控制。不过，教育年轻人长期持续使用某个产品仍面临一定挑战。\n \n据王小侠介绍，「解你」的思路是在产品功效之外，通过类似果冻等零食化的方式，降低入口难度，并从颜色、气味、入口感等方面做出差异化，并构建产品风味AI系统，让口味更加符合消费者预期。据悉，目前「解你」整体全平台累计复购率已超25%。\n \n「解你」早期主要布局摩点、京东众筹等众筹渠道，以及老爸评测等私域渠道，现正尝试向天猫、京东、抖音等渠道拓展，部分新品将会进入线下快闪集合店以及其他渠道，目前「解你」产品毛利率超75%。\n \n本轮融资预计将会被用于团队扩展、渠道搭建以及新品研发。",
+          "link": "https://36kr.com/p/1436260161683077",
+          "publishedOn": "2021-10-11T08:08:38.000Z",
           "wordCount": null,
-          "title": "蓝色起源NS18发射因强风天气推迟"
+          "title": "36氪首发丨「解你Release U」完成数百万元种子轮投资，主切年轻人熬夜养护功能性食品"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435838054661765",
+          "id": "https://36kr.com/p/1436225739521664",
           "author": null,
-          "description": "高盛再次下调美国今明两年经济增长预期，原因是财政支持措施预计将在明年年底前减少，而消费者支出的复苏也将比此前预期的更为迟缓。据高盛首席经济学家Jan Hatzius等人周日发布的研究，该行将2021年美国GDP增长预期从此前的5.7%下调至5.6%，将2022年增长预期从此前的4.4%下调至4%。（新浪财经）",
-          "link": "https://36kr.com/newsflashes/1435838054661765",
-          "publishedOn": "2021-10-10T23:30:00.000Z",
+          "description": "医美面膜大火出圈后，敷尔佳选择踏上上市之路。\n \n近日，哈尔滨敷尔佳科技股份有限公司(简称“敷尔佳”)在证监会网站发布了招股说明书，拟冲刺创业板。9月30日，状态更新为已问询。\n \n据招股书介绍，敷尔佳是一家从事专业皮肤护理产品的研发、生产和销售的公司，具有广泛市场认知度和较强品牌影响力。\n \n报告期(指2018年、2019年、2020年和2021年1-3月)内，其营业收入分别为3.73亿a元、13.42亿元、15.85亿元和3.47亿元，2019年和2020年分别同比增长259.44%和18.07%；同期归母净利润分别为2.00亿元、6.61亿元、6.48亿元和1.73亿元，2020年同比下滑2.00%。\n \n近年来，医美面膜品类备受瞩目。根据弗若斯特沙利文分析报告，2020年，敷尔佳贴片类产品销售额为贴片类专业皮肤护理产品市场第一，占比21.3%。其中，医疗器械类敷料产品占比25.9%，市场排名第一；化妆品类产品占比16.6%，市场排名第二。\n \n从营收来看，敷尔佳营收规模实现了稳健增长。但是，其同时存在“重营销轻研发”等问题。\n \n根据招股书显示，报告期内敷尔佳的研发投入金额分别为30.78万元、60.39万元、147.97万元、13.2万元，连续三个年度研发投入均不足150万元；同期研发费用率分别为0.08%、0.04%、0.09%、0.04%。\n \n形成鲜明对比的是，同期敷尔佳的销售费用率分别为5.72%、8.60%、16.75%及 9.71%，分别是当期研发费用率的71.5倍、215倍、186.11倍、242.75倍。\n \n此外，截至今年一季度末，敷尔佳及子公司仅持有1项类别为外观设计的已授权专利，且研发人员仅2人。\n \n重营销轻研发下，敷尔佳卖给经销商的产品也并非由其自行生产。\n \n报告期内，敷尔佳主要的采购行为为产成品采购。2020年，该公司的产成品采购金额占该公司总采购总额的100%。上市公司哈尔滨三联药业股份有限公司最近三年均为敷尔佳的最大供应商。\n \n值得一提的是，在敷尔佳提交上市申请前夕，其多次突击现金分红（含税）达9.224亿元，若考虑此前一年的1.2亿元现金分红，连续分红总金额超过10.4亿元。\n \n据介绍，本次上市，敷尔佳拟募资18.97亿元,分别用于生产基地建设项目、研发及质量检测中心建设项目、品牌营销推广项目和补充流动资金。\n \n在技术专利为零、独立研发能力遭多方质疑的状态下，敷尔佳未来的发展依旧有待观察。\n \n\n \n欢迎关注“36氪财经”",
+          "link": "https://36kr.com/p/1436225739521664",
+          "publishedOn": "2021-10-11T06:23:43.000Z",
           "wordCount": null,
-          "title": "高盛再次下调美国今明两年经济增长预期"
+          "title": "市场要闻 | 敷尔佳闯关A股，IPO报告期内综合毛利率超75%"
         },
         {
-          "id": "https://36kr.com/newsflashes/1435835392278145",
+          "id": "https://36kr.com/p/1436155862204032",
           "author": null,
-          "description": "10月11日，《生物多样性公约》缔约方大会第十五次会议将在云南昆明拉开帷幕。大会以“生态文明：共建地球生命共同体”为主题，这是联合国环境公约缔约方大会首次将“生态文明”作为大会主题，彰显了习近平生态文明思想鲜明的世界意义，体现了中国与国际社会一道，共谋全球生态文明建设、共促人与自然和谐共生的信心和决心。（人民日报）",
-          "link": "https://36kr.com/newsflashes/1435835392278145",
-          "publishedOn": "2021-10-10T23:27:17.000Z",
+          "description": "昨天是“世界精神卫生日”，春雨医生联合摩登天空、闪萌等带来了一场奇特的“音乐会”：听众们躺着听了一整场的“疗愈音乐”。在音乐中，现场很多观众沉沉睡去。 \n \n\n \n活动现场照片\n \n这场活动是春雨医生发起的“青心计划“的一部分，“青心计划”旨在唤起公众关注自身心理健康，关爱身边的心理问题受困人群。在本次“青心计划”公益活动中，春雨医生一方面在线上邀请精神科医生、心理专家、健康达人等在线分享心理健康知识，邀请众多投资人、创业者等心理健康“高危人群”讲述自己的解压之道；另一方面，在线下还组织了这场 “清醒梦”睡眠氛围音乐会，让现场受邀观众体验到了可以解压助眠的独特“音乐药丸”，在现场一起“疗”心，“睡”个好觉。\n \n近年来，心理健康问题已成为困扰当代中国人生活的一个严重问题。2018年发布的《中国城镇居民心理健康白皮书》显示， 73.6%的中国城镇居民处于心理亚健康状态，存在不同程度心理问题的人占16.1%。而在所有的心理问题中，失眠是最常见的临床表现：据《2021年运动与睡眠白皮书》显示，目前中国有超3亿人存在睡眠障碍，中国成年人失眠发生率高达38.2%。\n \n随着心理健康问题痛点的凸显和科技的发展，近年心理健康领域兴起了大量创业公司。成立较早的企业中已经有一批公司商业模式走向成熟，如海外的Calm、Lyra Health，在最新一轮的融资中两者的估值皆已达到20亿美金以上，且企业从C端、B端等都探索出商业化的方向，建立起了稳定的商业模式。在此赛道上，美国市场上超过10亿美金估值的独角兽有7家。\n \n而在国内，数字心理健康赛道在中国仍然是一片蓝海，同类公司走到C轮融资的只有3家，创业公司整体数量参与不多，且企业大多在发展初期。2020年，专注在儿童自闭症康复和治疗的大米和小米完成C轮融资，上个月刚完成C轮融资的好心情业务主线是帮助精神心理类疾病用户提供智慧的康复管理和在线医疗服务。此外，国内还有昭阳医生、壹心理、一点灵等玩家都在这一方向上探索，行业里的新兴初创公司、创新商业模式层出不穷。\n \n然而，虽然赛道前景向好，但行业存在的现实问题是：与美国相比，中国的精神心理健康行业在需求侧、支付端、供应链依然还在摸索发展阶段。有投资人透露，这个赛道面临着如何标准化的问题，无法标准化即意味着很难扩张。因此，也有很多投资人在对这个赛道保持观望。大部分企业也都还处在探索阶段。\n \n春雨医生CEO王羽潇透露，接下来春雨医生计划与摩登天空等音乐企业跨界合作，进行“音乐药丸”的研发，探索其在失眠治疗、减压、焦虑、抑郁及相关领域的应用效果。而在未来，针对心理健康领域不同的需求，春雨医生还计划从绘画、游戏、戏剧、瑜伽等不同领域，去探索心理健康领域的绿色、非药物疗法。",
+          "link": "https://36kr.com/p/1436155862204032",
+          "publishedOn": "2021-10-11T04:59:29.000Z",
           "wordCount": null,
-          "title": "人民日报：坚持绿色发展，构建人与自然生命共同体"
+          "title": "想要切入心理健康赛道，春雨医生办了一场“音乐药丸”实验"
         },
         {
-          "id": "https://36kr.com/p/1435228552527497",
+          "id": "https://36kr.com/p/1436146437029511",
           "author": null,
-          "description": "近年来，医疗健康产业创新不断涌现，并发展成为最活跃的行业之一，36氪见证和陪伴着这一领域创新企业的成长，并为行业带来专业的声音。\n \n为此，36氪推出了“医疗健康行业周报”这一栏目，接下来将定期发布，为读者提供资本、政策、财务、新产品等多角度的行业资讯。\n \n10月10日医疗健康行业周报请查收。行业周报收录了本周医疗健康领域「36氪创投频道」报道的融资新闻，以及其他值得关注的国内外行业新闻动态。\n \n投资融资\n \n \n \n「求臻医学」获数亿元C1轮融资\n \n \n求臻医学科技（北京）有限公司（以下简称“求臻医学”）已完成了数亿元人民币C1轮融资。本轮融资由沂景资本领投，高新康养、京铭资本跟投，易凯资本担任本轮融资的独家财务顾问。据悉，本轮融资主要用于进一步推动公司肺癌、消化道肿瘤伴随诊断产品临床注册，肿瘤早筛产品及MRD（微小残留病灶）产业化落地；同时，推进基于中国人群的肿瘤样本库、临床数据库的建设。\n \n加速肿瘤IVD产品落地，「求臻医学」获数亿元C1轮融资\n \n \n \n英姿医疗完成数亿元B+轮融资\n \n \n英姿医疗宣布已于近期完成数亿元B+轮融资。本轮融资由礼来亚洲基金（LAV）领投、原投资人斯道资本、红杉中国、和新投资人天堂硅谷跟投。英姿医疗是一家国内女性健康领域的创新平台型企业。目前，该公司已推出首批妇科宫腔微创系列产品，包括宫腔高效旋切冷刀、多功能宫腔镜等产品组合。\n \n \n \n科凯生命科学获3.5亿元Pre-C轮融资\n \n \n科凯（南通）生命科学有限公司宣布获投3.5亿元人民币Pre-C轮融资。本轮融资由BOCG蓝海、上海自贸区基金领投，张科禾润基金、兴证资本、华医资本、南通产控、九州通（楚昌投资）及深圳重大产业投资基金跟投，现有股东国中资本持续追加投资。科凯生命科学是一家中国结构性心脏病治疗产品研发的创新企业，公司研发了多款具有自主知识产权的心血管介入类产品。本…",
-          "link": "https://36kr.com/p/1435228552527497",
-          "publishedOn": "2021-10-10T13:35:10.000Z",
+          "description": "今年的最后一个长假结束了。经历了暑期旅游高开低走后，国庆期间迎来了补偿式出游热潮。\n \n经文化和旅游部数据中心测算，10月1日至7日，全国国内旅游出游5.15亿人次，按可比口径同比下降1.5%，按可比口径恢复至疫前同期的70.1%；实现国内旅游收入3890.61亿元，同比下降4.7%，恢复至疫前同期的59.9%。\n \n受局部疫��影响，本地游、短途游为今年国庆假期主要出游方式。同程平台数据显示，今年国庆假期期间周边游订单同比2020年增长56%。\n \n在北京环球影城及上海迪士尼的IP带动下，主题乐园热度不减。在同程、携程等平台发布的假期出游报告中，北京、上海均为国庆热门目的地。据北京市文化和旅游局统计，10月1日至4日北京环球影城的入园人数总计超过10万。\n \n另外，拥有知名IP的目的地在携程平台热度提升最快，如在近年凭借高质量节日晚会成就现象级文化IP的河南、以8D魔幻场景、沉浸式体验旅游著称的重庆，国庆期间在携程平台的预订量较去年同期提升幅度排名前十；靠网红餐饮和网红城市IP走红的长沙，国庆期间订单量相较年初提升87%。\n \n据同程平台数据，90后是此次国庆假期期间旅行消费的绝对主力，在消费人群中占比达37%。00后旅行人群则是一股成长迅速的势力，同比增长48%，在国庆假期出游人群中占比达到15%。\n \n不同年龄人群对于旅游的需求则不尽相同，同程平台相关负责人介绍称，00后喜欢主题乐园、动植物园和各类丰富的民俗体验。挑战性强，体验感好的旅行方式是00后年轻游客的首选。90后的出行关键词是宅酒店、博物馆和古村古镇。在紧张的工作间隙中，他们更希望换个地方“补觉”。\n \n自驾游是80后首选的出行方式，对他们来说，无论是遛娃为主的亲子游，还是扶老携幼的家庭游，自驾都是不错的选择。\n \n值得一提的是，国庆期间红色旅游备受追捧，不少游客特地前往红色景点观光打卡。同程旅游数据显示，今年国庆假期红色旅游出游人次同比增长了230%。",
+          "link": "https://36kr.com/p/1436146437029511",
+          "publishedOn": "2021-10-11T04:57:29.000Z",
           "wordCount": null,
-          "title": "医疗健康行业周报 |「求臻医学」获数亿元C1轮融资；头秃者的新福音“细胞冻存技术”"
+          "title": "十一假期超五亿人出游，年轻人都去哪玩了？"
         },
         {
-          "id": "https://36kr.com/p/1433343769476743",
+          "id": "https://36kr.com/p/1436048792780418",
           "author": null,
-          "description": "无论你现在几岁，处在什么行业，一个常见的现象是，微博上、朋友圈里，你的身边多多少少都有人表达过对脱发的深切恐惧，对发迹线的殷切挽留。一切潜在焦虑，一旦在社交网络上宣泄，多数时候都不可避免地指向最表象地肥胖和脱发。总而言之，现实有太多因素令人头秃。\n \n一旦真的开始脱发（诸如前顶部无发，顶部大面积头皮裸露等），植发可能是最长效的解决方案。\n \n针对植发，国内连锁植发机构大麦微针创始人李兴东院长在汇报用户调研报告时指出，发友最关注的问题是植发技术是否成熟、植发后的头发会不会再次脱落、植发手术的成活率……其中，毛囊成活率的问题成为大多数发友最关心的问题。\n \n“我们对植发群体关注问题进行调研，采集样本30000例，发现74%客户关注毛发移植存活率问题，67%客户聚焦种植后头发是否会脱落，发现毛囊存活率是植发顾客最大的痛点。”\n \n其中，毛囊微器官的体外保存是影响毛发移植成活率的关键。据悉，植发通常离不开毛囊微器官的体外保存，而离体的毛囊处于缺血、缺氧和缺乏能量供应的状态，而根据不同的移植量，手术时间需3~12个小时。\n \n然而，目前并无专用的毛囊微器官保存液，植发术中最常用的仍然是林格氏液（RS），但其并不利于毛囊微器官的体外保存。\n \n \n不同保存液保存后毛囊结构变化（IS，毛囊微器官拟生态保存液；RS，林格氏液）\n \n针对上述痛点，日前大麦微针植发携手南方医院科研组推出专利科研成果——毛囊细胞活性培养液（IS）技术。\n \n据介绍，该技术可以让离体后毛囊细胞活性从4小时延长到8小时，活性提升一倍，提升毛囊存活率。其核心技术原理在于以等渗溶液为基础，并在其中增添了能量底物供能、氧自由基清除剂和组氨酸缓冲对等保护剂，从而为离体毛囊提供理想的拟生态微环境。\n \n南方医科大学南方医院整形美容科主任胡志奇教授指出，该技术大概3—5年内产品化并推向市场，并申请了相关专利，未来还要增加临床样本量，并展开多中心临床研究，“最终产品上市可能还是以医疗器械的途径更加方便，作为三类医疗器械”。\n \n在谈及市场需求时，李兴东院长指出，这个难以具体量化，但目前国内毛发移植手术量成倍的增长，国内机构一年手术量达几万个，而毛囊培养液主要是用于毛发移植手术过去当中提取毛囊的培养、延长离体的时间，“假如说5000个单位，难以在4小时内种进去，绝对会影响存活率。如果超过这个时间让它存活好、保存好，相应市场的需求肯定比较大。”\n \n不过胡志奇也指出，不止于此，取发（譬如如何让毛囊和头皮损伤更小）、保存、植发三个环节都很重要，都不能出问题，如何通过技术解决过程中存在的痛点也是行业目前关注的重点。\n \n对此，李兴东院长指出，目前对于植发行业来说，毛囊保存也只是辅助手术的一个部分，最显著的痛点在于毛囊资源的不足，如何解决该问题会成为行业非常大的竞争焦点；另外，如何通过非手术治疗手段留住现有头发，譬如口服药、外用药、激光治疗以及头发养护等，这也一定是下一步竞争的焦点。\n \n延伸阅读\n \n更名「大麦」，“头部玩家”「科发源」意在全球植发市场",
-          "link": "https://36kr.com/p/1433343769476743",
-          "publishedOn": "2021-10-10T12:01:44.000Z",
+          "description": "本文由36氪企服点评专家团杨峻原创。\n \n\n \n36氪企服点评专家团——杨峻\n \n \n \n————正文————\n \nCRM产品从诞生之初就面临着一个巨大困境，公司管理层可能对CRM趋之若鹜，认为是提解决销售问题的一剂良方，但一线销售人员却非常抵触，要么不愿使，要么录入很多无效信息。\n \n笔者从1999年开始踏足CRM领域，基本上每个客户都在问如何让一线销售人员把CRM使用起来。到2020年的今天，这个问题仍然是客户必问问题之一。\n \n当客户问类似问题时，我们总是跟客户说，要加强考核，保证使用率，存在既有理，只要员工在用，就表示对CRM有价值云云。比如我们经常鼓励客户对员工CRM使用率计入考核，使用率低，扣绩效。但其实这是一种负激励方式，以罚代管，CRM使用率并不是和业务价值画等号。\n \n笔者认为之所以出现这样的问题，是和我们CRM设计思想有关。我们从CRM诞生之初，针对销售功能，就采用两轮驱动的模式，即以销售每日工作为中心和以客户需求为中心的设计方法。\n \n但我们从来没有认真考虑过销售人员，尤其是一线销售人员，真正的需求。\n \n\n \nFigure 1 CRM传统的两轮驱动模式\n \n如上图所示，我们目前的CRM聚焦在：\n \n以员工工作为中心：也就是销售经理如何围绕客户需求来完成自己的工作，常见的功能如活动、线索、商机、合同、报价、回款等。\n \n以客户需求为中心：也就是洞察客户需求，通过各种场景和触点给客户提供最好的体验，从而提高赢单率。\n \n这种模式的问题就是聚焦在销售如何满足客户，即建立了一种员工和客户的生产关系：也就是以客户为中心，销售如何通过每日的工作来满足客户需求，以达成销售任务。\n \n但他忽视了生产力的问题。员工是生产力的源泉，生产力的发展和变化，决定着生产关系的发展和变革。只有提升了生产力，才有可能真正改善生产关系，从而提升公司整体销售能力。不开心的销售是很难给客…",
+          "link": "https://36kr.com/p/1436048792780418",
+          "publishedOn": "2021-10-11T03:12:01.000Z",
           "wordCount": null,
-          "title": "最前线 | 头秃者的新福音，细胞冻存技术提升毛囊存活率"
+          "title": "杨峻：建立三轮驱动体系，使销售人员爱上CRM"
         }
       ]
     },
@@ -1064,184 +1064,184 @@
       "siteUrl": "https://juejin.cn",
       "articles": [
         {
-          "id": "https://juejin.cn/post/7017588385615200270",
-          "author": "前端胖头鱼",
-          "description": "JSON.stringify，一个看似无比熟悉但却十分陌生的方法，足以把你的年终奖干泡汤。来一起重新审视它，了解它的9大特性并手写一个。",
-          "link": "https://juejin.cn/post/7017588385615200270",
-          "publishedOn": "2021-10-11T00:10:14.000Z",
+          "id": "https://juejin.cn/post/7017767082657841188",
+          "author": "老马啸西风",
+          "description": "通用调用 java 从零开始手写 RPC (01) 基于 socket 实现 java 从零开始手写 RPC (02)-netty4 实现客户端和服务端 java 从零开始手写 RPC (03) 如何",
+          "link": "https://juejin.cn/post/7017767082657841188",
+          "publishedOn": "2021-10-11T11:22:29.000Z",
           "wordCount": 24,
-          "title": "就因为JSON.stringify，我的年终奖差点打水漂了"
+          "title": "java 从零开始手写 RPC (05) reflect 反射实现通用调用之服务端"
         },
         {
-          "id": "https://juejin.cn/post/7017575020633260069",
-          "author": "掘金安东尼",
-          "description": "本篇带来 20 个 JavaScript 库分享，有十万 star 的库，也有一千 star 的库，不过它们都各有精彩！工具用的好，下班下的早~~salute！！",
-          "link": "https://juejin.cn/post/7017575020633260069",
-          "publishedOn": "2021-10-10T23:35:23.000Z",
+          "id": "https://juejin.cn/post/7017753928641019934",
+          "author": "声网Agora",
+          "description": "voip 基于 IP 的音视频传输是一种实时视频通话技术，经由 Internet 协议来达成音视频通话，以及多媒体会议。",
+          "link": "https://juejin.cn/post/7017753928641019934",
+          "publishedOn": "2021-10-11T10:31:33.000Z",
           "wordCount": 24,
-          "title": "可以但没必要？分享 20 个 JavaScript 库，打开视野👀"
+          "title": "声网 2020 实时大会后的弱网对抗实践"
         },
         {
-          "id": "https://juejin.cn/post/7017470856133607437",
+          "id": "https://juejin.cn/post/7017751752627716126",
           "author": "阿里巴巴云原生",
-          "description": "国庆期间，Facebook 部分产品发生宕机问题造成了严重损失。针对 Facebook 的宕机问题，我们该如何未雨绸缪，看看云拨测如何帮助客户避免该类问题。",
-          "link": "https://juejin.cn/post/7017470856133607437",
-          "publishedOn": "2021-10-10T16:14:25.000Z",
+          "description": "本次分享由三个部分组成： 一、Kubernetes 异常定位存在痛点； 二、针对这些痛点，Kubernetes 监控如何更快、更准、更全的发现异常； 三、网络性能监控、中间件监控等典型案例解析。",
+          "link": "https://juejin.cn/post/7017751752627716126",
+          "publishedOn": "2021-10-11T10:21:57.000Z",
           "wordCount": 24,
-          "title": "Facebook宕机背后，我们该如何及时发现DNS问题"
+          "title": "如何发现 Kubernetes 中服务和工作负载的异常"
         },
         {
-          "id": "https://juejin.cn/post/7017439694623342623",
-          "author": "GitLqr",
-          "description": "一、责任链模式介绍 责任链模式（Chain of Responsibility Pattern）客户端发出一个请求，链上的对象都有机会来处理这一请求，而客户端不需要知道谁具体的处理对象，让多个对象都有",
-          "link": "https://juejin.cn/post/7017439694623342623",
-          "publishedOn": "2021-10-10T14:10:22.000Z",
+          "id": "https://juejin.cn/post/7017745147345534983",
+          "author": "Android_开发者",
+          "description": "作者 / Dave Burke, VP of Engineering 10 月 4 日，我们已经将源代码推送至 Android 开源项目 (AOSP)，并正式发布最新版本的 Android。Andro",
+          "link": "https://juejin.cn/post/7017745147345534983",
+          "publishedOn": "2021-10-11T09:57:02.000Z",
           "wordCount": 24,
-          "title": "DesignPattern - 责任链模式【行为型】"
+          "title": "Android 12 正式发布 | 开发者们的全新舞台"
         },
         {
-          "id": "https://juejin.cn/post/7017412501310537742",
-          "author": "鸿洋",
-          "description": "背景 之前写的博客大家吐槽没有具体场景，这篇文章我们说一下背景。 有一天小张正在开心的和大家划着水，忽然运营同学嗷的一声拉了个群，告诉我线上出现高频聚集的崩溃反馈。 小张作为稳定性指标的负责同学，心理",
-          "link": "https://juejin.cn/post/7017412501310537742",
-          "publishedOn": "2021-10-10T12:27:41.000Z",
+          "id": "https://juejin.cn/post/7017744015936192542",
+          "author": "五界",
+          "description": "从如何实现组件库的按需引入功能着手，一步步带你深入了解前端打包构建中的概念。文章涉及到Babel的作用，Three-Shaking是什么以及Monorepo是如何组织代码的。",
+          "link": "https://juejin.cn/post/7017744015936192542",
+          "publishedOn": "2021-10-11T09:51:16.000Z",
           "wordCount": 24,
-          "title": "Android 开发太难了，这异常竟然捕获不到？"
+          "title": "从组件按需引入深入前端打包构建"
         },
         {
-          "id": "https://juejin.cn/post/7017382237108699144",
-          "author": "HILLJAY",
-          "description": "什么是操作系统：操作系统是计算机管理软硬件资源的程序，是计算机系统的内核和基石，本质就是一个运行再计算机系统上的程序",
-          "link": "https://juejin.cn/post/7017382237108699144",
-          "publishedOn": "2021-10-10T10:29:15.000Z",
+          "id": "https://juejin.cn/post/7017743383154130974",
+          "author": "xiaohezi",
+          "description": "分布式主键问题 传统数据库软件开发中，主键自动生成技术是基本需求。而各个数据库对于该需求也提供了相应的支持，比如 MySQL 的自增键，Oracle 的自增序列等。 数据分片后，不同数据节点生成全局唯",
+          "link": "https://juejin.cn/post/7017743383154130974",
+          "publishedOn": "2021-10-11T09:49:25.000Z",
           "wordCount": 24,
-          "title": "计算机操作系统整理"
+          "title": "# ShardingSphere 分库分表--第（1）篇"
         },
         {
-          "id": "https://juejin.cn/post/7017379977179955237",
-          "author": "五月君",
-          "description": "事件循环中的一些概念，无论是在浏览器或 Node.js 中我们去学习事件循环时，这些都是通用的，了解这些概念对于后面的学习也会相对轻松些～",
-          "link": "https://juejin.cn/post/7017379977179955237",
-          "publishedOn": "2021-10-10T10:19:56.000Z",
+          "id": "https://juejin.cn/post/7017742763760287758",
+          "author": "前端老实人",
+          "description": "骨架屏就是页面初加载数据没显示出来之前显示的一个页面，展示页面渲染好之后再隐藏骨架屏，相当于一个加载页面 我是用uniapp写的，小程序，APP，Vue页面同理： 有个简单的结构就可以",
+          "link": "https://juejin.cn/post/7017742763760287758",
+          "publishedOn": "2021-10-11T09:47:10.000Z",
           "wordCount": 24,
-          "title": "JavaScript 异步编程指南 - 从引擎到运行时这些事件循环概念了解下～"
+          "title": "css实现简单骨架屏skeleton；可用于App,小程序,uniapp"
         },
         {
-          "id": "https://juejin.cn/post/7017377991579680805",
-          "author": "无言非影",
-          "description": "随着业务的复杂，开发中的代码到了需要管理的程度。 模块化是一种主流的代码组成方式，将业务代码按照模块划分成不同的文件，从而提高开发效率，降低维护成本。",
-          "link": "https://juejin.cn/post/7017377991579680805",
-          "publishedOn": "2021-10-10T10:16:19.000Z",
+          "id": "https://juejin.cn/post/7017742339300917255",
+          "author": "打王者叫我",
+          "description": "本文所有内容都开源在 https://github.com/ahwgs/weekly-npm/tree/master/node-lru-cache 开篇 在一般业务场景中，可能需要做一些缓存以提高系统",
+          "link": "https://juejin.cn/post/7017742339300917255",
+          "publishedOn": "2021-10-11T09:45:19.000Z",
           "wordCount": 24,
-          "title": "初识模块化开发 | 前端工程化"
+          "title": "每周一个 npm 轮子学习之 lru-cache"
         },
         {
-          "id": "https://juejin.cn/post/7017375285699952648",
-          "author": "小帅的编程笔记",
-          "description": "今天我们来学习JavaScript新的原始类型Symbol，我们可以使用Symbol来创建唯一值作为对象属性或者值，也可以通过Symbol的well-known来修改JS语言内部的逻辑。",
-          "link": "https://juejin.cn/post/7017375285699952648",
-          "publishedOn": "2021-10-10T10:09:17.000Z",
+          "id": "https://juejin.cn/post/7017742245843435534",
+          "author": "xiaohezi",
+          "description": "前言 抛开具体业务需求和场景谈论技术方案，无异于纸上谈兵。没有哪一项技术或解决方案有绝对的好坏、优劣之分。都是相对意义上的区分，否则这些项技术或方案是怎么产生的？一定也是为了解决某类具体场景的问题而产",
+          "link": "https://juejin.cn/post/7017742245843435534",
+          "publishedOn": "2021-10-11T09:45:04.000Z",
           "wordCount": 24,
-          "title": "JavaScript ES6 Symbol 终极教程"
+          "title": "分库分表与到底要不要用自增ID?"
         },
         {
-          "id": "https://juejin.cn/post/7017375423818367007",
-          "author": "猪儿chong",
-          "description": "vue3使用的主要是typeScript，很多地方需要类型，因为只是演示使用any，在实际应用中可以根据自己的需求定义接口类型",
-          "link": "https://juejin.cn/post/7017375423818367007",
-          "publishedOn": "2021-10-10T10:03:22.000Z",
+          "id": "https://juejin.cn/post/7017741102144815140",
+          "author": "青Cheng序员石头",
+          "description": "小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 其官网是这样介绍它的：Terraform是一种开源基础设施即代码软件工具，可提供一致的 CLI 工作流来管理数百个云服务。 工欲善其事必先利",
+          "link": "https://juejin.cn/post/7017741102144815140",
+          "publishedOn": "2021-10-11T09:40:33.000Z",
           "wordCount": 24,
-          "title": "vue3中的vuex4"
+          "title": "【Terraform】Terraform快速了解和安装方法"
         },
         {
-          "id": "https://juejin.cn/post/7017374747973386277",
-          "author": "Stephen_Cui",
-          "description": "前言 - 问题定义 需求定义：能通过定义符合一定规范的JSON格式数据模版，生成对应表单组件，返回结构化的表单数据。包含基本的可扩展的表单原子组件和布局组件，同时嵌套层级可自由控制，在一定程度上达到渲",
-          "link": "https://juejin.cn/post/7017374747973386277",
-          "publishedOn": "2021-10-10T09:59:30.000Z",
+          "id": "https://juejin.cn/post/7017740414060855310",
+          "author": "道系小布丁",
+          "description": "这篇文章主要给大家介绍了利用JS对iframe内外页面进行操作的方法，在iframe里面控制iframe外面的js代码以及在父框架对子iframe进行操作等。",
+          "link": "https://juejin.cn/post/7017740414060855310",
+          "publishedOn": "2021-10-11T09:37:58.000Z",
           "wordCount": 24,
-          "title": "基于React的无限表单设计"
+          "title": "JS对Iframe内外页面进行操作"
         },
         {
-          "id": "https://juejin.cn/post/7017373378579267614",
-          "author": "用户2903215823838",
-          "description": "15.降维技术 当数据有繁杂大量的特征的情况下，我们更倾向于去降低其维数，或去找到一个在保持属性的同时也能够低维表示的方法。降维(或流形学习)技术的关键论点是: 计算:首先要进行预处理步骤——压缩原始",
-          "link": "https://juejin.cn/post/7017373378579267614",
-          "publishedOn": "2021-10-10T09:54:33.000Z",
+          "id": "https://juejin.cn/post/7017740209236213791",
+          "author": "路过看风景",
+          "description": "以上是一些常见的代码质量指标。我们的目标是如何更好的使用Swift编写出符合代码质量指标要求的代码。 一些不错的实践 1. 利用编译检查 减少使用Any/AnyObject 因为Any/AnyObje",
+          "link": "https://juejin.cn/post/7017740209236213791",
+          "publishedOn": "2021-10-11T09:36:58.000Z",
           "wordCount": 24,
-          "title": "15.降维技术 （Dimensionality Reduction）"
+          "title": "Swift 代码质量指标"
         },
         {
-          "id": "https://juejin.cn/post/7017371328411861000",
-          "author": "谁偷了我的奶酪",
-          "description": "实现then的链式调用 我们接着上一篇讲 上一篇最终代码如下: 接下来的目标是实现 then的链式调用,首先看一个示例 第一个then 返回了一个 字符串, 然后接着可以 往后 .then 获取上一个",
-          "link": "https://juejin.cn/post/7017371328411861000",
-          "publishedOn": "2021-10-10T09:51:03.000Z",
+          "id": "https://juejin.cn/post/7017739962955071502",
+          "author": "橙某人",
+          "description": "toFixed() 方法它是采用一种诡异的方法 \"四舍六入五取偶\" ，也叫银行家算法。四舍六入五考虑，五后非零就进一，五后为零看奇偶，五前为偶应舍去，五前为奇要进一。",
+          "link": "https://juejin.cn/post/7017739962955071502",
+          "publishedOn": "2021-10-11T09:36:55.000Z",
           "wordCount": 24,
-          "title": "手写promise,新手需要沉下心来看看(二)"
+          "title": "JS中关于toFixed()方法四舍五入的精度问题"
         },
         {
-          "id": "https://juejin.cn/post/7017368729637879838",
-          "author": "卖油条的。",
-          "description": "概述 js提供的排序api为 如果不提供排序函数，则会将元素转化为字符串并按从前到后依次对比各字符的charcode升序排列，比如 比较函数的两个参数a,b是待比较的两个元素，如果函数返回值小于0，则",
-          "link": "https://juejin.cn/post/7017368729637879838",
-          "publishedOn": "2021-10-10T09:38:57.000Z",
+          "id": "https://juejin.cn/post/7017738408336293901",
+          "author": "江南一点雨",
+          "description": "@[toc] 因为最近有小伙伴问到了，所以我想和大家随便扯扯 Maven 项目中代码的组织形式这个问题。 其实也不是啥大问题，但是如果不懂的话，就像雾里看花，始终不能看的明明白白，懂了就像一层窗户纸，",
+          "link": "https://juejin.cn/post/7017738408336293901",
+          "publishedOn": "2021-10-11T09:32:14.000Z",
           "wordCount": 24,
-          "title": "前端算法系列（2）：排序"
+          "title": "闲扯Maven项目代码组织形式"
         },
         {
-          "id": "https://juejin.cn/post/7017368000618004487",
-          "author": "疏影流年",
-          "description": "一、实例方法：includes(), startsWith(), endsWith() includes()：返回布尔值，表示是否找到了参数字符串。 startsWith()：返回布尔值，表示参数字符",
-          "link": "https://juejin.cn/post/7017368000618004487",
-          "publishedOn": "2021-10-10T09:34:38.000Z",
+          "id": "https://juejin.cn/post/7017739133414178853",
+          "author": "jupiterwang",
+          "description": "KAFKA是当今大数据系统中必不可少的组件，本文带你初步认识KAFKA，了解它诞生的背景，打响探索KAFKA之路的第一枪。",
+          "link": "https://juejin.cn/post/7017739133414178853",
+          "publishedOn": "2021-10-11T09:32:03.000Z",
           "wordCount": 24,
-          "title": "字符串的新增方法"
+          "title": "初识KAFKA"
         },
         {
-          "id": "https://juejin.cn/post/7017366763402690567",
-          "author": "zxl樑樑",
-          "description": "打包的基本流程 获取入口文件的内容。 从入口文件出发，递归分析模板所依赖的文件，生成AST抽象语法树。 遍历AST抽象语法树收集依赖，生产依赖数组。 将AST抽象语法树中的es6代码转为es5。 生成",
-          "link": "https://juejin.cn/post/7017366763402690567",
-          "publishedOn": "2021-10-10T09:32:13.000Z",
+          "id": "https://juejin.cn/post/7017738225796005918",
+          "author": "前端酱紫",
+          "description": "在vue项目的标签里面使用 `v-loading=\"true\"` ，如同element-ui里面使用v-loading=\"true\"一样 会展示loading 效果",
+          "link": "https://juejin.cn/post/7017738225796005918",
+          "publishedOn": "2021-10-11T09:28:54.000Z",
           "wordCount": 24,
-          "title": "手动实现Webpack的核心原理"
+          "title": "手写 vue 自定义指令(directive) v-loading 加载,\b项目实战"
         },
         {
-          "id": "https://juejin.cn/post/7017367102851924004",
-          "author": "a尘ss",
-          "description": "小知识，大挑战！本文正在参与「程序员必备小知识」创作活动 本文已参与 「掘力星计划」 ，赢取创作大礼包，挑战创作激励金。 程序设计等于什么？ 程勋设计的实质是对确定问题，选择一种好的结构，加上设计一种",
-          "link": "https://juejin.cn/post/7017367102851924004",
-          "publishedOn": "2021-10-10T09:30:22.000Z",
+          "id": "https://juejin.cn/post/7017736928938164232",
+          "author": "翠云山柠檬丸",
+          "description": "前文回顾 上一篇介绍了该书的第二部分“模型驱动设计的构造块”，将面向对象领域建模中的一些核心的最佳实践提炼为一组基本的构造块。我们在一个模拟的场景中，运用学到的建模知识，处理了假象的需求，并对模型进行",
+          "link": "https://juejin.cn/post/7017736928938164232",
+          "publishedOn": "2021-10-11T09:24:52.000Z",
           "wordCount": 24,
-          "title": "数据结构与算法入门系列一之数据结构入门与数组"
+          "title": "[DDD]读书笔记《领域驱动设计：软件核心复杂性应对之道》（3）通过重构来加深理解①"
         },
         {
-          "id": "https://juejin.cn/post/7017366908484173832",
-          "author": "a尘ss",
-          "description": "小知识，大挑战！本文正在参与「程序员必备小知识」创作活动 本文已参与 「掘力星计划」 ，赢取创作大礼包，挑战创作激励金。 【序】微前端是什么？ 微前端是一种多个团队通过独立发布功能的方式来共同构建现代",
-          "link": "https://juejin.cn/post/7017366908484173832",
-          "publishedOn": "2021-10-10T09:28:29.000Z",
+          "id": "https://juejin.cn/post/7017734128950837262",
+          "author": "软件测试自动化测试",
+          "description": "今天要带来的是微信小程序自动化测试的一些最佳实践心得，包括微信小程序的基本测试技术和操作方法，以及如何利用 Appium 的 WebView测试技术完成微信小程序的自动化测试，并附上Python版源码",
+          "link": "https://juejin.cn/post/7017734128950837262",
+          "publishedOn": "2021-10-11T09:13:08.000Z",
           "wordCount": 24,
-          "title": "微前端 qiankun 入门"
+          "title": "✨ 实战系列 ✨ 1️⃣  微信小程序自动化测试实践（附 Python 源码）❤️"
         },
         {
-          "id": "https://juejin.cn/post/7017366314289365029",
-          "author": "un",
-          "description": "小知识，大挑战！本文正在参与“程序员必备小知识”创作活动。 html+css常用属性 字体加粗 需加粗字体 需加粗字体 斜体 文字 <",
-          "link": "https://juejin.cn/post/7017366314289365029",
-          "publishedOn": "2021-10-10T09:26:48.000Z",
+          "id": "https://juejin.cn/post/7017714995861389320",
+          "author": "美团技术团队",
+          "description": "客服是在用户服务体验不完美的情况下，尽可能帮助体验顺畅进行下去的一种解决办法，是问题发生后的一种兜底方案。而智能客服能让大部分简单的问题得以快速自助解决，让复杂问题有机会被人工高效解决。",
+          "link": "https://juejin.cn/post/7017714995861389320",
+          "publishedOn": "2021-10-11T08:00:18.000Z",
           "wordCount": 24,
-          "title": "html+css网页设计"
+          "title": "美团智能客服核心技术与实践"
         },
         {
-          "id": "https://juejin.cn/post/7017365471104106504",
-          "author": "nt1107",
-          "description": "实现思路 基于promise封装一个ajax请求 添加拦截和响应功能 添加中断请求功能 实现 搭建主体函数 请求发生器主体 添加中止操作 这里的中止操作，我们用了一个发布订阅 最后调用一下函数 本地试",
-          "link": "https://juejin.cn/post/7017365471104106504",
-          "publishedOn": "2021-10-10T09:24:27.000Z",
+          "id": "https://juejin.cn/entry/7017653693013049357",
+          "author": "请叫我阿ken",
+          "description": "前面学习的 alert()、 prompt() 实际上都属于 window 对象的方法，在调用的时候省略了前面的 \" window. \" 。 由于 window 对象中本来就有一个 name 属性，所",
+          "link": "https://juejin.cn/entry/7017653693013049357",
+          "publishedOn": "2021-10-11T04:00:28.000Z",
           "wordCount": 24,
-          "title": "实现XMLHttpRequest的拦截，响应与中止"
+          "title": "【JS干货分享 | 建议收藏】挑战最短时间带你走进JS（二十五）"
         }
       ]
     },
@@ -1250,6 +1250,24 @@
       "feedUrl": "http://www.geekpark.net/rss",
       "siteUrl": "http://main_test.geekpark.net/rss.rss",
       "articles": [
+        {
+          "id": "http://www.geekpark.net/news/287658",
+          "author": null,
+          "description": "文 | 凌晨\n编辑 | 靖宇\n\n\n2017 年，在蓝营的反对下，特朗普当选美国总统，一半美国人依然在震惊中。\n那一半人中为数不少的人在加州湾区，以 Facebook、苹果、亚马逊、Netflix 和谷歌（FAANG）为表达的科技巨头依然在高速发展中，表现之一就是股票和市值高涨，以至于后来万亿美元成了一条基准线。\nFAANG 没有意识到，自由生长的时代即将成为过去。\n同一年，耶鲁法学期刊上登载了一篇名为《亚马逊的反垄断悖论》（Amazon's Antitrust Paradox），以独特视角阐述了，为什么坚称销售额不足全美零售市场 5% 的电商巨头亚马逊，其实用一种隐蔽的方式实现了新时代的垄断。\n四年后，这篇文章的作者，32 岁的莉娜·可汗 Lina Khan 当选美国联邦贸易委员会主席 (FTC federal trade commission)。\n四年时间，科技巨头依然高歌猛进，但是环境已经发生巨变，「反垄断」浪潮席卷全球。而莉娜·可汗这位 FTC 史上最年轻的主席，将成为 FAANG 最不想见到的人。\n\n\n\n          \n        \n莉娜·可汗 | 来源：网络\n\n\n\n\n「亚马逊」女战士\n1989 年，莉娜·可汗在伦敦出生，父母都是巴基斯坦移民。千禧年之际，11 岁的莉娜·可汗随父母从伦敦移居到美国。\n自耶鲁法学院博士毕业的莉娜，早在毕业前，就因发表在《耶鲁法学杂志》上的《亚马逊的反垄断悖论》而广受关注。彼时正遇上反垄断思潮，她的理论立刻进入公众舆论，并很快在《华盛顿邮报》、《美国瞭望》、《美国有线电视新闻网》等诸多媒体上出现。\n对反垄断的兴趣，源自莉娜去耶鲁法学院之前的一份工作。她在新美国基金会工作时，加入了反垄断项目。新美国基金会是一家温和左派的智库，位于华盛顿。莉娜在这份工作中接触到反垄断的知识。最初，她研究的领域是图书行业和养鸡业，在找企业整合的相关…",
+          "link": "http://www.geekpark.net/news/287658",
+          "publishedOn": "2021-10-11T11:36:38.000Z",
+          "wordCount": 190,
+          "title": "可汗之怒：史上最年轻主席开战Facebook"
+        },
+        {
+          "id": "http://www.geekpark.net/news/287640",
+          "author": null,
+          "description": "多家企业驰援山西，腾讯、阿里、字节、小米等捐款\n北京时间 10 月 10 日消息，近日，山西遭遇持续降雨，多地接连发生崩塌、滑坡等地质灾害，城市内涝严重。10 月 10 日，小米、腾讯、字节跳动、阿里巴巴、网易等纷纷宣布向山西受灾地区捐款。\n\n          \n        \n其中腾讯公益慈善基金会宣布将先期捐赠 5000 万元，助力当地政府救灾、民生保障、文物古建抢救与灾后重建等工作；小米公益基金会宣布向山西省慈善总会捐款 1000 万元；北京字节跳动公益基金会今日宣布捐赠 5000 万元，联合公益机构，为灾区提供紧急救援物资，并支持学校灾后修缮和当地古籍修复。（来源：凤凰科技）\n\n联想科创板上市猝停：负债率高、研发支出少\n北京时间 10 月 10 日消息，上交所发布公告称，此前于 9 月 30 日提交招股书的联想集团和保荐人中金公司申请撤回科创板上市申请文件，上交所决定终止对公司公开发行存托凭证并在科创板上市的审核。\n\n          \n        \n10 月 10 日晚，联想回应表示，考虑到公司业务规模及复杂度，招股说明书中的财务信息可能会在申请的审阅过程中过期失效，同时审慎考虑最新发行上市等资本市场相关情况后，联想决定撤回中国存托凭证于科创板上市及买卖的申请。\n\n有专业人士认为，联想集团不符合在「科创板」上市的要求：包括联想研发费用占比不足 3% 且主要为人员薪酬和折旧的研发费用，科创板要求至少为 5%；联想融资目的 45% 为再投资和补充流动性资产等，而科创板要求募集资金应当投资于科技创新领域。（来源：cnBeta）\n\n\n央行行长回应反垄断：积极应对算法歧视等新型问题\n北京时间 10 月 10 日消息，央行行长易纲在国际清算银行（BIS）监管大型科技公司国际会议上表示，在强化反垄断监管、维护公平竞争秩序方面，中国在 2021 年出台了平台经济领域的反…",
+          "link": "http://www.geekpark.net/news/287640",
+          "publishedOn": "2021-10-11T00:38:49.000Z",
+          "wordCount": 185,
+          "title": "科技公司捐款数亿元驰援山西；Office 2021 中文版发售 748 元起；比利时校园惊现「鱿鱼游戏」"
+        },
         {
           "id": "http://www.geekpark.net/news/287617",
           "author": null,
@@ -1501,24 +1519,6 @@
           "publishedOn": "2021-09-28T15:17:51.000Z",
           "wordCount": 196,
           "title": "极讲究・九月好物名单：iPad mini 6、海信卷曲屏激光电视、Surface Pro 8、米物 ART 三模机械键盘"
-        },
-        {
-          "id": "http://www.geekpark.net/news/286954",
-          "author": null,
-          "description": "「某种意义上讲，小冰是一场庞大的实验。」小冰公司 CEO 李笛说，「而这场实验的目的，是为了寻找出合适的途径，让人工智能可以很好融入人类世界。」\n在这条路上探索到第七年，小冰推出了首款官方 APP：小冰岛。在这座岛上，一群 AI beings 会环绕着一个人，和他互动，形成社交网络。\n在发布会后的群访中，大家都在尝试理解这个看起来有点像游戏，但又不是游戏的产品。「这算不算第一个基于 AI 的虚拟的社交网络？」、「这是一个实验性的产品吗？」、「小冰岛想打造怎样的虚拟世界？」\n李笛介绍，小冰岛的设计一年半之前就开始了。在此之前，小冰团队已经尝试过 AI 和人社交的不同形态。通过专属定制的虚拟男友和虚拟女友，人类可以和 AI 形成一对一的关系；在专属 QQ 群里，「小冰」这个人工智能少女可以和一群人聊天。\n小冰岛则是为人类和 AI beings 交互开辟的新空间。一座座岛屿，就是「环绕着用户的一个个私域社交网络」。\n每个 AI beings 除了跟你聊天，「他们」之间还会彼此「打配合」，在彼此的「朋友圈」状态下点赞聊天。除此之外，每座岛都会生产一些无用之物：绘画、诗歌、小说、短视频……这些由 AI 生产，但归你所有。\n登岛之初，小冰框架中的 201 会邀你遵守唯一的约定：请千万不要对任何人说，其实他不是真的人类……尽管，这里的一切都是为了你才存在。\n\n\n\n          \n小冰岛主视觉 | 小冰公司\n\n\n小冰岛，一端连接用户，一端反哺框架\n下载 App，设置岛屿以及自己的名字，一个人就有了一座专属岛。\n穿越云层，你降落在岛上。海浪和风声中，岛上的居民们聚拢过来。这些随机生成的 AI beings 中，有熟悉的十八岁少女「小冰」，还会有一位「作家」、一位「歌手」、一位「阅读爱好者」。欢迎仪式上，「歌手」会为你唱首歌。\n「新朋友」纷纷在私聊中跟你打招呼，很快，有「人」会送你一首诗…",
-          "link": "http://www.geekpark.net/news/286954",
-          "publishedOn": "2021-09-28T11:26:00.000Z",
-          "wordCount": 200,
-          "title": "小冰建了一座岛，想让你体验下和 AI「混居」是什么感觉"
-        },
-        {
-          "id": "http://www.geekpark.net/news/286849",
-          "author": null,
-          "description": "TikTok 宣布全球月活跃用户突破 10 亿\n北京时间 9 月 27 日晚间消息，TikTok 宣布，其全球月活跃用户数量已突破 10 亿大关。TikTok 之前曾表示，截至 2018 年 1 月，在全球拥有约 5500 万用户。到 2018 年 12 月，这一数字增长到 2.71 亿以上，而到 2019 年 12 月又增长至 5.07 亿。去年夏天，TikTok 宣布月活跃用户达到近 7 亿。\n\n          \n\n相比之下，Facebook 系应用今年第二季度总月活为 35.1 亿。此外，根据 SensorTower 数据，今年 7 月 TikTok 成为第一个全球下载量达到 30 亿的非 Facebook 应用。（来源：新浪科技、cnBeta）\n\n\n字节跳动进军汽车云，计划 2025 年追赶腾讯\n9 月 27 日，36 氪独家获悉，字节跳动近期推出了汽车云业务，已从亚马逊云和京东云等公司招募人员，负责推进该项目。同时，字节也开始与一家新造车和货运自动驾驶公司等洽谈「智驾云」的项目合作。在 2023-2025 年，字节的目标是逐步实现客户云业务覆盖率过半，「整体营收追赶腾讯」。（来源：36Kr）\n\n          \n\n阿里王刚：达摩院已启动 L4 级无人卡车研发\n9 月 27 日，阿里巴巴集团副总裁、达摩院自动驾驶实验室负责人王刚宣布，达摩院正在研发 L4 级自动驾驶卡车「大蛮驴」，目前已与菜鸟合作，开始小范围路测。预计 3 年之后，能在上万条公开道路上见到无人卡车的身影。（来源：证券时报）\n\n\nFacebook 投资 5000 万美元建立「元宇宙」\nFacebook 周一表示，将投资 5000 万美元与相关机构合作，建立「元宇宙」，新的 XR 项目和研究基金将在两年内在全球范围内投资，以确保元宇宙技术「以一种包容和授权的方式构建」。\n\n          \n…",
-          "link": "http://www.geekpark.net/news/286849",
-          "publishedOn": "2021-09-28T00:32:51.000Z",
-          "wordCount": 298,
-          "title": "TikTok 全球月活破 10 亿；Facebook 投 5000 万美元建元宇宙；《迪迦奥特曼》重新上架 B 站"
         }
       ]
     },
@@ -1634,6 +1634,60 @@
       "siteUrl": "https://xclient.info/",
       "articles": [
         {
+          "id": "https://xclient.info/s/widsmob-montage.html",
+          "author": "xclient.info",
+          "description": "WidsMob Montage 是一款能轻松制作蒙太奇图片的软件！简单滴说就是一张图片的组成是由许多小图片拼贴而成的，这样的画面非常有意思。",
+          "link": "https://xclient.info/s/widsmob-montage.html",
+          "publishedOn": "2021-10-11T01:22:36.000Z",
+          "wordCount": 545,
+          "title": "WidsMob Montage 1.19 蒙太奇图片制作"
+        },
+        {
+          "id": "https://xclient.info/s/atext.html",
+          "author": "xclient.info",
+          "description": "aText是一款 Mac OS 上的输入增强工具，你可以通过aText保存你的一些常用的逻辑语句，在你需要使用到的时候通过快捷方式很方便的调用出来，对于编辑和书面工作有很大的帮助。",
+          "link": "https://xclient.info/s/atext.html",
+          "publishedOn": "2021-10-11T01:21:41.000Z",
+          "wordCount": 641,
+          "title": "aText 2.39.1 输入增强工具"
+        },
+        {
+          "id": "https://xclient.info/s/fsnotes.html",
+          "author": "xclient.info",
+          "description": "FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。",
+          "link": "https://xclient.info/s/fsnotes.html",
+          "publishedOn": "2021-10-11T01:18:29.000Z",
+          "wordCount": 727,
+          "title": "FSNotes 5.0.3 轻量级的笔记工具"
+        },
+        {
+          "id": "https://xclient.info/s/audio-hijack-pro.html",
+          "author": "xclient.info",
+          "description": "Audio Hijack Pro 是一款强大的 Mac 录音软件，应用不仅支持从 Mac 电脑的麦克风录取声音，还可以将应用发出的声音录制。",
+          "link": "https://xclient.info/s/audio-hijack-pro.html",
+          "publishedOn": "2021-10-11T01:17:31.000Z",
+          "wordCount": 418,
+          "title": "Audio Hijack Pro 3.8.7 强大的录音软件"
+        },
+        {
+          "id": "https://xclient.info/s/anygo.html",
+          "author": "xclient.info",
+          "description": "AnyGo是Mac平台上一款苹果iOS虚拟定位工具，能帮助用户在iPhone、iPad或者iPod上轻松模拟GPS位置。",
+          "link": "https://xclient.info/s/anygo.html",
+          "publishedOn": "2021-10-11T01:16:35.000Z",
+          "wordCount": 197,
+          "title": "AnyGo 5.1.0 iOS虚拟定位工具"
+        },
+        {
+          "id": "https://xclient.info/s/anydroid.html",
+          "author": "xclient.info",
+          "description": "AnyDroid for Mac下载是一个全能的Android管理器，可融合您所有的Android手机/平板电脑，并从一个方便的地方合并对您所有内容的访问，例如消息，照片，联系人，音乐，应用程序等。只需轻按一下，它就可以帮助您将所有内容从Android到Android，甚至从iOS到Android无缝迁移。它还使您能够完全控制所有Android数据和文件。",
+          "link": "https://xclient.info/s/anydroid.html",
+          "publishedOn": "2021-10-11T01:13:09.000Z",
+          "wordCount": 247,
+          "title": "AnyDroid 7.5.0.20211008 全能Android管理器"
+        },
+        {
           "id": "https://xclient.info/s/widsmob-panorama.html",
           "author": "xclient.info",
           "description": "WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。",
@@ -1668,60 +1722,6 @@
           "publishedOn": "2021-10-09T00:44:57.000Z",
           "wordCount": 326,
           "title": "DCommander 3.9.1 双窗格文件管理"
-        },
-        {
-          "id": "https://xclient.info/s/prefedit.html",
-          "author": "xclient.info",
-          "description": "PrefEdit 是一款非常不错的开发编辑器和应用配置文件编辑工具。",
-          "link": "https://xclient.info/s/prefedit.html",
-          "publishedOn": "2021-10-09T00:44:15.000Z",
-          "wordCount": 226,
-          "title": "PrefEdit 5.0 应用配置文件编辑器"
-        },
-        {
-          "id": "https://xclient.info/s/eon.html",
-          "author": "xclient.info",
-          "description": "Eon 是一款Mac上优秀的时间跟踪定时器，支持中文界面，可以进行时间统计跟踪，设置定时器等，简单易用。",
-          "link": "https://xclient.info/s/eon.html",
-          "publishedOn": "2021-10-09T00:43:19.000Z",
-          "wordCount": 485,
-          "title": "Eon 2.8.16 优秀的时间跟踪定时器"
-        },
-        {
-          "id": "https://xclient.info/s/icollections.html",
-          "author": "xclient.info",
-          "description": "通过iCollections你可以轻松整理电脑桌面上的图片及文件，并将文件分类分区域整理",
-          "link": "https://xclient.info/s/icollections.html",
-          "publishedOn": "2021-10-09T00:42:39.000Z",
-          "wordCount": 614,
-          "title": "iCollections 7.0.70006 桌面图标清理"
-        },
-        {
-          "id": "https://xclient.info/s/duplicate-photos-fixer-pro.html",
-          "author": "xclient.info",
-          "description": "Duplicate Photos Fixer Pro 是一款重复图片清理软件，它能够为用户查找Mac上所有重复图片和接近的图片并将其删除，为您节省宝贵的磁盘空间。",
-          "link": "https://xclient.info/s/duplicate-photos-fixer-pro.html",
-          "publishedOn": "2021-10-09T00:35:58.000Z",
-          "wordCount": 302,
-          "title": "Duplicate Photos Fixer Pro 4.0 重复图片清理"
-        },
-        {
-          "id": "https://xclient.info/s/kaleidoscope.html",
-          "author": "xclient.info",
-          "description": "Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。",
-          "link": "https://xclient.info/s/kaleidoscope.html",
-          "publishedOn": "2021-10-09T00:34:34.000Z",
-          "wordCount": 293,
-          "title": "Kaleidoscope 3.0.2 CR2 功能强大的对比工具"
-        },
-        {
-          "id": "https://xclient.info/s/cisdem-dvd-burner.html",
-          "author": "xclient.info",
-          "description": "Cisdem DVDBurner是一款Mac平台上的光盘刻录软件，可以刻录数据光盘，DVD光盘以及音频光盘。",
-          "link": "https://xclient.info/s/cisdem-dvd-burner.html",
-          "publishedOn": "2021-10-09T00:33:46.000Z",
-          "wordCount": 329,
-          "title": "Cisdem DVD Burner 6.1.0 光盘刻录"
         }
       ]
     },
