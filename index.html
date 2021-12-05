@@ -20,22 +20,514 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.williamlong.info/">月光博客</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">使用JavaScript替换和修改网页链接</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/6639.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>有时候我们会需要修改当前页面里的url中的某个参数的值，动态地调整一些参数的数据，既人性化又利于搜索引擎的优化。下面是利用javascript修改url中某个参数的值的具体思路。
+
+
+
+/* 
+
+* url 目标url 
+
+* arg 需要替换的参数名称 
+
+* arg_val 替换后的参数的值 
+
+* return url 参数替换后的url 
+
+*/ 
+
+function changeURLArg(url,arg,arg_val){ 
+
+    var pattern&#x3D;arg+&#x27;&#x3D;([^&amp;]*)&#x27;; 
+
+    var replaceText&#x3D;arg+&#x27;&#x3D;&#x27;+arg_val; 
+
+    if(url.match(pattern)){ 
+
+        var tmp&#x3D;&#x27;/(&#x27;+ arg+&#x27;&#x3D;)([^&amp;]*)/gi&#x27;; 
+
+        tmp&#x3D;url.replace(eval(tmp),replaceText); 
+
+        return tmp; 
+
+    }else{ 
+
+        if(url.match(&#x27;[\?]&#x27;)){ 
+
+            return url+&#x27;&amp;&#x27;+replaceText; 
+
+        }else{ 
+
+            return url+&#x27;?&#x27;+replaceText; 
+
+        } 
+
+    } 
+
+    return url+&#x27;\n&#x27;+arg+&#x27;\n&#x27;+arg_val; 
+
+} 
+
+
+
+　　使用方法如下：
+
+
+
+changeURLArg(&#x27;https://www.williamlong.info/?max-results&#x3D;20&amp;id&#x3D;2&#x27;,&#x27;max-results&#x27;,100);
+
+
+
+　　下面是上述功能的一个应用，在Google Blogger里，默认的标签显示数目是20个，我们通过JavaScript可以将标签显示数目修改为100个。具体的修改方法如下，打开Blogger的后台，点“布局”，增加一个“ HTML/Javascript”的 Sidebar Widget，其代码如下：
+
+
+
+
+
+function changeURLArg(url,arg,arg_val){ 
+
+    var pattern&#x3D;arg+&#x27;&#x3D;([^&amp;]*)&#x27;; 
+
+    var replaceText&#x3D;arg+&#x27;&#x3D;&#x27;+arg_val; 
+
+    if(url.match(pattern)){ 
+
+        var tmp&#x3D;&#x27;/(&#x27;+ arg+&#x27;&#x3D;)([^&amp;]*)/gi&#x27;; 
+
+        tmp&#x3D;url.replace(eval(tmp),replaceText); 
+
+        return tmp; 
+
+    }else{ 
+
+        if(url.match(&#x27;[\?]&#x27;)){ 
+
+            return url+&#x27;&amp;&#x27;+replaceText; 
+
+        }else{ 
+
+            return url+&#x27;?&#x27;+replaceText; 
+
+        } 
+
+    } 
+
+    return url+&#x27;\n&#x27;+arg+&#x27;\n&#x27;+arg_val; 
+
+} 
+
+document.getElementById(&quot;Blog1_blog-pager-older-link&quot;).href &#x3D; changeURLArg(document.getElementById(&quot;Blog1_blog-pager-older-link&quot;).href,&quot;max-results&quot;,100) ;
+
+
+
+
+
+　　之后保存即可。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://readhub.me/">Readbub</a></h3>
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">曝Twitter在极端分子滥用新私人媒体政策后误停了一些账号</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210809.htm">
+                <summary class="article-expander__title">NASA授予格鲁曼公司建造未来SLS巨型月球火箭助推器的合同</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210951.htm">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(1 min)</span>
-                    <span>在美极右翼极端分子开始利用Twitter的新私人媒体政策后，这家社交媒体平台据说误停了一些账号 ... Twitter的新政策允许个人要求删除包含他们的照片或视频，这已成为极右翼活动分子的目标，他们试图删除在仇恨集会上拍摄的照片 ... 该平台最初表示，制定这一规则是为了遏制滥用媒体骚扰、亲近和泄露私人身份的行为，Twitter称这对女性、活动家、持不同政见者和少数族裔社区成员的影响尤为重大。</span>
+                    <span>NASA已将助推器生产和运营合同（BPOC）授予犹他州布里格姆城的诺斯罗普·格鲁曼公司，为该机构的太空发射系统（SLS）火箭制造助推器，以支持九次SLS飞行 ... 这份价值31.9亿美元的合同确定了2020年6月授予的意向合同，该合同授权诺斯罗普·格鲁曼公司为未来六次SLS飞行订购长引线项目并建造双助推器 ... &quot;这项合同的授予确保NASA将拥有有史以来最强大的固体火箭助推器，用于未来太空发射</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">变通办法增多 Gartner预测移动应用追踪的退出率将下降</summary>
+                <summary class="article-expander__title">获 5G 支持 iPhone SE3 或将 3 月前发布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8Bj7K6cuETs">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>如果这个时间框架被证明是准确的，我们可以预计该设备将在3月底前发布 ... 在产品开发方面，苹果公司坚持在22年第1季度发布第三代iPhone SE，在22年第2季度发布新系列下的四款机型的计划 ... 第三代iPhone SE预计将成为帮助苹果在中端5G智能手机的细分市场上确立地位的主要工具，预计其2022年的产量将达到2500-3000万部。
+凤凰科技 : 获5G支持 iPhoneSE3或将3月前发布</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">传字节跳动正准备在国内推出首个独立电子商务App“抖音盒子”</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8Bj2fyO9t9S">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>抖音一位发言人表示，这款App名为“抖音盒子”，正在进行测试，将向年轻人提供时尚产品和生活方式内容 ... 抖音电商相关负责人表示：抖音盒子主打时尚潮品，是抖音电商的一个场景探索 ... 抖音关联公司此前已经申请注册了“抖音盒子”等一系列商标以及“抖音盒子软件”的软件著作权，还备案了抖音盒子官网“www.boxdouyin.com”，或打造“App + 网页”的双核商城模式。
+凤凰科技 : 传字节跳动正准备在国内推出首个独立电子商务App“抖音盒子”</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">This Compact yet powerful flat Iron is over 70% off</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://mashable.com/deals/dec-5-adagio-flat-iron">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>TL;DR: 
+As of DEC. 5, get the Adagio Not So MINI Flat Iron for just $27.99 with code 
+CMSAVE20
+ — that&#x27;s a discount of 72% from its regular price of $99.
+Great things come in small packages — includin</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Different Ways You Can Monitor Personal Data</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/different-ways-you-can-monitor-personal-data">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(5 min)</span>
+                    <span>You’ve heard of the GDPR and other regulations geared towards protecting personal Data with threats of large fines, but it’s worth remembering that customers take the protection of their Data seriousl</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">矿卡作用被夸大 AMD CEO表态：RX 6000显卡贵是因为高端卡增加</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210935.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>在日前的会议上，AMD CEO苏姿丰表示，现在的数字货币市场跟几年前相比已经不同了，但它们不是推动AMD显卡业务的主要因素，我们非常努力地让我们的显卡真正交付给游戏玩家，零售渠道及其他战略重要性领域 ... 苏姿丰认为AMD的显卡购买者主要是游戏玩家，而挖矿的作用被夸大了，不认为这个因素推动了AMD的显卡销量增长 ... 至于AMD显卡价格越来越贵的原因，AMD CEO苏姿丰解释说，这主要是受RX</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A Beginner’s Guide To Implementing MVVM Architecture In Flutter</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/a-beginners-guide-to-implementing-mvvm-architectur">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>There was a time in the tech Space, where businesses and companies struggled to develop an App for their idea. This was primarily because they had to develop the same idea twice as applications –One f</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">2022年上半年，蔚来NT1. 0平台车型的车机底层智能硬件升级将正式启动</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514279055824899">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">中信证券：预计市场在沉寂数月后步入跨年蓝筹行情的临界点</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514278331291648">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>最后，房住不炒和财富管理两大趋势下，增量资金不断流入，市场流动性极其充裕。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">COVID-19大流行所带来的抑郁症在老年人群体中持续存在</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210927.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>利用加拿大老龄化纵向研究（CLSA）的数据，一个国家研究小组发现，在COVID-19大流行开始时，43%的50岁或以上的成年人经历了中度或高度的抑郁症状，而且随着时间的推移，这种情况越来越严重 ... 他们使用电话和网络调查数据来研究与健康有关的因素和社会决定因素，如收入和社会参与，在2020年3月开始的最初封锁期间和在加拿大COVID-19的第一波重新开放后，如何影响抑郁症状的流行 ... 总体</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">SHIELD团队研究太阳系保护性&quot;磁力场&quot;的团队取得突破性进展</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210925.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>一个总部设在波士顿大学的多机构天体物理学家团队在BU天体物理学家Merav Opher的领导下，在我们对塑造太阳系周围保护性气泡的宇宙力量的理解上取得了突破性发现，这个气泡为地球上的生命提供庇护，被太空研究人员称为日光层 ... 他们认为，日光层远远超出了我们的太阳系，但尽管日光层为地球上的生命形式提供了巨大的宇宙辐射缓冲，没有人真正知道日光层的形状，或者说，它的大小 ... 该团队由Opher从</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NASA激光通信中继示范发射因火箭燃料泄漏而被推迟</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210923.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>美国联合发射联盟（ULA）的Atlas V 551火箭搭载国防部（DOD）的太空测试计划3（STP-3）任务，12月5日的发射已经被取消了 ... 该任务的发射--承载着NASA的激光通信中继演示（LCRD）和NASA-美国海军研究实验室的紫外线光谱-光子仪（UVSC）探路者--现定于美国东部时间12月6日星期一上午4:04 ... 激光通信中继演示任务首先将展示连接夏威夷和加利福尼亚地面站的空地</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">华为鸿蒙HarmonyOS系统明年登陆欧洲</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210919.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>有记者问到，为什么nova 9没有像中国市场的机型一样运行鸿蒙OS，Derek Yu答道：今年 6 月，我们发布了 HarmonyOS 2.0，当然主要面向中国市场 ... 值得注意的是，鸿蒙HarmonyOS系统的主战场是中国市场，海外市场的大部分华为手机使用的依然是EMUI，与鸿蒙HarmonyOS的区别非常明显 ... 来看，目前已经有135款华为设备升级为鸿蒙HarmonyOS正式版，有6款设备正在内侧招募中，而已经升级的华为设备数量已经超过了1.5亿。
+CNBeta : 华为鸿蒙HarmonyOS系统明年登陆欧洲</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">被曝存在未成年人性暗示，小红书道歉</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BjEkOZl7aa">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>今年9月，成都的小学生家长蒋先生在“小红书”App上搜索亲子乐园时发现，这个App不时给自己推送含有大量未成年人生活的短视频，起初蒋先生以为是平台推荐了一些青少年用户的体验，但越来越多明显泄露未成年人身体隐私的视频被推送过来，让蒋先生感到担忧 ... 而对于短视频平台提供未成年人注册的渠道，法律学者表示，平台应当严格落实未成年人保护法的规定，对涉及未成年人内容的短视频进行专门分类管理，不能放任其账号与成年人账号混杂在一起，更不应该主动推荐给陌生用户 ... 按照《未成年人保护法》及相关法规政策，小红书先后成立了多个未成年治理专项，包括升级和优化青少年模式，严禁未成年人直播、打赏，严禁炒作“网红儿童”、诱导未成年人打赏及其他不符合正向价值观的内容等。
+凤凰科技 : 被曝存在未成年人性暗示 小红书道歉
+CNBeta : 被曝存在未成年人性暗示 小红书道歉
+钛媒体 : 小红书回应涉嫌泄露未成年隐私：部分内容已被回查处理
+新浪科技 : 小红书回应审核漏放：部分内容已被回查处理，将启动新一轮未成年治理专项
+凤凰科技 : 小红书回应泄露未成年人隐私及审核漏放 此前遭央视曝光</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">美国宇航局向SpaceX下更多的载人飞行订单以弥补波音飞船的延误</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210917.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>波音公司持续的&quot;Starliner&quot;延误促使NASA对冲其赌注，Space News报道，NASA计划再订购多达三次SpaceX的载人飞行，以确保美国最快在2023年&quot;不间断&quot;地前往国际空间站 ... 该机构表示，SpaceX公司的&quot;载人龙&quot;飞船是唯一能在必要的时间窗口内满足伙伴国和安全要求的系统 ... 如果波音公司始终没有准备好他们的载具，美国宇航局不希望没有前往国际空间站的机会。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NASA计划向SpaceX加订载人飞船订单</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8Bj8uGkJKhl">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>NASA计划再订购多达三次SpaceX载人航班，以确保美国最早在2023年“不间断”前往国际空间站 ... NASA 表示，SpaceX的龙飞船是唯一在必要时间内满足合作伙伴国家和安全要求的系统 ... 波音公司两次推迟 Starliner 轨道测试以调查氧化剂隔离阀问题，NASA 副局长 Kathy Lueders 说，现在获得更多航班以维持美国在国际空间站的立足点“至关重要”。
+凤凰科技 : 波音不给力 NASA计划向SpaceX加订载人飞船订单
+CNBeta : 美国宇航局向SpaceX下更多的载人飞行订单以弥补波音飞船的延误</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">拓普集团：本次涉及召回产品只配套特斯拉Model Y车型</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210913.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>拓普集团公告，本次涉及召回的Model Y电动汽车配套的转向节由公司直接供给客户 ... 客户本次召回行动迅速，且召回工作尚未完成，因此公司对于本次召回所涉费用暂时无法确定 ... 认为本次召回为非重大事件，不会对年度经营业绩产生影响，本次事件也不会对公司业务产生影响。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">被曝存在未成年人性暗示 小红书道歉</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BjEkOZl7aa">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>今年9月，成都的小学生家长蒋先生在“小红书”App上搜索亲子乐园时发现，这个App不时给自己推送含有大量未成年人生活的短视频，起初蒋先生以为是平台推荐了一些青少年用户的体验，但越来越多明显泄露未成年人身体隐私的视频被推送过来，让蒋先生感到担忧 ... 而对于短视频平台提供未成年人注册的渠道，法律学者表示，平台应当严格落实未成年人保护法的规定，对涉及未成年人内容的短视频进行专门分类管理，不能放任其账</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">俄“联盟”号火箭携带伽利略卫星从库鲁发射中心发射成功</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210907.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>俄罗斯运载火箭“联盟-ST-B”携带伽利略卫星从库鲁发射中心成功发射 ... 此前由于天气原因，“联盟”火箭携带伽利略卫星从法属圭亚那库鲁发射中心的发射任务从12月2日推迟至3日，随后因法国船载遥测信息接收站未准备就绪被推至4日 ... 在24颗伽利略卫星中，有14颗是由“联盟-2”号运载火箭于2011年至2016年发射的。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">微博与VSPN+达成战略合作 共同助力电竞破圈走向大众</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://finance.sina.com.cn/tech/2021-12-05/doc-ikyakumx2173813.shtml">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>微博与MCN机构VSPN+在电竞领域达成首次战略合作，双方将围绕VSPN+旗下艺人在品牌建设、内容传播、博主造星、跨界营销等多领域展开深度合作 ... 2021年，微博以社交属性助力电竞破圈走向大众群体，以2亿用户稳固电竞基本盘，配合几十个领域的跨界共振和明星关键时刻的集体发声，为电竞引爆流量，极大的提供了传播机遇 ... 对于双方的合作，微博运营高级副总裁曹增辉表示，微博将加大对VSPN+旗下主</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Hybrid Multi Cloud Strategy: Winning Theme For Enterprise</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/hybrid-multi-cloud-strategy-winning-theme-for-ente">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(8 min)</span>
+                    <span>Overview of Hybrid Multi-Cloud
+Today, Business is changing continuously and Technology is trying to Catch up with these Business agilities to Meet with the time to market.  Organizations are expanding</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">思源笔记 – Block 内容块、大纲和双向链接的本地个人知识管理系统</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/siyuan-biji/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>思源笔记是一款融合内容块、大纲和双向链接三种概念的本地笔记软件，支持 Windows、macOS、Linux，以及 iOS、Android，支持使用 Docker 自建服务器端（网页版） ... 块引用是思源笔记的独家功能，让你可以在一篇笔记中引用其他笔记或一个段落，然后直接浏览或编辑所引用的笔记 ... 这个工具让思源笔记自动侧边分屏和小窗置顶快记，方便用户快速进入笔记状态，和提升用户使用思源笔</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">印尼火山剧烈喷发已致13死41伤 现场画面曝光</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210895.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>当地时间本周六（12月4日）下午15点左右，位于印尼爪哇岛东南部的塞梅鲁火山（Mount Semeru ）喷发，海外网报道的最新消息称，火山喷发已导致至少13人死亡，41人受伤 ... 塞梅鲁火山海拔高度3676米，是爪哇岛最高峰，也是印尼约130座活火山之一 ... 1818年以来发生过约60次强度2-3级的火山喷发，今年1月曾爆发一次，但强度不高，且未造成人员伤亡。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">匹克体育CEO许志华：2022年一季度将推出应用匹克态极技术的竞速系列</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514217172097028">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>在研UP30 2.0 ProMax产品，预计将于2022年三季度推出。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">11月Android 手机好评榜：Redmi罕见进前三</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210889.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>新机发布不断，但是回过头来，似乎没有太多耐用的旗舰机型，比如每月的Android 手机好评榜，很少有今年的旗舰机型登榜，当然这和骁龙888有着一定关系 ... 以上就是11月安兔兔Android 手机好评榜的所有内容，接着来说说Redmi、Realme等主打性价比的品牌为何难登榜 ... 如今手机性能发展迅速，一旦时间长了，这些性价比机型就显得落后，性能跟不上，其它配置又不能弥补，就造成使用卡顿，</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">蔚来总裁秦力洪：不会推出飞行汽车，不在我们合理的战略扩张路线上</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514205770503941">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">小红书回应泄露未成年人隐私及审核漏放 此前遭央视曝光</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BjAKdmGkw3">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>针对央视曝光小红书涉嫌泄露未成年隐私及内容审核不严问题，小红书回应凤凰网科技称，报道中提及的部分内容，在平台此前的未成年专项回查中已经被处理，并透露平台将于近期启动新一轮未成年治理专项 ... 今年9月，四川成都的小学生家长蒋先生在“小红书”App上搜索亲子乐园时发现，App不时给自己推送含有大量未成年人生活的短视频，随后，越来越多明显泄露未成年人身体隐私的视频被推送过来 ... 按照《未成年人保</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">亚马逊《新世界》玩家流失严重，即将开始合并服务器</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://finance.sina.com.cn/tech/2021-12-05/doc-ikyamrmy6987302.shtml">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>亚马逊的《新世界》在推出超过两个月后，在Steam上的同时在线人数超过13万人，但相较于巅峰时期90万的同时在线人数而言，玩家流失严重 ... 亚马逊官方表示，《新世界》第一次服务器合并将在 12 月 8 日进行 ... 在前两个月，亚马逊的《新世界》多次被传出发生烧掉玩家的高端显卡的事故。
+新浪科技 : 亚马逊《新世界》玩家流失严重，即将开始合并服务器
+凤凰科技 : 亚马逊《新世界》玩家流失严重 即将开始合并服务器</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">12代酷睿装机成本大降！B660主板价格降到100元级美金</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8Bj8uGkJKmU">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>届时可能会在CES发布会上发布12代酷睿移动处理器(Alder Lake-P)、桌面版非K型号等 ... 对于65W非K型号，甚至包括酷睿i3在内，如果还是只能Z690主板点亮，显然对DIY用户不友好，爆料显示，H610、B660等芯片组主板将同步推出 ... B660主板（M-ATX）最低可以做到119美元（约合758元），当然一些自带Wi-Fi的大板，依然还需要200美元以上，相较于如今Z69</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">IDC：中国物联网市场规模有望在2025年超3000亿美元</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://finance.sina.com.cn/tech/2021-12-05/doc-ikyamrmy6984416.shtml">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>IDC发布了《2021年V2全球物联网支出指南》，从技术、场景、行业等维度对全球物联网市场进行了全面梳理，并对未来5年市场的发展趋势进行了预测 ... IDC预测，2021年全球物联网支出将达到7，542.8亿美元，并有望在2025年达到1.2万亿美元，五年（2021-2025）复合增长率（CAGR）11.4% ... 从中国市场来看，与2021V1版相比，IDC在本次预测中小幅下调了中国物联网市场未来几年的支出规模。
+新浪科技 : IDC：中国物联网市场规模有望在2025年超3000亿美元</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">挪威11月新能源汽车销量占比94.9%，预计2025年实现纯电动目标</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BinP1IkBmD">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>目前欧洲等地区制定目标，在2030-2035年实现销售的新车全部为新能源车型 ... 而北欧地区的步伐明显更快，统计数据显示，2021年11月，挪威新能源汽车销量占比达到了94.9%，预计最快到2025年便可以实现纯电动化的目标 ... 11 月挪威燃油汽车销量仅为 356 辆，柴油车销售 416 辆，而纯电动汽车销量达到了 11274 辆，占比高达 73.8%，去年仅为 56.1%。
+凤凰科技 : 挪威11月新能源汽车销量占比94.9% 预计2025年实现纯电动目标</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">锂电池电芯明年初将再提价：电动车售价或上调</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210845.htm">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>电池模组厂已获通知，因电动汽车、储能等下游需求拉升，明年年初，圆柱形锂电池电芯将再次涨价，涨幅5%-15%，电池涨价潮或将延续至2023年 ... 自今年下半年以来，电动车电池价格一直在上涨，数据显示，目前NMC(811)电池价格近110美元/kWh，预计Q4价格较Q1每kWh将高出63.7元 ... 锂电池的需求强劲，带动了整个电池行业的扩产，今年以来，包括宁德时代在内的动力电池头部企业宣布未来5年新增产能总量累计将超过2TWh，约为今年装车量的20倍，而业内专业人士预测，未来5年，锂电池产业将迎来“井喷”。
+CNBeta : 锂电池电芯明年初将再提价：电动车售价或上调
+凤凰科技 : 锂电池电芯明年初将再提价：电动车售价或上调</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Best Practices For GraphQL security</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/best-practices-for-graphql-security">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>While GraphQL enables the creation of flexible APIs, it is considered prone to allow malicious queries that compromise application servers. Being One of the most popular query languages, commonly foun</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Gartner：预计2023年移动应用隐私追踪退出率将从85%下降到60%</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BicamIIT0Z">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(0 min)</span>
@@ -46,46 +538,752 @@ CNBeta : 变通办法增多 Gartner预测移动应用追踪的退出率将下降
                 </a>
               </details>
             </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://36kr.com">36氪</a></h3>
+          <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">如何在12个月之内造出一台被动收入机器</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.36kr.com/p/1504172687522434">
+                <summary class="article-expander__title">医疗健康行业周报 | 「优思达」获超3亿元E+轮融资；2021年国家医保药品目录调整结果公布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1514101836912387">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(0 min)</span>
-                    <span>本文介绍了创作者如何制造一台被动收入机器的步骤，文章来自编译 ... 问题在于大家通过群聊或电子邮件列表建立起社区后，然后只需点击一下按钮就毁掉了自己的被动收入机器 ... 这就是怎么在 12 个月之内打造一台被动收入机器，然后在第二年开始吐钱的办法。</span>
+                    <span>近年来，医疗健康产业创新不断涌现，并发展成为最活跃的行业之一，36氪见证和陪伴着这一领域创新企业的成长，并为行业带来专业的声音。
+ 
+为此，36氪推出了“医疗健康行业周报”这一栏目，接下来将定期发布，为读者提供资本、政策、财务、新产品等多角度的行业资讯。
+ 
+12月5日医疗健康行业周报请查收。行业周报收录了本周医疗健康领域「36氪创投频道」报道的融资新闻，以及其他值得关注的国内外行业新闻动态。
+ 
+投资融资
+ 
+ 
+ 
+「微岩医学」完成获亿元A+轮融资
+ 
+ 
+微岩医学科技（北京）有限公司（以下简称“微岩医学”）已完成亿元人民币A+轮融资，本轮融资由上海联和投资有限公司（以下简称“上海联和”）独家领投。本轮融资将用于加快其“病原微生物天网实验室”的建设及医疗器械产品的注册报证进程，进一步推进感染精准诊断新产品开发。微岩医学专注于感染精准分子诊断领域，目前拥有完全自主知识产权的mNGS全流程高通量自动化解决方案，36氪此前曾对其有过详细报道，目前，公司围绕第三方医学检测和体外诊断产品申报业务，已在华北、华东、华南、华西等地，完成了十余家全资子公司或医学检验所的布局。
+ 
+36氪首发 | 提供mNGS全流程解决方案，「微岩医学」完成获亿元A+轮融资
+ 
+ 
+ 
+「优思达」获超3亿元E+轮融资
+ 
+ 
+分子POCT诊断企业优思达已完成由CPE源峰领投，现有股东东方富海跟投的逾3亿元E+轮融资，百榕资本担任本轮融资独家财务顾问。据悉，本轮融资将继续用于核心产品EasyNat 高通量核酸扩增平台的产能提升及检测菜单扩展，以及核酸类家庭自检平台的量产和新一代检测平台的开发。自成立以来，优思达一直专注于创新分子POCT产品的研发，36氪曾对其详细报道。
+ 
+36氪首发 | 「优思达」获超3亿元E+轮融资，加速核酸类家庭自检产品量产
+ 
+ 
+ 
+艾博生物完成3亿美元C+轮融资
+ 
+ 
+苏州…</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">26个字母vs几万个汉字 中国人的打字机曾造得多艰难？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BiMWd7bk2i">
+                <summary class="article-expander__title">深交所：注册制下新上市238家公司，IPO融资额超1800亿</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514390645299207">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(0 min)</span>
-                    <span>不少执着的国人靠着自己对汉字的理解，找到了应对汉字数量的解决方法，做出了真正意义上的中文打字机 ... 建国后生产的打字机依旧是以“ 舒式打字机 ”为基础改良来的，舒式打字机虽然看起来很笨，但起码造价便宜、可靠能用 ... 天津红星工厂成功生产的“ 文化牌 ”打字机、上海打字机厂推出的万能牌打字机、飞鸽牌打字机、双鸽牌打字机等，都是这个时期中文打字机的代表品牌。</span>
+                    <span>36氪获悉，在今日举行的第17届中国（深圳） 国际期货大会上，深圳证券交易所副总经理唐瑞表示，截至11月26日，注册制下新上市公司238家，IPO的融资额超过了1800亿元。今年4月，我们又高质量完成主板和中小板合并，时隔21年，深市主板恢复发行上市功能，形成了层次清晰、各有特色的‘主板+创业板’市场体系。两板合并实施以来，深市主板新上市公司21家，IPO融资额167亿元。</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">加拿大利用AirTag破偷车案？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BiMWd7bk1g">
+                <summary class="article-expander__title">全国人大常委会法工委经济法室副主任王翔：期货和衍生品法草案将适时提请第三次审议并争取通过</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514313736148995">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(0 min)</span>
-                    <span>约克地区警察局在一份新闻稿中概述了调查人员发现的一种新方法，该方法利用AirTag的位置跟踪功能，被不法分子用来追踪和盗窃高端车辆 ... 偷车的方法在很大程度上是传统的，但AirTag的目的是追踪一辆高端汽车回到车主的住所，在那里进行偷盗 ... 小偷瞄准他们在公共场所和停车场发现的任何特别贵重的车辆，将AirTag放在看不见的地方，比如拖车挂钩或油帽里，希望它不会被车主发现。</span>
+                    <span>全国人大常委会法工委经济法室副主任王翔12月5日在第17届中国(深圳)国际期货大会上表示，按照立法程序，一部新法律的制定一般要经过全国人大常委会三次审议通过，目前期货和衍生品法已经经过了常委会的二次审议，下一步将根据常委会组成人员的审议意见和有关方面的意见，继续对草案进行修改完善，适时提请全国人大常委会会议进行第三次审议并争取通过。（证券时报）</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">沃尔沃正在测试世界上第一台应用于林业的遥控轮式装载机</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.jiemian.com/article/6876516.html">
+                <summary class="article-expander__title">2022年上半年，蔚来NT1. 0平台车型的车机底层智能硬件升级将正式启动</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514279055824899">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(0 min)</span>
-                    <span>沃尔沃集团（Volvo AB）旗下沃尔沃建筑设备公司表示，已在最具挑战性的应用场景中，对远程控制技术进行了测试 ... 沃尔沃方面也由此成为全球第一家在林业环境中通过5G网络远程操作轮式装载机的机械设备制造商 ... 这家瑞典公司近期在一段演示中展示了L180高起重轮式装载机拣选、装载和整理原木的场景，而该机械的操作员则安全的坐在数百公里之外。</span>
+                    <span>36氪获悉，12月5日，在蔚来电池灵活升级面对面活动中，蔚来联合创始人、总裁秦力洪表示，明年上半年，蔚来将启动面向NT1. 0平台车型的车机底层智能硬件升级。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">中信证券：预计市场在沉寂数月后步入跨年蓝筹行情的临界点</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514278331291648">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中信证券研报认为，市场等待的几个因素在下周将陆续落地，预计中央经济工作会的定调会进一步确认经济逐步恢复的趋势，海外疫情扰动以及美联储可能加速缩减购债规模的担忧对A股影响有限，充裕的市场流动性下市场易涨难跌，增量资金大概率围绕“三个低位”布局，预计市场在沉寂数月后步入跨年蓝筹行情的临界点。首先，四季度部分经济数据已经显示经济增长仍然有韧性。其次，奥密克戎病毒特性尚不明确，海外高通胀下人民币资产更具吸引力。最后，房住不炒和财富管理两大趋势下，增量资金不断流入，市场流动性极其充裕。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">证监会：推动在美上市中企退市系误读，一些境内企业正在积极推进赴美上市事宜</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514277557327616">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>证监会新闻发言人表示，中国证监会和相关监管部门始终对企业选择境外上市地持开放态度，充分尊重企业依法合规自主选择上市地。近期，个别媒体报道中国监管部门将禁止协议控制（VIE）架构企业赴境外上市，推动在美上市中国企业退市，这完全是误解误读。据我们了解，一些境内企业正在积极与境内外监管机构沟通，推进赴美上市事宜。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">证监会：中国政府出台的相关政策与企业境外上市活动没必然联系</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514276509800196">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>36氪获悉，据证监会网站12月5日消息，证监会新闻发言人答记者问时表示，一段时间以来，中国有关监管部门出台了一系列促进平台经济规范发展的政策措施，其主要目的是规制垄断行为，保护中小企业权益和数据安全、个人信息安全，消灭金融监管真空，防止资本无序扩张。针对这些新问题、新考验，各国监管部门也正在尝试采取不同的监管措施，促进平台经济更加健康、更可持续的发展。因此，中国政府出台的相关政策，并非对特定行业或民营企业的打压，也与企业境外上市活动没有必然联系。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">证监会：与美国SEC等监管机构对重点事项推进合作取得积极进展</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514275385005828">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>36氪获悉，据证监会网站12月5日消息，证监会新闻发言人答记者问时表示，近期，个别媒体报道中国监管部门将禁止协议控制（VIE）架构企业赴境外上市，推动在美上市中国企业退市，这完全是误解误读。在中美审计监管合作方面，近期，中国证监会与美国SEC、美国公众公司会计监督委员会（PCAOB）等监管机构就解决合作中存在的问题进行了坦诚、有建设性的沟通，对一些重点事项推进合作方面取得了积极进展。我们相信，只要双方监管机构继续秉持这种相互尊重、理性务实和专业互信的原则开展对话磋商，就一定能够找到双方都接受的合作路径。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">深交所：截至12月5日深港通累计交易金额41.9万亿元，年均增长94.5%</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514274613810948">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>深交所消息，2021年12月5日，深港通开通五周年。五年来，两地市场机构和投资者积极参与深港通，推动深港通交易规模连续快速增长。截至12月5日，深港通累计交易金额41.9万亿元，年均增长94.5%，成为我国资本市场双向开放的重要窗口。目前，深股通在深市A股交易金额的占比为4.5%，港股通在香港股票市场交易金额的占比达到6.8%，成为吸引增量资金的重要渠道，为提升交易活跃度和市场流动性作出积极贡献。（证券时报）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">匹克体育CEO许志华：2022年一季度将推出应用匹克态极技术的竞速新系列</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514217172097028">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>36氪获悉，匹克体育CEO许志华在匹克125发布会上表示，应用匹克态极技术的UP30 2.0、2.0ELITE竞速系列，将于2022年一季度正式推出。同时在研UP30 2.0 ProMax产品，预计将于2022年三季度推出。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">蔚来总裁秦力洪：不会推出飞行汽车，不在我们合理的战略扩张路线上</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514205770503941">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>36氪获悉，蔚来总裁秦力洪表示，蔚来不会推出飞行汽车，不在公司合理的战略扩张路线上。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">央行数研所副所长狄刚：已率先实现在数字人民币研发项目中积极探索区块链应用</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514169710925825">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中国人民银行数字货币研究所副所长狄刚12月5日在国际金融论坛（IFF）第18届全球年会上表示，区块链技术在数字金融领域应用成果初现。人民银行数字货币研究所率先实现了在数字人民币的研发项目中积极探索区块链应用。（证券时报）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">我国首个国际疫苗创新中心在深揭牌</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514088057919495">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>12月4日，大湾区国际疫苗创新中心在深圳市坪山区生物医药创新产业园区正式落成并举行开幕仪式。该中心是中国首个国际化的疫苗创新中心，也是首个以疫苗生态创新为核心的创新中心。当天，第二届大湾区（深圳）疫苗峰会拉开帷幕。（证券时报）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">上交所相关人士：今年以来民营房企在上交所债券融资保持健康有序、相对稳定</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514019460060932">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>上交所相关人士表示，今年以来，民营房企在上交所市场债券融资保持健康有序、相对稳定状态。 (财联社)</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">美国12个州出现超20例奥密克戎感染病例，福奇：已有社区传播</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1514018634471428">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>据美媒报道，美国目前已有至少12个州出现超20例奥密克戎毒株感染病例，这些患者的年龄、疫苗接种状况和旅行史各不相同。美国传染病专家福奇指出，奥密克戎毒株无疑在美国已存在社区传播。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">美国总统拜登将于下周三前往堪萨斯城，宣传两党基础设施法案</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513931423586311">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>美国总统乔·拜登下周三将前往堪萨斯城，宣传两党合作的基础设施法案。白宫在一份声明中说，拜登将“讨论《两党基础设施法》如何通过重建道路和桥梁、升级公共交通、替换供水基础设施以及创造高薪的工会工作岗位，为美国人民带来好处”。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">碧桂园拟向交易所申请发行供应链ABS产品</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513900628989701">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>继本月初在银行间市场交易商协会申请发行中期票据获得受理之后，碧桂园集团拟于近期向交易所申请发行供应链ABS产品。申请获批后，碧桂园将在监管机构指导下尽快启动相关产品的发行工作。据介绍，供应链ABS产品作为创新的融资方式，可支持上游供应商融资，缓解中小企业融资难、融资贵问题，有助于上游企业拓宽融资渠道、降低融资成本、提高经营效率。碧桂园将继续认真贯彻落实“房住不炒”和“三稳”政策要求，通过稳健经营确保企业风险可控、行稳致远，促进房地产行业健康平稳发展。（证券时报）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">焦点分析 | 现金流告急，爱奇艺不得不裁员自救</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1511583944824585">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>文 | 连然  编 | 张信宇
+ 
+股价屡创新低，内部裁员遍地，这可能是爱奇艺公司历史上最大的一次危机。
+ 
+自12月1日被报道大裁员消息以来，爱奇艺方面尚未有正式的官方回复。爱奇艺副总裁陈福鑫则在社交媒体上对36氪表示，“公司内部都好，一切正好”。
+ 
+任职于爱奇艺广告销售部的一名员工对36氪谈及此事时称，他的裁员通知是在12月1日收到的，公司给了他半个月的交接时间，据他的表述，公司部分业务调整，有的团队要做合���，补偿是N+1；在裁员比例上，他估算本部门裁员比例大约在30%，至于大部门或者其他部门的比例则并不清楚。
+ 
+但是，这轮年底前突发的裁员到底是怎么引起的呢？
+ 
+危机将到来
+ 
+事实上，爱奇艺正在面临严重的现金流问题。
+ 
+截至美东时间12月3日周五收盘，爱奇艺的股价只有4.71美元，与其年内28.97美元的高点相比，缩水超过八成。
+ 
+而就在裁员事件爆发前的11月30日，爱奇艺被提前赎回7.5亿美元可转债（约合人民币47.775亿元）。据三季度财报，爱奇艺该季度拥有现金、现金等价物、受限现金和短期投资共计110亿元。当年买入交易的上限价格为每股ADR 38.42美元，如今爱奇艺的股价在5美元左右徘徊，或是此次赎回的原因之一。
+ 
+爱奇艺财报显示，2021年前三季度的季度末，爱奇艺拥有现金、现金等价物、受限现金和短期投资共计分别为一季度的人民币133亿元，二季度的123亿元，三季度的110亿元。按照这个速度，再减掉11月30日提前偿还的7.5亿美元可转债，意味着爱奇艺在今年年底账上可能只有50亿人民币的现金，即便不出任何意料之外的问题，它也熬不过一年了。爱奇艺非常需要再次融资或举债。
+ 
+海通国际的研报指出，展望未来考虑到监管的不确定性和广告商严格的预算，预计第四季度爱奇艺不会出现明显的边际改善，按照目前的烧钱速度，公司理论上需要在3-4个季度内进行另一轮融资…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">证监会副主席方星海：目前期货市场资金总量突破1.2万亿元 较去年增长44.5%</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513836543547397">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中国证监会副主席方星海在今日召开的2021年第17届中国（深圳）国际期货大会上表示，2021年期货市场保持良好发展态势，目前我国期货市场资金总量已突破1.2万亿元，较去年增长44.5%。截至10月底期货市场产业和机构投资者客户权益、成交量、持仓量占比分别为68.0%38.4%和64.9%同比分别增长7.4、4.3和9.5个百分点。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">加密货币价格大幅下跌</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513792111826697">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>变异新冠病毒奥密克戎毒株蔓延、美联储收紧货币政策预期等因素影响，加密货币价格从3日深夜开始出现大幅下跌，比特币价格最大跌幅超过20%。比特币、以太币价格在过去24小时最大跌幅超过20%，其中比特币价格一度跌至42019美元，为今年9月底以来的最低水平。而瑞波币、莱特币价格在过去24小时最大跌幅超过30%。（证券时报）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">国家卫健委：昨日新增本土确诊病例42例</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513789183858440">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>36氪获悉，国家卫健委发布数据显示，12月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例59例。其中境外输入病例17例（云南7例，上海4例，天津2例，辽宁2例，广东1例，广西1例），含2例由无症状感染者转为确诊病例（广东1例，云南1例）；本土病例42例（内蒙古30例，均在呼伦贝尔市；黑龙江10例，均在哈尔滨市；云南2例，均在德宏傣族景颇族自治州）。无新增死亡病例。无新增疑似病例。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">广州文交会：十项重大文旅产业项目签约，金额达1000亿元</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1513788096468739">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>由广州市政府主办的2021广州文化产业交易会12月4日上午拉开帷幕。启动仪式上举行了2021广州文交会重大文旅产业项目签约仪式，包括“广州市推动文化创意产业链高质量发展”合作项目、“华侨城汽车欢乐世界”项目、“广州国际电竞中心”项目、“沙河片区文化产业高质量发展战略合作”项目等10个签约项目，意向合作金额达1000亿元。（财联社）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">36氪首发｜充电运营平台蔚景云获创业工场数千万A轮融资，加速产品研发及市场开拓</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1500289100118916">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>文 | 李安琪
+ 
+编辑 | 苏建勋
+ 
+36氪独家获悉，新能源汽车充电运营平台蔚景云获得了创业工场投资的数千万A轮融资。据悉，本轮融资将用于蔚景云的产品研发及市场开拓。
+ 
+蔚景云是一家成立于2016年的新能源运营服务公司，通过将市面离散的充电站/桩进行整合，提供充电站管理、充电交易等运营服务，同时为C端消费者提供统一的流量入口，属于汽车充电行业的B2B2C模式。
+ 
+当下，由特斯拉、蔚来、小鹏、理想等新造车势力掀起的汽车电动化转型已成时代浪潮，消费者的各种场景充电需求也在不断扩大，这也为一批充电运营商的崛起创造了机会。
+ 
+蔚景云CEO 黄隽莹告诉36氪，当下车辆充电行业呈现出一种碎片化、本土化的发展局面。
+ 
+由于车辆充电服务有着很强的城市地理特征，不同城市的充电站大小形式不一，获取服务的方式也不一样，导致消费者往往需要安装好几个不同的应用软件才能满足各种场景的充电需求。比如，自家小区停车场用的是小程序，而公司附近的是App......
+ 
+而类似蔚景云等服务平台的存在，能够将不同运营商的充电品牌连接起来，为消费者提供统一的充电入口和服务。
+ 
+据蔚景云CEO黄隽莹介绍，目前公司的业务分为三大板块：
+ 
+第一，为区域充电运营企业提供在线的SaaS租赁服务、站场运营服务；第二，为大型的充电服务运营集团，提供私有云、混合云等产品；第三，为城市的充电运营网络，提供平台型的监管服务；整体而言，就是帮助不同类型的运营商快速搭建充电运营服务。
+ 
+目前，蔚景云平台接入的充电运营商数量在700家左右，连接站场8000多个，直连充电桩达到6万多个，共享充电桩超过12万个。
+ 
+黄隽莹表示，早在5、6年前，汽车充电服务的“风口”潜质就已经隐隐出现，但整体受限于新能源、电动汽车的整体发展。彼时的市场主要面向公交车、商用车，且以城市试点的方式进行。
+ 
+近两年，随着电动汽车的逐步规模落地，公众出行对充电服务的需求越来越旺盛。充电市场整个市场也涌入了各种不同的玩家，里面既有以特斯拉、小鹏等为首的自建充电站车企，也有滴滴小桔充电、高德地图、百度地图等互联网企业，还有国家电网、特来电等专门的充电运营商。
+ 
+黄隽莹表示，行业处于蓬勃发展阶段，短期内可能不会出现垄断型玩家。加之，充电行业也是国家新基建的重要方向，虽然玩家众多，但行业会继续朝着开放的趋势发展。这也将是蔚景云等提供运营服务的企业的机会所在。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://main_test.geekpark.net/rss.rss">极客公园</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">极客之选年度产品丨年度游戏手机：黑鲨 4S Pro</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/292991">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>2021 年依旧充满变化。这一年里，手机不再瞩目，智能车迎来了新纪元，而元宇宙似乎还很遥远。但不改变的是，极客之选依然陪着大家，持续关注着科技行业，不断体验着新鲜有趣的产品。「年度产品」是极客之选年底的保留栏目，从 11 月 25 日开始，我们将逐一揭晓年度产品，一共涉及 3 个大类共 20 余个细分品类，从「娱乐至上」到「生产力万岁」，我们希望站在不同维度和视角，和大家一起聊聊 2021 年最有料的科技产品。
+
+          
+
+难道游戏手机一定要向游戏笔记本看齐吗？全身上下的「跑马灯」？设计风格必须不能走寻常路？显然黑鲨给出了不同的答案。从黑鲨 4/4 Pro 到黑鲨 4S/4S Pro，2021 年黑鲨可以说是游戏手机中最为另类的存在，RGB 灯光简化、提供纯色机身、使用打孔屏，这些改变让黑鲨手机对于非重度手游用户来说，变得接受度更高了。
+
+          
+
+黑鲨 4S Pro 整体延续了前作了风格，但在 CMF 设计上进行了变动，机身背面采用了纳米光刻工艺，让后盖形成光柱效应，在不同角度的光线下会呈现出较为复杂的立体效果。屏幕选择了熟悉的 6.67 英寸三星 AMOLED 屏幕，E4 发光材料、最高 144Hz 刷新率、DC 调光、720Hz 触控采样率，还有目前 2.76 毫米最小孔径的前置摄像头，无论对于游戏玩家或者说普通用户来说都是满配了。即使是不喜欢挖孔屏的玩家，也能通过系统设置「隐藏」刘海，让游戏画面不会被遮挡。
+
+          
+
+黑鲨 4S Pro 升级到了高通最新旗舰芯片——骁龙 888 Plus，Cortex-X1 超大核的频率提升至 3.0GHz，提供最高 16GB+512GB 的存储组合，并且支持磁盘阵列存储系统、内存扩展技术以及 RAMDISK 磁盘加速技术。
+针对于游戏体验，黑鲨 4S Pro 的磁动力升降肩键和全对称立体声双扬声器是相当具有「杀伤力」的存在，物理肩键搭配双区屏幕压感能让用户轻松实现六指操作；而全对称立体声双扬声器除了能在影音体验上有所保证，还能在不使用耳机的情况下进行听声辨位。
+
+          
+
+除此之外，黑鲨 4S Pro 搭载了基于 MIUI 12.5 打造的 JOYUI 12.8 系统，可以说是目前游戏手机中系统综合体验最出色的一个。同时，4500mAh 的大容量电池搭配 120W 极速闪充的组合，能让用户在 15 分钟满电复活。
+经过几年沉底，游戏手机厂商都积累了各自的粉丝群体，而黑鲨 4S Pro 在保证了游戏手机全部特性的同时，让游戏手机有了更加「朴实」的一面，让更多的用户能够接受游戏手机。这种理念上的突破，也是一款年度产品应该具备的特性。
+
+
+本文由极客公园 GeekPark 原创发布，转载请添加极客君（ID：geekparker）。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">一家 AI 创业公司死里逃生的真实长征</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/292949">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>作者 | 凌梓郡
+编辑 | 靖宇
+
+
+回到来也科技成立的 2016 年，有许多创业公司在做类似的业务：to C 的个人语音助理。常见的功能是帮助个人用户订机票、下单咖啡。
+直到今天，尚没有一家公司在这个领域中走通商业模式。这也反应了科技到产品之间需要跨越的鸿沟。「你击败了所有的竞争对手，然后发现在这个赛道上也没有取得成功。」来也科技董事长兼 CEO 汪冠春形容道。
+作为技术型产品驱动的公司，需要持续为技术的价值寻找方向。六年走下来，来也科技经历了两次战略调整，最终锁定了「RPA+AI」（RPA , Robotic process automation 机器人流程自动化）这个赛道。眼下，来也科技更开始了进军国际市场的第三次「穿越」。
+一路走来，来也科技怎样寻找到「RPA+AI」这样的方向？作为一个快速扩张的创业公司，在团队管理和品牌打造上有怎样的思考？
+近日，在由极客公园和深圳福田区政府合作的「创业真人秀」视频直播中，来也科技董事长兼 CEO 汪冠春，以及销售部副总裁兼企业业务中心南区总经理郑敏一起和大家分享了来也科技一路「穿越」背后的故事和心得。
+
+
+
+      
+
+两次「穿越」，从 to C 到 to B 再到 RPA+AI
+极客公园：你曾经在百度任职，创办来也科技之前的经历是怎样的？
+汪冠春：我从普林斯顿博士毕业之后，回国后就成为了一个人工智能领域的创业者。我做的第一家公司是用个性化推荐技术的视频产品，叫今晚看啥。那时候移动互联网刚起来，个性化推荐对内容分发发挥了很大作用。我们做了两年，到 2012 年年底的时候，百度就决定收购公司。我后来也加入了百度。
+百度是一个更大的平台。在百度的那几年，我有幸参与到一些智能交互创新产品的研发和运营当中。比如今天的小度机器人，最早它背后的技术就是我所在的自然语言处理部门智能交互应用团队研发的。
+当时我们跟百度地图的产品经理在一起，…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://bohaishibei.com">博海拾贝</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">万众期待！奥斯卡最佳动画长片全新续作《蜘蛛侠：纵横宇宙（上）》曝前瞻预告</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70149/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>索尼发布《蜘蛛侠：平行宇宙》续集《蜘蛛侠：纵横宇宙》首个预告片：小黑蛛迈尔斯、格温回归开启更宏大的冒险，还出现了一位神秘的蜘蛛侠。电影的视觉效果和画风还是这么惊艳！ 本片定档2022年10月7日北美上…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">我也卖 145 元：特斯拉推出通用钥匙带，售价看齐苹果抛光布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70148/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>特斯拉中国官网显示，特斯拉上线了一款钥匙带，售价为 145 元。产品介绍显示，钥匙带为硅胶材质，饰以 Tesla “T” Logo，钥匙圈为金属材质。该款钥匙带，适用于所有车型…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[博海拾贝1205]当理想照进现实</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70146/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>【1】冬日，天地萧疏，皓色千里，农事皆休，万物收藏。 【2】快起床喝早餐奶了 【3】这是谁的部将 【4】别走别走，给点吃的吧 【5】当理想照进现实 【6】​打针的比我被打的还紧张 【7】大哥一看就是修…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">太悲壮了！年初1000万，亏到只剩300多万！股民：居安思危，切记底线思维！</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70145/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>近日，雪球App里一篇题为《从1000万亏到300万》的帖子引起了球友们的热烈讨论。 文中写道：“投资11年，从几万到今年3月赚了1000万，然后到现在12月1日，还剩下300多万。” 短短一行字，隐…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">百货 50 条，全部是实用的玩意儿（1205 第 2034 期）</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70131/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>中国黄酒第一品牌 古越龙山 八年陈 绍兴黄酒花雕酒 500ml*6瓶 185.2元包邮 天猫超市228元，下单立减22.8元，可领20元优惠券，实付185.2元到手，规格为500ml*6瓶。 淘宝心选…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">另一个乐子，零元购让大家都赢麻了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70143/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>作者：庚白星君pro 两个月前，温州皮具厂的神奇大单。 前几天，一帮朋友吃饭，其中一个画家，家里是温州开厂做厢包的。 他告诉我们，今年生意不好做，上家押款太厉害，又不敢走亚马逊的经销商，原本家里打算把…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">爱奇艺无人问津</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70141/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>文/武昭含 来源：字母榜（ID：wujicaijing） 出售是爱奇艺最好的选择，但它显然已经错过了时机。 12月1日，爱奇艺传出史上最大规模的全线裁员消息。本轮裁员覆盖爱奇艺所有部门，影业、IP、市…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">乔峰有枪也有音响</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70140/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>本视频截取自纪录片《音响的故事》，通过纪录片主角“乔峰”的两三事件，验证BGM对于主角的重要性以及 提高战斗力的真实性！事实证明，枪！真的好用。IOS链接</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">比未来还科幻的过去</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70139/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>此刻再看好奇妙的感觉</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">德亚 全脂纯牛奶 200ml*30盒 69.9元包邮</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70138/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>德亚品利专卖店89.9元，下单立减10元，可领10元优惠券，实付69.9元到手，德国进口牛奶 黄金奶源带 奶香纯正浓郁。这款德亚全脂牛奶，德国原装进口，非国内灌装。乳源来自南北纬40~50°的温带草原…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com">少数派</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">iPad 上独特的 3D 画布草图绘制工具：Mental Canvas</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/70109">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>近期，Mental Canvas 这款特殊的 iPad 绘画 App 凭借其独特的画作展示效果闯入了公众视野。
+
+简单来说，这是一款拥有「3D 画布」的草图绘画工具，你可以将图层分别放置于立体空间中的不同位置，最后得以通过运动的「摄像机」来展示整个画作。
+
+Mental Canvas 目前提供的功能数量不算多，本文将逐一详细介绍，作为简单的使用教程提供给各位参考。  
+界面排布
+Mental Canvas 除了画布界面外没有设置其他界面，在打开 App 时会立刻创建一个新项目。操作界面中的按钮排布和交互设计的逻辑与大多同类产品存在较大出入，说实话这让我在刚上手时有一点懵。
+界面中设有「顶部工具栏」、左侧的「画布及图层列表」、底部的用于定位摄像机的「时间轴」，共三个板块。顶部工具栏从左至右可以分为「操作区」「绘制区」「定位区」和「模式切换开关」四个区域。（当然，这些都是我自拟的名字。）
+
+绘制区
+在顶部工具栏中的绘制区可以点选使用「画笔工具」「橡皮擦工具」「油漆桶工具」来进行作画。选中画笔工具后再次点击该按钮可以展开画笔设置界面，提供了更改画笔类型和调节画笔粗细的选项。
+
+这三个按钮右侧有「调色盘」按钮，展开后可以进行取色或自定义颜色。
+
+选取调整界面
+位于绘制区最左侧的是「选取调整」按钮，选中后会在顶部工具栏置换为一系列新按钮，实质上是进入了选取调整界面。顶部工具栏左侧的区域为「选取区」，右侧为「调整区」。
+
+选取区
+选取区的按钮用于选取图层内的部分内容以便调整，其中提供了「按笔画选取」和「套索选取」两种选取方式，分别可以选择画面中一部分笔画或选择圈选的部分区域作为选区。其余的按钮分别为「向选区添加」「从选区减去」「取消选取」「反选」。
+调整区
+调整区包含几种对选区的调整操作，从左至右分别是用于修改选区部分颜色的「重上色」、清除选区内容的「删除」、启用后会使后几个调整改为对…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">谁会和任天堂相爱相杀？|「世界主宰」的掌机之路 · 伍</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/70225">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+2021 年 11 月 12 日，宫崎英高又一次「跌入」神坛。这次倒也没别的，只是万代南梦宫于 2019 年 E3 游戏展上亮相的新作《艾尔登法环》终于开始了发售前的首次封闭网络测试。虽然仍在监修的游戏内容在封测中的表现依然需要打磨，但其优秀的总体质量和极高的媒体热度已然将玩家们对游戏跳票的不满冲刷殆尽，万代南梦宫甚至宣布该作的首发预期销量高达 400 万份，综合宫崎英高作品一贯的强口碑和高销量，这个数字似乎还显得保守了那么一点。
+如今作为世界知名游戏发行商的万代南梦宫同时也是任天堂的最强游戏代工厂，其下属的工作室有半数以上为任天堂开发游戏。仅在 NS 平台，除去万代南梦宫自家发售的各类粉丝向冷饭之外，《马力欧赛车 8》这样的第一方大作有半数以上的内容由万代南梦宫参与制作，而《任天堂全明星大乱斗：特别版》这样的爆款游戏则是全盘交给万代南梦宫承包。众所周知，万代南梦宫在玩家群体中一直被归类为「任黑」，但这两家公司在游戏开发事务上的密切关系却形成了一种奇怪的 CP 感，不禁让人直呼「磕到了」。
+相比起万代的小红标，这个 Logo 在游戏行业中更加为人熟知。
+万代南梦宫由成立于 1950 年的万代和 1955 年的南梦宫合并而成，这两家公司是日本游戏产业的两大支柱，虽然侧重的领域有所不同，但它们都有过一个共同的合作伙伴和竞争对手：任天堂。与 1988 年就使用「替身攻击」欧拉任天堂的南梦宫不同，万代从一开始并没有那么勇。 FC 时代，作为任天堂授权厂商之一的万代自然也不满于任天堂不近人情的审查机制，与任天堂发生了一点小摩擦，不过二者之间…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://www.huxiu.com">虎嗅网</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">在线教育团灭自救，教培人干直播能成吗？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/478804.html?f&#x3D;wangzhan">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>&quot;我尊重命运的安排，但从不屈服于命运的专制&quot;
+
+
+本期视频内容：
+1.教培行业大裁员。
+2.教培行业企业转型。
+3.教培行业个人转型。
+
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">新骁龙8发布，超专业影像能力还能打8K视频电话？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/478648.html?f&#x3D;wangzhan">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>全新一代的骁龙8移动平台终于发布了，相信大家也很期待它的表现如何。今天就来说说，新骁龙8到底新在哪？
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">智能菜罩，让你感受妈妈的温暖</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/478428.html?f&#x3D;wangzhan">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>加入了保温功能的智能菜罩，就可以让饭菜一直保持热度，甚至还可以在冬天的室外为我保暖？
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="http://www.tmtpost.com">钛媒体：引领未来商业与生活新知</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">滴滴，归来已不是少年</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919994.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>和所有中年人一样，滴滴需要一场和解。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">被嫌弃的中概股的一生</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919992.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>命运并没有被扭转。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">失意互联网人，决定去考公</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919743.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>决定人生价值的，不是大厂或机关，而是自己。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">证监会副主席王建军回应独董争议：已组织研究完善相关制度，进一步明晰独董权责边界</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5920020.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>对市场各方完善独立董事制度的意见建议，王建军透露，证监会高度重视，已组织专门力量进行研究，将充分倾听各方意见，与相关部门积极沟通、推动系统完善，进一步明晰独立董事权责边界，加强履职保障、完善责任机制。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">豆瓣的冬天</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919647.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>怎么走都费踌躇。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">陈根：保“量”追“质”，睡眠为什么这么重要？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919536.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>尽管不断有研究强调良好睡眠的重要性，但越来越多与不良睡眠相关的行为却似乎依然不可避免。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">潮流圈开始“炒”植物了？花盆竟高达三四万</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919117.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>潮玩熄火，块根植物才是潮流圈新宠。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">一“改”泯恩仇？谈谈阿里、腾讯的喜与忧</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918987.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>这次调整也是“牵一发而动全身”般的存在，对两大利益相关方又将带来哪些影响？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">CDPR把“逆转2077口碑”想得过于简单了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918777.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>《赛博朋克2077》是否能起死回生？</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">飞盘运动又“盘”活了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5919104.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>原来，人与狗的快乐静然如此相通。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">割韭菜狂人：4年躺赚5733亿</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918732.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>人生如币。</span>
                   </div>
                 </a>
               </details>
@@ -177,192 +1375,11 @@ CNBeta : 变通办法增多 Gartner预测移动应用追踪的退出率将下降
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">科学家们发现了一个奇异的水下世界</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210807.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>这些极端的温度再加上该地区周围的热液喷口创造了一个独特的水下世界，这不同于我们所见的任何东西 ... 在海洋的这个层面上发现缺乏阳光，但仍有生命在这个水下世界中茁壮成长 ... 通过研究这些水下世界，科学家们可以更深入地挖掘围绕海洋的奥秘。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">特斯拉全自动驾驶FSD Beta 10.6发布 优化物体检测功能</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BiUhbrjSi5">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>按照正常时间表，特斯拉本周末开始向注册其测试计划的用户（安全评分为98分及以上）推出了完全自动驾驶FSD Beta 10.6版本更新 ... IT之家提醒，虽然该系统的名字是 FSD（完全自动驾驶），但仍属于 L2 级辅助驾驶系统，虽然已经可以使车辆自动驾驶到系统定位中输入的目的地，但驾驶员依然需要保持高度警惕并随时准备好进行接管操控权 ... 此次更新提供了一些功能性改进，例如更好的物体检测、更好的无保护左转、更好的合并等等。
-凤凰科技 : 特斯拉全自动驾驶FSD Beta 10.6发布 优化物体检测功能
-CNBeta : 特斯拉本周末将面向合格车主推送全自动驾驶 Beta 10.6版</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">变通办法增多 Gartner预测移动应用追踪的退出率将下降</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210805.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Gartner的一份新报告称，随着苹果和Google旨在控制其各自平台上的移动应用追踪，随着消费者对非目标广告的经验积累，预计移动应用追踪的退出率将从2021年的85%下降到2023年的60% ... 苹果公司在iOS系统中增加了新的隐私功能，赋予消费者确认和管理他们被追踪的方式，营销人员也必须证明允许移动应用追踪对消费者的好处 ... Gartner营销实践部副总裁兼杰出分析师Andrew Fr</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中国生物张云涛：灭活疫苗对变异株的有效性下降幅度或较小</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210803.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>“2021大湾区（深圳）疫苗峰会”期间，国药集团中国生物副总裁、首席科学家张云涛表示，不同的时间节点就有不同的变异病毒被报道出来，这些变异都是值得关注的变异株（VOC），引起了全世界的高度关注，“我想未来两周之内，很多（奥密克戎）相关报道会出来，相关研究的基础数据会出来。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">幽灵般的玻色子云可能解开暗物质之谜</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210797.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>对引力波，也就是由重大宇宙灾难引起的空间和时间涟漪的追寻可能有助于解决宇宙的另一个热门之谜--玻色子云以及它们是否是暗物质的一个主要竞争者 ... &quot;例如，使用引力波探测器发现玻色子云将带来关于暗物质的重要见解，并帮助推进其他暗物质的搜索 ... 在另一项重大突破中，该研究还通过考虑玻色子云的年龄，对玻色子云在我们银河系中存在的机会有了更多的了解。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">特斯拉本周末将面向合格车主推送全自动驾驶 Beta 10.6版</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210795.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>特斯拉的全自动驾驶测试(FSD)计划在本周末获得了新版本，据悉，更新版本为10.6，发布说明显示对视觉、物体探测和车辆运动的精确性都有进行了额外的强调 ... 特斯拉FSD Beta计划是一个独特的客户车队，他们可以独家使用汽车制造商最新和最强大的半自动驾驶程序版本 ... 在使用该程序时，如果不能在方向盘上保持专注，可能会被驱逐出Beta 版车队，并且特斯拉已经表明，他们在努力保护Beta 版计</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">阿姨拍照天团里，为什么会有一个“工具人”爷叔</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.huxiu.com/article/478900.html?f&#x3D;rss">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>纯阿姨团出来拍照游玩时，虽然同样能够享受拍照全过程，但最大的区别在于，这种集体打卡拍照的活动，阿姨们必定想要留下至少一张合影 ... 这位被其他阿姨团外借的“工具人”爷叔张齐（化名），就是在“工具人圈层”中置顶的那一类——“高阶工具人” ... 他和同组阿姨都是好朋友，在阿姨提出三次拍照角度不够低之后，敬业地半趴在地上帮阿姨取景。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">微软Edge、Chrome将在Windows 10、Windows 11上获得新的剪贴板功能</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210793.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>微软正在与Google合作开发一个名为&quot;Picking Clipboard&quot;的新API，它将升级Chrome和Edge等浏览器的现有剪贴板功能 ... 这次大的剪贴板更新预计将改善Windows 10和Windows 11的复制和粘贴功能 ... 在状态页面的一个新的更新中，微软官员已经确认，该功能现在可能会随着Chrome 98或Edge 98的到来而到来。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">哈勃太空望远镜对行星状星云的观察揭示了其复杂的结构</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/science/1210791.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>这张哈勃图像显示了丰富的结构，包括一个比内部星云膨胀更快的球形外晕，以及至少两个方向不同的椭圆“壳” ... 作为衡量星云距离的努力的一部分，哈勃重点研究了NGC 6891，并进一步了解它们的结构是如何形成和演变的 ... NGC 6891是由被中央白矮星电离的气体组成的，白矮星从星云的氢原子中剥离出电子。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
                 <summary class="article-expander__title">Scalable Web Apps: How Does Micro-Frontend Make it easy?</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/scalable-web-apps-how-does-micro-frontend-make-it-easy">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(5 min)</span>
                     <span>Is your application scalable? In a day and age where user demands and preferences change on a Daily Basis, it&#x27;s important that developers put a lot of forethought and strategic planning when building</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Microsoft Launcher最新版将为所有Android 手机带来云母材质外观</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210789.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>如果你不是测试计划的一部分，你现在可以尝试Microsoft Launcher重新设计的新闻源和类似于Windows 11云母的新透明度效果 ... Microsoft Launcher看起来与三星和Google手机上使用的Android启动器有很大不同，它与新的Windows操作系统的外观和体验相匹配 ... 与其他Android启动器一样，Microsoft Launcher也是可定制的，它包</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Redmi K50系列将于明年亮相 可能有4款机型</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BiUhbrjSkl">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Redmi预计将很快推出Redmi K40系列的迭代产品，有关它的消息已经开始出现 ... 这款手机将有多种型号，考虑到Redmi K40系列的许多版本，这一点不会有太大的疑问 ... 该系列将配备四款不同的芯片-高通骁龙8 Gen 1，骁龙870，联发科天玑7000和天玑 9000。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Stay put while exploring the White House holiday decorations on Google Maps</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://mashable.com/article/white-house-google-maps-holiday-decorations">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>First lady Jill Biden shared a socially distanced way to celebrate the holiday season without missing out on the festive sights. 
-In a 
-tweet
- Friday, DR. Biden linked to a 360-degree Google Maps View</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">不要等待Windows 11 22H1 - 短期内它不会到来</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210785.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>在比较保守的Windows用户中，有一个长期的传统，即在升级到新的微软操作系统之前等待第一个服务包发布后再升级 ... 这种做法自从“Service Pack”概念出现后就已经被不少人采用，如果你是这些人中的一员，并在更新到Windows 11之前等待Windows 11 22H1，那么好/坏消息是，这已经不会再出现 ... &quot;来自[Windows Insider]构建的新功能和操作系统改进可能会</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Longest-serving House Republican dismisses GOP critics of McCarthy&#x27;s leadership: &#x27;show ME anybody else can do the job better&#x27;</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.businessinsider.com/don-young-dismisses-mccarthy-critics-republican-party-conservatives-infrastructure-trump-2021-12">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">report: 95% of Tech leaders say that AI will Drive future innovation</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Raised by Wolves 2&#x27;s Trailer is Gorgeous and Just Creepy as Hell, Man</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gizmodo.com/raised-by-wolves-2s-trailer-is-gorgeous-and-just-creepy-1848161311">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Back when HBO Max was getting its feet off the ground  in 2020,One of its big shows at the time was Raised by Wolves. Though some found Aaron Guikowski’s series about Android parents tasked with raisi</span>
                   </div>
                 </a>
               </details>
@@ -560,7 +1577,7 @@ CNBeta : SEC公布海外上市公司监管新规细则</span>
                 <summary class="article-expander__title">Why Choose FastAPI over Flask?</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/why-to-choose-fastapi-over-flask">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
+                    <span class="article-reading-time">(6 min)</span>
                     <span>To help you quickly get started with Milvus, the open-source Vector database, we released another affiliated open-source Project, Milvus Boot Camp on GitHub. The Milvus Boot Camp not only provides scr</span>
                   </div>
                 </a>
@@ -604,10 +1621,11 @@ CNBeta : 基于宝马平台研发 富士康拟建立新合资公司</span>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">证监会副主席王建军：支持和督促独立董事切实履行诚信勤勉义务</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/nictation/5918124.html">
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5920020.html">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
+                    <span class="article-reading-time">(2 min)</span>
                     <span>证监会副主席王建军在国际金融论坛第十八届全球年会上表示，对上市公司独立董事制度，应全面、客观看待 ... 对市场各方完善独立董事制度的意见建议，中国证监会高度重视，已组织专门力量进行研究，将充分倾听各方意见，与相关部门积极沟通、推动系统完善，进一步明晰独立董事权责边界，加强履职保障、完善责任机制，支持和督促独立董事切实履行诚信勤勉义务，努力形成各方归位尽责、市场约束有效的制度环境和良好生态。
+钛媒体 : 证监会副主席王建军回应独董争议：已组织研究完善相关制度，进一步明晰独董权责边界
 钛媒体 : 证监会副主席王建军：支持和督促独立董事切实履行诚信勤勉义务
 36Kr : 证监会王建军：将进一步明晰独立董事权责边界，加强履职保障、完善责任机制
 钛媒体 : 证监会副主席王建军：高度重视市场各方完善独立董事制度的意见建议
@@ -623,7 +1641,9 @@ CNBeta : 基于宝马平台研发 富士康拟建立新合资公司</span>
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(1 min)</span>
                     <span>特斯拉（上海）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划 ... 特斯拉还给出应急处置措施：车辆召回维修前，用户应谨慎驾驶车辆，并在召回开始实施后尽快联系特斯拉服务中心进行检修 ... 去年10月，特斯拉已经因悬架问题，召回了2791辆Model 3和Model Y。
-CNBeta : 拓普集团回应特斯拉召回事件：事先未获任何信息</span>
+CNBeta : 拓普集团回应特斯拉召回事件：事先未获任何信息
+CNBeta : 拓普集团：本次涉及召回产品只配套特斯拉Model Y车型
+CNBeta : 特斯拉供应商承认生产缺陷导致召回 但称“问题不大”</span>
                   </div>
                 </a>
               </details>
@@ -652,223 +1672,12 @@ CNBeta : 美股周五：特斯拉跌逾6% 滴滴大跌超22%</span>
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Twitter 新任CEO改组管理层</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BgnKd2R65L">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Twitter新任CEO帕拉格·阿格拉瓦尔(Parag Agrawal)本周刚刚从杰克·多西(Jack Dorsey)手中接过大权，现在已开始对管理层进行改组 ... Twitter周五在监管文件中称，公司设计和研究负责人丹特利·戴维斯(Dantley Davis)、工程主管迈克尔·蒙塔诺(Michael Montano)将离开公司，12月31日生效 ... 例如，尼克·考德威尔(Nick Caldwell)将担任“核心技术”总经理，实际上就是接替阿格拉瓦尔此前担任的首席技术官角色。
-凤凰科技 : 新官上任三把火 推特CEO改组管理层
-CNBeta : 新官上任三把火 推特CEO改组管理层</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">银保监会：恒大集团此次未能履行担保义务不会对银行业保险业的正常运行造成任何负面影响</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/nictation/5916700.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>银保监会新闻发言人表示，我们关注到恒大集团对一笔境外债券未能履行担保义务，这是市场经济中的个案现象 ... 恒大集团全部债务中金融债务占比约三分之一，结构比较分散，其金融投资数额很小 ... 金融监管部门依法保护消费者、投资者和经营者正当权益的原则立场不会有任何改变。
-钛媒体 : 中国恒大：收到要求履行一项2.6亿美元担保义务的通知
-钛媒体 : 银保监会：恒大集团此次未能履行担保义务不会对银行业保险业的正常运行造成任何负面影响
-36Kr : 银保监会：恒大集团此次未能履行担保义务不会对银行业保险业的正常运行造成任何负面影响</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">不符合应用追踪透明度规定，苹果App Store已下架 42 万款应用</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BgzgxqSi2I">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>应用市场研究公司 Appfigures 的数据显示，今年 4 月份苹果App Store 上有 200 万款应用，7 月份时这一数字减少约 42 万至 160 万，原因就在于这些应用没有获得更新，不符合苹果的“应用追踪透明性”（ATT）规定 ... Appfigures CEO 阿里尔・米夏埃利（Ariel Michaeli）称，“通常情况下 App Store 中应用数量每月增长 1%-2% ... 6 月份，ATT 出台约 1 个月后，App Store 中的应用和游戏减少了 42 万款，占到应用总数的 21%。
-凤凰科技 : 苹果App Store铁腕下架42万款应用？真相没那么简单
-CNBeta : 苹果App Store铁腕下架42万款应用？真相没那么简单
-品玩 : 不符合应用追踪透明度规定，苹果App Store已下架 42 万款应用</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">苹果高管谈Apple Watch表带：注重向后兼容确保舒适</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BgmpZLPuOs">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>随着 2014 年苹果首次推出 Apple Watch，该公司便一直与耐克和爱马仕保持良好的合作关系，让表带更加时尚，同时探索多种材质在表带上的应用 ... 苹果如今为 Apple Watch 提供多种材质的表带可选，结合不同的表盘样式，有着数千种组合，这在传统手表中很难做到 ... 苹果尽管在 Apple Watch Series 7 中将手表尺寸增大至 41mm、45mm，但是表带依旧分别与此前的 40mm、44mm 手表相互兼容。
-凤凰科技 : 苹果高管谈Apple Watch表带：注重向后兼容确保舒适
-CNBeta : 苹果高管谈Apple Watch表带：有数千种组合 强调向后兼容性</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">滴滴股价跌超22%</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbeta.com/articles/tech/1210549.htm">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>昨天宣布从纽约股票交易所退市、寻求在香港股票交易所上市后，今天常规交易中滴滴股价下跌1.73美元，跌幅为22.18%，报收于6.07美元，盘中一度探底6美元，跌幅达到23% ... 自上市以来，滴滴股价总体呈下跌趋势，与当初的上市价相比，当前股价跌了约一半 ... 市场研究公司Mirabaud Equity Research分析师尼尔·坎普林（Neil Campling）发表投资报告称，“虽然美国存托股能转换成在港交所上市的股票，我们认为从纽交所退市是许多投资者决定抛售滴滴、割肉止损的‘最后一根稻草’。
-CNBeta : 投资者割肉止损 滴滴股价跌超22%</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">马斯克：开始为星际飞船新建发射台，明年初有望试射原型</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://tech.ifeng.com/c/8BgmpZLPuOr">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>美国太空探索技术公司(SpaceX) CEO埃隆·马斯克(Elon Musk)周五宣布，SpaceX已经开始在佛罗里达州为其“星际飞船”(Starship)建造发射台，以增加一个新地点来发射这枚正在开发中的巨型火箭 ... 马斯克发布推文称：“位于卡纳维拉尔角的星际飞船轨道发射台已开始建造 ... 马斯克在上月表示，SpaceX“有希望”在明年1月或2月从得州发射第一个星际飞船原型。
-凤凰科技 : 马斯克：开始为星际飞船新建发射台 明年初有望试射原型
-CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射原型</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="http://36kr.com">36氪</a></h3>
           <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中国生物张云涛：灭活疫苗对变异株的有效性下降幅度或较小</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512881197848577">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>国药集团中国生物副总裁、首席科学家张云涛表示，从目前的推测来讲，各种疫苗对于变异株的有效性会下降，但从初步分析来看，灭活疫苗的下降或许会是幅度比较小的，“因为它是全抗原的疫苗，应对变异是比较好的疫苗”，从应对德尔塔等变异株来看，相较于其他技术路线的疫苗，灭活疫苗都给了良好的答案，关于奥密克戎的试验在持续开展当中。（澎湃）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中信建投：明年CXO行业仍将保持较高景气</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512842209744897">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>中信建投证券最新研报认为，受益于医药创新以及外包率提升，海外CXO龙头企业过去十年长期跑赢市场。明年CXO行业仍将保持较高景气，建议重点关注国际化的一体化龙头、CDMO及CGT CXO公司。（财联社）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">美财长：降低对华加征关税有助于缓解美通胀压力</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512841607583494">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>美国财政部长耶伦日前表示，美国对中国输美商品加征关税导致美国物价上涨，降低关税可能有助于缓解通货膨胀压力。耶伦表示，对每年价值数千亿美元的中国输美商品加征高达25%的关税“确实导致美国国内物价更高”。她表示，特朗普任内对中国输美商品加征的一些关税“没有任何实质战略理由，却制造了麻烦”。耶伦表示，通过重启排除程序降低上述关税，可能有助于缓解通胀压力，“这也是我们正在努力的事情”。（新华社）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">黄奇帆：预计到2035年我国中等收入群体将增至8亿</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512812227368707">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>国际金融论坛（IFF）学术委员会主席、复旦大学特聘教授黄奇帆4日在参加国际金融论坛第18届全球年会时指出，目前，我国居民可支配收入占GDP的比重约为42%；到2030年预计比重或上升到50%，2035年以后达到52%，在这个过程中随着居民可支配收入的增加，预计到2035年现在4亿中等收入群体会增加到8亿，6亿的低收入群体会减半，内需消费能力将大大提高。（21世纪经济报道）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">内蒙古满洲里：本轮疫情确诊病例感染的是德尔塔变异株</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512814091671304">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>从内蒙古满洲里市新冠肺炎疫情防控第八场新闻发布会上获悉，经基因测序，本次满洲里的确诊病例感染的新冠病毒均属于德尔塔变异株，为境外新冠病毒通过人和物一次新的输入。（央视新闻）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">北京市医保中心主任回应：120万元1针的“抗癌神药”未被纳入医保</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512811061876487">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>近期，120万元1针的“抗癌神药”引发热议，为何该药未被纳入医保？北京市医保中心主任郑杰回应称，这种药品也许疗效好，但由于价格远超基金能力和老百姓的负担水平，不具备经济性，没有能够通过评审，最终未获得谈判资格。（央视财经）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">钟南山：是否需要针对奥密克戎研发新疫苗仍需观察</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512808971753217">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>在第二届大湾区（深圳）疫苗峰会上，针对南非在此前对外公布的新冠病毒变异毒株奥密克戎的存在，是否有必要更换毒株进行相关疫苗的研发和接种，钟南山表示，更换疫苗毒株并不难，但代价很大，还需要观察变种病毒的传染性和致病性。 （21世纪经济报道）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">广州新增确诊病例感染的是德尔塔变异毒株</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512789496879112">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>广州市人民政府新闻办公室召开疫情防控新闻发布会。发布会上，广州市疾控中心副主任新闻发言人张周斌表示，安排20个组的市区联合流调队伍，对病例谢某进行流调，对他的活动轨迹所涉及所有场所，进行流行病学调查，溯源环境监测以及相关防控管理。4日上午，广州市疾控中心验室测序结果显示，此病例谢某所感染的新冠病毒是德尔塔变异毒株。（央视新闻）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">俄罗斯计划限用非环保汽车，将逐步减少不达标车辆、设立禁驶“生态区”</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512785980200969">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>据报道，俄罗斯政府已经批准了最小化使用带有非环保发动机汽车的方案。相关文件的起草人非常重视减少大气排放。其中一种情形涉及到分阶段减少驾驶“低排放等级”车辆。方案“包括通过建立‘生态区’，禁止使用带有非环保发动机的汽车驶入”。（界面）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">任泽平：未来最好的投资机会就在中国</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512784771897346">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>东吴证券首席经济学家任泽平在2021博鳌企业家论坛演讲时表示，中国经济正站在新周期的起点，未来最好的投资机会就在中国。任泽平表示，中国经济结构正在发生20多年来最大的巨变，房地产、重化工业和老基建的时代落幕，一批新经济、新技术、新产业正在蓬勃兴起，比如中国新能源汽车已经呈现爆发式增长。“新能源、新基建正在开启新的未来，我们每个人都需要怀抱勇气去推开未来的大门。”（上证报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">恒星科技：目前公司金刚线产品出货量居于行业前列</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512758626457347">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>恒星科技在机构调研时表示，公司“年产1000万KM超精细金刚线改扩建项目”、“年产3000万KM超精细金刚线项目”正按计划推进中，项目建设完成后，公司累计可实现年4,600万KM的金刚线生产能力。目���公司金刚线产品已达到月产100万公里的产能，出货量居于行业前列。（证券时报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">美财政部称主要贸易伙伴均未“操纵”汇率</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512757944866567">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>美国财政部3日发布半年度汇率政策报告，认为美国主要贸易伙伴均未“操纵”汇率以获取不公平贸易优势。美国财政部在这份报告中说，在截至今年6月的过去四个季度，越南等经济体继续满足美国相关法案规定的需加强汇率政策接触的标准，但没有经济体通过干预外汇市场来阻止有效的国际收支调整或在贸易中获取不公平竞争优势。（央视新闻）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">B站、红杉去杭州，投了一个主打90后宅男的“手办二次元”</summary>
@@ -883,7 +1692,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 天眼查信息显示，近日杭州心光流美网络科技有限公司（以下简称“心光流美”）发生工商变更，新增新增上海幻电信息科技有限公司（哔哩哔哩）、红杉沐辰（厦门）股权投资合伙企业（有限合伙）等股东，同时心光流美注册资本增加1/4，至306.125万人民币。
  
-心光流美成立于2016年，是一家游戏研发与运营公司，出产的游戏类型包括手游、单机游戏与休闲小游戏，产品包括《战国记》《高能手办团》《暴走兔子》《Dark Hunter》《指尖坦克》《萌兽争霸》，其中最能打的，当属手办二次元游戏《高能手办团》，据媒体报道其在2020年上线三周流水即破亿元，B站在今年9月代理了其在韩国的发行，据悉成绩颇为不俗。
+心光流���成立于2016年，是一家游戏研发与运营公司，出产的游戏类型包括手游、单机游戏与休闲小游戏，产品包括《战国记》《高能手办团》《暴走兔子》《Dark Hunter》《指尖坦克》《萌兽争霸》，其中最能打的，当属手办二次元游戏《高能手办团》，据媒体报道其在2020年上线三周流水即破亿元，B站在今年9月代理了其在韩国的发行，据悉成绩颇为不俗。
  
 而在早在10月28日，A股上市公司恺英网络公告称，以5,400万元向4家公司转让心光流美25%股权，受让方包括杭州播播科技有限公司、上海游扳创业孵化器管理合伙企业（有限合伙）（二者均为网易关联公司）、B站和红杉资本，同时四家公司向心光流美共计增资61.225万元，占股20%。
  
@@ -891,95 +1700,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 三周流水破亿却高开低走
  
-心光流美创立于2016年，创始人为、CEO为陈钰，毕业于浙江大学工程硕士，具有十年文化产业运营经验，和丰富的游戏发行平台操作经历，谙熟二次元文化。目前心光流美旗下有反射弧、Cat Trick两大游戏工作室，《高能手办团》就是来自反射弧工作…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">证监会副主席王建军：加强投资者保护，是注册制改革的基础</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512705037817856">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>证监会副主席王建军在国际金融论坛第十八届全球年会上的演讲称，加强投资者保护，是注册制改革的基础。保护投资者合法权益是资本市场永恒的主题，没有投资者对市场的信任和信心，就没有资本市场的健康发展和兴旺发达。注册制改革必须全面坚持“尊重注册制基本内涵、借鉴国际最佳实践、体现中国特色和发展阶段特征”三个原则。（证券时报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">国际油价大幅调整，原油基金净值显著回调</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512704604100353">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>近期，受多重因素影响，国际油价在创出阶段新高后，又迎来了一波剧烈调整，其中短短一个多月时间，NYMEX轻质原油期价跌幅已超20%。部分原油主题QDII基金净值表现也出现较大回调。随着油价持续调整，部分投资者对原油主题基金投资兴趣再起。在多位受访人士看来，原油主题基金本身属于不错的产品，但投资难度较高，甚至与传统买入并持有的投资模式背离，仅适合部分有风险承受能力且有相应知识储备的投资者。（中国基金报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">德勤谢安：国内许多制造企业减碳第一动力来自产业链下游龙头的要求</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512636600735489">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>德勤中国气候变化与可持续发展服务主管合伙人谢安表示，企业减碳的动力和收益并存，一方面来自监管要求的驱动，需要满足合规要求；另一方面，减碳可以降低企业成本，带来切实利益，还可以提高企业声誉，降低ESG风险，以及满足供应商的要求，带来更多的客户。例如对于制造业来说，国内许多制造企业减碳的第一动力，是来自产业链下游龙头企业对其供应商的要求。（证券时报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">证监会王建军：将进一步明晰独立董事权责边界，加强履职保障、完善责任机制</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512631185610499">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>证监会副主席王建军在国际金融论坛第十八届全球年会上的演讲称，康美案也引发市场各方对独立董事制度的讨论。对市场各方完善独立董事制度的意见建议，中国证监会高度重视，已组织专门力量进行研究，将充分倾听各方意见，与相关部门积极沟通、推动系统完善，进一步明晰独立董事权责边界，加强履职保障、完善责任机制，支持和督促独立董事切实履行诚信勤勉义务，努力形成各方归位尽责、市场约束有效的制度环境和良好生态。（证券时报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">证监会副主席王建军：积极推进代表人诉讼常态化，切实增强投资者的获得感和安全感</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512622689523721">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>证监会副主席王建军表示，下一步，中国证监会将深入贯彻十九届六中全会精神，坚持敬畏市场、敬畏法治、敬畏专业、敬畏风险、发挥合力的监管理念，把保护投资者合法权益作为监管工作的出发点和落脚点，积极推进代表人诉讼常态化，不断完善适当性管理、公开征集股东权利、纠纷在线诉调对接等各项投资者保护制度，切实增强投资者的获得感和安全感，为全面推行注册制改革创造良好的环境和条件，努力打造规范、透明、开放、有活力、有韧性的资本市场。（财联社）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">淡水河谷测试将生物炭用于球团矿生产</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512621555685121">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>淡水河谷近日首次将生物炭用于球团矿生产。生物炭是一种可再生产品，通过将生物质碳化获得。此次测试在位于马拉尼昂州圣路易斯市的淡水河谷球团厂进行。传统的造球工艺使用固体化石燃料。此次测试共生产了5.7万吨球团矿，生产过程中使用固体燃料，其中25%是以植物为原料生产的生物炭，生产过程中产生的温室气体排放由此减少了10%。这是淡水河谷成功完成的首个工业规模测试。（上证报）</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">正强股份：产品已经在小鹏、威马、比亚迪等品牌的新能源乘用车上使用</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512620492773121">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>36氪获悉，正强股份在互动平台上表示，产品已经在小鹏、威马、比亚迪、上汽荣威、上汽通用五菱、上汽MG、广汽埃安、吉利、北汽等品牌的新能源乘用车上使用。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">网易智企发布IM+RTC+虚拟人等解决方案</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/newsflashes/1512603569002248">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>36氪获悉，由网易智企主办的2021网易创新企业大会开幕。会上，网易智企表示将持续深度融合网易易盾、网易云信、网易云商三大业务，聚焦下一代互联网应用，发布IM+RTC+虚拟人解决方案，游戏/VR语音解决方案，虚拟世界数字内容风控解决方案，以及网易云信“融合通信+∞”无限融合计划。同时宣布网易智企全球业务品牌全面升级，正式上线全新的英文官网。</span>
+心光流美创立于2016年，创始人为、CEO为陈钰，毕业于浙江大学工程硕士，具有十年文化产业运营经验，和丰富的游戏发行平台操作经历，谙熟二次元文化。目前心光流美旗下有反射弧、Cat Trick两大游戏工作室，《高能手办团》就是来自反射弧…</span>
                   </div>
                 </a>
               </details>
@@ -1043,13 +1764,13 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 山西晋城与厦门大学合作，推动化工产业智能化技术改造
  
-近日，晋城市与厦门大学化工学院达成合作，推进“循环流化床锅炉智能控制系统”项目落地见效。具体而言，将依托厦门大学开发的先进控制组态软件，对兰花科创新材料分公司2台循环流化床锅炉进行技术改造升级，实现循环流化床锅炉各控制回路的智能优化控制及机炉协调控制；将通过项目研发，将该技术应用到化工反应过程、化��分离过程等装置，推动甲醇制取高附加值产品、煤层气制氢附产碳材料等一批能源化工科技项目落地实施。
+近日，晋城市与厦门大学化工学院达成合作，推进“循环流化床锅炉智能控制系统”项目落地见效。具体而言，将依托厦门大学开发的先进控制组态软件，对兰花科创新材料分公司2台循环流化床锅炉进行技术改造升级，实现循环流化床锅炉各控制回路的智能优化控制及机炉协调控制；将通过项目研发，将该技术应用到化工反应过程、化工分离过程等装置，推动甲醇制取高附加值产品、煤层气制氢附产碳材料等一批能源化工科技项目落地实施。
  
 →《山西省晋城市与厦门大学开展合作》
  
 京东科技与易华录合作，推动智能城市、数据银行建设
  
-据悉，易华录与京东科技合作。根据协议，双方将在智能城市、智慧交通、智慧安防、智慧健康、智慧环保、智能制造等领域合作，在智慧城市顶层设计、大数据应用创新、数据银行建设等相关行业方面进行课题类规划、设计、研究，共同编写标准规范。双方将以淮海经济区和茂名市项目作为合作试点，打造标杆项目，为当地提供海量数据存储计算、智能城市、数字产业园区运营等产品和服务。
+据悉，易华录与京东科技合作。根据协议，双方将在智能城市、智慧交通、智慧安防、智慧健康、智慧环保、智能制造等领域合作，在智慧城市顶层设计、大数据应用创新、数据银行建设等相关行业方面进行课题类规划、设计、研究，共同编写标准规范。双方将以淮海经济区和茂名市项目作为合作试点，打造标杆项目，为当地提供海量数据存储计算、���能城市、数字产业园区运营等产品和服务。
  
 →《易华录与京东科技签署战略协议 开展智能城市合作》
  
@@ -1131,7 +1852,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 2、从单笔融资金额看
  
-本周融资主要分��在医疗健康、企业服务和先进制造领域，分别为32、28、22笔；芯片领域披露的交易总额金融领域最多，为81.75亿元。
+本周融资主要分布在医疗健康、企业服务和先进制造领域，分别为32、28、22笔；芯片领域披露的交易总额金融领域最多，为81.75亿元。
  
 
  
@@ -1159,7 +1880,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 奕斯伟计算  物联网  C轮  25亿人民币
  
-奕斯伟计算是一家物联网芯片研发商，核心事业包括物联网及人机交互集成电路设计、封测和材料三大领域，产品广泛应用于显示器件、人工智能、车联网、可穿戴设备等领域，同时可以为用户提供整体解决方案。本次融资完成后，奕斯伟计…</span>
+奕斯伟计算是一家物联网芯片研发商，核心事业包括物联网及人机交互集成电路设计、封测和材料三大领域，产品广泛应用于显示器件、人工智能、车联网、可穿戴设备等领域，同时可以为用户提供整体解决方案。本次融资完成后，奕斯伟计算…</span>
                   </div>
                 </a>
               </details>
@@ -1182,7 +1903,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 “不仅是少了，是太太太太少了。”
  
-在今年7月的河南特大暴雨灾情期间，由于国产SAR卫星数量较少，无法在第一时间���供受灾区域的影像，千域空天的创始人蓝天翼和天仪研究院的CEO杨峰在朋友圈发出这样的感慨。
+在今年7月的河南特大暴雨灾情期间，由于国产SAR卫星数量较少，无法在第一时间提供受灾区域的影像，千域空天的创始人蓝天翼和天仪研究院的CEO杨峰在朋友圈发出这样的感慨。
  
 他们感慨的SAR，专业名字为合成孔径雷达，英文名字为Synthetic Aperture radar。这种卫星是唯一能在黑夜以及云雾条件下对地球表面进行观测的遥感卫星。这种穿越云雾和不分昼夜的能力，决定了其在国防、金融、保险、农业、应急等领域的重要地位，也很可能是影响国际格局的重要变量。
  
@@ -1192,7 +1913,7 @@ CNBeta : 马斯克：开始为星际飞船新建发射台 明年初有望试射�
  
 相比于全球市场，中国的SAR卫星市场无论是上游制造业，还是下游应用端，都处于早期蓝海阶段。上游制造业的核心玩家入场券是实现卫星的在轨验证，我国目前已实现SAR卫星在轨验证的小卫星企业只有天仪研究院一家。下游应用端对SAR卫星数据非常渴求，但处理门槛较高、专业人员较少等问题，也困扰着下游应用的发展。
  
-SAR卫星为什么遥感卫星产业的未来支柱？SA…</span>
+SAR卫星为什么遥感卫星产业的未来支柱？SAR卫…</span>
                   </div>
                 </a>
               </details>
@@ -1226,53 +1947,6 @@ SAR卫星为什么遥感卫星产业的未来支柱？SA…</span>
 凯莱英的核心看点之一：业务模式带来极高的确定性
  
 要了解凯莱英，就要先了解CDMO业务业务。近年来，CDMO业务贡献的收入与毛利占比双双超过了90%，同时该业务增速与凯莱英整体的增速相当，所以据此判断出CDMO业务是凯莱英业绩增长的核心驱…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">36氪首发 |「小铭工业互联网」完成pre-A轮融资，打造一站式PCBA柔性制造平台，服务客户超5万家</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1511720502269954">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>36氪获悉，近期，深圳市小铭工业互联网有限公司（以下简称“小铭工业”）宣布完成数千万元的pre-A轮融资，本轮融资由前海母基金淮泽中钊天使基金领投，渡越资本担任独家财务顾问。小铭工业创始人黄雄表示，本轮融资资金将主要用于技术研发和产线迭代等方面。
- 
-小铭工业成立于2018年，致力于向市场提供一站式电子产业柔性制造平台，可为电子科技企业提供研发方案、样板制造、实验验证&amp;调校测试、小批量生产&amp;检测&amp;物料选型、共享仓储、可靠性试验和产品认证等服务。
- 
-
- 
-小铭工业生产车间
- 
-目前，小铭工业已经建立“小铭打样”PCBA（泛指印刷电路板后期加装电子元件的流程，完成后也叫成品电路板）柔性制造平台，包含自助在线交易系统、生产智能管理系统、生产办公自动化和企业资源计划等系统，用户可直接在线上平台完成PCBA生产订单交易。
- 
-小铭工业创始人黄雄表示，电子制造行业的制造模式较为传统，电路板一般采用规模制造的方式来控制成本和质量，但小批量、定制化的需求始终存在，并没有被很好地满足。
- 
-PCBA打样是一个电路板投入大规模量产之前必须要进行的环节。一般来说，大型电子加工厂或PCB（印刷电路板）制造厂都会承接PCBA打样需求，且产品质量有保障，但生产流程长，价格高；而“作坊式”的小厂则无法保证打样质量，且在贴片、元件焊接的环节无法做到价格透明。
- 
-黄雄表示，小铭工业可以提供从产品功能验证，到最终生产交付的一站式服务，并且通过工艺和设备保证产品质量。
- 
-
- 
-小铭工业PCBA产品
- 
-客户通过“小铭打样”在线提交产品设计后，小铭工业可利用AI仿真软件将设计工程化并进行仿真，将所有数据标准化处理后自动比对，并据此进行元器件选货备货。这可以有效解决客户通过人工经验工程化容易出现失误，同时耗费时间的痛点。
- 
-在完成设计工程化、自动报价等前期服务后，小铭工业会进行来料检查、全自动贴片、光学监测、自动焊接及防静电包装等后续制造流程，并在每个环节完成后与客户保持对接和数据交流。
- 
-根据小铭工业提供的数据显示，一般的PCBA打样周期在5-15天，小铭工业可在24小时内完成出货，加急情况下可在8小时完成出货。
- 
-黄雄表示，小铭工业自研了包括仿真软件、工艺控制软件及数据平台在内的大量系统，同时也对制造设备和其他硬件设施进行了柔性化改造，以适应灵活多样的生产订单，这与大型工厂和“作坊式”的加工商有本质的不同。
- 
-据了解小铭工业工厂目前拥有50条SMT生产线，全部由雅马哈YSM20、松下NPM-D3等高速贴装设备组成，设备抛料率控制了在万分之五以内；同时基于云MES对制造环节进行布局，生产状态可实时监控。
- 
-黄雄认为，一定程度的资产准备是提高PCBA生产柔性化的基础。他表示，小铭工业在片阻、片容等通用电子元件方面常年备货，并计划开通线上商城，客户可根据自身需求选择相应电子元件产品，而这也意味着小铭工业的来料库存将再度增加。
- 
-黄雄对36氪说道：“小铭工业在软件系统建设，柔性化工位改造和厂内物流方面的优化，都会让企业资产变重，但这样才能够保证灵活高效的生产，未来小铭工业还会在制造装备、辅材耗材上进行研发。”
- 
-据悉，小铭工业的生产线日换线次数从5次提升至了16次，未来或将达到20次以上，换线耗时缩短60%以上。
- 
-目前，小铭工业服务的客户超过5万家，服务人员超过11万人，客户包括博世、ABB等世界一流企业。黄雄表示小铭工业年营收达亿元规模，并计划新建工厂以继续扩大产能。</span>
                   </div>
                 </a>
               </details>
@@ -1352,122 +2026,6 @@ NASA 授予蓝色起源等三家公司 27 亿元合同，支持建私人空�
                     <span>现在浏览器都带画中画功能了，一键把网页视频变成小窗悬浮在屏幕角落，方便你边看视频边在其它网页做事情。但如果不是视频我也想让它画中画悬浮呢？比如悬浮着一个在线文档或者参考网页，然后自己在另一个页面里写文档/写邮件；再比如把网页版的翻译软件悬浮在屏幕角落。
 可以试试 TabFloater 这款扩展，支持 Chrome 和 Firefox 浏览器。官网下载 https://www.tabfloater.io/download
 Tags - 浏览器 , chrome , firefox</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://bohaishibei.com">博海拾贝</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">百货 50 条，全部是实用的玩意儿（1205 第 2034 期）</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70131/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>中国黄酒第一品牌 古越龙山 八年陈 绍兴黄酒花雕酒 500ml*6瓶 185.2元包邮 天猫超市228元，下单立减22.8元，可领20元优惠券，实付185.2元到手，规格为500ml*6瓶。 网易严选…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">减肥帮往事</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70130/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>@灵称:这节目太适合上春晚了！感觉里面好多梗都是为中老年人准备的，比如人民的名义那个“我家祖祖辈辈都是农民，穷怕了”，家里长辈绝对能秒get！ @阿海就是厉害:虽然里边的梗没有全部都听懂但是也太密集了…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">给广东人一份盆+水，能端上桌多少种火锅？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70128/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>新历十一月，广东的冬季终于风尘仆仆地赶来了，虽迟但到。猪朋狗友们开始各种借口约不出来，这时，你轻描淡写说一句：“走，打边炉。”友情的小船便再次扬帆起航。 打边炉，是一个广东人顶着寒风出门的勇气和信念。…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">通篇最重要的两个字就是背景……</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70122/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>@干净么食安：2007年去上海工作，作为德国公司的上海采购中心经理。感觉工作不饱和，就想业余开个餐厅，当时人生地不熟，初来乍到，就敢开餐厅，别人劝我不要干。 第一个店在世纪公园，开通燃气的时候，遇见了…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">百货 50 条，全部是实用的玩意儿（1204 第 2033 期）</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70109/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>塔牌 干型丽春酒 正宗浙江绍兴黄酒 375ml*6瓶 168元包邮 破损包赔 天猫塔牌酒类旗舰店198元，下单立减10元，可领20元优惠券，实付168元到手，规格是375ml*6瓶，破损包赔。 谷源道…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">[博海拾贝1204]不吃蛋炒饭的爹来了</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70121/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>【1】20211202，有趣的完全对称日。凌晨5时许，上海外滩聚集了众多摄影爱好者。在大家的共同见证下，一弯亏眉月缓缓上升，从环球金融中心正中间穿过，并于大约5时14分实现三点一线（月亮同时与环金和金…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">一镜到底，特警训练，4分钟行云流水</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70120/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>@Gosh堃砸：1，按规定打法打三个绳结；2，一长串的障碍；3，爬避雷针并在楼顶记住一副车牌号；4，索降；5，卡车轮胎翻5次；6，92式手枪拆解组合；7，写下那副车牌号.IOS链接</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">赶紧领，今日支付宝红包超级大</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70094/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>这个活动已经进行过很多次了，不过有时红包大有时红包小，没有个准则。今天测试红包都挺大的，大家可以领起来。 直接复制口令然后打开支付宝搜索框即可领取： 复制 729253358 打开.zhi怤宝去搜索，…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">大厂，过冬</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70119/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>文/李秋涵 来源：深燃（ID:shenrancaijing) 1个月时间里，伍冬经历了两次“裁员”。 10月，他还是腾讯PCG事业群下某业务线的员工，部门设置了一场考核“考试”，没过关即淘汰，他们业务…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">外贸行业里的老外</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://bohaishibei.com/post/70118/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>@风中的厂长：我刚做外贸的时候认识一个塞尔维亚人，30多岁，在中国混了十多年，说话带着浓浓的北方口音。 他是1688上找到我们的，到我公司已经是晚上了，谈完生意就开始侃大山，说他如何白手起家做到一个月…</span>
                   </div>
                 </a>
               </details>
@@ -1647,127 +2205,6 @@ Tags - 浏览器 , chrome , firefox</span>
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">元宇宙这把火开始烧向打工人</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918385.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>有了元宇宙，这届打工人还能愉快地“摸鱼”吗？</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">大厂离职潮：二胎宝妈没躲过裁员，应届生成炮灰</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5917880.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>大厂的光明未来里，不包括被裁的你。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">科技向左，互联网向右</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918353.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>本文试图从科技与互联网的关系出发，探讨互联网行业在发展过程中引发的各种社会现象与当前面临的主要问题和挑战，并以从业角度给出对行业未来的预测，以及对互联网人的建议。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">如何用Netflix的方式打开《华灯初上》？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918310.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>斥资2.5亿，Netflix在台湾地区投资最高的剧来了。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">家装互联网，困于“局域网”？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918340.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>互联网家装，困在互联网精神外？</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">全球首个活体机器人“生娃”，我们采访了TA的缔造者 | 钛媒体深度</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5913160.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>这一研究正在引发人类更大的伦理争议和担忧。但未来或可为外伤、先天缺陷、癌症、衰老等提供更直接、更个性化的药物治疗。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">眼耳鼻舌身意，严肃地聊一聊元宇宙的“技术拼图”</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918146.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>元宇宙到底是什么？一个共识是，足够真实的“虚拟世界”。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">日美的强势垄断，竟被中国一个做鱼竿的老头成功破防</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918081.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>突破碳纤维“卡脖子”，就差临门一脚了。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">​错过短视频与直播的风口，刘循子墨和万合天宜如何“扬名立万”？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5918056.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>万万没想到。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">首日破发、市值缩水，上市对Grab来说只是开始</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5917894.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>在可预见的未来，Grab要面对的挑战还很多。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">微信开放外链，社交想象力有限</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/5917706.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>电商之外无新事。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
@@ -1807,143 +2244,11 @@ Tags - 浏览器 , chrome , firefox</span>
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">热门中概股跌幅持续扩大，滴滴跌近15%</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/nictation/5917052.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>美证券交易委员会出台新规，要求在美上市中企必须披露其所有权结构和审计细节，即使信息是来自相关外国司法辖区 ... 美国证券交易委员会的这一规则推进了一项进程，最终可能导致200多家中国公司被美国交易所剔除，并可能降低一些中国公司对美国投资者的吸引力。
-钛媒体 : 热门中概股跌幅持续扩大，滴滴跌近15%</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">央行等四部门集体回应恒大相关问题：企业经营管理不善，盲目多元化扩张</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.tmtpost.com/nictation/5916938.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>应恒大地产集团有限公司请求，为有效化解风险，保护各方利益，维护社会稳定，广东省人民政府同意向恒大地产集团有限公司派出工作组，督促推进企业风险处置工作，督促切实加强内控管理，维护正常经营 ... 恒大集团经营管理不善、盲目多元化扩张，最终导致风险暴发，属于个案风险 ... A股市场运行总体平稳，韧性较强、活跃度较高，交易所债券市场违约率保持在1%左右的较低水平，涉房上市公司、债券发行人经营财务指标总体健康，恒大集团风险事件对资本市场稳定运行的外溢影响可控。
-钛媒体 : 证监会：恒大集团风险事件对资本市场稳定运行的外溢影响可控
-钛媒体 : 央行：广东同意向恒大地产集团派出工作组，将继续配合广东省政府做好风险化解工作
-CNBeta : 央行等四部门集体回应恒大相关问题：企业经营管理不善 盲目多元化扩张
-36Kr : 央行：支持广东省政府向恒大地产集团派出工作组，将继续配合广东省政府等做好风险化解工作</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
                 <summary class="article-expander__title">The 6 Best DevOps Podcasts You Should Listen To</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/the-6-best-devops-podcasts-you-should-listen-to">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(3 min)</span>
                     <span>DevOps is a complex subject that is hard to understand initially. If you are just finding out about what DevOps is, you are probably searching for information on the topic. DevOps is a type of softwar</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">WHO Needs Site Reliability Engineers (SREs)?</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/who-needs-sres">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>From its humble origins as a role inside Google, site reliability engineering has become a type of position or team that a wide Variety of companies Now embrace.
-But that doesn’t mean that every Compa</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Quick Start WebRTC with Infobip</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/next-level-communication-with-infobip-and-webrtc-1">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Web Real-Time Communication (WebRTC) has FAST become the de facto framework used for building applications to facilitate audio and video communication over the web. WebRTC connects users through their</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Testing WebSocket Endpoints With Firecamp</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://dzone.com/articles/testing-websocket-endpoints-with-firecamp">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>Consumer applications these days demand Real-time information. Users prefer receiving fresh information on their devices rather than polling them from time to time. For example, a push notification wi</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The Dew Review – C# 10 and .Net 6 – Modern Cross-Platform Development, 6th ED (@packtpub) by Mark J. Price</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.alvinashcraft.com/2021/12/03/the-dew-review-c-10-and-net-6-modern-cross-platform-development-6th-ed-packtpub-by-mark-j-price/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="http://36kr.com">36氪</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">亚马逊云科技宣布推出Amazon Private 5G；全球首台5G+智能钻机正式发布 | 36氪5G创新日报1203</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1511485768275721">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>作者：李亚静
- 
-编辑：王与桐
- 
-5G新应用
- 
-全球首台5G+智能钻机正式发布
- 
-12月1日，山河智能绿色智慧矿山成套装备推介暨5G+智能钻机发布会在山河工业城举行，5大类20余款矿山成套装备重磅集结，全球首创5G+智能钻机正式发布，展示了山河智能在绿色制造和智能制造方面领先行业的硬核实力。在此次推介会上，钻爆利器——潜孔钻机、露天钻车等系列凿岩设备、挖装重器——矿用挖掘机、搬运重器——矿用卡车、破筛重器——破碎筛分装备、选冶重器——选冶系列装备等矿山成套装备以及无人机、5G遥控挖掘机等“空——地”协同矿山应急救援装备精彩亮相。现场，山河智能自主研发的“I”系列5G+智能钻机精彩亮相，这是一款全球首台露天矿山爆破施工无人驾驶潜孔钻机，也是全球首台5G远程遥控潜孔钻机，关键性能参数行业领先，多项关键核心技术为世界首创。这款新产品不仅具有普通钻机的人工控制操作功能，还可在遥控仓远程控制和程序自主控制两种独立操控模式下，通过5G+远程遥控监控、北斗高精度定位、大数据处理、自动驾驶等高级控制技术，将钻孔精度控制在2厘米以内，深度误差在10厘米以内。
- 
-→《全球首台5G+智能钻机正式发布》
- 
-广东移动“5G﹢无人船”探索智慧海域新场景
- 
-日前，广东移动与珠海云洲智能科技股份有限公司携手打造“5G﹢无人船”创新实验室，以移动互联网、5G专网、云计算等新一代信息技术为支撑，探索智慧海域新场景。立足珠海海域通信现状，广东移动联合云洲智能已经建成海上智能巡逻5G专网，通过应用5G通信技术，建设5G﹢海洋数据采集体系和数据传输网络，实现海上无人船智能监控与数据回传，保障海域数据传输安全及海域安全。此次成立“5G﹢无人船”创新实验室，是继“海上智能巡逻5G专网”后又一项重要成果。据了解，双方将共同研发近海江河安防及环保、无人船测试场、海岛波浪能、渔业管理、海洋观测、海洋遥感等5G无人…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">高瓴张磊：投早、投小、投科技，投硬、投新、投牛人</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://36kr.com/p/1511581899790082">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>36氪获悉，12月3日高瓴创始人张磊在澳门举行的BEYOND国际科技创新博览会的国际投融资峰会上通过线上发表演讲，表示高瓴将持续加大对科技创新的投资力度。
- 
-
- 
-现场图片
- 
-张磊表示，高瓴将继续加大对科技创新的投资力度，依托深厚的全产业链研究能力，聚焦于生物科技、软件服务与硬科技、碳中和与先进制造等领域，投早、投小、投科技，投硬、投新、投牛人，致力于用长期资本和深度赋能帮助创业者，用科技推动创新落地、推动产业升级、推动价值创造。“我们希望一起共同探讨未来科技的发展趋势，帮助科技创新企业、帮助创业者更好地发展。”
- 
-资料显示，高瓴于2020年初正式推出高瓴创投，作为旗下专注于早期创新型公司的独立投资平台，专注早期创新，尤其是硬科技、深科技方面的巨大机会。从高瓴创投成立以后不断交出的成绩单里可以看到，“含tech量”（硬核科技占比）是其考察项目的关键指标：如成立第一年，高瓴创投投出的200个项目里，科技和医疗等“含tech量”高的项目占比就接近80%。
- 
-张磊在发言中还提到，粤港澳大湾区在全球科技创新竞逐中正在跑出特有的“创新加速度”，创新要素高度集聚，在生物科技、人工智能、半导体与集成电路、先进材料、新能源等多个科技创新领域都取得了令人瞩目的成果，涌现出了一批优秀的企业。“高瓴也愿意加快融入到横琴粤澳深度合作区的建设中，加强与澳门和大湾区的深入合作，助力科技创新和人才培养。”
- 
-据了解，高瓴早在2013年将其首只人民币私募股权投资基金落户珠海横琴，并且在粤港澳大湾区投资了芯耀辉、怡合达、小鹏汽车、金域医学、迈瑞医疗、麦科田、先健科技等科技创新和生物科技等领域的多家明星公司。
- 
-在之后的圆桌会议“后疫情时代：改变与应变”上，嘉宾们共同探究了科技创新如何推动经济的发展和各行业的融合。高瓴董事总经理吕东发表了他对后疫情时代投资趋势的观点。吕东表示，科技创新是高瓴不变的投资方向。我国多层次资本市场的完善，也为科创类公司提供了广阔舞台，进一步支持了科技创新的深入发展，有利于推动行业创新。最近百济神州回归科创板就具有重要标志性意义,充分彰显了资本市场在优化资源配置和支持高新技术过程中的关键作用。
- 
-据悉，BEYOND国际科技创新博览会于12月2日-4日在澳门举行。中国科协分管日常工作副主席、书记处第一书记，中国工程院张玉卓院士，中华医学会会长、中国科学院院士、北京协和医院名誉院长赵玉沛院士，深圳市创新投资集团党委书记、董事长倪泽望，格力电器董事长兼总裁董明珠等参与了开幕式并发表开幕致辞。
- 
-同期还将举办数百场主题论坛，覆盖影响力科技，生命科学，新基建、智慧城市与生活，未来科学四大领域，涵盖建筑科技、天使投资峰会、人工智能商汤专场、智慧医疗、智慧医疗新进展等垂直领域，聚集全球顶级嘉宾参与分享行业风向以及向观众展示前沿科技的力量。</span>
                   </div>
                 </a>
               </details>
@@ -2309,19 +2614,6 @@ OneDrive 新增在线照片滤镜功能
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">互联网淘汰过快，有可以躺赢的行业吗？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/478411.html?f&#x3D;wangzhan">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>想要求发展就一定要“卷”吗？有没有哪个行业可以躺赢呢？好像还真有。
-
-下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -2573,124 +2865,6 @@ iPhone 13 推动 机构预计苹果 Q4 取代三星成全球最大智能手机�
                     <span>苹果评选出了 2021 年度最佳应用，包含 Mac、iPhone、iPad、Apple Watch 和 Apple TV 平台的游戏和非游戏类 App。我看了一下，很尴尬，一堆获奖 App 里只有英雄联盟、CARROT Weather 我玩过。
 完整的 App Store Awards 2021 获奖 App 列表，看苹果中国官网的详细介绍吧 https://www.apple.com.cn/newsroom/2021/12/app-store-awards-honor-the-best-apps-and-games-of-2021/
 Tags - appstore</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://sspai.com">少数派</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">新玩意 087｜少数派的作者们最近买了啥？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/70014">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>关于栏目
-为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了 Matrix 作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是作者前进的动力。
-所有内容均遵循 原创、首发、非商务 原则，投稿细则可查看文末。
-
-@南鱼祭酒：realme Book 海岛灰
-买这种手机厂商推出的首款笔记本电脑，是需要一定的勇气的。对于我来说，做勇士，其实是一个明确自己需求的必然结果。
-
-购买渠道：realme 京东自营旗舰店
-入手价格：4399（原价 4699）
-下单及签收日期：10 月 27 日下定金，31 日付尾款，11 月 1 日发货，3 日收到
-
-我一直有台式 Windows 电脑兜底，所以在笔记本方面只需要考虑轻薄即可。上一台 win 本是 vaio z，在 19 年底的时候 C 面有一点点鼓，就送回京东返修了（京东自营，我作为京东 plus，不修白不修），结果京东表示修不好，可以按购入价八折赔付给我，然后机器销毁。用了一年半的笔记本能有这样一个结果，对于消费者来说显然很值了。于是在之后的一年时间里，我的移动设备就变成了一台华硕的 Chromebook 和 iPad Air 第三代。这样的组合在家里当然无所谓，但是一旦要出门，一旦要出门而且要跟他人进行文件交换，Chromebook 和 iPad 的不足就体现出来了。恰逢苹果推出了全新的 M1，于是我在 20 年年底斥巨资购入了一台 MacBook Air M1 16+512（官网 24 期分期免息，四舍五入不要钱……）。
-但是，在接下来的将近一年时间里，我发现 MacBook 并不适合我。
-
-最值得称道的高性能 M1，我用不上。笔记本在我这里主要作用就是文档编辑器 + 浏览器，M1 杀鸡用牛刀了。
-高续航我用不上，甚至轻薄我也用不上。我在今年（21 年）4…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">App Store Awards 2021 年度大奖出炉，我们和获奖开发者们聊了聊</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sspai.com/post/70259">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>12 月 2 日，App Store 正式公布 2021 年度 App 奖项。与去年一样，今年的 App Store 年度 App 奖项分为「年度 App」「年度游戏」「年度趋势」3 个部分；不同的是，今年的年度 App 奖项由过去的「App Store Best of」正式更名为「App Store Awards」。
-在 App Store Awards 2021 奖项名单中，每个部分各有 5 款 App 获奖，获奖的开发团队同样会收到一块由 Apple 设计和制作的实物荣誉奖牌，奖牌背面会刻上获奖者的名字；奖牌由 100% 可回收再生铝合金制造，设计灵感来源于 App Store 的蓝色图标。
-
-注：以下 App 仅标注 Apple 生态支持平台，部分应用和游戏还支持更多平台，你可以自行前往 App 官网进行了解。
-年度 App
-在年度 App 奖项中，我们能够看到许多少数派读者的「老朋友」，比如之前多次介绍过的笔记工具 Craft 以及天气应用 CARROT Weather 等等。
-年度 Mac app：Craft
-
-App Store
-
-以精致设计和动效著称的新兴笔记工具 Craft，在推出的一年多时间里获得了 App Store 与国内外媒体的多次推荐，也是 少数派评选出的 2020 年度 App，也在今年获得了 Apple Design Awards「交互」主题奖项提名。
-
-虽然上线仅一年，Craft 的功能和体验却完全不输许多老牌笔记工具。在过去的一年多时间里，Craft 以非常高的迭代速度陆续带来了网页版本、实时协作、Daily Notes 等特性，几乎每个月都会推出新的重要功能。此次获得奖项，可谓实至名归。
-
-关联阅读：设计精美、功能强大，Apple 用户的文档工具新选择：Craft
- 
-年度 iPad app：LumaFusion
-
-App Store
-…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="http://www.huxiu.com">虎嗅网</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中国主题乐园，谁敢称第三？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/477966.html?f&#x3D;wangzhan">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>本文来自微信公众号：娱乐资本论（ID：yulezibenlun），作者：郭吉安，原文标题《中国没有第三座主题乐园》，头图来自：视觉中国
-
-
-“看着玲娜贝儿换圣诞新衣服都可以上一个热搜，再看看HK乐园的玉桂狗，穿着脏兮兮的衣服，冲每一个叫它兔子的游客努力招手，我真的破防了。”三丽鸥IP粉阿笠如此感慨。
-
-
-这样的对比发生在上海迪士尼和杭州Hello Kitty乐园（后简称杭州HK乐园）。这边玲娜贝儿刚刚用川沙女顶流的身份证实了无故事IP只要够萌够可爱，照样可以获得大把拥趸，排队三小时只为见“儿儿”一面。那头“只有脸”的萌系大前辈Hello Kitty便呈现了一出过气艺人悲惨现状，乐园内门前冷落车马稀，路人不识，粉丝悲泣。
-
-
-是新人上位老人下台吗？
-
-
-从数据来看并不尽然。“玲娜贝儿”的火自然毋庸置疑，但近两年，中文互联网上的玉桂狗（又被称为大耳狗）、美乐蒂、库洛米同样是人气不遑多让的表情包届顶流，不仅有超越HelloKitty之势，更是在萌系少女中人气十足。
-
-
-
-
-
-“同火不同命”背后，主题乐园的运营水准差异才是核心所在。不同于迪士尼完整的“捧人造星”逻辑，杭州Hello Kitty乐园无论是在位置、园区设置、园内管理均居于劣势。更别说从宣传能力来看，玲娜贝儿推出当日便上了数个热搜，而杭州HK乐园开园已有6年，不少IP粉甚至压根不知道国内还有这样一座三丽鸥授权的主题乐园。
-
-
-国外知名IP尚且如此，国内畅想的本土文化IP便更是问题颇多。典型例如江苏淮安的西游主题乐园，今年7月开业，借着环球影城掀起的本土主题乐园风潮也热度飙升了一把，但如今两个月过去，从大量受众反馈而言，IP更像是挂着的“羊头”，乐园的服务、内容存在诸多问题。
-
-
-究竟IP在国内主题乐园中意味着什么？为什么除了上海迪士尼与北京环球外，中国一直没能讲好一个新的主题乐园故事？
-
-
-一、世界最大，杭州Hello …</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">花呗一分为二，年轻人的花呗该关了吗？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.huxiu.com/article/478018.html?f&#x3D;wangzhan">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>用花呗不是问题，重要的是你会不会陷入“透支消费”的陷阱。你的花呗关了吗？欢迎来评论区聊聊。
-下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</span>
                   </div>
                 </a>
               </details>
@@ -3860,32 +4034,6 @@ AI 第三次浪潮以来，DeepMind、OpenAI 等非传统的研究机构扮演�
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">南非出现超强新冠变异毒株；电子烟将按「卷烟条例」进行监管；许家印卖恒大股票套现 26 亿港元</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/292348">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>南非出现 B.1.1.529 新冠变异毒株：32 处突变，近期病例快速增加
-根据央视财经频道报道，近期南非地区出现了一种全新的新冠变异毒株，刺突蛋白变异数量达到 32 处，是此前德尔塔 Delta 毒株的两倍。
-B.1.1.529 病毒在传播过程中，流行度 R 值突破 2，属于相当高的水平。南非表示，11 月以来，豪登省的感染病例迅速增加，尤其在学校和年轻人之中十分流行。目前，英国、苏格兰、日本、德国等国家，已经全面暂停南非及周边各国的直航航班入境。
-
-目前尚且没有 B.1.1.529 毒株的详细流行性、免疫特性报告，世卫组织 26 日召开了专门会议来讨论这种变种，并表示至少有 100 份样本检测到了这一变种。
-
-有一个比较好的消息是，B.1.1.529 病毒其中一个突变比较容易被检测到，因此可以使用比基因组测序更快的方式来快速识别这种病毒。（来源：IT 之家）
-
-王兴回应美团遭罚：我们完全支持监管和执法，相信一个公平的竞争环境更有利于行业发展
-美团 11 月 26 日发布第三季度财报，财报显示，美团第三季度净亏损 99.9 亿元，市场预估亏损 70.4 亿元，经调整后净亏损 55.3 亿元。
-美团称，第三季度亏损主要是由于根据中国反垄断法处以的罚款所致。此前 10 月 8 日，市场监管总局就美团「二选一」做出行政处罚，责令美团退还独家合作保证金 12.89 亿元，并处以 34.42 亿罚款。它还指出，因为公司在带来长期价值的领域继续投资，导致新业务及其他分部的经营亏损随之扩大。
-在美团第三季度财报发布后的业绩电话会议上，针对市场监管总局的行政处罚决议，美团 CEO 王兴表示，美团真诚地接受这一处罚，并将严格确保合规。（来源：IT 之家）
-
-
-拼多多 Q3 盘前跌超 12% 资金流向「百亿农研专项」
-11 月 26 日消息，拼多多发布了 2021 年第三季度财报。财报显示，…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -3945,45 +4093,6 @@ B.1.1.529 病毒在传播过程中，流行度 R 值突破 2，属于相当高�
       </li>
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="http://main_test.geekpark.net/rss.rss">极客公园</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">玩  VR  的人 | 见证低谷与繁荣，他们是元宇宙的造梦者</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.geekpark.net/news/292325">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>作者 | 邓思渊
-
-
-2021 年，有多少人在开发 VR？
-据 2021 年 GDC（Game Developer Conference，游戏开发者大会，欧美游戏业界最权威的专业组织）对超过 3000 名游戏开发者的调查数据显示，有 38%的开发者表示他们正在为 VR 开发游戏。
-而在 2016 年，这个数字只有 16%。
-5 年时间，VR 产业伴随市场出清、硬件迭代、内容积累之后，跨越低谷走向复苏。
-这期间，有多少 VR 开发者还在坚持？他们是如何参与到 VR 开发潮流中来的？他们在 VR 内容开发上经历了怎样的变化？他们为何坚信前路光明？
-上周，我们发布了「玩 VR 的人」系列策划第一篇 ，聚焦三位 VR 玩家眼里的 VR 世界。该系列的第二篇，我们要带着大家去认识下一些 VR 内容的创作者、开发者，看看他们是如何玩 VR 的。
-目前在爱奇艺奇遇 VR 平台上已经聚集了国内外数百位 VR 内容开发者。其中不乏诸多国内外优秀的开发团队和作品，如 XR Games 的《僵尸之地：弹无虚发》、Vertigo Games 的《亚利桑那阳光》、Andromeda Entertainment 的《动感音旅》、Appnori 的《多合一运动》等。这一次，我们联合爱奇艺，在爱奇艺奇遇 VR 平台上寻找到几位见证过 VR 行业低谷与繁荣的开发团队。从他们眼中，我们或许对当下和未来有更多思考。
-
-
-
-
-
-
-硬件平台成熟，VR 创作迎来更多可能性
-
-
-
-
-「我 2014-2015 年在南加大（USC）上 VR 课程的时候，做的第一个 VR 项目还是在 Google Cardboard 上做的。对，就是谷歌出的那个纸盒子。」中国传媒大学虚拟文娱实验室的教师杜尽知告诉我们。
-这是他第一次接触 VR 开发，当时他还是一个读动画专业的研究生。在那个时间点，像他这样动画专业出身的开发者做 VR 项目是…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.ruanyifeng.com/blog/">阮一峰的网络日志</a></h3>
           <section class="articles-per-source">
             <article>
@@ -4004,41 +4113,6 @@ B.1.1.529 病毒在传播过程中，流行度 R 值突破 2，属于相当高�
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-11-25">2021-11-25</time></h2>
     <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.williamlong.info/">月光博客</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">腾讯旗下APP将暂停更新</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/6629.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>据网传消息，即日起腾讯计算机主体旗下所有APP将暂停版本更新，各应用商店和分发平台立即执行。对此，腾讯表示，正持续升级APP对用户权益保护的各项措施，并配合监管部门进行正常的合规检测。在此期间，用户可正常下载使用APP现有版本。
-
-
-　　总台央视记者从工信部了解到，今年以来，在工信部开展的App侵害用户权益专项整治中，腾讯公司旗下9款产品存在违规行为，共计4批次被公开通报，违反了2021年信息通信业行风纠风相关要求。按照有关部署，工信部对腾讯公司采取过渡性的行政指导措施，要求对于即将发布的App新产品，以及既有App产品的更新版本，上架前需经工信部组织技术检测，检测合格后正常上架。
-
-
-　　腾讯公司11月24日下午表示，公司正持续升级App对用户权益保护的各项措施，并配合监管部门进行正常的合规检测。在此期间，用户可正常下载使用App现有版本。经测试，目前腾讯系App在官方及各应用商店下载一切正常，也未出现下架情况，用户使用并不受到影响。
-
-
-　　自11月1日《个人信息保护法》生效以来，监管部门加大了对各家企业的用户数据合规监管。11月5日，工信部发布《关于开展信息通信服务感知提升行动的通知》决定，自2021年11月至2022年3月，开展信息通信服务感知提升行动（简称“524”行动），聚焦APP侵害用户权益专项整治、优化企业个人信息处理规则和优化开屏弹窗信息展示方式等。
-
-
-　　近期，腾讯多次遭到反垄断监管。11月20日，市场监管总局根据《中华人民共和国反垄断法》第四十八条、四十九条作出行政处罚决定，对涉案企业分别处以50万元罚款。其中涉及腾讯系的为13起，涉及阿里系12起，涉及百度系4起等。
-
-
-　　互通互联方面，9月17日，腾讯发布关于《微信外部链接内容管理规范》的声明中表示，近期，工信部对外链管理提出了专项指导意见，微信将落实“以安全为底线”的互联互通。随后，微信逐步放开外链跳转。
-
-
-　　稿源：央视新闻</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="http://www.mac52ipod.cn/index.php">苹果fans博客</a></h3>
@@ -4321,35 +4395,9 @@ Tags - 截屏</span>
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-11-05">2021-11-05</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="http://www.mac52ipod.cn/index.php">苹果fans博客</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Mac技巧之苹果电脑 macOS 版 TestFlight 发布了</summary>
-                <a class="article-summary-link article-summary-box-outer" href="http://www.mac52ipod.cn/post/apple-testflight-for-mac-macos-available.php">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>TestFlight 最早是苹果为 iOS 开发者提供的一项服务，你可以当成「内测版 App Store」。现在，苹果为苹果电脑 macOS 的开发者和用户也提供了 TestFlight。
-举个例子：我开发了一个 App，或者当前 App 开发了一个新版本，但是正式在 App Store 向所有人提供下载之前，想先找一小批用户做个测试 …… 但是这个新 App 或者 App 新版本没在 App Store 上架，怎么才能让其它人下载到呢？
-TestFlight 就是用来打破这个死循环的。开发者可以通过 TestFlight 分发自己的 App 给已经安装了 TestFlight 的用户，并且收集反馈，觉得没问题了就在 App Store 把 App 上架面向所有苹果用户。安装了 TestFlight 的用户也可以享受「尝鲜」和「支持自己喜欢的产品，帮它做体验和提反馈」
-Mac 版 TestFlight 在苹果 Mac App Store 应用商店的下载地址 https://apps.apple.com/cn/app/testflight/id899247664
-Tags - testflight , 苹果开发者</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-12-05T00:36:16.588Z">2021-12-05T00:36:16.588Z</time>
+    <time id="build-timestamp" datetime="2021-12-05T12:14:54.427Z">2021-12-05T12:14:54.427Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
