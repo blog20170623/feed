@@ -1,915 +1,1852 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-29T00:34:43.263Z</id>
+    <id>urn:2021-12-29T12:16:48.356Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T00:34:43.263Z</updated>
+    <updated>2021-12-29T12:16:48.356Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[从消费电子产品到医疗器械，「研和智能」血压手表再迭代]]></title>
-        <id>https://36kr.com/p/1545575581067273</id>
-        <link href="https://36kr.com/p/1545575581067273"/>
-        <updated>2021-12-29T00:30:22.000Z</updated>
-        <summary type="html"><![CDATA[当前，医疗级的智能可穿戴设备广受关注，国内有多家创业公司瞄准了“智能血压手表”这一品类，「研和智能」也是其中之一。通过气囊加压准确测量血压，对于传统的水银血压计、上臂式电子血压计而言，并非难题；但是把气囊缩到手表腕带大小、且能准确传递脉搏压力，成为考验同类产品的技术关键。
- 
-“研和开发的双气囊专利智能血压手表BP Doctor MED（医疗级）当前在型检阶段，预计明年Q2可以拿到NMPA医疗器械二类证；同时CE备案、FDA报证也在同步进行。”公司创始人/CEO盛奕冰向36氪介绍道。2019年，研和智能开始研发智能血压手表，采用“示波法”这一技术路径，即通过气囊传递动脉血管内的血压波动变化，推算出收缩压、舒张压。
- 
-中国高血压人群达2.7亿之众，盛奕冰和团队希望做出新产品，帮助这一人群进行慢病管理。在她看来，可穿戴医疗设备既要有医疗级的精准度，又需轻薄、有颜值，用户才愿意长期佩戴。
- 
-所以，将气囊做窄、做轻的同时，保证气压输出的稳定性，成为他们要解决的难题之一。不同材料的形变状态会影响到信号传输，如果材料不能稳定地实现线性形变，可能会导致原始信号失真，进而影响测量结果准确度。另外，智能血压手表在较长的生命周期，需多次膨胀、收缩，对耐用性要求也很高。
- 
-“为了找到做这个气囊合适的材料，我们找了上百家供应商、试了上百种材料。最后也是工程师和供应商一起做了工艺改进，才把这个气囊做出来，厚度是3毫米。在准确度上，BP Doctor MED测量血压的误差区间为正负5毫米汞柱，”盛奕冰讲道。
- 
-
- 
-企业供图：BP Doctor MED拆解图
- 
-除了气囊外，很多微型元器件也需原创设计、定制。比如微型气阀，“气阀”本身是很成熟的元器件，但需要将之做到一颗黄豆大小，且具备耐压、耐高温、���能寿命数万次的属性，市场上就没有现成的产品。研和走访了多家不同类型的生产企业，寻找符合需求的电磁线圈、磁吸片硅胶注射、气阀磁芯等零件，来组装生产微型气阀。“比如硅胶注射，注射的硅胶粒尺寸精度需在0.01毫米内，研发中，光是这个模具就报废了2套。”
- 
-克服多个技术难点后，目前，研和拥有8项发明专利、9项实用新型专利、3项外观专利及1项PCT专利。
- 
-在用户交互方面，研和针对中年、老年两个群体进行界面和功能设计。“针对老年人，设计了一键血压测量模式，且配备了一个大按键，方便老年人操作。另外，无论手表在任何状态，长按这一按键2秒，就会直接进入血压测量模式。”研和智能的技术负责人介绍道，对于中年人群，主要考虑到其工作忙碌或原有测压设备太大，不能实时去测血压，而设计了血压实时测量和日常提示。
- 
-
- 
-2020年初的众筹
- 
-据研和智能市场负责人Camel表示，在2020年初时，公司曾在海外众筹网站Indiegogo发起众筹，凭借BP Doctor Pro产品，募集到58万美元。2020年6月，产品在美国等地发售。通过查询可见，当前仍有国外用户通过该网站，向研和智能反馈产品使用过程中的体验、可优化的细节等。
- 
-产能方面，第一代血压手表PRO已可实现完全量产，医疗级产品MED正在小批量试产中，预计明年实现量产。今年10月，研和血压手表BP Doctor Pro已开始在国内售卖，定价1998元/支，通过线上电商、线下体验店相结合的方式推广。除天猫、京东的直营店外，以经销代理模式为主。另外，Camel表示将尝试进行更多内容营销，通过对用户有价值的健康科普，传递可穿戴智能血压表的价值。
- 
-
- 
-企业供图，BP Doctor MED 正申报医疗器械二类证
- 
-当前，研和智能已完成Pre-A轮融资，预计明年上半年将启动新一轮融资。根据《中国高血压防治指南2018年》，中国高血压知晓率、治疗率和控制率分别为51.5%、46.1%和16.9%，慢病管理的进程和效果仍有很大的提升空间。
- 
-近日，华为已推出了第一款“腕部心电血压记录仪”WATCH D，产品获得了医疗器械二类证。通过这一可穿戴设备，高血压人群可随时测量、记录血压情况；患者连续的血压数据也将为医生提供更优的临床参考，辅助高血压的治疗及控制。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彩虹新能源：深交所受理建议A股发行申请材料]]></title>
-        <id>https://36kr.com/newsflashes/1547726137338121</id>
-        <link href="https://36kr.com/newsflashes/1547726137338121"/>
-        <updated>2021-12-29T00:28:26.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，彩虹新能源发布公告称，公司已就建议A股发行向深交所提交包括A股招股说明书在内的申请材料，并于2021年12月28日收到深交所就本公司申请建议A股发行出具的受理通知书。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列率先开始第四剂新冠疫苗实验]]></title>
-        <id>https://36kr.com/newsflashes/1547725702998279</id>
-        <link href="https://36kr.com/newsflashes/1547725702998279"/>
-        <updated>2021-12-29T00:28:00.000Z</updated>
-        <summary type="html"><![CDATA[12月27日，以色列舍巴医学中心与卫生部联合开始全球首个第四剂新冠疫苗实验。该实验将给6000人注射第四剂辉瑞疫苗，其中包括150名舍巴医学中心的医务人员。参与实验人员须在8月20日前接种第三剂疫苗，且需经过血清检测，抗体浓度不能高于一定数值。除开展第四剂疫苗研究外，以色列卫生部已经批准缩短接种第二剂疫苗与第三剂的时间间隔，旨在尽快提高加强针接种率，以应对国内外病例的迅速上升。（科技日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四川省委书记彭清华会见宁德时代新能源科技公司董事长曾毓群]]></title>
-        <id>https://36kr.com/newsflashes/1547724476409865</id>
-        <link href="https://36kr.com/newsflashes/1547724476409865"/>
-        <updated>2021-12-29T00:26:45.000Z</updated>
-        <summary type="html"><![CDATA[12月28日，四川省委书记彭清华在成都会见宁德时代新能源科技公司董事长曾毓群一行。双方围绕加快推进重大项目建设、加大在川投资布局、共同打造具有世界影响力的动力电池产业基地、推动新能源汽车产业发展等交换了意见。（四川日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟「相互宝」说声再见]]></title>
-        <id>https://www.bohaishibei.com/?p=70711</id>
-        <link href="https://www.bohaishibei.com/post/70711/"/>
-        <updated>2021-12-29T00:26:24.000Z</updated>
-        <summary type="html"><![CDATA[相互宝要解散了… 今天下午6点，官方发布公告，相互宝将于2022年1月28日24点，正式停止运行。 这个全国规模最大，用户数一度超过一亿的互助计划， 就这样，停了。 虽然预感到它会解散，—— 因为这一…]]></summary>
+        <title type="html"><![CDATA[百货 50 条，全部是实用的玩意儿（1230 第 2059 期）]]></title>
+        <id>https://www.bohaishibei.com/?p=70738</id>
+        <link href="https://www.bohaishibei.com/post/70738/"/>
+        <updated>2021-12-29T12:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Semir 森马 男士印花撞色中筒毛圈袜 5双19.8元包邮 撞色设计，加厚毛圈内里，多色组合同价。目前5双装天猫商城Semir森马盛翊专卖店售价￥29.8，叠加￥10优惠券，券后实付￥19.8包邮，…]]></summary>
         <author>
             <name>梁萧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社恐适合什么工作？]]></title>
-        <id>https://www.bohaishibei.com/?p=70712</id>
-        <link href="https://www.bohaishibei.com/post/70712/"/>
-        <updated>2021-12-29T00:26:14.000Z</updated>
-        <summary type="html"><![CDATA[作者：刘震撼 塔克拉玛⼲沙漠深处有⼀种⼯作，职责就⼀个，负责养护沙漠公路两旁的防护林。 ⼀⼈独⾃居住在沙漠公路两边的站点房⾥，每天唯⼀的⼯作就是早晨起来，打开发电机，启动⽔泵，抽取盐碱⽔，灌溉公路两旁…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉中国：元视觉平台目前还在上线初期的摸索阶段]]></title>
-        <id>https://36kr.com/newsflashes/1547722668107783</id>
-        <link href="https://36kr.com/newsflashes/1547722668107783"/>
-        <updated>2021-12-29T00:24:54.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，视觉中国表示，元视觉平台目前还在上线初期的摸索阶段。公司的优势是储备了大量内容，可以安排上线的内容较丰富，会根据市场反应等情况随时调整。目前计划每周都有上新，2022年一季度的数字藏品上线计划已经初步排好。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中信证券：顺丰控股目前估值仍颇具吸引力，继续强烈推荐]]></title>
-        <id>https://36kr.com/newsflashes/1547721578719496</id>
-        <link href="https://36kr.com/newsflashes/1547721578719496"/>
-        <updated>2021-12-29T00:23:48.000Z</updated>
-        <summary type="html"><![CDATA[中信证券研报指出，对标海内外龙头测算盈利空间，远期顺丰电商标快的净利率或达5%~8%，我们保持较乐观的判断。完整的电商件产品分层体系基本形成，如果新的电商流量入口落地，2022年电商标快日均件量或迎来同比40%以上增长。阵痛期过后公司迎来产能爬坡带来的业绩持续改善的回报期，分部估值法下2022年目标市值4600亿左右，目前估值仍颇具吸引力，继续强烈推荐。（证券时报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海通证券：多看少动，逢低布局优质标的]]></title>
-        <id>https://36kr.com/newsflashes/1547719147317509</id>
-        <link href="https://36kr.com/newsflashes/1547719147317509"/>
-        <updated>2021-12-29T00:21:19.000Z</updated>
-        <summary type="html"><![CDATA[海通证券认为，临近春节，市场风格调整频繁，热点信息持续性弱，赚钱难度加大。建议多看少动，但仍可考虑逢低配置两大方向。随着稳增长的政策托底，市场流动性维持充裕，可重点关注低估值以及业绩向好的证券板块。在“碳中和，碳达峰”的双碳背景下，清洁能源得到了国家政策的高度重视，而作为清洁能源重要组成部分之一的风电，也拥有更为广阔的投资空间，中长期可以逢低关注回调后的风能板块。（第一财经）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“能源重镇”陕西榆林砍掉7000多亿元“两高”项目]]></title>
-        <id>https://36kr.com/newsflashes/1547715960170761</id>
-        <link href="https://36kr.com/newsflashes/1547715960170761"/>
-        <updated>2021-12-29T00:18:05.000Z</updated>
-        <summary type="html"><![CDATA[作为我国重要能源基地，陕西榆林市在“双碳”背景下面临着巨大的转型压力。为实现“双碳”和“双控”目标，榆林市不仅要求一批能化项目停产、整顿，还主动压减7000多亿元投资的 “两高”项目。（新华社）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8点1氪丨奔驰广告模特“眯眯眼”惹争议；张庭林瑞阳公司涉嫌传销被查处；相互宝将于1月28日关停]]></title>
-        <id>https://36kr.com/p/1547712166094850</id>
-        <link href="https://36kr.com/p/1547712166094850"/>
-        <updated>2021-12-29T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[上市进行时
- 
-商汤科技
- 
-36氪获悉，商汤科技发布公告称，香港IPO最终发售价定为每股3.85港元，公司将收取的全球发售所得款项净额估计约为55.52亿港元。预期将于12月30日（星期四）开始在联交所交易。
- 
-大公司
- 
-奔驰广告模特妆容惹争议    
- 
-近日，奔驰最新车型广告中的模特妆容再惹争议。广告中模特又是西方刻板印象中的“黄种人眯眯眼”形象。继三只松鼠之后，又一家企业广告模特妆容引起大量网友不满。（环球网）
- 
+        <title type="html"><![CDATA[苹果 iPhone 、iPad上查看各城市展览的的 App：每日环球展览 iMuseum]]></title>
+        <id>http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-imuseum.php</id>
+        <link href="http://www.mac52ipod.cn/post/apple-ios-iphone-ipad-app-imuseum.php"/>
+        <updated>2021-12-29T12:11:26.000Z</updated>
+        <summary type="html"><![CDATA[如果你想查看各个城市有什么展览可以参观，可以试试每日环球展览 iMuseum 这个免费应用。界面有点「复古」还是今年前的 App 风格，但基本功能没问题。城市列表 → 该成熟的展览列表 → 展览详情，一路选择下来即可。
 
- 
-奔驰
- 
-张庭林瑞阳夫妇实控公司达尔威涉嫌传销被查处 
- 
-石家庄市裕华区市场监督管理局通过《查证函回复》透露，上海市达尔威贸易有限公司涉嫌利用网络从事传销活动被查处，财产保全冻结的资金高达6亿元。值得一提的是，达尔威是微商品牌“TST庭秘密”的运营主体，该公司实控人为张庭、林瑞阳夫妇，股东有明星徐峥、陶虹夫妇、曹格夫妇等。（北京商报）
- 
-相互宝将于1月28日关停：即日起用户不再参与分摊，可自主选择全新保障产品
- 
-36氪获悉，继美团互助、水滴互助之后，国内最后一家大型网络互助平台相互宝也宣布即将关停。相互宝昨日公告表示，因互助行业发生重大变化，为更长远保护成员权益，将于2022年1月28日24时停止运行。公告之日起，现有相互宝成员不再参与互助分摊。同时，为避免保障中断，成员可自主选择适合的保障产品作为全新保障方案。据统计，今年已有10家互助平台关停。
- 
-
- 
-相互宝
- 
-美股三大指数收盘涨跌不一，在线教育股跌幅居前
- 
-36氪获悉，12月28日收盘，美股三大指数涨跌不一，道指涨0.27%，标普500指数跌0.1%，纳指跌0.56%。热门中概股走低，普普文化涨近36%，逸仙电商涨超7%；爱奇艺跌超6％，京东、百度跌超2%，拼多多、阿里巴巴、蔚来、小鹏汽车跌超1%。在线教育股跌幅居前，掌门教育跌超8%，好未来、高途跌超4%。大型科技股多数下跌…]]></summary>
+每日环球展览 iMuseum 在苹果 App Store 应用商店的下载地址 https://apps.apple.com/cn/app/每日环球展览-imuseum-idaily-museum/id897422059
+Tags - 展览]]></summary>
+        <author>
+            <name>bmwmengwei &lt;bmwmengwei@gmail.com&gt;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证监会对多家保荐机构及多位保荐人采取出具警示函、监管谈话措施]]></title>
+        <id>https://36kr.com/newsflashes/1548416994551811</id>
+        <link href="https://36kr.com/newsflashes/1548416994551811"/>
+        <updated>2021-12-29T12:11:13.000Z</updated>
+        <summary type="html"><![CDATA[证监会今日披露，对多家保荐机构及多位保荐人采取出具警示函、监管谈话措施，均因在担任保荐机构或保荐人未勤勉尽责。（证券时报）]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[歌尔股份：分拆所属子公司歌尔微电子至创业板上市申请获得深交所受理]]></title>
-        <id>https://36kr.com/newsflashes/1547714346412041</id>
-        <link href="https://36kr.com/newsflashes/1547714346412041"/>
-        <updated>2021-12-29T00:16:26.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，歌尔股份发布公告称，分拆所属子公司歌尔微电子股份有限公司至创业板上市申请获得深圳证券交易所受理。]]></summary>
+        <title type="html"><![CDATA[小米集团：今日回购股票140万股，耗资2598.54万港元]]></title>
+        <id>https://36kr.com/newsflashes/1548413862127875</id>
+        <link href="https://36kr.com/newsflashes/1548413862127875"/>
+        <updated>2021-12-29T12:08:02.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，小米集团在港交所公告，今日回购140万股股票，耗资2598.54万港元。回购价格在每股18.5港元-18.6港元之间。]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[詹姆斯·韦伯太空望远镜开始部署关键的遮阳板]]></title>
-        <id>https://www.cnbeta.com/articles/science/1219879.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1219879.htm"/>
-        <updated>2021-12-29T00:16:18.000Z</updated>
-        <summary type="html"><![CDATA[这些结构--称为前部和后部单元化托盘结构--包含五个精心折叠的遮阳膜，加上电缆、滑轮和释放机制，构成了韦伯望远镜的遮阳板 ... 前部托盘的部署需要任务操作团队小心翼翼地完成几十个步骤--其中只有一个步骤是实际的电机驱动部署，将托盘从收起的位置移动到部署状态 ... 托盘结构的部署开始了至少还有五天的必要步骤来部署遮阳板--这个过程将最终决定任务是否能够成功。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物业管理行业大额并购频现]]></title>
-        <id>https://36kr.com/newsflashes/1547713151068162</id>
-        <link href="https://36kr.com/newsflashes/1547713151068162"/>
-        <updated>2021-12-29T00:15:14.000Z</updated>
-        <summary type="html"><![CDATA[据中指研究院统计数据，截至12月28日，物业管理行业今年以来已披露交易信息的并购案交易额达353.2亿元，较2020年全年增长约234.15%，并呈现大额交易频现、上市公司收购为主等特征。业内人士指出，政策推动物业管理行业健康发展，未来国资物业公司收购活跃度料提升。（中证网）]]></summary>
+        <title type="html"><![CDATA[证监会：中金公司在保荐联想集团申请在科创板上市过程中未对发行人科创属性认定履行充分核查程序]]></title>
+        <id>https://36kr.com/newsflashes/1548409193605381</id>
+        <link href="https://36kr.com/newsflashes/1548409193605381"/>
+        <updated>2021-12-29T12:03:17.000Z</updated>
+        <summary type="html"><![CDATA[证监会网站公布《关于对中国国际金融股份有限公司及王晟、孙雷、赵沛霖、幸科、谢晶欣采取监管谈话监管措施的决定》称， 经查发现中金公司在保荐联想集团有限公司申请在科创板上市过程中，未勤勉尽责对发行人科创属性认定履行充分核查程序，主要依赖发行人提供的说明性文件得出结论性意见，相关程序及获取证据不足以支持披露内容，未能完整、准确评价发行人科创属性。证监会决定采取监管谈话的监督管理措施。（界面）]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支持政策加码，中医药企业经营有望改善]]></title>
-        <id>https://36kr.com/newsflashes/1547712416868361</id>
-        <link href="https://36kr.com/newsflashes/1547712416868361"/>
-        <updated>2021-12-29T00:14:29.000Z</updated>
-        <summary type="html"><![CDATA[国内几大知名药企的中成药价格上调，上涨幅度为10%到20%，其中不乏一些常见品种 ... 券商分析认为，在政策支持、提价催化下，估值较低、品牌影响力强的中医药企业受到重视 ... 近两年，多项鼓励政策发布，中医药��业迎来发展新机遇，企业经营有望改善。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持政策加码，中医药企业经营有望改善]]></title>
-        <id>https://36kr.com/newsflashes/1547712416868361</id>
-        <link href="https://36kr.com/newsflashes/1547712416868361"/>
-        <updated>2021-12-29T00:14:29.000Z</updated>
-        <summary type="html"><![CDATA[近日，国内几大知名药企的中成药价格上调，上涨幅度为10%到20%，其中不乏一些常见品种。受此影响，近期中医药板块持续升温。业内人士表示，中成药涨价的原因主要是中药材价格上涨。券商分析认为，在政策支持、提价催化下，估值较低、品牌影响力强的中医药企业受到重视。近两年，多项鼓励政策发布，中医药行业迎来发展新机遇，企业经营有望改善。（中证网）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 取消 CES 2022 线下活动]]></title>
-        <id>https://www.pingwest.com/w/256113?utm_source=feed</id>
-        <link href="https://www.pingwest.com/w/256113?utm_source=feed"/>
-        <updated>2021-12-29T00:12:08.000Z</updated>
-        <summary type="html"><![CDATA[据AMD 表示，AMD 2022 Product Premiere 将以线上直播的形式进行 ... 发布会将在北京时间1月4日23点举办，由AMD公司总裁兼首席执行官苏姿丰主持。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型人工突触可用于高度扩展的类脑计算]]></title>
-        <id>https://36kr.com/newsflashes/1547706709666048</id>
-        <link href="https://36kr.com/newsflashes/1547706709666048"/>
-        <updated>2021-12-29T00:08:40.000Z</updated>
-        <summary type="html"><![CDATA[研究人员指出，这项工作可用单个设备替换基于复杂数字电路的功能性和沉默突触，从而显著降低硬件成本 ... “通过使用超薄的2D材料将功能性和沉默突触集成到同一设备中，人造突触的硬件成本将显著降低，这将推动类脑硬件的商业化”。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型人工突触可用于高度扩展的类脑计算]]></title>
-        <id>https://36kr.com/newsflashes/1547706709666048</id>
-        <link href="https://36kr.com/newsflashes/1547706709666048"/>
-        <updated>2021-12-29T00:08:40.000Z</updated>
-        <summary type="html"><![CDATA[据最新一期美国化学会期刊《应用材料与界面》报道，新加坡科技与设计大学（SUTD）研究团队开发出一种基于二维（2D）材料的新型人工突触，能用于可高度扩展的类脑计算。研究人员指出，这项工作可用单个设备替换基于复杂数字电路的功能性和沉默突触，从而显著降低硬件成本。“通过使用超薄的2D材料将功能性和沉默突触集成到同一设备中，人造突触的硬件成本将显著降低，这将推动类脑硬件的商业化”。（科技日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国首家地方AMC获准接入人民银行征信系统]]></title>
-        <id>https://36kr.com/newsflashes/1547706336225539</id>
-        <link href="https://36kr.com/newsflashes/1547706336225539"/>
-        <updated>2021-12-29T00:08:18.000Z</updated>
-        <summary type="html"><![CDATA[12月28日，广西广投资产管理公司宣布，在中国人民银行征信中心和中国人民银行南宁中心支行的支持和指导下，广投资管完成了征信系统接入准备工作，并于当日获得接入人民银行征信系统的批复，成为全国首家，也是目前唯一一家获得接入人民银行征信系统批复的地方AMC。（21世纪经济报道）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram老板称2022年公司将“重新思考Instagram是什么”]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219877.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219877.htm"/>
-        <updated>2021-12-29T00:07:27.000Z</updated>
-        <summary type="html"><![CDATA[9月，《华尔街日报》援引Instagram和Facebook自己的内部研究报告称，Facebook很清楚Instagram对青少年的伤害，尤其是对少女的心理健康 ... Instagram表示，该杂志错误地描述了对青少年进行研究的目的和结果，称Instagram是有毒的说法是不准确的 ... 周二，Mosseri介绍称，公司2022年的目标包括：围绕Reels整合Instagram的所有视频分享工]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10余省份部署电力市场化交易，电价浮动倒逼高耗能产业转型]]></title>
-        <id>https://36kr.com/newsflashes/1547705322219522</id>
-        <link href="https://36kr.com/newsflashes/1547705322219522"/>
-        <updated>2021-12-29T00:07:16.000Z</updated>
-        <summary type="html"><![CDATA[近一个月以来，全国已有北京、广东、山东、陕西、宁夏、浙江等10余个省份对明年的电力市场化交易工作进行了部署 ... 受访专家表示，煤价电价挂钩联动，将逐步打开我国电价上浮空间，利好煤电企业，同时也将倒逼高耗能产业的转型升级。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10余省份部署电力市场化交易，电��浮动倒逼高耗能产业转型]]></title>
-        <id>https://36kr.com/newsflashes/1547705322219522</id>
-        <link href="https://36kr.com/newsflashes/1547705322219522"/>
-        <updated>2021-12-29T00:07:16.000Z</updated>
-        <summary type="html"><![CDATA[近一个月以来，全国已有北京、广东、山东、陕西、宁夏、浙江等10余个省份对明年的电力市场化交易工作进行了部署。受访专家表示，煤价电价挂钩联动，将逐步打开我国电价上浮空间，利好煤电企业，同时也将倒逼高耗能产业的转型升级。（21世纪经济报道）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉利极氪将与Waymo合作开发无人驾驶出租车]]></title>
-        <id>https://tech.ifeng.com/c/8CMNvphCmlp</id>
-        <link href="https://tech.ifeng.com/c/8CMNvphCmlp"/>
-        <updated>2021-12-29T00:06:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>吉利控股表示，其高端电动汽车品牌极氪（Zeekr）将为Alphabet自动驾驶部门Waymo生产电动汽车，并将作为无人驾驶出租车在美国各地部署 ... 吉利周二表示，这些车辆将于极氪在瑞典的工厂进行设计和开发，然后集成 Waymo 的自动驾驶技术 ... Waymo 是美国第一家也是唯一一家完全无人驾驶的出租车公司。</p><p><a href='https://tech.ifeng.com/c/8CMNvphCmlp'>凤凰科技 : 吉利极氪将与Waymo合作开发无人驾驶出租车</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东集团：股份回购授权由20亿美元增至30亿美元]]></title>
-        <id>https://36kr.com/newsflashes/1547702928075015</id>
-        <link href="https://36kr.com/newsflashes/1547702928075015"/>
-        <updated>2021-12-29T00:04:50.000Z</updated>
+        <title type="html"><![CDATA[东北证券：渤海融幸涉嫌操纵期货合约 证监会对其立案]]></title>
+        <id>https://36kr.com/newsflashes/1548405157193993</id>
+        <link href="https://36kr.com/newsflashes/1548405157193993"/>
+        <updated>2021-12-29T11:59:10.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[京东集团：股份回购授权由20亿美元增至30亿美元]]></title>
-        <id>https://36kr.com/newsflashes/1547702928075015</id>
-        <link href="https://36kr.com/newsflashes/1547702928075015"/>
-        <updated>2021-12-29T00:04:50.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，京东集团公告称，董事会已批准修改于2020年3月采纳的现有股份回购计划，据此，回购授权由20亿美元增至30亿美元，并延长至2024年3月17日。]]></summary>
+        <title type="html"><![CDATA[东北证券：渤海融幸涉嫌操纵期货合约 证监会对其立案]]></title>
+        <id>https://36kr.com/newsflashes/1548405157193993</id>
+        <link href="https://36kr.com/newsflashes/1548405157193993"/>
+        <updated>2021-12-29T11:59:10.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，东北证券发布公告称，控股子公司渤海期货全资孙公司渤海融幸因涉嫌操纵期货合约，证监会决定对其立案。]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谁家音乐年度报告更懂你？这是一次平台实力的年终大考]]></title>
-        <id>https://www.36kr.com/p/1547128680015875</id>
-        <link href="https://www.36kr.com/p/1547128680015875"/>
-        <updated>2021-12-29T00:04:34.000Z</updated>
-        <summary type="html"><![CDATA[根本上来说，平台所收集到的数据能够多大程度“懂”用户，取决于音乐平台内容能够多大程度满足用户的音乐需求，以及对用户的音乐消费行为的覆盖程度 ... 2016年，QQ音乐与拥有酷狗音乐、酷我音乐的中国音乐集团合并，成立腾讯音乐娱乐集团，几家音乐在线平台的音乐版权也实现一定程度的互通共享 ... 随着酷狗音乐、咪咕音乐等音乐流媒体平台陆续上线年度报告，我们的2021的音乐之旅也将画上最完满的句号。]]></summary>
+        <title type="html"><![CDATA[汽车之家：不存在大规模裁员，整体人员优化幅度不及5%]]></title>
+        <id>https://36kr.com/newsflashes/1548402389772547</id>
+        <link href="https://36kr.com/newsflashes/1548402389772547"/>
+        <updated>2021-12-29T11:56:21.000Z</updated>
+        <summary type="html"><![CDATA[当天谈当天走，离职全员有补偿，补偿方式有两种：N+2、N+1+1.8，包含年终奖补偿。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学家发现流感病毒的新致命弱点 在寻求通用流感疫苗方面取得进展]]></title>
-        <id>https://www.cnbeta.com/articles/science/1219875.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1219875.htm"/>
-        <updated>2021-12-29T00:02:47.000Z</updated>
-        <summary type="html"><![CDATA[研究共同第一作者、斯克里普斯研究所综合结构和计算生物学教授Andrew Ward博士说：“在病毒上发现一个新的脆弱点总是非常令人兴奋，因为它为合理的疫苗设计铺平了道路” ... 它还表明，尽管流感疫苗研究已经进行了这么多年和努力，但仍有新的东西需要发现 ... 在这项新的研究中，一个科学家合作小组描述了存在于人们血液中的358种不同的抗体，这些人要么接种了季节性流感疫苗，要么处于实验性通用流感疫苗]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相互宝官宣停运，十年“网络互助”彻底熄火了]]></title>
-        <id>https://www.tmtpost.com/5966555.html</id>
-        <link href="https://www.tmtpost.com/5966555.html"/>
-        <updated>2021-12-29T00:02:00.000Z</updated>
-        <summary type="html"><![CDATA[此番随着规模最大的互助平台相互宝的关停，网络互助的狂飙突进时代正式宣告终结。]]></summary>
-        <author>
-            <name>蔡鹏程</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一夜涨价6000元！新能源汽车保险上线：特斯拉车主成受害者？]]></title>
-        <id>https://tech.ifeng.com/c/8CMNvphCmsq</id>
-        <link href="https://tech.ifeng.com/c/8CMNvphCmsq"/>
-        <updated>2021-12-29T00:01:19.000Z</updated>
-        <summary type="html"><![CDATA[就拿售价39.59万元的特斯拉Model Y高性能版举例，普通商业车险一年才8000元左右，今日升级为新能源汽车专属车险，价格竟上涨到14000元~15000元，涨幅超过70% ... 小雷了解了一下新能源汽车专属商业险高价格的原因，主要因素还是新能源汽车出毛病的概率高 ... 中国精算师协会发布的《关于新能源汽车商业保险专属产品基准纯风险保费表测算调整说明》确认，售价25万元以下的新能源汽车，投]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个细分方向都是万亿级市场，超6000家公司携资本入局建筑业数字化 | 年度行业]]></title>
-        <id>https://36kr.com/p/1510993561344004</id>
-        <link href="https://36kr.com/p/1510993561344004"/>
-        <updated>2021-12-29T00:00:59.000Z</updated>
-        <summary type="html"><![CDATA[文 | 秦明；编辑 | 石亚琼
- 
-近三年以来，建筑业伴随着如BIM云平台、AI辅助设计、工业化建筑、智慧建造、绿色节能、BIPV、房产税、PPP、城市更新、新基建、建筑碳中和、REITs等热词，呈现一股数字化创变气息。
- 
-与之息息相关的建筑科技，已悄无声息地渗透到了行业的各个角落，由云计算、物联网、大数据、机器人、VR/AR、BIM等技术理念驱动，落地房建、路桥、市政、交通、能源化工、水利核电等不同场景。
- 
-可以说，建筑每个环节不仅都是万亿级市场，也往往事关国计民生。
- 
-中国的基建能力与速度全球领先。根据国家统计数据，2020年全国建筑业总产值为26.4万亿元，增加值占国内生产总值7.2%，即使在疫情期间，体量也几乎没有受到影响。尤其是在“火神山速度”下，全民见证了3万多平方米的体量，10天便可完工的奇迹。
- 
-但在全球建筑业数字化的浪潮里，中国建筑“数”度依然落后于发达国家。根据中国建筑行业协会统计，在2018年，我国建筑信息化占总产值的比例仅为0.08%，而在美国等发达国家投入可达1%，投入比不到发达国家的十分之一。根据麦肯锡、Gartner等数据，在整体数字化水平层面，中国房地产行业排名仅比农业稍高，而建筑业排名直接排行垫底。
- 
-
- 
-MGI行业数字化指数（来自金蝶）
- 
-建筑业数字化意义重大。人口红利递减、管理过程粗放、安全生产形式严峻、产业链参差不齐、缺乏有效的数据资产等都是建筑业必须直面的问题，数字化转型也逐渐成为一条引导建筑业持续实现合规、避险、降本与增效的价值途径。这也在一定程度上解释了今天全行业对于建筑数字化和创新的关注。
- 
-根据36氪数字时氪研究团队发布的《中国企业数字化转型价值指南》表示，行业要享受数字化红利需要满足四点要素：一是GDP占比高，利润率低，产业链冗长；二是行业大体量玩家相对较多且成熟，市场集中度高；三是依赖网络规模，有去中间化…]]></summary>
+        <title type="html"><![CDATA[汽车之家：不存在大规模裁员，整体人员优化幅度不及5%]]></title>
+        <id>https://36kr.com/newsflashes/1548402389772547</id>
+        <link href="https://36kr.com/newsflashes/1548402389772547"/>
+        <updated>2021-12-29T11:56:21.000Z</updated>
+        <summary type="html"><![CDATA[据财经网消息，有消息称，汽车之家全公司范围内启动裁员，占整体比例的一到两成。当天谈当天走，离职全员有补偿，补偿方式有两种：N+2、N+1+1.8，包含年终奖补偿。还有自媒体称，裁员规模比网传消息人数更多。记者从汽车之家人士处获得回应称，不存在大规模裁员，整体人员优化幅度不及5%，属于正常业务结构及年底考核人员优化。（界面）]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米 12 Pro 首发测评：全面对标 iPhone 的它，够强吗？]]></title>
-        <id>https://www.ifanr.com/1463534?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
-        <link href="https://www.ifanr.com/1463534?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
-        <updated>2021-12-29T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[于是，小米 12 Pro 不光能在王者荣耀里跑满 120 帧，最高温度也控制在了 42.1℃，比跑不满帧数的小米11 Pro，还低了 1.2℃ ... 小米 12 Pro 后背那颗大的惊人的，是广角主摄镜头，首发索尼 IMX707 传感器 ... 继 S1、C1 之后，小米第三款澎湃芯片 P1 也来了，由小米 12 系列首发。]]></summary>
+        <title type="html"><![CDATA[大出行时代，如何成就「智慧出行」？]]></title>
+        <id>https://www.tmtpost.com/5967676.html</id>
+        <link href="https://www.tmtpost.com/5967676.html"/>
+        <updated>2021-12-29T11:53:00.000Z</updated>
+        <summary type="html"><![CDATA[华为云中国区副总裁、中国区CMO张鹏出席并发表致辞，他表示，移动出行是个无比广阔的新舞台，需要面对新的商业模式、出行安全、产业生态重组，华为云通过“云云协同”的策略助力移动出行行业创造新价值，实现加速发展 ... 新在——华为云并非传统出行行业厂商，旧在——移动出行是华为云发展的四个战略方向之一，而且华为围绕车的地图、人车管理、支付、数据运营和用户触达，全面打造了移动出行解决方案 ... 哈啰出行]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从跨境电商到出海游戏与应用，「Dorian Ads」打造定制化出海广告投放方案]]></title>
-        <id>https://36kr.com/p/1547054661544195</id>
-        <link href="https://36kr.com/p/1547054661544195"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[随着监管日渐严格，海外投放过审率也限制了出海品牌的投放效率，经常出现投放失效问题，致使ROI严重下降，从而成为了中国品牌出海在海外营销端的一大痛点 ... 目前Dorian Ads已将业务重心转移到游戏与应用出海方面 ... 在游戏与应用的投放方面，Dorian Ads依托于海外母公司积累多年的数据库，可以为用户在不同投放区域匹配相应素材。]]></summary>
+        <title type="html"><![CDATA[大出行时代，如何成就「智慧出行」？]]></title>
+        <id>https://www.tmtpost.com/5967676.html</id>
+        <link href="https://www.tmtpost.com/5967676.html"/>
+        <updated>2021-12-29T11:53:00.000Z</updated>
+        <summary type="html"><![CDATA[在华为看来，出行行业已经不再是网约车或者是共享单车等，而是成为一个大出行行业，挑战和机会并存。]]></summary>
+        <author>
+            <name>张帅_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五连板永安期货：业务经营与宏观经济环境、资本市场走势高度相关]]></title>
+        <id>https://36kr.com/newsflashes/1548394057099529</id>
+        <link href="https://36kr.com/newsflashes/1548394057099529"/>
+        <updated>2021-12-29T11:47:53.000Z</updated>
+        <summary type="html"><![CDATA[宏观经济政策变化、宏观经济表现、期货行业监管政策调整以及资本市场波动等因素都将对公司经营业绩产生影响。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36氪首发 | 继1亿美元D轮融资后，消费医疗SaaS+交易平台「领健」再获D+轮融资]]></title>
-        <id>https://36kr.com/p/1546709998921729</id>
-        <link href="https://36kr.com/p/1546709998921729"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，消费医疗「SaaS+交易」平台领健已完成D+轮融资，投资方为同创伟业、干嘉伟，本轮融资是领健今年获得的第二笔融资。今年6月，领健已宣布完成1亿美元D轮融资，由Investcorp领投，老股东经纬创投等投资机构加码。
- 
-本轮融资后，领健将加强下沉市场覆盖和服务能力，2022年将在更多三、四线城市建立地区服务团队，大幅度扩大覆盖区域和规模。
- 
-具体来说，接下来公司将持续加强供应链能力，规模化增加SKU到30000+，除了上海仓，2022年预计将在北京、广州、武汉和成都等城市增设仓库，辐射更多口腔机构；其次，将进一步加大产品研发投入，持续提升e看牙、e看牙商城和领健悦容医美SaaS软件的产品力。据悉，领健为加强平台建设及AI研发能力，已建立深度学习算法团队。
- 
-领健成立于2015年，专注在消费医疗口腔和医美行业，用数字化技术推动产业变革，并通过“SaaS+X”的模式连接产业上下游和生态合作伙伴：一方面，通过SaaS模式打通人、流程、设备、服务，为供应链提供数字化基础；另一方面，基于供应链和增值服务能力提升行业整体运营效率。
- 
-
- 
-领健业务矩阵
- 
-具体来说，在基础设施层面，领健基于“e看牙”与“e看牙商城”组成了公司在口腔领域的双轮驱动商业模式，累计服务4万多家口腔、医美客户，并由“e看牙SaaS”驱动“e看牙商城”GMV高速增长：
- 
- 
- 
-在数字化基础上，领健“e看牙”口腔管理软件支持单店和连锁集团模式，获得公安部三级等保、ISO27001国际国内双认证确保数据安全，e看牙符合口腔机构上市合规要求。据悉，该软件现已服务泰康拜博口腔、马泷齿科、欢乐口腔、劲松口腔、恒伦口腔、小白兔口腔、博凡齿科、北京瑞城口腔医院、华景齿科等80%以上中高端口腔连锁机构。；
-
- 
- 
-在供应链方面，领健“e看牙商城”，为口腔医疗机构提供基于SaaS的库房管理、一站式数字化供应链整体解决方案，涉及一键下单、一键入库、批次/效期管理、库存预警等多个环节。据悉，该业务自成立以来，每年保持100%以上的增长，至今已与上游400+ 厂商达成合作，提供15000+SKU，能满足口腔医疗机构的日常采购需求。此外“e看牙商城”还实现了符合UDI要求的高值耗材管理及溯源需求，以及线上技加工下单、追踪进展及加工单管理等，进而帮助口腔机构降低采购成本、提高采购人员工作效率、提升库存周转率和降低资金占用。 
- 
- 
-值得一提的是，领健通过开放平台已经连接了500+技加工厂，数十万台数字化设备（口扫、CBCT、全景机、牙片宝等），数十家流量平台。
- 
-在医美行业，2021年，领健悦容医美SaaS加大了产品研发投入，带来了同比2020年150%的业绩增长，领健悦容医美SaaS已成为医美行业SaaS领先者。为响应相关政策，领健悦容加大了临床和质控方面的功能研发，支持四级电子病历评审、电子签名等一系列智慧临床系统功能。 
- 
-纵观整个行业，SaaS是为行业解决经营管理难的关键工具，随着消费医疗市场的高速增长——现有规模已经超过6000亿元，并以超30%的速度增长，不少玩家也看到了这一细分领域的机会。
- 
-36氪了解到，目前为消费医疗行业提供SaaS服务的公司还有一些，但主要都是通用型SaaS，譬如智齿科技、尘峰、微盛等，只有领健、云晰科技等少数厂家提供垂直SaaS，难以满足行业过多的个性化需求，行业机会还很宽广。]]></summary>
+        <title type="html"><![CDATA[五连板永安期货：业务经营与宏观经济环境、资本市场走势高度相关]]></title>
+        <id>https://36kr.com/newsflashes/1548394057099529</id>
+        <link href="https://36kr.com/newsflashes/1548394057099529"/>
+        <updated>2021-12-29T11:47:53.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，永安期货发布股价异动公告，公司所属行业为资本市场服务业，业务经营与宏观经济环境、资本市场走势高度相关。宏观经济政策变化、宏观经济表现、期货行业监管政策调整以及资本市场波动等因素都将对公司经营业绩产生影响。]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36氪首发 | 自主研发国产磁电三维PFA，「锦江电子」获数亿元A轮融资]]></title>
-        <id>https://36kr.com/p/1546748549425155</id>
-        <link href="https://36kr.com/p/1546748549425155"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，中国电生理行业的老牌企业——四川锦江电子科技有限公司（以下简称“锦江电子”）已完成数亿元人民币A轮融资，本轮融资由高瓴创投投资，浩悦资本担任独家财务顾问。
- 
-本轮融资将用于推进锦江电子多个重磅电生理产品的注册临床试验和后续一系列创新产品的研发，以及完善公司的组织架构与商业化体系。
- 
-锦江电子1991年成立于四川成都，三十年来专注于心脏电生理产业，始终坚持自主研发，目前已经建立起完整的电生理产品整体解决方案，拥有电生理手术相关的全部设备与耗材的相关技术，覆盖了从磁电三维系统、电生理多道记录仪、射频消融仪、PFA消融系统、射频消融导管、电生理标测导管、针鞘类等全部电生理手术相关产品。
- 
-
- 
-
- 
-锦江电子电生理产品整体解决方案
- 
-回顾发展历史，公司有2个关键节点： 1）2004年，给彼时排名全球电生理前三的公司Bard研发并生产多极放电射频消融仪，突破了多极放电的核心技术（PFA底层技术之一），并按照FDA标准进行了全面的研发、生产、质量管理框架体系建设； 2）2011年，收购了美国纳斯达克上市公司CARDIMA，完整获得了全套耗材产品研发和生产能力。
- 
-以此为基础，锦江电子实现了设备和耗材的完整电生理技术平台搭建，以及复杂心律失常解决方案产品上的突破：包括2017年研发出第二代磁电定位三维系统，2020年研发压力感知消融导管，2020年底研发基于磁电定位三维的PFA消融系统。
- 
-其中值得关注的是，它是国内率先推出磁电定位三维PFA解决方案（即旗下的LEAD-PFA脉冲电场消融系统）的企业。据了解，三维PFA除了具有PFA的全部优点之外，与二维PFA技术相比，具有手术适应症广（能适应于所有心律失常手术）、绿色电生理手术（可实现无X射线手术，显著延长手术��生职业生命）、学习曲线短、手术操作流畅等显著优势。
- 
-据悉，“LEAD-PFA脉冲电场消融系统”…]]></summary>
+        <title type="html"><![CDATA[Grab Hold of Meta With Tech]]></title>
+        <id>https://dzone.com/articles/grab-hold-of-meta-w-tech</id>
+        <link href="https://dzone.com/articles/grab-hold-of-meta-w-tech"/>
+        <updated>2021-12-29T11:47:52.000Z</updated>
+        <summary type="html"><![CDATA[How Different Tech Stacks Compare
+After deploying countless websites, you will see the narrow difference between Tech stacks. Python, PHP, JavaScript, Elixir, Ruby, and others all write HTTP responses]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内娱反卷先锋，他越佛系越爆火]]></title>
+        <id>https://www.bohaishibei.com/?p=70735</id>
+        <link href="https://www.bohaishibei.com/post/70735/"/>
+        <updated>2021-12-29T11:37:10.000Z</updated>
+        <summary type="html"><![CDATA[内娱佛系打工人胡歌，终于有作品“上新”，不过这次不刷脸，而是“声音演出”。 最近上映的纪录电影《无尽攀登》，讲述了截肢老人夏伯渝69岁登顶珠峰的故事，当中的旁白配音正是由胡歌完成。 早在两年前的电影《…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易有道获批设立博士后科研工作站]]></title>
+        <id>https://www.tmtpost.com/nictation/5967677.html</id>
+        <link href="https://www.tmtpost.com/nictation/5967677.html"/>
+        <updated>2021-12-29T11:36:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>网易有道表示，博士后科研工作站挂牌后，将逐步完善校企联合的高层次人才培养体系，共同探索智能学习的前沿科技的边界 ... 网易有道将持续聚焦AI、智能学习产品研发等方向，以海量用户带来的学习场景和大数据，结合科学研究与产业需求，支持科研工作者进行广泛的学术研究。</p><p><a href='https://www.tmtpost.com/nictation/5967677.html'>钛媒体 : 网易有道获批设立博士后科研工作站</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multimodal Design With Google Actions: Rich Responses Using Cards]]></title>
+        <id>https://dzone.com/articles/multimodal-design-with-google-actions-rich-respons</id>
+        <link href="https://dzone.com/articles/multimodal-design-with-google-actions-rich-respons"/>
+        <updated>2021-12-29T11:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Creating conversations is a really hard t ask. This is an entire design process that can take a lot of time. In terms of Voice assistants, this process is even more complex due to the ability to inter]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我国成功发射天绘-4卫星]]></title>
+        <id>https://36kr.com/newsflashes/1548381525616903</id>
+        <link href="https://36kr.com/newsflashes/1548381525616903"/>
+        <updated>2021-12-29T11:35:08.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我国成功发射天绘-4卫星]]></title>
+        <id>https://36kr.com/newsflashes/1548381525616903</id>
+        <link href="https://36kr.com/newsflashes/1548381525616903"/>
+        <updated>2021-12-29T11:35:08.000Z</updated>
+        <summary type="html"><![CDATA[19时13分，我国在酒泉卫星发射中心用长征二号丁运载火箭，成功将天绘-4卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。此次任务是长征系列运载火箭的第404次飞行。（央视新闻）]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从跨境电商到出海游戏与应用，「Dorian Ads」打造定制化出海广告投放方案]]></title>
-        <id>https://36kr.com/p/1547054661544195</id>
-        <link href="https://36kr.com/p/1547054661544195"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文｜吴诗迪
- 
-编辑｜潘潇雨
- 
-近年来，随着海外流量平台政策收紧、监管变严，投放成本攀升，海外投放成为了出海品牌的一大支出成本；另一方面，随着监管日渐严格，海外投放过审率也限制了出海品牌的投放效率，经常出现投放失效问题，致使ROI严重下降，从而成为了中国品牌出海在海外营销端的一大痛点。
- 
-「Dorian Ads」成立于2018年，此前主要为独立站卖家提供广告投放、监测等营销服务。据创始人兼CEO 况剑飞介绍，公司成立至今，已服务独立站腰部、头部市场近60%的卖家。不过，目前Dorian Ads已将业务重心转移到游戏与应用出海方面。
- 
-况剑飞告诉36氪，随着国内卖家独立站不合规状况频发，且商家倾向于组建自家投放团队，所需要的外部支持更偏向在账号、政策、售后申诉等方面的代理业务。与此同时，国内游戏与应用出海企业越来越多，在海外广告投放方面市场需求广阔。
- 
-况剑飞认为，在游戏出海方面，国内中小型游戏发行商、研发团队更需要专业投放团队介入。“尝试三个月后，我认为在游戏和应用领域，有更庞大的市场，并且投放效果相对稳定。“目前，Dorian Ads在游戏与应用方面的投放利润已经超过了既定目标。
- 
-
- 
-Facebook 合作伙伴中心
- 
-据况剑飞介绍，不同于电商投放，游戏与应用投放更偏重投向谷歌等搜索引擎。“像Facebook做的是激发用户兴趣、吸引购买，所以它衍生出的退货率就会相对较高。而谷歌更多是因为用户自身需求去匹配信息，所以转化效果较高。”
- 
-在游戏与应用的投放方面，Dorian Ads依托于海外母公司积累多年的数据库，可以为用户在不同投放区域匹配相应素材。“比如投放在印度市场，它的市场表现需要匹配哪些素材，我们会有一个大的样本数据来参考。”况剑飞认为。
- 
-同时，Dorian Ads也会对用户的流量数据进行监测，并制定一份流量投放报告。包括针对不同市场的产品定位投放打法，“针对哪些人群、用哪些素材、哪些广告投放的方式，会形成更好的转化率和效果。”
- 
-在业务方面，除了广告投放外，Dorian Ads还可以提供整套出海的代运营服务。目前，在游戏与应用领域已拥有60位客户，其中涵盖了安卓模拟器等工具类、休闲游戏类的头部用户。
- 
-
- 
-谷歌部分账号投放走线数据
- 
-值得一提的是，不同于国内的代运营企业，Dorian Ads依托于海外母公司渠道，可以为用户继续保留谷歌的让利政策。此外，在广告结算货币方面，Dorian Ads采用比索等不同货币，这一好处就在于原本从1~2美金的广告预算变成了100~200阿币的预算，能够为用户更细致地拆分广告设置与预算。
- 
-除此，在违规把控方面，Dorian Ads可以帮助用户分析具体的违规原因。“一般谷歌违规，只会给一个笼统的原因，很多时候没办法判断具体违规在哪。”据况剑飞介绍，经过他们申诉的账号，���回的成功率达到90%左右。
- 
-在况剑飞看来，Dorian Ads的核心优势体现在：
- 
-其一是基于大量海外投放经验，可以针对不同产品配置不同的投放素材。“现在市场上，大多的投放是套一个素材模板，把内容换一个logo、产品图等。”况剑飞说；
- 
-其二是可以根据用户的产品类型。通过设置打点追踪，数据抓取，根据数据监测情况优化用户的广告方案；
- 
-其三，Dorian Ads母公司作为一家全球性的数字营销机构，已获得Google partner认证、Facebook partner认证等多数媒体授权。
- 
-在团队方面，创始人况剑飞是连续创业者，在市场拓展方面和跨境电商广告方面，拥有多年经验。联合创始人刘秋麟在海外投放、数字营销方面富有经验，并拥有丰富的跨境电商客户资源。
- 
-未来，「Dorian Ads」将筹建本土化运营投放团队，开发智能预审与智能投放系统，进一步控制海外投放的过审率及转化效果。]]></summary>
+        <title type="html"><![CDATA[奥园美谷：公司董事、独董、总裁等多名高管辞职]]></title>
+        <id>https://36kr.com/newsflashes/1548378581035269</id>
+        <link href="https://36kr.com/newsflashes/1548378581035269"/>
+        <updated>2021-12-29T11:32:08.000Z</updated>
+        <summary type="html"><![CDATA[奥园美谷发布公告称，董事会收到董事马军、董事陈勇、独立董事张树军、总裁胡冉、执行总裁范时杰的辞职报告 ... 因工作调整原因，马军申请辞去公司董事、董事长及董事会各专门委员会职务，陈勇申请辞去公司董事及董事会各专门委员会职务，胡冉申请辞去公司总裁职务，范时杰申请辞去公司执行总裁职务 ... 因个人原因，张树军申请辞去公司独立董事及董事会各专门委员会职务。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥园美谷：公司董事、独董、总裁等多名高管辞职]]></title>
+        <id>https://36kr.com/newsflashes/1548378581035269</id>
+        <link href="https://36kr.com/newsflashes/1548378581035269"/>
+        <updated>2021-12-29T11:32:08.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，奥园美谷发布公告称，董事会收到董事马军、董事陈勇、独立董事张树军、总裁胡冉、执行总裁范时杰的辞职报告。因工作调整原因，马军申请辞去公司董事、董事长及董事会各专门委员会职务，陈勇申请辞去公司董事及董事会各专门委员会职务，胡冉申请辞去公司总裁职务，范时杰申请辞去公司执行总裁职务；因个人原因，张树军申请辞去公司独立董事及董事会各专门委员会职务。]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[十年，互联网“干掉”免费]]></title>
-        <id>https://www.tmtpost.com/5966541.html</id>
-        <link href="https://www.tmtpost.com/5966541.html"/>
-        <updated>2021-12-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[免费的东西是要收智商税的。]]></summary>
+        <title type="html"><![CDATA[无人驾驶出租车，你敢坐吗？]]></title>
+        <id>https://www.huxiu.com/article/486045.html?f=rss</id>
+        <link href="https://www.huxiu.com/article/486045.html?f=rss"/>
+        <updated>2021-12-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Waymo已在美国部分区域范围内为用户提供无人驾驶的出租车服务 ... 吉利旗下高端智能电动品牌极氪宣布将为Waymo One无人驾驶车队提供专属车辆，并在美国投入商业化运营。]]></summary>
         <author>
-            <name>略大参考</name>
+            <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36氪首发丨「碳能科技」完成数千万元A轮融资，想打造电化学负碳技术平台]]></title>
-        <id>https://36kr.com/p/1546696797464837</id>
-        <link href="https://36kr.com/p/1546696797464837"/>
-        <updated>2021-12-28T23:59:30.000Z</updated>
+        <title type="html"><![CDATA[废弃消防车，摇身一变成派对巴士]]></title>
+        <id>https://www.huxiu.com/article/486100.html?f=rss</id>
+        <link href="https://www.huxiu.com/article/486100.html?f=rss"/>
+        <updated>2021-12-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[改装车发烧友在沃尔特消防车的框架基础上，将趟过火海的沃尔特改装成了一辆派对巴士。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1080P 屏幕的手机看 4K 视频也会更清晰，是真的咩？]]></title>
+        <id>https://www.36kr.com/p/1548295509747972</id>
+        <link href="https://www.36kr.com/p/1548295509747972"/>
+        <updated>2021-12-29T11:28:49.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，B站宣布迈入 8K 高清时代，而我在 1080P 的屏幕上，看到了一条喜闻乐见的评论：「我用着 1080P 屏幕的手机，开着 4K，看 8K 视频」 ... 1080P、2160P、4K 这些数字，说的都是显示内容横向的像素数，一般来说，1080P 指的是分辨率为 1920*1080 的画面（Full HD），而 4K 指的是分辨率为 2840*2160 的画面（4K UHD，也称 21]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九安医疗：公司未接到来自某单一客户总额为2.4亿美元的订单]]></title>
+        <id>https://36kr.com/newsflashes/1548375211698181</id>
+        <link href="https://36kr.com/newsflashes/1548375211698181"/>
+        <updated>2021-12-29T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[九安医疗发布股价异动公告，公司关注到近期在公司股吧等互联网平台流传的消息，以及在互动易中提出的问题，公司就以下几点内容再次重申和提醒：公司及公司子公司未研发制造针对宠物的新冠检测产品。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九安医疗：公司未接到来自某单一客户总额为2.4亿美元的订单]]></title>
+        <id>https://36kr.com/newsflashes/1548375211698181</id>
+        <link href="https://36kr.com/newsflashes/1548375211698181"/>
+        <updated>2021-12-29T11:28:42.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，九安医疗发布股价异动公告，公司关注到近期在公司股吧等互联网平台流传的消息，以及在互动易中提出的问题，公司就以下几点内容再次重申和提醒：公司及公司子公司未研发制造针对宠物的新冠检测产品；公司未接到来自某单一客户总额为2.4亿美元的订单。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Code security Scanning Is Not Enough]]></title>
+        <id>https://dzone.com/articles/your-code-security-scanning-is-not-enough</id>
+        <link href="https://dzone.com/articles/your-code-security-scanning-is-not-enough"/>
+        <updated>2021-12-29T11:26:13.000Z</updated>
+        <summary type="html"><![CDATA[In March 2017, over 140 million people's sensitive information was stolen from Equifax Company servers. How did it happen? 
+Equifax was using the Apache Struts framework to run a number of its website]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部：明年要提升传统消费能级，加快新型消费发展]]></title>
+        <id>https://36kr.com/newsflashes/1548369261766916</id>
+        <link href="https://36kr.com/newsflashes/1548369261766916"/>
+        <updated>2021-12-29T11:22:39.000Z</updated>
+        <summary type="html"><![CDATA[多措并举稳定外贸，按照党中央、国务院统一部署，加强跨周期调节，落实好稳外贸政策，推进外贸创新发展。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部：明年要提升传统消费能级，加快新型消费发展]]></title>
+        <id>https://36kr.com/newsflashes/1548369261766916</id>
+        <link href="https://36kr.com/newsflashes/1548369261766916"/>
+        <updated>2021-12-29T11:22:39.000Z</updated>
+        <summary type="html"><![CDATA[近日，全国商务工作电视电话会议在京召开。会议明确，明年要重点做好以下工作。聚焦促进消费持续恢复，推动畅通国内大循环。提升传统消费能级，加快新型消费发展，办好消费促进活动，补齐城乡流通短板，加快建设现代流通体系，促进消费升级，增强消费对经济发展的基础性作用。聚焦稳住外贸外资基本盘，促进国内国际双循环。多措并举稳定外贸，按照党中央、国务院统一部署，加强跨周期调节，落实好稳外贸政策，推进外贸创新发展。（央视网）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[张艺谋父女齐上阵，抗美援朝电影《狙击手》贺岁档上映]]></title>
+        <id>https://www.huxiu.com/article/486142.html?f=rss</id>
+        <link href="https://www.huxiu.com/article/486142.html?f=rss"/>
+        <updated>2021-12-29T11:17:54.000Z</updated>
+        <summary type="html"><![CDATA[《狙击手》是由张艺谋、张末执导，陈永胜、章宇、刘奕铁、王梓屹、陈铭杨、王乃训、程泓鑫出演，张译、林博洋特别演出的抗美援朝影片，于2022年2月1日在中国大陆上映 ... 该片以抗美援朝战争中的“冷枪冷炮运动”为背景，讲述了中国志愿军在敌我军备力量悬殊的境地下，与美军精英狙击小队展开殊死较量的故事。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90 后们把草「种」眼睛里，捧出了一个百亿新赛道]]></title>
+        <id>http://www.geekpark.net/news/295644</id>
+        <link href="http://www.geekpark.net/news/295644"/>
+        <updated>2021-12-29T11:17:30.000Z</updated>
+        <summary type="html"><![CDATA[作者 | 鱼三隹
+
+编辑 | 郑玄
+
+美瞳这个小众的细分品类，正在被爱美的年轻人和爱「年轻人」的投资机构极力追捧。
+今年双 11，仅仅 17 分钟，彩瞳品牌 moody 的销售额突破 1000 万元，20 分钟销售额已经超过去年双 11 成交总额。此外，可糖、可啦啦等成立不到 2、3 年的新锐美瞳品牌表现同样亮眼，纷纷杀入隐形眼镜双 11 销售榜单的 TOP 10。
+2020 年国内美瞳市场的销售额不过百亿元，但在过去一年里，大量资本和新玩家涌入这条赛道。根据天眼查，国内美瞳相关企业的总数已经超过 1800 家，仅过去一年就有 17 个美瞳项目完成融资，融资总额超过 20 亿元。
+为何看似狭小的赛道会引来众多玩家？为什么国产美瞳品牌能在短短的两年里飞速扩张？在引起投资机构和互联网大厂的关注之后，美瞳行业未来又将如何发展？
+
+
+
+
+
+
+
+
+
+01「乱花」渐欲迷人眼
+
+
+
+
+
+
+「上大学之前我戴的一直是框架眼镜。」张张今年大四，大一时她在室友的安利下尝试佩戴隐形眼镜，「没敢选那种花里胡哨的美瞳，当时买的是博士伦的透明隐形眼镜，觉得透明的更安全一些。」
+
+能够摆脱沉重的框架眼镜，刚踏入大学校门的张张已很满足，「直到我在淘宝的推荐里看到了美瞳产品的链接，点进去发现其实评价也都还不错，我才敢尝试带有花纹的美瞳产品。」从大二开始，张张彻底「入坑」，通过淘宝和微商囤积了大量花色各异的日抛美瞳。
+「每换一种花色的美瞳就像换了一双眼睛一样。」像张张这样的年轻人不在少数。原本用于矫正视力的隐形眼镜开始增添各种花色，成为一种新型的「颜值消费」，大批年轻人正逐渐将美瞳视为眼睛里的「时尚单品」。
+
+
+
+
+      
+
+
+打开小红书搜索关键词「美瞳」，有超过 83 万篇笔记在向年轻人安利各式各样的美瞳产品、介绍选择美瞳的小技巧以及分享美瞳的佩戴体验——五颜六色的封面、加粗加重的标题，目标是让人心动。…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿海正式就印度清奈厂员工食物中毒事件致歉]]></title>
+        <id>https://tech.ifeng.com/c/8CMblsP4si6</id>
+        <link href="https://tech.ifeng.com/c/8CMblsP4si6"/>
+        <updated>2021-12-29T11:15:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>鸿海印度清奈厂月中发生食物中毒事件，导致150名员工入院，鸿海今（29）日对此事发表了声明 ... 鸿海指出，员工的安全和福祉一直是集团运营的最高原则，公司已针对印度泰米尔纳德邦（Tamil Nadu）Sriperumbudur地区的员工设施，在近期启动专案调查小组，发现部分厂区外的宿舍不符合集团要求的标准 ... 鸿海强调此事件对本公司财务及业务无重大影响，在运营重新启动前，宿舍环境改善期间，员工薪资将持续发放，公司也会为员工后续重返工作岗位继续努力。</p><p><a href='https://tech.ifeng.com/c/8CMblsP4si6'>凤凰科技 : 鸿海正式就印度清奈厂员工食物中毒事件致歉</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220151.htm'>CNBeta : 鸿海正式就印度清奈厂员工食物中毒事件致歉</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[进化科学：生命到底在于运动，还是在于静止？]]></title>
+        <id>https://www.36kr.com/p/1541302610569219</id>
+        <link href="https://www.36kr.com/p/1541302610569219"/>
+        <updated>2021-12-29T11:14:40.000Z</updated>
+        <summary type="html"><![CDATA[人类在进化的过程中一直是“运动型选手”，也可以说是因为爱运动，人类的寿命才得以超过类人猿 ... 该说法旨在解释人类如何以及为什么进化得如此长寿，以及为了保持健康，进化期望我们对此做些什么 ... 这个由进化生物学家和生物医学研究人员组成的团队认为，在一生中，特别是在生命后期，适度的体育活动是相对较长的人类寿命和所谓的健康寿命的关键，健康寿命指的是我们健康生活的年限。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福瑞泰克与中智行达成战略合作]]></title>
+        <id>https://36kr.com/newsflashes/1548360881727490</id>
+        <link href="https://36kr.com/newsflashes/1548360881727490"/>
+        <updated>2021-12-29T11:14:08.000Z</updated>
+        <summary type="html"><![CDATA[据介绍，双方将共同探索单车智能驾驶、智能车路协同、智慧交通等领域的本土自动驾驶行业发展，合作开发打造基于车路协同的高度自动驾驶重卡。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福瑞泰克与中智行达成战略合作]]></title>
+        <id>https://36kr.com/newsflashes/1548360881727490</id>
+        <link href="https://36kr.com/newsflashes/1548360881727490"/>
+        <updated>2021-12-29T11:14:08.000Z</updated>
+        <summary type="html"><![CDATA[12月28日，福瑞泰克宣布与中智行达成战略合作。双方表示，将基于车路协同，引领高阶自动驾驶新赛点。据介绍，双方将共同探索单车智能驾驶、智能车路协同、智慧交通等领域的本土自动驾驶行业发展，合作开发打造基于车路协同的高度自动驾驶重卡。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三连板国机通用：公司仅有离心萃取机产品可以在盐湖提锂领域应用]]></title>
+        <id>https://36kr.com/newsflashes/1548360723278081</id>
+        <link href="https://36kr.com/newsflashes/1548360723278081"/>
+        <updated>2021-12-29T11:13:58.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三连板国机通用：公司仅有离心萃取机产品可以在盐湖提锂领域应用]]></title>
+        <id>https://36kr.com/newsflashes/1548360723278081</id>
+        <link href="https://36kr.com/newsflashes/1548360723278081"/>
+        <updated>2021-12-29T11:13:58.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，国机通用发布异动公告，公司仅有离心萃取机产品可以在盐湖提锂领域应用，近三年离心萃取机业务占公司营业收入5%左右，在盐湖提锂领域应用较少，除此之外公司在盐湖提锂领域无其他任何产品及技术储备。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20万预算应该买油车还是电车？]]></title>
+        <id>https://www.huxiu.com/article/486141.html?f=rss</id>
+        <link href="https://www.huxiu.com/article/486141.html?f=rss"/>
+        <updated>2021-12-29T11:12:52.000Z</updated>
+        <summary type="html"><![CDATA[随着政策变化以及新能源汽车产业的蓬勃发展，许多购车消费者在传统油车和新能源汽车之间难做选择。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农业创业真相：和年入百万的老农学算法]]></title>
+        <id>http://www.geekpark.net/news/295356</id>
+        <link href="http://www.geekpark.net/news/295356"/>
+        <updated>2021-12-29T11:10:41.000Z</updated>
+        <summary type="html"><![CDATA[佟帅告诉极客公园，「做智慧农业，最要命的是大家把关注点放在农业上」 ... 在由 OPPO 独家冠名赞助的极客公园创新大会 2022 上，佟帅分享了他看到的中国农村的变化与真相，以及前沿科技如何在传统产业（农业）发挥作用的关键 ... 提到农业，大家脑海中浮现的往往是落后、贫穷、面朝黄土背朝天等关键词，但随着种植结构的调整，现在农民尤其是温室大棚的种植人群，不少人收入水平超过了大部分城市白领。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农业创业真相：和年入百万的老农学算法]]></title>
+        <id>http://www.geekpark.net/news/295356</id>
+        <link href="http://www.geekpark.net/news/295356"/>
+        <updated>2021-12-29T11:10:41.000Z</updated>
+        <summary type="html"><![CDATA[整理|维鹏
+编辑|靖宇
+一次，小雨农智创始人佟帅在温室大棚里和农民聊买房，感慨贷款越来越难了，农民回应，我们从来不需要贷款，都是全款买房。
+
+过去，农民往往和贫穷、落后划等号，「这是刻板印象。现在很多种植温室大棚的收入比白领阶层还高，高很多。」他说。
+从小在温室大棚里长大的工程师佟帅，在 2019 年创建了这家温室大棚智能化服务商。早期，团队做了 100 台原型机，结果不到半个月就被抢购光了。
+有一次拜访让他印象深刻，那是一位种植葡萄的农场主，「兜里揣了一堆对讲机，噼里啪啦响，嘴里着急的都长了水泡。」原因是工人管理不及时导致棚土壤内水分不足，在发芽最关键的时候，水分不足很容易烧芽，年末可能要损失几百万。之前就出现过因为棚内温度调整不及时，导致有几十亩地没有产量，损失极大。于是，农场主不得不亲自监工，每天从早到晚穿梭于各个温室之间，「完全想象不到这是一个资产过亿的老板。」佟帅的产品立刻打动了他，帮其解决了很多管理问题。两人也成了好朋友。
+佟帅比喻小雨农智像农业领域的小米公司：从最高频的硬件切入，然后带动其他硬件和软件服务的销售。
+不是所有人都这么幸运。近来年，不少科技公司、互联网巨头纷纷布局智慧农业，但鲜有成功案例。佟帅告诉极客公园，「做智慧农业，最要命的是大家把关注点放在农业上。我们不是，我们放在农民身上。」
+在由 OPPO 独家冠名赞助的极客公园创新大会 2022 上，佟帅分享了他看到的中国农村的变化与真相，以及前沿科技如何在传统产业（农业）发挥作用的关键。
+
+          
+        
+以下为演讲实录，经极客公园编辑整理：
+我们是一家温室大棚智能化服务商，我是一个标准的理科男，一个硬件工程师，毕业之后一直在做物联网相关的工作，之前也创业做过共享汽车、分时租赁。
+我是一个土生土长的农村娃，从小和温室大棚打交道，这也是我为什么会做这件事情。温室大棚种植有大量的痛…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从三个关键词看2021年游戏板块：元宇宙、出海与分化]]></title>
+        <id>https://www.tmtpost.com/5967619.html</id>
+        <link href="https://www.tmtpost.com/5967619.html"/>
+        <updated>2021-12-29T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[当前游戏市场已经从增量进入存量时代，流量增长的核心也逐渐趋向于“内容产品精品化+品牌虹吸效应”。]]></summary>
+        <author>
+            <name>智通财经</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国又一个州未能顺利替代微软视频会议软件]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1220153.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1220153.htm"/>
+        <updated>2021-12-29T11:09:40.000Z</updated>
+        <summary type="html"><![CDATA[这个国家现在因试图用拼凑起来的软件方案取代微软的解决方案而在软件行业出名，这往往导致功能差、支持和培训成本高，并最终再选择花钱回到微软的Office ... 今天我们有了另一个熟悉的案例，这次是关于德国黑森林州，他们在2021年4月宣布，将在学校用一个欧洲的解决方案取代微软团队，该解决方案将更好地遵守欧洲的隐私标准，设定的最后转换期限是2021年7月31日 ... 这样做的结果是，整个计划全面被推]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“车顶维权”案庭审爆料：车主称特斯拉希望撤诉被其拒绝]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1220035.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1220035.htm"/>
+        <updated>2021-12-29T11:06:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>特斯拉女车主“车顶维权”一案自本月24日开庭后，再一次引发了人们的广泛关注，12月29日，维权事件当事人张女士在微博放出了一段视频，透露了一些庭审时外人不知道的案件细节 ... 根据张女士的说法，在开庭之前，法官转达了特斯拉的诉求，如果本次张女士起诉特斯拉名誉侵权的案子撤诉，则特斯拉起诉张女士赔偿500万的案子也可以撤诉，不过这一诉求立刻遭到了张女士本人的拒绝 ... 张女士还对特斯拉宣称的“索要高额赔偿”一事进行了说明，称自己在诉求书中并未提及高额赔偿，只是说希望得到合理的赔偿。</p><p><a href='https://www.cnbeta.com/articles/tech/1220035.htm'>CNBeta : 车顶维权女车主曝光庭审内容：特斯拉拿不出任何实锤证据</a></p><p><a href='https://tech.ifeng.com/c/8CMrW5n5e1B'>凤凰科技 : 车顶维权女车主曝光庭审内容：特斯拉拿不出任何实锤证据</a></p><p><a href='https://tech.ifeng.com/c/8CMwVuO5Cf8'>凤凰科技 : “车顶维权”女车主透露最新庭审细节：特斯拉想证明我背后有人</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220147.htm'>CNBeta : “车顶维权”案庭审爆料：车主称特斯拉希望撤诉被其拒绝</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农业农村部：到2025年生物育种、农业5G应用、动物疫苗等领域居世界领先水平]]></title>
+        <id>https://36kr.com/newsflashes/1548352192161798</id>
+        <link href="https://36kr.com/newsflashes/1548352192161798"/>
+        <updated>2021-12-29T11:05:17.000Z</updated>
+        <summary type="html"><![CDATA[农业农村部印发《“十四五”全国农业农村科技发展规划》 ，目标到2025年，力争突破一批受制于人的“卡脖子”技术和短板技术，农业领域原始创新能力��幅提升，农业科技整体实力稳居世界第一方阵，生物育种、农业5G应用、动物疫苗等领域居世界领先水平。农业土地产出率、劳动生产率、资源利用率等进一步提高，生物种业、耕地保育、智慧农业、农机装备、绿色投入品等领域产业竞争力显著提升，农业科技进步贡献率达到64%。（第一财经）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年新经济哀鸿遍野，2022年哪些赛道能立“新王”？]]></title>
+        <id>https://www.tmtpost.com/5967500.html</id>
+        <link href="https://www.tmtpost.com/5967500.html"/>
+        <updated>2021-12-29T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[当流量模式失灵，硬科技将成为第一生产力。]]></summary>
+        <author>
+            <name>价值研究所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青青稞酒：证券简称拟变更为天佑德酒]]></title>
+        <id>https://36kr.com/newsflashes/1548348177230089</id>
+        <link href="https://36kr.com/newsflashes/1548348177230089"/>
+        <updated>2021-12-29T11:01:12.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青青稞酒：证券简称拟变更为天佑德酒]]></title>
+        <id>https://36kr.com/newsflashes/1548348177230089</id>
+        <link href="https://36kr.com/newsflashes/1548348177230089"/>
+        <updated>2021-12-29T11:01:12.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，青青稞酒发布公告称，拟将公司名称变更为“青海互助天佑德青稞酒股份有限公司”，证券简称变更为“天佑德酒”。“天佑德”为公司面向全国的战略品牌，定位为中高端产品。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九安医疗等12股股价创历史新高]]></title>
+        <id>https://36kr.com/newsflashes/1548343801620481</id>
+        <link href="https://36kr.com/newsflashes/1548343801620481"/>
+        <updated>2021-12-29T10:56:45.000Z</updated>
+        <summary type="html"><![CDATA[数据宝统计显示，不含近一年上市的次新股，今日共有九安医疗、海达股份等12只个股收盘价创历史新高。从行业属性来看，基础化工、医药生物、通信行业创新高的个股较为集中。今日收盘创历史新高个股中，有些个股股价呈不断突破新高的走势，从近一个月创新高次数看，景津环保近一个月收盘有6次创新高，昊华科技、中农立华、永新光学近一个月分别有5次、5次、4次创新高。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现金星云层可能会创造出一个宜居生存环境]]></title>
+        <id>https://www.cnbeta.com/articles/science/1220149.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1220149.htm"/>
+        <updated>2021-12-29T10:56:18.000Z</updated>
+        <summary type="html"><![CDATA[研究人员已经确定了一种化学途径，生命可以通过该途径中和金星云层的酸性，在云层中创造出一个自给自足的宜居生存环境 ... 科学家指出，金星被称作“地狱行星”，地表温度超过400摄氏度，连一些金属都可以融化，气压是地球表面大气压的40倍，所以其地表是几乎不可能存在生命的 ... 科学家强调，金星的极端环境定义是针对人类而言，其实地球生命也很多样，比如马里亚纳海沟算得上极端，但那里也有没有眼睛、无需阳光]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家电影局：元旦春节期间各级电影主管部门要确保预约限流到位、排片间隔到位]]></title>
+        <id>https://36kr.com/newsflashes/1548339406809091</id>
+        <link href="https://36kr.com/newsflashes/1548339406809091"/>
+        <updated>2021-12-29T10:52:17.000Z</updated>
+        <summary type="html"><![CDATA[国家电影局网站发布关于做好2022年元旦春节期间电影院疫情防控和安全生产等工作的通知。通知指出，各级电影主管部门要提高政治站位，落实属地责任，抓紧抓实抓细电影院疫情防控工作，杜绝出现聚集性疫情，确保常态防控到位、预约限流到位、排片间隔到位、人员排查到位、环境消杀到位、应急处置到位。（界面）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曲美家居：高瓴投资拟2亿元投资子公司]]></title>
+        <id>https://36kr.com/newsflashes/1548334334585090</id>
+        <link href="https://36kr.com/newsflashes/1548334334585090"/>
+        <updated>2021-12-29T10:47:08.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，曲美家居发布公告称，公司就全资子公司Qumei RuntoS.àr.l.股权融资事项与珠海高瓴德祐投资管理有限公司和银梯咨询顾问(北京)有限公司分别签署了《曲美家居战略合作之投资意向书》，高瓴投资和银梯咨询拟以向Qumei Runto增资或受让老股的方式分别投资2亿元人民币和2500万美元。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importance of Data Discovery in Data Mesh Architecture]]></title>
+        <id>https://dzone.com/articles/importance-of-data-discovery-in-data-mesh-architec</id>
+        <link href="https://dzone.com/articles/importance-of-data-discovery-in-data-mesh-architec"/>
+        <updated>2021-12-29T10:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Data Mesh/Discovery — Panel Recap
+Recently, I came across a great panel hosted by Data mesh learning incorporation with the open-source Data Podcast — to discuss the significance of Data Discovery in]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新能源车保费上涨，特斯拉保费四天涨80%]]></title>
+        <id>https://36kr.com/newsflashes/1548329098258697</id>
+        <link href="https://36kr.com/newsflashes/1548329098258697"/>
+        <updated>2021-12-29T10:41:48.000Z</updated>
+        <summary type="html"><![CDATA[上海保险交易所近日正式上线新能源车险交易平台，并上线首批新能源汽车专属保险产品。上线当天，一位特斯拉车主贴出了在某保险公司系统测算的报价，比四天前涨了6000多元钱，涨幅高达80%。多家保险公司的业务员表示新能源车保费确实存在一定上调。业内人士认为，新能源汽车的保单成本主要体现在两方面，一是维修偏贵，二是出险率相对高。当前新能源车险的赔付率普遍超过85%，而此次新能源汽车专属保险的保障范围扩大，可能也导致了部分车型保费的上调。 (央视财经)]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年上海科创板公司中集成电路及生物医药企业超六成]]></title>
+        <id>https://36kr.com/newsflashes/1548327814129928</id>
+        <link href="https://36kr.com/newsflashes/1548327814129928"/>
+        <updated>2021-12-29T10:40:30.000Z</updated>
+        <summary type="html"><![CDATA[据上海经信委披露，上海市59家科创板上市企业中，集成电路企业22家，生物医药企业17家，其他产业20家��集成电路及生物医药企业占上海市科创板上市企业总量的66%，行业集中度较高。此外，上海市科创板上市企业也呈现出行业分布广泛、覆盖面广的特点。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型电池开拓者「金羽新能」完成数千万元preA+轮融资]]></title>
+        <id>https://36kr.com/p/1548326572271622</id>
+        <link href="https://36kr.com/p/1548326572271622"/>
+        <updated>2021-12-29T10:40:02.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，国内新能源领域从事锂金属电池和水系锌离子电池研发生产的创新企业金羽新能完成数千万元preA+轮融资。据悉，本轮融资将用于型号产品平台验证和产品在自持产线上的试生产。
+ 
+金羽新能在新能源科技领域从事前沿技术的研发，在锂金属电池领域，在实现了能量密度、工作温度范围、安全性等核心技术突破的前提下，已经进入消费电子和无人机动力电池领域的试量产。此外，金羽新能还投入本质安全的水系锌离子电池以及配套新能源解决方案的研发，将拓展新能源储能市场。
+ 
+
+ 
+首批交付客户电池产品 310Wh/Kg，10Ah容量，7C放电
+ 
+金羽新能在浙江安吉组建产业基地，其首条柔性半自动生产线具备-70℃低露点环境，可进行锂金属电池和水系电池的型号开发和批量生产，一期设计年产能200MWh。围绕高能量密度的锂金属电池量产，金羽新能形成了低成本亲锂电解液、耐高压固态电解质膜、锂金属复合材料以及薄锂负极分切、叠片、封装、化成等关键工艺和设备。
+ 
+
+ 
+-70℃低露点干燥间的生产支持设备
+ 
+
+ 
+自主知识产权的耐高压亲锂电解液配置系统
+ 
+搭建新型电池产业合作平台
+ 
+金羽新能的核心团队来自北京大学、哥伦比亚大学、斯坦福大学、中科院等科研院校，研发能力突出。截至目前，在国内第一批次31余项专利已申请，11项已经授权；第二批次40项专利已布局。此外，已与WIPO合作，正在进行多项重要专利PCT申请。
+ 
+对于未来，金羽新能有着明确的规划，在今年“建起来”的目标已超额完成的情况下，2022年的目标是“跑起来”，凭借重点客户的订单，在多个市场上得到验证，特别是400Wh/kg以上的锂金属电池的市场应用。2023年的目标是“好起来”，进一步扩大客户及订单，开始测试锂金属电池体系在动力等更多领域的应用。
+ 
+金羽新能创始人黄杜斌博士介绍到，作为锂金属电池行业规范的起草单位和工信部锂离子电池安全标准特别工作组的成员，金羽新能与上下游重点企业达成了战略合作，协同完成推动新型电池产业化这一充满挑战的工作。依托高干燥度产线和完备的工程师团队，金羽新能还开展了高校、科研院所以及上游企业新材料、新技术在电池产品侧的验证和试产，加速新型电池推向市场应用。
+ 
+双碳是国家中长期发展的大计方针，新能源领域的产业革新是其重要的抓手，在这个时间节点，追求更高能量密度和本质安全的电池领域迎来了重大发展机遇，将为双碳的愿景提供强有力的支撑。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年终盘点：2021年，NFT年，盘点圈内十大 NFT 项目]]></title>
+        <id>https://www.tmtpost.com/5967420.html</id>
+        <link href="https://www.tmtpost.com/5967420.html"/>
+        <updated>2021-12-29T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[NFT 成为了数字资产行业的一个非常独立的领域。]]></summary>
+        <author>
+            <name>链得得</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3研究：一文读懂 Flamingo DAO]]></title>
+        <id>https://www.tmtpost.com/5967334.html</id>
+        <link href="https://www.tmtpost.com/5967334.html"/>
+        <updated>2021-12-29T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Flamingo 和其他 DAOs 可能也会在未来面临来自拥有更大、更深资本池的参与者的激烈竞争。]]></summary>
+        <author>
+            <name>链得得</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商汤港股暗盘破发，收跌1%]]></title>
+        <id>https://36kr.com/newsflashes/1548322648697091</id>
+        <link href="https://36kr.com/newsflashes/1548322648697091"/>
+        <updated>2021-12-29T10:35:14.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，商汤暗盘破发，收跌1.04%，发行价为3.85港元/股。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米申请粮厂商标被驳回，已成功注册良厂商标]]></title>
+        <id>https://www.ithome.com/0/595/554.htm</id>
+        <link href="https://www.ithome.com/0/595/554.htm"/>
+        <updated>2021-12-29T10:32:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>小米科技有限责任公司申请注册的多个粮厂商标状态发生变更，目前状态多为“驳回复审完成” ... 小米创办人，董事长兼 CEO 雷军曾表示，小米公司在成立之初曾考虑过“红星”“红辣椒”“黑米”等 ... 当有人提议把公司叫作“大米”时，投资人刘芹说：“互联网天生回避大而全，我们不取大，取小，我们就叫小米吧”。</p><p><a href='https://www.ithome.com/0/595/554.htm'>IT 之家 : 小米申请粮厂商标被驳回，已成功注册良厂商标</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中通快运完成超3亿美元B轮融资]]></title>
+        <id>https://www.cyzone.cn/article/665035.html</id>
+        <link href="https://www.cyzone.cn/article/665035.html"/>
+        <updated>2021-12-29T10:32:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>本轮融资后，将进一步加大信息系统研发、新型基础设施建设投入，加速专业人才梯队搭建 ... 此前，中通快运于2018年6月和2020年5月分别完成A轮和A+轮融资，投资总额超1亿美元 ... 中通快运成立于2016年，是中通品牌旗下快运企业，提供面向企业及个人客户的全链路一站式物流服务。</p><p><a href='https://www.cyzone.cn/article/665035.html'>创业邦 : 融资丨「中通快运」完成超3亿美元B轮融资，加速专业人才梯队搭建</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 12 系列 MiCare 服务价格公布：限时优惠 359 元起]]></title>
+        <id>https://www.ithome.com/0/595/585.htm</id>
+        <link href="https://www.ithome.com/0/595/585.htm"/>
+        <updated>2021-12-29T10:31:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>今日小米公布了小米 12 系列新机 MiCare 保障服务的价格 ... 该服务需要在购买手机时进行购买，包含一次碎屏保、官方延保一年、保值换新、电池换新四大福利 ... 购买方式：该系列在预售期间，在小米商城支付尾款时可以选择购买。</p><p><a href='https://www.ithome.com/0/595/585.htm'>IT 之家 : 小米 12 系列 MiCare 服务价格公布：限时优惠 359 元起</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文解析加密元宇宙生态格局]]></title>
+        <id>https://www.tmtpost.com/5967322.html</id>
+        <link href="https://www.tmtpost.com/5967322.html"/>
+        <updated>2021-12-29T10:29:00.000Z</updated>
+        <summary type="html"><![CDATA[当下元宇宙仍是一个超越我们认知的数字世界，也将是人们对于未来互联网一角的窥探。而在 Web3.0概念加持下，Web2.0 封闭式元宇宙注定会发展成为开放式的加密元宇宙。]]></summary>
+        <author>
+            <name>链得得</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米拍拍 4K 高清投屏器体验：「投屏」更高效的打开方式]]></title>
+        <id>http://www.geekpark.net/news/295657</id>
+        <link href="http://www.geekpark.net/news/295657"/>
+        <updated>2021-12-29T10:27:08.000Z</updated>
+        <summary type="html"><![CDATA[12 月 28 日，在发布小米 12 系列的同时，小米还一并更新了投屏器产品线，发布了升级款 —— 小米拍拍 4K 高清投屏器。
+
+
+
+在这一套设备中，这个外观采用了酷似《星球大战》中宇宙飞船流线型设计的部分，就是投屏器中的发送端。除了造型之外最显著的设计就是两面都有的指示按钮，当机身上的指示灯从闪烁变为稳定常亮显示状态之后，只需按下其中任意一个按钮就可以投射画面至接收端。
+
+
+虽然发射端无需外置供电，但小米仍在其侧边为其设计了一个可用于给设备本身供电的 USB-C 输入接口，这个设计对于类似 iPad Pro 等只有一个 USB-C 接口的设备来讲相当实用：至少让这些原本接口就相当紧张的设备，能在投屏的同时不用再担心设备本身的续航问题了。
+
+
+接收端的外观相当简洁，很像是一个集成了独立系统的电视盒子：实际上，这款接收端所使用的模具正是小米不久前面向国际市场推出的 Mi TV Stick 4K 电视盒子的同款。但后者是集成完整 Android TV 操作系统的独立电视盒子，小米拍拍 4K 高清投屏器则是专注于投屏使用场景的独立硬件设备。
+
+
+或许也正是因为这种原因，小米拍拍 4K 高清投屏器接收端采用的也是与 Mi TV Stick 4K 相同的 Micro USB 接口来满足供电需求，在如今 USB-C 大行其道的当下多少有点不便：在笔者实际体验中，就遇到了自带线材失踪、找了一圈没有找到其他可以替换的 Micro USB 数据线的乌龙事件。
+
+
+不过，接收端只需要 5V1A 的基本供电，大部分 4K 显示器/智能电视自带的 USB-A 接口都能输出这一功率，因此给接收端充电倒也不会成为什么太麻烦的问题。但这里仍然希望小米在下代产品中「与时俱进」，为接收端也更换为 USB-C 接口，这样随时拆下来外出使用，至少在线材问题部分也不会有太多顾虑。
+另外这里还有一个使用技巧：如果你的电视/显示器预留出的空间不能容纳下接收端主机，比如下面这种情况：
+
+
+
+好在小米想到了这个问题，在包装内还附赠的一根 HDMI 延长线，让你可以方便应对这种情况。算是一个避免尴尬、同时提升投屏拓展性的折中方案。
+
+
+
+前面有提到，小米拍拍 4K 投屏器其实在海外是有孪生产品的电视盒子发售的，小米拍拍 4K 高清投屏器虽然不是电视盒子，但仍然内置了独立的编解码芯片，借助 MiPlay 自有协议，实现免驱免授权投射画面，使用 5G 频段实现画面传输来提升传输速率/降低波动。
+在实际体验中，小米拍拍 4K 投屏器在投射 4K30Hz 画面的延迟以及画面抖动上，相比纯软件协议实现的投屏优势相当明显；你甚至可以在 4K 投屏画面中完成简单的绘图/打字等对输入延迟要求较高的操作，虽然稳定性仍然无法与有线 4K 画面传输相比，但仍是一种方便可靠的画面传输方案。
+
+
+在兼容性测试中，由于发射端本身搭载的也是 USB-C 接口，基本能兼容包括手机、平板电脑、笔记本等主流移动智能设备，在笔者的实际测试中，包括部分 Android 智能手机、iPad Pro 以及 MacBook Pro 都可以正常使用，直接插入发送端等待匹配完成，就可以投射当前屏幕内容了。
+
+
+其他体验细节部分，Android 手机根据品牌不同，投屏兼容性也有所区别；Switch 游戏机则可能是因为供电不足的原因也不支持使用；而 Windows/macOS 笔记本电脑都可以在投射画面之后，在系统中自行选择镜像画面/充当副显示器的显示模式。
+
+
+另外，小米拍拍 4K 高清投屏器最多同时支持四个发射端同时使用，方便多个设备之间快速切换投屏内容。这个功能会更加适合多人会议等商务场景。不过本次极客之选拿到的暂时只是单发射端+接收端套装版本，因此关于这一部分的实际体验也暂时无从谈起。
+在智能电视遍地开花，且大部分智能电视都内置有的通用投屏功能的当下，想把投屏这样一个在大部分人眼中「靠软件实现的功能」做成一个硬件，能看出小米拍拍 4K 高清投屏器目标并非主流影音视听用户，而是瞄准企业级用户的使用需求来设计。小米也正是在介绍面向智能电视产品的 MIUI TV 企业模式更新的同时发布了这款新品，作为软硬一体的「组合拳」。
+总结来讲，可以说小米拍拍 4K 高清投屏器是一款适合办公/会议场景的「生产力工具」：让用户都能通过简单的「拍一拍」，最大程度地降低 4K 投屏这件事的时间与学习成本。¥499 的售价对于 4K 投屏器来讲相对也足够有竞争力，相信也会适合更多对投屏有着高要求的用户。]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从被迫退市到成为加密市场大赢家，Animoca Brands是怎样炼成的？]]></title>
+        <id>https://www.tmtpost.com/5966848.html</id>
+        <link href="https://www.tmtpost.com/5966848.html"/>
+        <updated>2021-12-29T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[随着今年下半年链游与元宇宙赛道的爆发，该领域布局已久的独角兽Animoca Brands浮出水面。]]></summary>
+        <author>
+            <name>链得得</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美的楼宇科技：一年更名两次完成过渡，关注公共建筑中空调减碳]]></title>
+        <id>https://www.jiemian.com/article/6953535.html</id>
+        <link href="https://www.jiemian.com/article/6953535.html"/>
+        <updated>2021-12-29T10:25:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>在近期举行的IDC产业年度大典上，美的楼宇科技基础建设行业总经理傅家早接受界面新闻等媒体采访，提到了该事业部近一年的业务进展及数据中心业务的情况 ... 按照傅家早的说法，过去一年，楼宇科技事业部组织变化很快，收购了菱王电梯，新成立了上海美控（主攻楼宇控制系统）及楼宇研究院 ... 以往美的在楼宇市场是纯粹的硬件供应商，将家电、中央空调等设备卖给总包公司等中间商，而楼宇科技事业部的成立，意味着其角色转变，直接与楼宇客户打交道。</p><p><a href='https://www.jiemian.com/article/6953535.html'>界面 : 美的楼宇科技：一年更名两次完成过渡，关注公共建筑中空调减碳</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链红利吃饱后，这个巨头又想"征服"元宇宙？]]></title>
+        <id>https://www.tmtpost.com/5966851.html</id>
+        <link href="https://www.tmtpost.com/5966851.html"/>
+        <updated>2021-12-29T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[对元宇宙来说， GPU 平台的算力，包括各种算法的迭代在未来 5 年时间内将会有很大的改进和提高。]]></summary>
+        <author>
+            <name>链得得</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《信息安全技术 信息系统密码应用设计技术要求》（征求意见稿）发布]]></title>
+        <id>https://www.freebuf.com/news/317826.html</id>
+        <link href="https://www.freebuf.com/news/317826.html"/>
+        <updated>2021-12-29T10:21:07.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大厂包围女玩家]]></title>
+        <id>https://www.tmtpost.com/5967461.html</id>
+        <link href="https://www.tmtpost.com/5967461.html"/>
+        <updated>2021-12-29T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[谁能真正读懂她们，谁就能获得下一个时代的入场券。]]></summary>
+        <author>
+            <name>刺猬公社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60x Performance Improvement and Moving on Full-Stack - Day 7: Building DDTJ]]></title>
+        <id>https://dzone.com/articles/60x-performance-improvement-amp-moving-on-fullstac</id>
+        <link href="https://dzone.com/articles/60x-performance-improvement-amp-moving-on-fullstac"/>
+        <updated>2021-12-29T10:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Read the previous parts here:
+Day 1
+Day 2
+Day 3
+Day 4
+Day 5
+Day 6
+Yesterday things started improving and Today I'm fully recovered.]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[博海拾贝1229]赶紧保送清华]]></title>
+        <id>https://www.bohaishibei.com/?p=70734</id>
+        <link href="https://www.bohaishibei.com/post/70734/"/>
+        <updated>2021-12-29T10:05:02.000Z</updated>
+        <summary type="html"><![CDATA[【1】壮观 【2】赶紧保送清华 【3】这拍腿掩护 【4】飞。。飞行扫帚？ 【5】不抢也嫁得出去 【6】​请问玩这个是他给我钱还是我给他钱？ 【7】膝盖粉碎者 【8】这至少不得吹一个月 【9】他用了反弹…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了健康美味，食品饮料厂商还要拿什么取悦消费者？]]></title>
+        <id>https://36kr.com/p/1547884108064777</id>
+        <link href="https://36kr.com/p/1547884108064777"/>
+        <updated>2021-12-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一袋零食可以是情感的寄托，一杯奶茶或许是社交的介质。在新的���费趋势下，食品饮料行业的需求端正在发生变化。
+ 
+食品饮料细分品类众多，如今，生活水平的提升和文化的变迁正考验着这个行业的创新能力。消费者在饱腹、美味的基本需求之外，不仅对健康环保提出了更高的要求，还在其中注入了更多的情感和文化因素。
+ 
+在巨量算数联合36氪研究院近日发布的《2021中国新锐品牌发展研究-食品饮料行业报告》中，揭示了消费者对食品饮料的多元需求正呈现怎样的趋势和特征，而这一探寻也为新锐品牌展示了机遇和挑战所在。
+ 
+全民养生时代，健康是王道
+ 
+80后保温杯里泡枸杞，90后啤酒杯里加枸杞，00后忙着捍卫发际线，自嘲“还没长大就老了”的年轻人和行至中年的70后、80后、步入晚年的银发族一起加入养生大军，让全民养生成了时代潮流。
+ 
+不同的是，老年人的养生顺理成章，而年轻人的养生多多少少带着点熬夜过后的愧疚感。 Just so soul 研究院发布的《90后养生指南》数据显示，1990-1995年、1995-2000年、2000年后，这三个阶段出生的年轻人熬夜的占比分别为75%、78%、79%。
+ 
+相比之下，中年人的养生则多了几分责任和义务，尤其是80后，他们处于31-40岁之间，上有老，下有小，肩负家庭的重担，对健康也格外重视。巨量算数&36氪研究院调研数据也表明，在各年龄段消费者中，80后是最关注食品饮料健康的一群人。
+ 
+
+ 
+巨量算数&36氪研究院：《2021中国新锐品牌发展研究-食品饮料行业报告》
+ 
+ 消费者对饮食健康的关注很早就被具象化为产品配料表上的成分名称与含量比例，越来越多的消费者养成了选购产品时先看配料表的习惯。在巨量算数的调研中，57.4%的消费者表示会在选购食品饮料产品时关注配料表中的低脂、低糖、 低钠、低卡等信息。
+ 
+在消费者早已习惯了从短视频中寻找消费灵感的时代，内…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和 Waymo 合作，吉利图什么？]]></title>
+        <id>http://www.huxiu.com/article/486072.html?f=wangzhan</id>
+        <link href="http://www.huxiu.com/article/486072.html?f=wangzhan"/>
+        <updated>2021-12-29T09:59:13.000Z</updated>
+        <summary type="html"><![CDATA[论无人驾驶技术，诞生于 Google 的 Waymo 是绝对的第一名。
+
+
+如今，这个行业老大，要与中国公司合作了。
+
+
+今天上午，吉利控股集团宣布，与 Waymo 达成合作，旗下品牌极氪将为 Waymo One 无人驾驶车队提供专属车辆。
+
+
+极氪提供给 Waymo 的车辆并非刚刚开始交付的ZEEKR 001，而是基于极氪智能出行平台浩瀚-M（SEA-M）架构的专属定制车型，由极氪欧洲创新中心（CEVT）设计与研发。
+
+
+厂商术语挺多，简单翻译下，就是吉利旗下的极氪，要给 Waymo 做适合自动驾驶场景的定制车，供 Waymo 跑无人驾驶出租。
+
+
+这事儿对于双方来说，都挺重要。
+
+
+2021 年的 Waymo 相当动荡，4 月初，Waymo 的前 CEO John Krafcik 离职，接任者是Waymo 的首席技术官Dmitri Dolgov，以及首席运营官ekedra Mawakana。
+
+
+John Krafcik 传统车企经理人的经验，让他格外心急让 Waymo 研发多年的自动驾驶技术商业化，也推动了多家车企与 Waymo 的合作。
+
+
+在此之前，车企与 Waymo 的合作模式相对简单，Waymo 从菲亚特·克莱斯勒、捷豹路虎和雷诺-日产-三菱采购整车，将这些车通过后装改装的方式，加上实现自动驾驶所需的传感器和相应算力以及通讯部件。进行自动驾驶的真实道路测试或自动驾驶出租车测试。
+
+
+
+
+
+采购克莱斯勒的主要原因，在于克莱斯勒的大捷龙车型作为 MPV，空间较大，放置自动驾驶部件的同时还能提供比较宽敞的乘坐空间，适合测试自动驾驶出租车，并且克莱斯勒集团在美国占据了体量庞大的商用货运车市场，更适合 Waymo 把自动驾驶技术进行商业化的未来布局。而采购捷豹 I-Pace，则是因为，捷豹 I-Pace 算是海外车企中，少有的诞生于纯电动平台的车型，电气化架构大概率能比…]]></summary>
+        <author>
+            <name>虎嗅网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做外卖，TikTok不是认真的]]></title>
+        <id>https://www.tmtpost.com/5967437.html</id>
+        <link href="https://www.tmtpost.com/5967437.html"/>
+        <updated>2021-12-29T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[网红美食让美国网民疯狂。]]></summary>
+        <author>
+            <name>霞光社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类记忆究竟如何形成及提取？迄今最清晰证据出现]]></title>
+        <id>https://www.tmtpost.com/5967435.html</id>
+        <link href="https://www.tmtpost.com/5967435.html"/>
+        <updated>2021-12-29T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[阿兹海默症患者的福音来了。]]></summary>
+        <author>
+            <name>学术头条</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没人不爱奶茶，即使它是甜蜜桎梏]]></title>
+        <id>https://www.tmtpost.com/5967363.html</id>
+        <link href="https://www.tmtpost.com/5967363.html"/>
+        <updated>2021-12-29T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[低价和存量的战斗，转为对供应链的打磨。]]></summary>
+        <author>
+            <name>BBB研究所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存安全风险又涉及侵权，三星应用商店现风险流媒体应用]]></title>
+        <id>https://www.freebuf.com/news/317818.html</id>
+        <link href="https://www.freebuf.com/news/317818.html"/>
+        <updated>2021-12-29T09:42:04.000Z</updated>
+        <summary type="html"><![CDATA[据Bleeping Computer网站消息，三星官方应用程序商店出现了风险软件，这些软件伪装成已停止运营的盗版影视应用程序——ShowBox，目前已在多个用户设备上触发了Play Protect安全警告。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品观察丨全面“对标苹果”的小米12系列，米味淡了]]></title>
+        <id>https://36kr.com/p/1547297776740361</id>
+        <link href="https://36kr.com/p/1547297776740361"/>
+        <updated>2021-12-29T09:41:08.000Z</updated>
         <summary type="html"><![CDATA[作者丨邱晓芬、编辑丨苏建勋
  
-36氪获悉，碳中和技术公司「���能科技」宣布完成数千万元A轮融资，本轮融资由红杉中国种子基金领投，奇绩创坛跟投，云岫资本担任独家财务顾问。
+喊话全面对标苹果的小米，在12月28日的发布会上更新了小米12系列的三款新品。对标的第一步，小米12 先从苹果手机的尺寸定义开始模仿起。
  
-「碳能科技」于2015年创立，主要研究方向是负碳技术。据介绍，「碳能科技」自主研发了二氧化碳电还原催化剂和电解池隔膜技术，可以将工业排放的二氧化碳转化为合成燃气、合成油、可降解塑料等零碳燃料、绿色化学品。
+小米12系列这次首次规划了一大一小的双尺寸规格：小米12 Pro的定位是“全能高端旗舰”，对标的是iPhone 13 Pro Max，相对而言更像是一款强调配置和综合配置的手机；而小米12的尺寸比过往数字系列更小，女生可单手可环握，定位的是“小尺寸旗舰”，对标iPhone 13。
  
-「碳能科技」创始人康鹏博士毕业于斯坦福大学，师从人工光合作用领域创立者、美国科学院院士Thomas J. Meyer教授和Maurice Brookhart教授，其表示希望打造能源领域的贝尔实验室。
+作为数字系列的第三波更新，单从价格来看，小米相比过去两代也做了一些策略调整，起售价收敛了不少。
  
-二氧化碳过量排放造成全球气候变化已经是全球共识，如何科学降碳，捕集和利用二氧化碳，也是“双碳目标”提出之后各界关注的焦点。尽管有着“碳价天花板”之称，碳补集技术依旧是目前最直接有效的一种减碳方式，各个工业场景对于碳补集技术需求不小。
+小米12、小米12 Pro的起售价分别是3699元、4999元，而小米10系列、11系列的基础版Pro版起售价基本都是四千、六千起跳。
  
-二氧化碳捕集（CCS）包括四个环节：捕集、运输、利用和封存。目前来说，碳补集技术推广的最大掣肘是成本、以及所收集的碳后续如何妥善应用的问题。
+重新开一个尺寸，显然有基于现实考虑——小米方面的一个调研显示，有75%-80%的苹果用户都选择了标准版本的小尺寸iPhone手机，但是安卓阵营这边，旗舰机型基本是清一色大屏，小屏且兼顾旗舰功能的选项并不多。这也给那苹果手机主力用户提供了另一项选择空间。
  
-目前，二氧化碳的应用方式包括深部咸水层封存、驱替煤层气、驱油提高石油的采收率等等。传统方式各有优劣，但都不是真正的对二氧化碳的再利用，而只是停留在封存的阶段。
+但其实，小米开发小尺寸手机的关键原因或许并不在于此。为了转向高端化，小米今年的机型在3k-4k的价位段已经出现真空地带，基本只有一款不痛不痒的小米10的变形“小米10S”覆盖，另外几款重点旗舰机型基本匍匐强攻到了4k-6k的价位段。
  
-与传统的二氧化碳捕集和封存路线不同的是，「碳能科技」是用电化学技术的方式，将工业排放的二氧化碳进一步转化为合成气、塑料等等更高附加值的化学品，实现更经济正向的碳循环。
+而这部分价位段的缺位，Redmi那边并没能及时补上。Redmi今年最畅销的主力机型Redmi K40系列双十一���峰期月出货量接近百万，但基本还是盘踞在2k-3k价位段。
  
-这也是宝马、奥迪等企业大力投入的技术路线。奥迪此前就发布了一项名为“电子柴油”新型燃料的制造示意图——利用电解作用将水分解成氢气和氧气，氢气与二氧化碳结合形成碳氢化合物，这部分化合物再分离出来生产合成柴油燃料，以及可以被食品、化妆品和化学工业使用的蜡质。
+3k-4k这部分价位段，市场上出货量最高的还是OPPO Reno系列和vivo的S系列，是女性向手机最牢固的地带。这两个系列也是目前OV最畅销的系列之一。
  
-不过，二氧化碳电化学利用技术中，如何获得更高性能且稳定的催化材料、电极材料、电堆架构的研发，对国内外顶尖技术团队来说依旧充满挑战。
- 
-据介绍，「碳能科技」的竞争优势在于，自主研发的催化剂具有超过五万小时的寿命，同时有更强的抗中毒性能；
- 
-此外，在设备方面，「碳能科技」此前实现了平米级大幅面膜电极制备，同时研制了轻量级、模块化的电化学反应堆。公司已经开发了“二氧化碳捕集利用一体化”工艺，促进碳捕集技术从纯投入转变为盈利方式。
- 
-在行业拓展方面也已经有了业务落地。「碳能科技」此前已经与中石化工程建设公司合作，联合开发万吨级二氧化碳电解工程项目。未来，这些碳转化设备还将进入火电、钢铁、水泥、化工和有色等高碳排行业，发挥碳减排的作用。
- 
-在碳补集领域之外，「碳能科技」还在涉猎绿氢技术。据介绍，公司自主研发的第三代碱性电解水制氢复合隔膜材料，大幅降低了电解水制氢的能耗，保障大功率电解槽的安全运行。而大功率电解槽的核心材料在过往30年里一直被国外公司垄断。
- 
-康鹏预计，立足于“负碳“、”绿氢”两个主流碳中和技术，「碳能科技」的业务规模预计将实现大幅增长。]]></summary>
+所以小米这次对小米12、小米12X动刀，用上了考虑到女性握感的小尺…]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2001年，我家县城的百货大楼不堪亏损，终于让一批员工下岗了]]></title>
-        <id>https://bohaishibei.com/?p=69610</id>
-        <link href="https://www.bohaishibei.com/post/69610/"/>
-        <updated>2021-12-28T23:58:26.000Z</updated>
-        <summary type="html"><![CDATA[@罐头辰：2001年，我家县城的百货大楼不堪亏损，终于让一批员工下岗了 我的妈妈就是其中之一 当时「下岗职工」是个很热的词儿，我有一天放学回家，我妈告诉我她以后没有工作了，我非常兴奋地喊：那你是不是就…]]></summary>
+        <title type="html"><![CDATA[发力地理信息情报分析，「觅熵科技」打造面向各行业的入门级SaaS系统]]></title>
+        <id>https://36kr.com/p/1531298067288065</id>
+        <link href="https://36kr.com/p/1531298067288065"/>
+        <updated>2021-12-29T09:16:58.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，地理信息情报公司「觅熵科技」于2021年10月完成超千万元天使+轮融资，投资方为线性资本。此前，觅熵科技在2021年4月完成天使轮融资，投资方为英诺天使基金。半年多的时间内，觅熵科技已连续完成两轮融资。
+ 
+传统的遥感应用，由于技术门槛较高，遥感影像获取和处理的流程复杂，导致交付时间较长，非遥感领域的用户使用难度较高，接受程度较低，也丧失了时效性的优势。
+ 
+成立于2021年3月的觅熵科技，专注于遥感大数据应用和地理情报商业服务。为了帮助客户通过信息时效性获利，觅熵科技致力于将遥感、图像处理和深度学习网络相结合，实现多源多时相遥感影像的全自动语义分割和目标提取，达成了定向遥感、甚至非定向遥感的自动化行业感知、发现能力。无论是通过移动电子设备还是台式办公设备，用户都可以直接访问觅熵科技的平台，找到最合适的行业信息获取和解决方案。
+ 
+
+ 
+AirSpace平台，图片来源：觅熵科技
+ 
+匹配行业需求，提供最合适的解决方案
+ 
+遥感应用最大的优势，在于长时序和大规模的监测。而传统遥感应用流程，需要先购买图像，筛选出卫星图像供应商或者其代理商，联系获取并协商报价，再等待几天甚至几周的时间，以景为单位进行影像交付，最后再通过复杂的人工处理流程，将地图等产品交给客户。这种处理流程非常漫长，过程中既产生了大量冗余的数据，也丧失了时效性的优势。因此，传统遥感只能满足自然资源，规划等客户年度的需求，无法满足商业客户快速获取情报信息的需求。
+ 
+觅熵科技希望革新传统遥感应用的处理流程，不片面追求昂贵的超高空间分辨率影像，而是针对客户所处的行业，为客户打造符合空间分辨率需求、时间重访需求、直接易用的产品，直接提供客户需要的信息。除此之外，觅熵科技追求通过多源数据获取信息，例如地面摄像头、无线电信息等等，而不止是单一的遥感卫星影像数据源。通过不同数据源获取的信息进行交叉对比和验证，觅熵…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挖掘千亿级室内定位市场，「知路导航」基于音频打造室内定位方案]]></title>
+        <id>https://36kr.com/p/1525626738986883</id>
+        <link href="https://36kr.com/p/1525626738986883"/>
+        <updated>2021-12-29T09:16:13.000Z</updated>
+        <summary type="html"><![CDATA[位置感知是万物互联的重要一环。在室外，卫星导航定位系统可以轻松实现位置感知，借助差分定位技术，甚至可以将定位精度提高至厘米级。基于位置感知，大众用户可以进行驾驶导航和基于地理位置的服务，提高出行效率和生活品质。在室内，类似的导航和位置服务需求同样存在。然而，由于无线电信号传播到室内空间时受阻挡，基于卫星导航导航定位系统难以直接将服务从室外延伸到室内，导致室内定位及导航成为行业发展的痛点。
+ 
+「知路导航」是一家以音频感知测距与定位技术研发为主的企业，团队依托武汉大学测绘遥感信息工程国家重点实验室平台，致力于解决室外卫星信号对于室内空间的不可达不可用、室内定位精度低的技术难题。依托国家科技部“十三五”重点研发计划项目“高可用高精度室内智能混合定位与室内GIS技术”，团队自主研发了支持大众用户手机终端的高精度音频定位技术，突破了精准测距、窄频带漫游和多源融合定位三个技术瓶颈，并于2021年9月发布全球首款高精度音频定位芯片Kelper A100。知路导航是中国当前唯一一家使用音频解决方案进行室内导航定位的企业。
+ 
+
+ 
+产业定位，图片来源：知路导航
+ 
+庞大的室内定位市场
+ 
+随着经济的发展和人口的迁移，各类室内空间的使用越来越多，尤其在大城市区域。我国的高铁站、机场、地铁等交通枢纽，商场、购物中心、会展中心等大型综合体，各类建筑物的停车库等地下空间，以及各类医院、养老院、工厂甚至居家场所，都蕴含着巨大的室内定位需求。据相关机构统计，上述场景的直接市场规模就达数千亿人民币。
+ 
+同时，随着智能手机、互联网、大数据、区块链等各类技术的发展，人们越来越多地使用导航电子地图和基于地理位置相关的服务。2020年，我国手机地图用户规模将达8.9亿，与之相关的中国本地生活服务O2O市场规模已超过万亿，包括本地出行、到家服务、到店服务等等。此外，随着无人驾驶、车联网、智能家居等物联网市场的…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where To Use the Underscore in Java]]></title>
+        <id>https://dzone.com/articles/where-to-use-the-underscore-in-java</id>
+        <link href="https://dzone.com/articles/where-to-use-the-underscore-in-java"/>
+        <updated>2021-12-29T09:06:06.000Z</updated>
+        <summary type="html"><![CDATA[This series of articles called “Stranger things in Java”, is inspired by the contents of my Book “Java for Aliens”. These articles are dedicated to Insights into the Java language. Deepening the topic]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让链接无处不在——《泛在链接宣言》的理论与理想]]></title>
+        <id>https://sspai.com/post/70648</id>
+        <link href="https://sspai.com/post/70648"/>
+        <updated>2021-12-29T09:01:51.000Z</updated>
+        <summary type="html"><![CDATA[引言
+11 月底，一则 「微信更新外链规则」 的新闻在国内引发了不小的涟漪。在《关于〈微信外部链接内容管理规范〉的更新说明》中，微信宣布，将在点对点聊天中允许直接访问外部链接，而在群聊中试行允许直接访问电商类链接。
+尽管这条新闻细读之下有些讽刺——本意促进互联互通的链接，竟然要受制于一个平台的生杀予夺，而微信的调整也有点不情不愿、半遮半掩，但这总算是往健康、开放的方向迈了一步。
+而同一时间，国外也有一群人在为「链接」的未来发出呼吁。不过，他们想得要更远一些。
+12 月初，一份名为 《泛在链接宣言》（Manifesto for Ubiquitous Linking）的文档出现在互联网上。简而言之，这份《宣言》（正文翻译见文末附录）向开发者呼吁：通过调整界面设计、提供 API 等方式，让用户能方便地通过链接访问应用内资源，从而提高工作效率、维持专注。
+
+打个比方，如果你在笔记里写了一句「参见周一的会议记录」，那么应该能给「会议记录」四个字加上链接，点击后就能直接打开当时做记录的 Word 文档；在任务清单里写了一条「阅读某篇论文」，应该可以把「论文」链接到想要看的那份 PDF 文件。更理想地，你应该还能在上述 Word 或 PDF 文件中加一个反方向的链接，点击即可直接打开提到了它们的笔记或清单，方便继续写作、标记任务完成等。
+
+如果你对近年红得发紫的「双向链接」笔记有所耳闻，应该会觉得上面的描述看着挺眼熟——这差不多就是将笔记场景中的双向链接推广和化用到了系统的各个角落。
+确实，这些效果本来也不是什么「黑科技」，目前都能在某种程度上实现，只是远不够完美：要么依赖于应用和平台的特殊支持，但老死不相往来；要么薄如蝉翼，容易随着文件移动、设备更换而失效；要么晦涩难用，让普通用户一看就打消了学习的念头。
+《泛在链接宣言》所呼吁的，正是让这种灵活的链接用法变得更通用、开放、稳固和易用。…]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所以老男人切记不要好为人师]]></title>
+        <id>https://www.bohaishibei.com/?p=70733</id>
+        <link href="https://www.bohaishibei.com/post/70733/"/>
+        <updated>2021-12-29T08:56:54.000Z</updated>
         <author>
             <name>梁萧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[订阅号可同时刷视频和文章，回顾公众号与视频号打通史]]></title>
-        <id>https://www.36kr.com/p/1547145184438531</id>
-        <link href="https://www.36kr.com/p/1547145184438531"/>
-        <updated>2021-12-28T23:57:14.000Z</updated>
-        <summary type="html"><![CDATA[企业机构类账号的绑定条件是公众号和视频号属于一个主体，个人账号的绑定条件是视频号的所有者需要是公众号的管理员 ... 当公众号和视频号完成绑定以后，这个视频号在直播的时候，常读粉丝可以在订阅号消息顶部“常读的订阅号”里看到自己常读账号的直播状态 ... 已经绑定了公众号和视频号的创作者在点击之后，就可以跳转至视频号助手。]]></summary>
+        <title type="html"><![CDATA[大促营销的套路，是怎么越玩越深的？]]></title>
+        <id>http://www.huxiu.com/article/485945.html?f=wangzhan</id>
+        <link href="http://www.huxiu.com/article/485945.html?f=wangzhan"/>
+        <updated>2021-12-29T08:44:45.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《电商平台重塑大促营销》，头图来自：视觉中国
+
+
+网友有这样一则案例：
+
+
+买25元/箱的矿泉水送张满30元减25元的优惠券，只需要付5元对不对？没那么简单。
+
+
+当满30元后不包邮，需要加20元的快递费用才能发出，最后愣过神发现不用优惠券反而一箱矿泉水“整体到手费用没那么高”。
+
+
+是的，不得不说现在的电商促销五花八门，你永远不知道营销套路有多高明，很多平台优惠券与券的相连让你晕头转向，并自动发放到账户中，使用时都毫无察觉。
+
+
+怎么办呢？有人说申请保价不就可以了？或者避开节日营销不买等；但你会发现保价收到商品若拆封，则“不受价格保护”，避开节日，日常单件购物又不划算。
+
+
+其实钓鱼式的购物行为已经不是第一次出现在生活中，这也让用户愈发理性。
+
+
+在铃木敏文《零售的哲学》中，最基本观点“以用户为中心”包含三个角度：1. 洞察客户，2. 坚定的信念，3. 打破传统的思维。
+
+
+为什么有些企业能够穿越艰难的经济周期，最主要原因是面对新生事物和困难时，能够摸透用户的真实需求，主动围绕用户去做改变并坚持不懈地重塑自身的品牌。
+
+
+回过头再看现在电商平台的营销，各种全民开喵铺、盖楼、组队PK实在套路太多，多半早已没有以往的初心，玩法变化的背后实则是存量下“线上信息渠道”的变化和“消费生态”的转变。
+
+
+大促发展简史
+
+
+说起玩法，大体展开和两个方面有关系：1. 电商发展，2. 节日营销。
+
+
+1995年9月4日由Pierre Omidyar以“Auctionweb”的名称在美国加利福尼亚州圣荷西创立全球第一家网购公司，起名为eBay，为个人和企业用户提供国际网络交易的平台，正式拉起全球线上交易模式。
+
+
+当时围绕两方面展开：
+
+
+
+卖买家匹配，eBay完成交易自动化；
+
+
+
+2. 按照类别提供拍卖服务，让买家提出报价。
+
+
+后来得力于中国网络技术的发展，1999年8月国内…]]></summary>
+        <author>
+            <name>虎嗅网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing The AI Landscape Through Professionalization]]></title>
+        <id>https://dzone.com/articles/changing-the-ai-landscape-through-professionalizat</id>
+        <link href="https://dzone.com/articles/changing-the-ai-landscape-through-professionalizat"/>
+        <updated>2021-12-29T08:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence has been the talk of the town for a while. But, why does AI matter? How can an organization successfully scale AI? And, what role does professionalization Play in the process o]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微创医疗：建议分拆微创脑科学于联交所主板独立上市]]></title>
-        <id>https://36kr.com/newsflashes/1547695358912515</id>
-        <link href="https://36kr.com/newsflashes/1547695358912515"/>
-        <updated>2021-12-28T23:57:08.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，微创医疗在香港交易所发布公告称，公司建议分拆微创脑科学有限公司的股份于联交所主板独立上市。微创脑科学拟透过全球发售方式发售其股份。全球发售的规模及条款尚未落实。上市完成后，微创脑科学仍将是微创医疗的子公司。]]></summary>
+        <title type="html"><![CDATA[高洁丝就争议广告视频致歉：不该将卫生巾当眼罩等用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1219905.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1219905.htm"/>
+        <updated>2021-12-29T08:25:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>个人护理品牌高洁丝在短视频平台发布的一段广告视频引发网争议，视频显示，一男子将卫生巾当作眼罩、脚垫和吸水抹布来使用 ... 面对争议，@高洁丝现在发表“一封道歉信”，表示有关内容“为代理机构未经品牌方审核制作发布”，已对相关账号进行严肃停播整顿 ... 高洁丝近期在社交平台上的视频受到大家热议，公司高度重视，对给用户带来的不佳体验我们深表歉意。</p><p><a href='https://www.cnbeta.com/articles/tech/1219905.htm'>CNBeta : 高洁丝就争议广告视频致歉：不该将卫生巾当眼罩等用</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220111.htm'>CNBeta : 高洁丝回应卫生巾被曝虫卵：此前就卫生巾当眼罩、脚垫用道歉</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克再度卖出10亿美元特斯拉股票，整体进度已超9成]]></title>
+        <id>https://finance.sina.com.cn/tech/2021-12-29/doc-ikyakumx7094719.shtml</id>
+        <link href="https://finance.sina.com.cn/tech/2021-12-29/doc-ikyakumx7094719.shtml"/>
+        <updated>2021-12-29T08:18:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>自11月8日以来，马斯克累计出售接近1570万股特斯拉股票，假设其承诺并不包含可行权的期权，目前的售股计划距离目标卖出的1700万股已经完成92%进度 ... 马斯克后续在社交媒体上解释称，在预先设定的售股计划结束后，后面还会有几批出售的安排，但卖股票的事情就快结束了 ... 根据彭博实时亿万富翁指数，马斯克的最新身价达到2790亿美元，与身后不到两千亿美元身价的亚马逊创始人贝佐斯继续保持巨大的差距。</p><p><a href='https://finance.sina.com.cn/tech/2021-12-29/doc-ikyakumx7094719.shtml'>新浪科技 : 特斯拉CEO马斯克完成与期权有关的股票出售计划</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220011.htm'>CNBeta : 马斯克再度卖出10亿美元特斯拉股票 整体进度已超9成</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年现象级小红书入围作品]]></title>
+        <id>https://www.bohaishibei.com/?p=70732</id>
+        <link href="https://www.bohaishibei.com/post/70732/"/>
+        <updated>2021-12-29T08:16:19.000Z</updated>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江规定明年3月1日起外卖必须要有外卖封签]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1220053.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1220053.htm"/>
+        <updated>2021-12-29T08:14:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>“外卖封签”是指为保障外卖配送环节的食品安全，防止外送餐食外包装在运送过程中被人为拆启或意外破坏而采取的一次性封口包装件 ... 《指引》指出，餐饮服务提供者将餐饮外卖食品交给配送人员时，应确保外卖封签的完整性和有效性 ... 消费者在接收餐饮外卖食品时，如发现外卖封签不完整或者外卖封签已破损的，有权拒绝签收，并可以通过照片、视频等方式留证。</p><p><a href='https://www.cnbeta.com/articles/tech/1220053.htm'>CNBeta : 浙江规定明年3月1日起外卖必须要有外卖封签</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220097.htm'>CNBeta : 浙江发布餐饮外卖封签指引 明确“安全锁”使用规范</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同花顺子公司因荐股软件管理等问题被浙江证监局要求整改]]></title>
+        <id>https://www.tmtpost.com/nictation/5966518.html</id>
+        <link href="https://www.tmtpost.com/nictation/5966518.html"/>
+        <updated>2021-12-29T08:04:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>12月28日晚间，同花顺发布公告称，经浙江证监局核查，子公司浙江同花顺云软件有限公司（以下简称“云软件公司”）因五方面违规行为，收到《行政监管措施决定书》 ... 浙江证监局进一步指出，云软件公司应采取有效措施，将保护投资者合法权益放在整改的首位，并在收到决定书之日起1个月内，向浙江证监局提交书面报告，并接受检查验收 ... 今年10月份，因为App异常问题，同花顺另一家全资子公司浙江同花顺网络科技有限公司（以下简称“网络科技公司”），也收到了浙江证监局的行政监管措施决定书。</p><p><a href='https://www.tmtpost.com/nictation/5966518.html'>钛媒体 : 同花顺：子公司浙江同花顺云软件有限公司收到行政监管措施决定书</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219821.htm'>CNBeta : 同花顺子公司因荐股软件管理等问题 被浙江证监局要求整改</a></p><p><a href='https://www.jiemian.com/article/6959667.html'>界面 : 因荐股软件管理等存在五大违规行为，同花顺子公司被监管责令改正</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正是入坑的好时候：用这些手账本开启新的一年]]></title>
+        <id>https://sspai.com/post/70654</id>
+        <link href="https://sspai.com/post/70654"/>
+        <updated>2021-12-29T08:00:49.000Z</updated>
+        <summary type="html"><![CDATA[在每年的最后一个季度，下一年的新手帐本就逐渐上市，我会在预售阶段就挑选好新年的手帐。近些年来手帐市场不断回暖，不少人都准备在手帐上开启新的一年。手帐已经成为我生活中很重要的一部分。我用它规划时间、记录生活，随时随地写下自己的所见所感。在一年结束之时，面对满满一本的字迹与拼贴，回忆这一年里的点点滴滴，总能有别样感受。
+什么是手帐？为什么需要一本手帐？
+「手帐」（手帳，techō）是一个日语词，在中文中与之最相近的概念应当是「行事历」，但近年来手帐的流行趋势已经和只关注规划、待办事项的行事历有了区别。这件事同样体现在西方的手帐社区。当大家提及手帐时，使用的不只是代表行事历的「Planner」，更多的还有「Journal」——它除了记录待办事项、规划生活之外，还可以作为日记进行生活记录，用文字、插图、贴画等等一系列内容填充带有分区设计的本子，形成一个属于自己的生活轨迹地图。
+
+视频截图：AmandaRachLee - My 2022 Bullet Journal Setup
+手帐文化中，「自由度」是非常重要的元素。本质上，选择一本手帐的过程，就是设计自己的生活笔记体系的过程。每个人的需求各有不同，手帐社区中有不少人常常分享自己的手帐体系（比如上图的视频作者 AmandaRachLee，知名文具/日志/美妆 YouTuber），介绍手帐本的各种用法。也有很多资深用户在使用大量的量产手帐之后，选择自己购买空白本，从零开始设计这一年的手帐体系。所以我在这里需要强调，如果你想记录自己的生活，并不一定要购买专门的手帐本，你需要的只是一份持之以恒的心思，以及对自己生活的一些关注与反思，就能设计出最最适合自己的手帐体系。
+但对于此前从未接触过手帐的人来说，想要入门手帐体系，最好还是从现成的专门手帐本入手。尤其已经经历大量市场考验的手帐品牌与型号，它们的本子设计已经经过了无数次调整（甚至每年都有…]]></summary>
+        <author>
+            <name>Sharon大橘子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[断码清仓 奥康男鞋 皮鞋/短靴/休闲鞋 69款任选 99元包邮]]></title>
+        <id>https://www.bohaishibei.com/?p=70719</id>
+        <link href="https://www.bohaishibei.com/post/70719/"/>
+        <updated>2021-12-29T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[奥康鞋业旗舰店409元，可领310元优惠券，实付99元到手，断码清仓、69款任选。奥康集团的前身为永嘉奥林鞋厂，1997年8月份被国家工商局核准为无区域集团。是2008年奥运会的皮具产品供应商，大品牌…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrendForce：预估2022年mini LED液晶显示器出货量同比增长27%]]></title>
+        <id>https://www.tmtpost.com/nictation/5967366.html</id>
+        <link href="https://www.tmtpost.com/nictation/5967366.html"/>
+        <updated>2021-12-29T07:50:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>科技产业市场研究机构TrendForce表示，2021年mini LED 背光液晶显示器价格约落在2300~5000美元之间，以31.5寸mini LED背光机种为例，售价约为传统同尺寸LED背光规格的4~8倍，属于金字塔顶端的产品 ... 由于价高且产品刚起步，故市场规模相对较有限，预估2021年搭载mini LED背光液晶显示器出货量为5.1万台。</p><p><a href='https://www.tmtpost.com/nictation/5967366.html'>钛媒体 : TrendForce：预估2022年mini LED液晶显示器出货量同比增长27%</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场要闻丨7个交易日暴涨160%，又一新冠特效药概念股停牌核查]]></title>
+        <id>https://36kr.com/p/1548136305715460</id>
+        <link href="https://36kr.com/p/1548136305715460"/>
+        <updated>2021-12-29T07:49:47.000Z</updated>
+        <summary type="html"><![CDATA[继拓新药业之后，又一上市公司因涉嫌“新冠口服药”炒作停牌核查。
+ 
+12月28日晚间，雅本化学公告称，因股价波动异常，将就相关情况进行核查，29日起停牌。
+ 
+12月20日起，雅本化学股价开启暴涨模式，期间7个交易日内公司股价4个交易日20%涨停。截至12月28日，公司股价已整体上涨160%，市值暴增110亿元。按4万股民计算，人均约赚28万。 
+ 
+主营业务一直原地踏步的雅本化学，突然获得市场“青睐”，原因有二：一是公司被“盛传”为辉瑞公司的供应商；二是公司的马耳他子公司旗下的CBD医用产品生产车间主体结构已基本建成，目前正在进行设备安装及申请GMP认证。 
+ 
+28日晚间，雅本化学也发布了公告澄清了两则消息。一是公司未与辉瑞公司签署任何合作协议，与其不存在任何合作关系，未向辉瑞公司供应卡龙酸酐及其衍生产品；二是，本年度未生产和销售任何CBD医用产品，该产品将不会对公司2021年、2022年带来任何销售收入和利润。
+ 
+11月初，辉瑞公司在其官网宣布其新冠口服药物Paxlovid在感染新冠受试者出现症状后的三天内服用，能将轻度和中度成年患者住院或死亡概率降低89%。其后，该药物获美国FDA批准，其产业链原料成为资金挖掘的重要目标。卡龙酸酐被部分机构认为是“有可能成为因为辉瑞口服特效药的最直接受益中间体”。
+ 
+值得注意的是，就在11月4日，雅本化学在其官网自曝：公司研发生产的医药中间体卡龙酸酐商业化量产工作顺利，目前月产规模达到20吨。于是，雅本化学在二级市场中受到了资本广泛关注。
+ 
+就基本面而言，雅本化学是一家医药及农药精细化学品定制生产商，近三年营业收入基本维持在18亿左右，扣非净利润徘徊在1.5亿元。因缺乏成长性，公司在二级市场鲜有专业机构问津。在近几期公司的十大流通股明细中，都是自然人。
+ 
+以拓新药业为前车之鉴，市场普遍分析雅本化学复牌后极有可能补跌。目前，雅本化学总市值为184.57亿元，动态市盈率97.53倍，而行业平均估值低于18倍。股价涨幅显著高于公司基本面变化程���。
+ 
+
+ 
+关注获取更多资讯]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[福特市值2016年以来首次超过通用汽车]]></title>
-        <id>https://36kr.com/newsflashes/1547694437099777</id>
-        <link href="https://36kr.com/newsflashes/1547694437099777"/>
-        <updated>2021-12-28T23:56:11.000Z</updated>
-        <summary type="html"><![CDATA[福特汽车的市值达到约830亿美元，超过了通用汽车收盘时的约829亿美元。]]></summary>
+        <title type="html"><![CDATA[等保2.0与商密应用产品相关的48个问题合集（中）]]></title>
+        <id>https://www.freebuf.com/news/317805.html</id>
+        <link href="https://www.freebuf.com/news/317805.html"/>
+        <updated>2021-12-29T07:49:05.000Z</updated>
+        <summary type="html"><![CDATA[进入等级保护2.0时代，根据信息技术发展应用和网络安全态势，不断丰富了制度内涵、拓展保护范围、完善监管措施，逐步健全网络安全等级保护制度政策、标准和支撑体系 ... 密码作为保障网络和信息安全的核心技术和基础支撑，关系到国家安全、国计民生和社会公共利益 ... 随着互联网的进一步发展，商密技术应用的普及，加强相关安全标准认真体系的建设和管理是重中之重。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[福特市值2016年以来首次超过通用汽车]]></title>
-        <id>https://36kr.com/newsflashes/1547694437099777</id>
-        <link href="https://36kr.com/newsflashes/1547694437099777"/>
-        <updated>2021-12-28T23:56:11.000Z</updated>
-        <summary type="html"><![CDATA[福特汽车的市值达到约830亿美元，超过了通用汽车收盘时的约829亿美元。（财联社）]]></summary>
+        <title type="html"><![CDATA[苹果富士康正在对印度Sriperumbudur工厂落实合规性整改措施]]></title>
+        <id>https://www.tmtpost.com/nictation/5967648.html</id>
+        <link href="https://www.tmtpost.com/nictation/5967648.html"/>
+        <updated>2021-12-29T07:45:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>富士康发言人称：位于印度泰米尔纳德邦 Kanchipuram 区的 Sriperumbudur 工厂，已被苹果列入观察名单 ... 两家公司发言人在周三表示，苹果及 iPhone 组装合作伙伴富士康发现，Sriperumbudur 工厂中供员工使用的一些偏远宿舍和餐厅，未能符合相应的标准要求 ... 这家代工巨头的 Sriperumbudur 工厂，已于 12 月 18 日停工。</p><p><a href='https://www.tmtpost.com/nictation/5967648.html'>钛媒体 : 富士康宣布重组印度工厂管理层，此前因“食物中毒事件”引发停工抗议</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220049.htm'>CNBeta : 苹果富士康正在对印度Sriperumbudur工厂落实合规性整改措施</a></p><p><a href='https://www.cnbeta.com/articles/tech/1220089.htm'>CNBeta : 食物中毒事件后 富士康宣布重组印度工厂管理层</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场要闻 | 张庭林瑞阳公司涉嫌传销被查处，6亿资金被冻结]]></title>
+        <id>https://36kr.com/p/1548028862457858</id>
+        <link href="https://36kr.com/p/1548028862457858"/>
+        <updated>2021-12-29T07:39:26.000Z</updated>
+        <summary type="html"><![CDATA[12月28日晚，张庭林瑞阳公司被爆出涉嫌传销且已被查处。次日，该消息连同演员“张庭”、涉事品牌“TST”一同登上微博热搜。
+ 
+据中国网报道，石家庄市裕华区市场监督管理局发出的一封《查证函回复》显示，上海市达尔威贸易有限公司（以下简称“上海达尔威”）因利用金融机构转移或隐匿涉传销资金，目前已被该局依法申请人民法院采取保全措施，案件正在进一步调查中。
+ 
+天眼查App显示，上海达尔威系TST庭秘密运营主体。
+ 
+网上讨论得沸沸扬扬，当事方也火速回应。29日凌晨，微博账号“TST庭秘密”发文称，上海达尔威是一家合法经营的公司，自成立以来始终遵从政府指导，坚持合法经营，依法纳税，目前公司运营一切正常。张庭、林瑞阳也转发该回应。
+ 
+近年来，张庭林瑞阳夫妇携其一众明星好友常活跃在各个短视频平台和直播中，与之相关的内容不再是电视剧等文艺作品，而是其经营的品牌TST庭秘密相关产品。借此，张庭也收获了“微商女王”的称号。
+ 
+张庭林瑞阳夫妇的商业版图也在不断扩大。天眼查App显示，张庭（张淑琴）相关公司有90家，林瑞阳（林吉荣）关联69家公司。截至目前，包括上海达尔威在内，张庭与林瑞阳共同关联11家公司。
+ 
+不过在筑起如此商业帝国的同时，问题也开始显现。天眼查App显示，张庭夫妇多家关联公司曾被保全审查，上海达尔威也曾因拖欠供货商货款被判赔偿。此前也早有对TST庭秘密涉嫌传销的相关爆料。
+ 
+据微信公众号“李旭反传防骗团队”12月24日消息，今年上半年，该团队接到网友举报称TST模式疑似涉嫌传销，并已经被立案调查。此后，李旭反传销团队多次撰文称TST涉嫌传销。
+ 
+该公众号简介显示，李旭反传销防骗热线由民间反传销协会创建者李旭设立，是一家反传销研究、反洗脑救助机构。
+ 
+近日，李旭反传防骗团队接石家庄市裕华区市场监督管理局查证函的回复，2021年6月5日，该局对上海市达尔威贸易有限公司涉嫌传销立案调查。
+ 
+回复函中提到，石家庄市裕华区市场监督管理局根据多起群众举报核查，上海达尔威贸易有限公司涉嫌利用网络从事传销活动，于2021年6月5日对上海达尔威涉嫌传销立案调查。
+ 
+“李旭反传防骗团队”表示，据石家庄市裕华区市场监督管理局相关人员透露，此次被冻结的资金高达6亿元（分两次冻结，主体公司和某代理、团队长分别被冻结3亿元）。
+ 
+据澎湃新闻，河北石家庄市裕华区市场监督管理局反不正当竞争科工作人员表示，此前接到大量群众举报称，“TST庭秘密”涉嫌传销。裕华区市监局反不正当竞争科工作人员称，达尔威具备传销的三个特征，即拉人头、缴纳入门费和团队计酬的金字塔结构。目前，该案件已进入审计阶段。
+ 
+而在不久前，已经有明星股东开始撤离。11月，陶虹从与张庭林瑞阳合伙公司的股东行列退出；9月初，由张庭担任法人的9家企业也接连注销。
+ 
+
+ 
+欢迎扫码获取更多精彩文章！]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[抖音电商，就是要“吃下”低频男性？]]></title>
-        <id>https://www.tmtpost.com/5966501.html</id>
-        <link href="https://www.tmtpost.com/5966501.html"/>
-        <updated>2021-12-28T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[搞定买家后，抖音要如何才能搞定卖家？]]></summary>
-        <author>
-            <name>螳螂观察</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥密克戎对抗体中和作用存在大量逃逸现象]]></title>
-        <id>https://36kr.com/newsflashes/1547689336580098</id>
-        <link href="https://36kr.com/newsflashes/1547689336580098"/>
-        <updated>2021-12-28T23:51:00.000Z</updated>
-        <summary type="html"><![CDATA[据英国《自然》杂志近日刊登的论文，包括法国巴斯德研究院科学家在内的团队，日前从比利时的一名患者体内分离了奥密克戎病毒，并分析了该病毒对于目前已批准临床使用或仍在开发中的9种单克隆抗体的敏感性 ... 结果发现，奥密克戎变异株能完全抵抗或部分抵抗实验中所有单克隆抗体的中和作用。]]></summary>
+        <title type="html"><![CDATA[上云时代，企业云安全审计可以这么做！]]></title>
+        <id>https://www.freebuf.com/articles/neopoints/317798.html</id>
+        <link href="https://www.freebuf.com/articles/neopoints/317798.html"/>
+        <updated>2021-12-29T07:37:31.000Z</updated>
+        <summary type="html"><![CDATA[好久不见，安全圈小姐姐我又来啦~今年以来我司系统开启全面上云的步伐，核心业务系统也在陆续迁移上云，已在公有云上部署了大量的IT基础设施（虚拟机、数据库等）、应用和数据，管理层也十分关注云上IT信息系统的安全可靠性 ... 为了有效控制云计算信息安全技术风险，我司已在今年年初制定了公司内部《公有云信息安全管理要求》，并在2021年底开展了为期1个月的公有云安全专项审计工作。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[奥密克戎对抗体中和作用存在大量逃逸现象]]></title>
-        <id>https://36kr.com/newsflashes/1547689336580098</id>
-        <link href="https://36kr.com/newsflashes/1547689336580098"/>
-        <updated>2021-12-28T23:51:00.000Z</updated>
-        <summary type="html"><![CDATA[据英国《自然》杂志近日刊登的论文，包括法国巴斯德研究院科学家在内的团队，日前从比利时的一名患者体内分离了奥密克戎病毒，并分析了该病毒对于目前已批准临床使用或仍在开发中的9种单克隆抗体的敏感性。结果发现，奥密克戎变异株能完全抵抗或部分抵抗实验中所有单克隆抗体的中和作用。（科技日报）]]></summary>
+        <title type="html"><![CDATA[市场要闻｜俞敏洪直播带货首秀失利，新东方在线暴跌20%]]></title>
+        <id>https://36kr.com/p/1548086624725254</id>
+        <link href="https://36kr.com/p/1548086624725254"/>
+        <updated>2021-12-29T07:37:28.000Z</updated>
+        <summary type="html"><![CDATA[12月28日晚8点，新东方创始人俞敏洪在抖音开启了新东方的首场直播助农活动，直播中，他介绍了新东方推出的直播带货新平台“东方甄选”，并称自己会不定时出现。首场直播，俞敏洪带来了几十款农产品。
+ 
+据悉，作为新东方农产品直播带货平台，东方甄选所属公司为东方优选（北京）科技有限公司（下文简称：东方优选），新东方在线则是东方优选背后100%控股股东，新东方在线CEO孙东旭担任东方优选的法人代表。
+ 
+根据第三方数据平台数据显示，截至12月28日晚23时10分俞敏洪离开直播间，其直播带货成交额（GMV）为380.65万元，预估销量4.53万件，累计观看人数为147.76万人。直播过程中，其直播间观看量一度冲进抖音带货榜前三。
+ 
+不过比较来看，俞敏洪带货成绩稍显逊色。罗永浩首秀，最高同时有270万人在线，整场直播累计观看人数超过4800万，总交易额超过1.1亿元。
+ 
+俞敏洪首秀失利，新东方在线股价应声暴跌。12月29日，新东方在线（01797.HK）开盘迅速跳水，一度跌超22%，截至午间收盘大跌20.11%。
+ 
+消费者方面，普遍反映俞敏洪带货的产品单价过高，例如8颗装平石头高山苹果卖68元，以及售价428元的腌腊礼盒。对此，俞敏洪昨天在直播表示，“我们带的不见得是最便宜的农产品品类，却一定是最好的农产品。这些农产品是绿色无污染的，因此种植成本也较高。”
+ 
+随着教培监管环境变化，《2021胡润百富榜》显示，俞敏洪个人财富从去年的 260 亿元缩水至75亿元。无论是对于新东方还是俞敏洪，转型都势在必行，但“拥挤”的直播是否是条通途还要画上一个问号。
+ 
+
+ 
+关注获取更多资讯]]></summary>
         <author>
             <name>36氪</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data will continue to Move to the edge in 2022]]></title>
-        <id>https://venturebeat.com/2021/12/28/edge-computing-in-2022/</id>
-        <link href="https://venturebeat.com/2021/12/28/edge-computing-in-2022/"/>
-        <updated>2021-12-28T23:50:06.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <title type="html"><![CDATA[这家餐厅我去年吃了 180 顿，成功安利了十几个朋友]]></title>
+        <id>https://www.bohaishibei.com/?p=70731</id>
+        <link href="https://www.bohaishibei.com/post/70731/"/>
+        <updated>2021-12-29T07:29:00.000Z</updated>
+        <summary type="html"><![CDATA[在吗？看看超可爱的迷你甜筒宝宝。 没错，是我。 稿子巨长，老板拦都拦不住的，上次安利大家去温泉浴场混吃混喝的专业泡汤研究员。 前几周选题会的时候，我说想跟大家分享一下我多年以来吃麦当劳的经验。 闻佳老…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass回应近期异常登录：暂无证据表明数据泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1219811.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1219811.htm"/>
+        <updated>2021-12-29T07:25:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>针对有用户报告称存在未经授权的登录尝试之后，LastPass 方面表示目前并没有证据表明存在数据泄漏 ... 他表示涉及到使用电子邮件地址和密码登录 LastPass 账户的恶意尝试，这些密码是破坏者从过去第三方服务（即不是 LastPass）的漏洞中获得的 ... LastPass 实际上没有被破坏，用多因素认证加固你的账户仍然是一个好主意，多因素认证在你登录你的账户之前使用外部资源来验证你的身份。</p><p><a href='https://www.cnbeta.com/articles/tech/1219811.htm'>CNBeta : 有用户怀疑LastPass的主密码数据库可能已被泄露</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219927.htm'>CNBeta : 针对近期异常登录 LastPass回应：暂无证据表明数据泄露</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36氪首发 | 提供隐形矫治整体解决方案，「正丽科技」获超亿元Pre-C轮融资]]></title>
-        <id>https://36kr.com/p/1546818748918016</id>
-        <link href="https://36kr.com/p/1546818748918016"/>
-        <updated>2021-12-28T23:50:01.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，隐形矫治解决方案提供商正丽科技已完成超亿元人民币Pre-C轮融资，由海峡私募基金（HPE）、本草资本、爱博医疗（688050.SH）及其合作基金爱博清石联合领投，百榕资本担任本轮融资的独家财务顾问。
- 
-本轮融资将用于打造全数字化生产流水线、智能病例设计系统OrthoPlus的继续升级、儿牙矫治系列等新产品线的持续开发，并与上市公司爱博医疗开展矫治器创新材料的研发合作。
- 
-36氪曾对正丽科技有过详细报道，它主要从事研发、生产和销售的隐形正畸产品、齿科修复产品和口腔专业软件系统，客户为B端医院、诊所和有资质的医生，其商业模式与明星公司隐适美相近，是国内目前少数具备完整隐形矫治器生产供应能力的企业之一。
- 
-据介绍，正丽科技旗下两个产品线分别是魔丽齐和瑞速齐，目前已完成数万例交付：
- 
- 
- 
-Magicalign魔丽齐是一款隐形牙齿矫治产品，从2014年开始研发，并于2016年正式售卖，现在已与国内多家知名三甲医院、连锁齿科诊所进行长期合作；
- 
- 
-Smyletec瑞速齐则是公司于2019年联合士卓曼在中国独家推出的隐形矫治解决方案，不久前其青春版产品Youthmile也正式上线。
- 
- 
- 
- 
-正丽科技旗下隐形牙套产品（企业供图）
- 
-目前，正丽科技已搭建生物力学平台，经过大量研究和反复验证，建立了全颌模拟、实体模拟、追踪系统与附件系统，针对矫治器膜片和附件在矫治过程中的力学表现从材料、结构、塑性、弹性等四方面建立了一整套测量分析体系，如实体模拟，可以模拟口腔真实环境，观察矫治器动态变化，监测矫治结果，持续优化矫治过程。
- 
-以此为基础，正丽科技产出了一系列拥有自主知识产权和专利的创新型矫治器和附件设计，截至目前，公司已拥有多项发明专利，数十项实用新型专利与软件著作权。 
- 
-其中，比较典型的是公司自主独立开发的病例设计系统OrthoPlus，已完成过数十次系统更新迭代。
- 
-据悉，OrthoPlus引入了数百条医学规则与独创算法，提供实时医学设计支持，并智能分析医生病例设计习惯，提升交互体验；并向医生开放自主设计端口，医生可借助自动排牙、自动切牙软件设计，也可根据咬合深度与位置的直观数据三维移动进行微调，针对不同患者打造个性化的矫治方案。
- 
-据介绍，在膜片材料上，正丽科技也有自己的优势，比如在矫治器的薄厚度方面，魔丽齐和瑞速齐的膜片厚度相较国际顶尖的矫治器更薄，口腔内异物感更小更舒适，反光率更低更透明，并在更薄的基础上还做到了应力衰减更缓慢、矫治力更持久。
- 
-中国的隐形正畸市场已经历十余年的起步与发展，根据灼识咨询报告，中国隐形矫治案例数由2015年的4.7万例增长至2020年案例数近34万例，年复合增长率达47.7%，预计到2030年将发展为700亿以上规模的成熟市场。
- 
-然而由于面型差异，中国复杂型错颌畸形（第二、第三级错颌畸形）患病率较美国更高，根据灼识咨询报告，2020年中国复杂错颌畸形患病率约为49%，患者数量达到5.1亿，美国为23%，患者数量仅5,600万人，中国的错颌畸形患者对于正畸医生的矫治技术以及隐形矫治器的产品质量均有更高的需求。
- 
-因此，中国市场更需要高质量的隐形矫治解决方案提供商——其需具备完整生产供应能力，在独立自主开发的病例设计软件、测量分析体系与附件完备的生物力学平台、经验丰富的医学设计团队、精益求精的膜片材料与高度数字化的自动生产线等五个维度齐头并进。
- 
-延伸阅读
- 
-瞄准隐形正畸千亿蓝海，「正丽科技」想用科技做到更超薄更精准]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[营收、亏损同步增长，生鲜电商届的CP在忙着安抚投资人]]></title>
-        <id>https://www.tmtpost.com/5966498.html</id>
-        <link href="https://www.tmtpost.com/5966498.html"/>
-        <updated>2021-12-28T23:50:00.000Z</updated>
-        <summary type="html"><![CDATA[股价！求求你别跌。]]></summary>
-        <author>
-            <name>商业街探案</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨年场预售票房近5000万元，今年贺岁档票房最终体量将弱于往年]]></title>
-        <id>https://36kr.com/newsflashes/1547687362144259</id>
-        <link href="https://36kr.com/newsflashes/1547687362144259"/>
-        <updated>2021-12-28T23:48:59.000Z</updated>
-        <summary type="html"><![CDATA[灯塔专业版数据显示，今年贺岁档共上映影片54部，截至12月28日11时，已取得票房（含服务费，下同）21.63亿元 ... 2021年至2022年跨年场观影购票总人次突破100万，预售票房达4908.7万元 ... 灯塔研究院行业分析师张荣棣表示，今年贺岁档上映影片中，头部影片主要集中在档期后半场，尤其是跨年当天。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨年场预售票房近5000万元，今年贺岁档票房最终体量将弱于往年]]></title>
-        <id>https://36kr.com/newsflashes/1547687362144259</id>
-        <link href="https://36kr.com/newsflashes/1547687362144259"/>
-        <updated>2021-12-28T23:48:59.000Z</updated>
-        <summary type="html"><![CDATA[灯塔专业版数据显示，今年贺岁档共上映影片54部，截至12月28日11时，已取得票房（含服务费，下同）21.63亿元。2021年至2022年跨年场观影购票总人次突破100万，预售票房达4908.7万元。“整体来看，今年贺岁档票房最终体量将弱于往年。”灯塔研究院行业分析师张荣棣表示，今年贺岁档上映影片中，头部影片主要集中在档期后半场，尤其是跨年当天。（证券日报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳研究人员宣布将对预防COVID-19感染的鼻腔喷雾剂进行临床试验]]></title>
-        <id>https://www.cnbeta.com/articles/science/1219855.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1219855.htm"/>
-        <updated>2021-12-28T23:47:46.000Z</updated>
-        <summary type="html"><![CDATA[该药物通过鼻腔喷雾给药，研究人员认为它可以阻止病毒最初感染鼻腔内的细胞 ... 鼻腔喷雾剂是基于一种假设，即SARS-CoV-2的最初感染是通过一种叫做硫酸乙酰肝素的分子在鼻腔内进行的 ... 研究人员的目的是调查鼻腔喷雾剂是否能在确诊病例的密切接触者中预防COVID-19。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM申请别克Electra商标：此前曾展示过一款同名EV概念车]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219853.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219853.htm"/>
-        <updated>2021-12-28T23:47:43.000Z</updated>
-        <summary type="html"><![CDATA[通用汽车(GM)于上周向美国商标和专利局提交了一份“别克Electra”的商标申请 ... 如果获得批准，这将允许该家汽车公司在未来的别克汽车上使用Electra这个名字 ... 重新启用老Electra名字其实并不令人震惊，尤其是在2020年北京车展上，别克有展示了一款同名电动跨界车概念车。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome被起诉侵犯隐私，加州允许原告当庭质问谷歌CEO]]></title>
-        <id>https://36kr.com/newsflashes/1547684064110850</id>
-        <link href="https://36kr.com/newsflashes/1547684064110850"/>
-        <updated>2021-12-28T23:45:38.000Z</updated>
-        <summary type="html"><![CDATA[部分用户起诉Alphabet旗下谷歌，他们认为谷歌非法追踪用户互联网使用状况 ... 加州联邦法院裁定称，在审讯中原告可以质问谷歌CEO桑达尔·皮查伊，时间最长可达2小时 ... 这起诉讼是2020年6月发起的，用户认为谷歌侵犯隐私，当谷歌Chrome设置为隐私模式时仍然追踪用户使用状况。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome被起诉侵犯隐私，加州允许原告当庭质问谷歌CEO]]></title>
-        <id>https://36kr.com/newsflashes/1547684064110850</id>
-        <link href="https://36kr.com/newsflashes/1547684064110850"/>
-        <updated>2021-12-28T23:45:38.000Z</updated>
-        <summary type="html"><![CDATA[部分用户起诉Alphabet旗下谷歌，他们认为谷歌非法追踪用户互联网使用状况。加州联邦法院裁定称，在审讯中原告可以质问谷歌CEO桑达尔·皮查伊，时间最长可达2小时。这起诉讼是2020年6月发起的，用户认为谷歌侵犯隐私，当谷歌Chrome设置为隐私模式时仍然追踪用户使用状况。原告认为皮查伊知道Chrome浏览器及隐私相关问题。（新浪科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100名工程师被脸书挖走，苹果开出高额股票奖励留人才]]></title>
-        <id>https://36kr.com/newsflashes/1547683116296195</id>
-        <link href="https://36kr.com/newsflashes/1547683116296195"/>
-        <updated>2021-12-28T23:44:40.000Z</updated>
-        <summary type="html"><![CDATA[苹果公司向一些工程师发放了不同寻常的高额股票奖金，以便留住人才，避免员工跳槽到Facebook母公司Meta平台等科技公司竞争对手那里。知情人士称，上周，苹果通知了芯片设计、硬件部门以及选定软件和运营部门的一些工程师，向他们发放了这笔非周期奖金。这些奖金将以限制性股票的形式发放，归属时间为四年，以激励他们继续留在苹果。这些奖金的起步金额约为5万美元，某些情况下高达18万美元。（凤凰网科技）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遇冷的长沙餐饮：网红、泡沫和理性的回归]]></title>
-        <id>https://www.tmtpost.com/5966422.html</id>
-        <link href="https://www.tmtpost.com/5966422.html"/>
-        <updated>2021-12-28T23:40:00.000Z</updated>
-        <summary type="html"><![CDATA[网红长沙正在被抛弃？]]></summary>
-        <author>
-            <name>五环外OUTSIDE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[钛媒体科股早知道：十五部门：“十四五”期间机器人产业营业收入年均增速超过20%；苹果或于明年推出首款MR头戴装置]]></title>
-        <id>https://www.tmtpost.com/5966694.html</id>
-        <link href="https://www.tmtpost.com/5966694.html"/>
-        <updated>2021-12-28T23:31:00.000Z</updated>
-        <summary type="html"><![CDATA[早上好，今天是12月29日，钛媒体财经早知道第84期，看得懂的财经新闻，每天知道多一点，离财富更近一点。]]></summary>
+        <title type="html"><![CDATA[12月29日A股分析：创业板指跌1.4%，白酒板块大跌]]></title>
+        <id>https://www.tmtpost.com/5967335.html</id>
+        <link href="https://www.tmtpost.com/5967335.html"/>
+        <updated>2021-12-29T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[【钛媒体科股宝每日播报】2021年12月29日，截止收盘，沪指跌0.91%，报收3597.0点;深成指跌1.24%，报收14653.82点;创业板指跌1.4%，报收3281.9点，两市成交额较上一交易日减少53.54亿元，合计成交9972.87亿元。]]></summary>
         <author>
             <name>钛小股</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX明年初难发射星际飞船 因美监管机构]]></title>
-        <id>https://www.tmtpost.com/nictation/5966725.html</id>
-        <link href="https://www.tmtpost.com/nictation/5966725.html"/>
-        <updated>2021-12-28T23:24:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>美国太空探索技术公司(SpaceX)计划在明年初从得州博卡奇卡发射其巨型“星际飞船”火箭，但是这一目标现在受到了打击，原因是美国监管机构将原定的环境评估推迟了两个月至明年2月28日 ...SpaceX目前正在回应超过1.8万条公众意见，FAA正在继续与其他机构进行磋商和协调 ...SpaceX的博卡奇卡基地是该公司新的大型、完全可重复使用的“星际飞船”火箭系统的组装地，旨在将人类送上月球和火星，也是SpaceX将更多“星链”卫星送入轨道的关键。</p><p><a href='https://www.tmtpost.com/nictation/5966725.html'>钛媒体 : SpaceX明年初难发射星际飞船，因美监管机构</a></p><p><a href='https://tech.ifeng.com/c/8CMBAFHBFCn'>凤凰科技 : SpaceX明年初难发射星际飞船 因美监管机构</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219841.htm'>CNBeta : 因美监管机构环评影响SpaceX明年初难发射星际飞船</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【钛晨报】张庭林瑞阳实控公司涉传销被立案；新东方：将上线直播带货平台；奔驰新广告被网友发现模特“眯眯眼”，尚未回应]]></title>
-        <id>https://www.tmtpost.com/5966696.html</id>
-        <link href="https://www.tmtpost.com/5966696.html"/>
-        <updated>2021-12-28T23:20:00.000Z</updated>
-        <summary type="html"><![CDATA[商汤科技将香港IPO股票的发行价定为每股3.85港元；视觉中国：2022年一季度的数字藏品上线计划已经初步排好；阳光城1亿股份被司法冻结；帮明星主播偷逃税的黑中介被查逮捕；相互宝公告：将于明年1月28日关停；台积电正式提出中科扩建厂计划；华为回应6亿元成立精密制造公司：不生产芯片；苹果关闭纽约所有零售店；贾跃亭所持1739.8万股乐视网股票将进行网拍]]></summary>
+        <title type="html"><![CDATA[特斯拉保费一夜之间暴涨80%，新能源车险涨幅为何这么大？]]></title>
+        <id>https://www.tmtpost.com/5967254.html</id>
+        <link href="https://www.tmtpost.com/5967254.html"/>
+        <updated>2021-12-29T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[能源汽车的保单成本主要体现在两方面：一是维修偏贵，二是出险率相对高。当前新能源车险的赔付率普遍超过85%，行业面临较大承保亏损压力。]]></summary>
         <author>
             <name>钛媒体官方账号</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus虚拟现实头盔热销将提振Meta股价]]></title>
-        <id>https://tech.ifeng.com/c/8CMLdq4RXgY</id>
-        <link href="https://tech.ifeng.com/c/8CMLdq4RXgY"/>
-        <updated>2021-12-28T23:05:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>投资公司Jefferies分析师布伦特·瑟尔（Brent Thill）当地时间星期二发表投资报告称，Meta的Quest 2虚拟现实头盔似乎是今年岁末购物季的热门礼物，Oculus应用是圣诞节当天下载量最高的应用，下载量和日活跃用户较上年同期分别激增70%和90% ... 瑟尔表示，“由于青少年访问Snap、TikTok、RBLX和《堡垒之夜》等应用的时间越来越长，对于Meta而言吸引和留住年轻用户成为一项越来越大的挑战” ... 我们认为，Quest 2将成为吸引年轻用户的‘匝道’，因为它可以引导这些用户使用Meta的游戏、社交平台等产品。</p><p><a href='https://tech.ifeng.com/c/8CMLdq4RXgY'>凤凰科技 : Oculus虚拟现实头盔热销将提振Meta股价</a></p>]]></summary>
+        <title type="html"><![CDATA[微语录精选1229：如果20岁面对了现实]]></title>
+        <id>https://www.bohaishibei.com/?p=70730</id>
+        <link href="https://www.bohaishibei.com/post/70730/"/>
+        <updated>2021-12-29T07:05:41.000Z</updated>
+        <summary type="html"><![CDATA[@屠龙的胭脂井：抖音里大傻子太多了（没有说所有人都是大傻子的意思）。弄得我现在都产生了一个毛病：同一个人，我总觉得横屏显得正常一些，竖屏显得智商低一些。包括明星，包括老外。竖屏都显得比横屏傻。包括我自…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冒充老干妈员工诈骗腾讯案一审宣判，主犯获刑12年]]></title>
+        <id>https://tech.ifeng.com/c/8CMuGJtXcbs</id>
+        <link href="https://tech.ifeng.com/c/8CMuGJtXcbs"/>
+        <updated>2021-12-29T07:02:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>腾讯在当时解释称，此事系老干妈在腾讯投放了千万元广告，但无视合同长期拖欠未支付，腾讯被迫依法起诉 ... 2020年7月初，贵阳公安通报，曹某（男，36岁）、刘某利（女，40岁）、郑某君（女，37岁）伪造老干妈公司印章，冒充该公司市场经营部经理与腾讯签订合作协议，目的是为了获取腾讯在推广活动中配套赠送的网络游戏密码，之后通过互联网倒卖非法获取经济利益 ... 声明称，腾讯已向法院申请撤回财产保全申请及本案诉讼，并已就合同诈骗行为向贵阳公安报案，腾讯和老干妈双方后续将积极配合相关法律程序的推进。</p><p><a href='https://tech.ifeng.com/c/8CMuGJtXcbs'>凤凰科技 : 假冒老干妈诈骗腾讯案落槌！主犯获刑12年当庭上诉</a></p><p><a href='https://www.jiemian.com/article/6961159.html'>界面 : 冒充老干妈员工诈骗腾讯案一审宣判，主犯获刑12年</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国市场将支撑特斯拉股价明年上涨30%]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219747.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219747.htm"/>
-        <updated>2021-12-28T22:57:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>投资公司Wedbush分析师丹尼尔·艾维斯（Daniel Ives）发表投资报告称，进入2022年之际特斯拉形势非常有利，促进它进一步增长的催化剂包括强劲的中国市场需求以及美国、德国工厂投产 ... 未来12个月特斯拉股价将累计上涨近30%，明年零部件短缺将有所缓解，特斯拉将能够更好地满足中国市场需求，奥斯汀、柏林工厂投产也能缓解全球生产瓶颈 ... 艾维斯估计，到2022年底，特斯拉年生产能力将由当前的约100万辆增加到约200万辆，“特斯拉当前的问题是需求超过产量”。</p><p><a href='https://www.cnbeta.com/articles/tech/1219747.htm'>CNBeta : Wedbush：中国需求旺盛 特斯拉股票2022年还有30％上涨空间</a></p><p><a href='https://tech.ifeng.com/c/8CMLmJ3qD82'>凤凰科技 : 中国市场将支撑特斯拉股价明年上涨30%</a></p>]]></summary>
+        <title type="html"><![CDATA[ROBOSEN完成近亿美元B轮和B+轮融资]]></title>
+        <id>https://www.36kr.com/p/1547848692148232</id>
+        <link href="https://www.36kr.com/p/1547848692148232"/>
+        <updated>2021-12-29T06:59:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>乐森于今年6月完成B轮融资，在不到半年时间内完成两轮融资，总额近亿美元 ... 「乐森」自成立以来，在电机、驱动与控制系统、芯片、算法、结构、机械手臂甚至核心材料上不断突破，已经实现核心技术的全面自研，并在技术、产品和消费者之间实现了链接，推出了全球首款可自动变形、可交互、可语音控制以及可编程的消费级机器人「乐森旗舰版擎天柱」 ... 本轮融资后，「乐森」将继续巩固现有机器人技术优势和扩大AI技术储备，并将在全球范围内扩大研发、产品、市场销售、运营等各类人才的招聘，据了解目前「乐森」研发团队人数占比70%。</p><p><a href='https://www.36kr.com/p/1547848692148232'>36Kr : 36氪广东首发｜消费级机器人品牌「ROBOSEN」完成近亿美元B轮和B+轮融资</a></p><p><a href='https://www.cyzone.cn/article/664989.html'>创业邦 : 融资丨「ROBOSEN」完成近亿美元B轮和B+轮融资，将扩大AI技术储备</a></p><p><a href='https://36kr.com/p/1547921890437383'>36Kr : 仿人化机器人技术，工业机器人的创新路径｜超级观点</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211229-366444.html'>投中网 : ROBOSEN完成近亿美元B轮和B+轮融资</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100名工程师被脸书挖走 苹果开出高额股票奖励留人才]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219831.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219831.htm"/>
-        <updated>2021-12-28T22:54:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>苹果公司向一些工程师发放了不同寻常的高额股票奖金，以便留住人才，避免员工跳槽到Facebook母公司Meta平台等科技公司竞争对手那里 ... 许多工程师获得了大约8万美元、10万美元或12万美元的股票奖励 ... 过去几个月里，Meta从苹果挖走了大约100名工程师，但双方是“礼尚往来”，苹果也挖走了Meta的关键员工。</p><p><a href='https://www.cnbeta.com/articles/tech/1219831.htm'>CNBeta : 竞争对手挖墙角太厉害 苹果以18万美元特别股票奖励慰留工程师</a></p><p><a href='https://tech.ifeng.com/c/8CM7DnZ9ehf'>凤凰科技 : 100名工程师被脸书挖走 苹果开出高额股票奖励留人才</a></p>]]></summary>
+        <title type="html"><![CDATA[蘑菇街被裁员工自述：若是有缘，江湖再见]]></title>
+        <id>https://www.tmtpost.com/5966892.html</id>
+        <link href="https://www.tmtpost.com/5966892.html"/>
+        <updated>2021-12-29T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[听听互联网寒冬中的声音。]]></summary>
+        <author>
+            <name>井寻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[券商“帮人管钱”不能再“躺赢”了]]></title>
+        <id>https://www.tmtpost.com/5967056.html</id>
+        <link href="https://www.tmtpost.com/5967056.html"/>
+        <updated>2021-12-29T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[雪崩的时候，没有一片雪花是无辜的。]]></summary>
+        <author>
+            <name>万点研究</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重磅 | 【 2021中国白帽子调查报告】正式发布]]></title>
+        <id>https://www.freebuf.com/articles/paper/317785.html</id>
+        <link href="https://www.freebuf.com/articles/paper/317785.html"/>
+        <updated>2021-12-29T06:52:20.000Z</updated>
+        <summary type="html"><![CDATA[工作中面对日益智能化、繁杂化、和多样化的网络攻击环境，他们不断接受挑战、提升能力并解决问题，帮助企业抵御愈发严峻的安全风险，为企业的正常运作保驾护航，是企业持续发展的大后方。]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nearly 70% Chinese Users Feel Manipulated by Algorithms: Report]]></title>
-        <id>https://www.tmtpost.com/5966619.html</id>
-        <link href="https://www.tmtpost.com/5966619.html"/>
-        <updated>2021-12-28T22:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Only 7.35% of respondents believed that the apps were extremely safe. Older users who do not use the Internet frequently showed more trust in the digital environment.]]></summary>
+        <title type="html"><![CDATA[吴小晖与冯柳的擦肩而过]]></title>
+        <id>https://www.tmtpost.com/5966718.html</id>
+        <link href="https://www.tmtpost.com/5966718.html"/>
+        <updated>2021-12-29T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[同一条河流里的不同风景。]]></summary>
         <author>
-            <name>Garrett_Li</name>
+            <name>巨潮WAVE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[林瑞阳、张庭夫妇实控公司涉嫌传销被查处，冻结金额达6亿元]]></title>
-        <id>https://www.tmtpost.com/nictation/5966558.html</id>
-        <link href="https://www.tmtpost.com/nictation/5966558.html"/>
-        <updated>2021-12-28T22:44:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>石家庄市裕华区市场监督管理局近日发布《关于查证函的回复》，公开披露了知名日化品牌“TST庭秘密”运营主体达尔威公司涉嫌利用网络从事传销活动被查处的进展 ... 石家庄市裕华区市场监督管理局相关人员曾表示，达尔威公司此次被财产保全冻结的资金高达6亿元(分两次冻结，主体公司被冻结3亿元，代理商及团队长被冻结3亿元) ... 公开资料显示，上海达尔威贸易有限公司注册资金23180万元人民币，法定代表人为林吉荣(即知名演员林瑞阳)，公司旗下拥有日化用品品牌“TST庭秘密”，由林瑞阳、张庭夫妇于2013年创立，以化妆品、护肤品为主打品类，并主要通过线上商城“庭秘密App”和线下实体店的O2O方式进行产品销售。</p><p><a href='https://www.tmtpost.com/nictation/5966558.html'>钛媒体 : TST庭秘密运营主体达尔威公司涉嫌传销被查处，实控人为林瑞阳张庭夫妇</a></p><p><a href='https://tech.ifeng.com/c/8CLqPxgElOh'>凤凰科技 : 林瑞阳、张庭夫妇实控公司涉嫌传销被查处，冻结金额达6亿元</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219837.htm'>CNBeta : 林瑞阳张庭公司涉嫌传销被查处 回应称目前公司还在正常运营</a></p>]]></summary>
+        <title type="html"><![CDATA[东方嘉富投资忆芯科技B轮融资，布局国产高性能企业级SSD市场]]></title>
+        <id>https://www.chinaventure.com.cn/news/80-20211229-366443.html</id>
+        <link href="https://www.chinaventure.com.cn/news/80-20211229-366443.html"/>
+        <updated>2021-12-29T06:36:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>国产高端企业级SSD主控芯片领军企业北忆芯科技，在10月份顺利完成2亿元B1轮融资后，近日宣布完成总额3亿元的B2轮融资，本轮融资由上海上国投、东方嘉富、北京丝路科创等知名机构及产业资本共同参与完成 ... B轮融资主要将用于高端企业级SSD主控芯片研发及方案开发，其中包括即将推出的面向数据中心和企业级市场的高性能PCIe Gen 4 SSD主控芯片STAR2000的研发和方案开发及下一代PCIe Gen5 SSD主控芯片的预研。</p><p><a href='https://www.chinaventure.com.cn/news/80-20211229-366443.html'>投中网 : 东方嘉富投资忆芯科技B轮融资，布局国产高性能企业级SSD市场</a></p>]]></summary>
         <author>
             <name>Readbub</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xiaomi Unveils New Flagship Xiaomi 12]]></title>
-        <id>https://www.tmtpost.com/5966571.html</id>
-        <link href="https://www.tmtpost.com/5966571.html"/>
-        <updated>2021-12-28T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The new series comes with three models – Xiaomi 12X, Xiaomi 12 and Xiaomi 12 Pro, starting from 3,499 yuan (US$550).]]></summary>
+        <title type="html"><![CDATA[年度 Mac 应用 Craft 推出 2.0 版本，用扩展插件开启更多可能]]></title>
+        <id>https://sspai.com/post/70606</id>
+        <link href="https://sspai.com/post/70606"/>
+        <updated>2021-12-29T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2021 年已然接近尾声，以 Notion 为代表的「块编辑器」经过多年的发展也早已不是新鲜概念，成为了新兴文字编辑器的 de facto 交互选择。
+Craft 在 1.0 时代就因其完整的文字编辑功能、优秀的共享协作体验，以及拥有非 electron-based 的跨 macOS、iOS、iPadOS 三大平台的原生客户端而饱受好评。Craft 让文字工作者在 Apple 生态圈中首次拥有了支持多人协作的原生「块编辑器」，且 Craft 目标明确 —— 专心做好以「原生客户端」为重心的线上文档协作、个人文档撰写的最佳工具。
+关联阅读
+
+设计精美、功能强大，Apple 用户的文档工具新选择：Craft
+App Store Awards 2021 年度大奖出炉，我们和获奖开发者们聊了聊
+少数派 2020 年度应用：这 16 款年度应用，和往年不太一样
+在 iOS、macOS 和 iPadOS 三端都拥有原生客户端的 Craft。
+事实上，Craft 1.0 也做到了这一点：专注文字撰写，放弃做一个「大一统」应用，让使用 Craft 的我们专注于自己的个性化 workflow，而非以应用本身为中心来调整自己。但我们在工作学习中，不可能全程使用同一个应用，我们需要浏览网站、浏览其他应用来获取信息，需要在应用中处理、编辑内容，需要将内容导出、发布、分享、汇总。为此，在 Craft 2.0 大版本更新中，Craft X —— Craft 自己的「插件、扩展系统」应运而生。
+Craft X 设计理念
+Craft eXtension，简称 Craft X，是 Craft 2.0 时代的重磅更新，为 Craft 核心编辑体验带来更多可能性。Craft X 的重点是一套完整的 Craft API，用来辅助我们在 Craft 中的工作流。其中我们在前文的介绍中所讲，Craft X 的设计理念…]]></summary>
         <author>
-            <name>Garrett_Li</name>
+            <name>SpencerWoo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Oriental Head Starts Selling Agricultural Produce Through Livestream]]></title>
-        <id>https://www.tmtpost.com/5966553.html</id>
-        <link href="https://www.tmtpost.com/5966553.html"/>
-        <updated>2021-12-28T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The livestream show was held on New Oriental’s e-commerce livestream platform Dongfangzhenxuan, which means Delicacies from the East.]]></summary>
+        <title type="html"><![CDATA[那就是一块普通的牛肉，而已]]></title>
+        <id>https://www.bohaishibei.com/?p=70728</id>
+        <link href="https://www.bohaishibei.com/post/70728/"/>
+        <updated>2021-12-29T06:26:10.000Z</updated>
+        <summary type="html"><![CDATA[@河森堡：我发现当下有些餐厅特别喜欢整幺蛾子，非得把简单的事搞得复杂，还弄很多花活，有些客人可能特别喜欢这个，但搁我身上就容易搓起火来。 前两日，我去一家牛排馆吃饭，菜品倒是不错，但吃着吃着气氛就有点…]]></summary>
         <author>
-            <name>Garrett_Li</name>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHALI茶里CMO林川：新经济时代下，“产品创新力+供应链”是快消茶品牌突出重围的硬核力量 | 超级观点]]></title>
+        <id>https://36kr.com/p/1547892315416582</id>
+        <link href="https://36kr.com/p/1547892315416582"/>
+        <updated>2021-12-29T06:21:20.000Z</updated>
+        <summary type="html"><![CDATA[新消费是过去两年最炙手可热的赛道之一，外界先是惊叹于其成长速度，随后也在反思其中是否存在泡沫。2021年接近尾声，过去一年我们看到消费行业的创业者更加理性与谨慎，相比于追逐营销热度，更愿意扎实地打磨产品，读懂用户需求。
+ 
+新品牌的成长，也是一场争夺用户心智的竞争。无论在哪一细分赛道，产品为王的理念依旧没有���时。优质的产品能够提供良好的客户体验，获得持续复购，实现“现象级网红”到“品牌性长红”的转变。
+ 
+在袋泡茶领域便有这样一位玩家，从2013年创立至今，坚持通过产品创新和标准化建设，一定程度上改变了国人对袋泡茶低端、口感不佳的刻板印象，成为中国茶的“新名片”。
+ 
+要知道，中国茶文化有四五千年的历史，但在相当长一段时间内并没有特别知名的全球性品牌出现，处于有品类无品牌的尴尬局面。再加上近几年咖啡、新式茶饮品牌大量涌现，年轻人在消费各式各样奶茶、水果茶的同时，真正想要喝茶的需求却并没有被满足。
+ 
+“年轻一代并不是不爱喝茶，而是喝茶的需求随时代发生了变化，市场上基本没有能满足他们饮茶需求的产品。同样，我们看到了茶行业的空白市场：认为中国市场缺少一个真正懂消费者的茶叶品牌，去搭建产品价值标杆，提供消费者真正需要的茶产品，让更多的人爱上中国好茶。”CHALI茶里CMO林川说。
+ 
+回过头来看，CHALI茶里的判断和方向是正确的。如今，CHALI茶里已经成为国内袋泡茶领域的头部品牌，在各年龄段人群中均拥有一定受众。官方数据显示，目前CHALI茶里在全网已经拥有超过1000万粉丝，8年累计销售超9亿个袋泡茶包，2021年双十一全网销售额破亿，为天猫、京东双平台花草茶类目TOP1。
+ 
+
+ 
+CHALI茶里
+ 
+这也让外界好奇，CHALI茶里如何做产品？如何占领新消费高地？我们和林川聊了聊，如何做一个真正懂消费者的茶叶品牌，去搭建产品价值标杆，提供给消费者真正需要的茶产品。
+ …]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网民称部分手机厂商以环保为名不配充电器，工信部答复]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1220007.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1220007.htm"/>
+        <updated>2021-12-29T06:06:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>针对网民反映“现在买一个自带充电器的手机有点难”的留言，工业和信息化部28日回复称，该问题不涉及人身健康和生命财产安全等，消费者个体需求差异大，行业管理可行性还需进一步研究 ... 部分手机厂商打着环保的名义，在出售手机的时候取消充电器，难道取消充电器之后消费者就不给手机充电吗 ... 只出售一个手机设备，既增加了消费者的购买成本，又浪费了消费者买手机的时间和精力，都想一步到位买一个有充电器的手机。</p><p><a href='https://www.cnbeta.com/articles/tech/1220007.htm'>CNBeta : 网民称部分手机厂商以环保为名不配充电器 工信部答复</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不可能消灭刻板印象]]></title>
+        <id>https://www.bohaishibei.com/?p=70727</id>
+        <link href="https://www.bohaishibei.com/post/70727/"/>
+        <updated>2021-12-29T06:05:09.000Z</updated>
+        <summary type="html"><![CDATA[@潘海天 ：先说结论：不可能消灭刻板印象。 一个俄罗斯朋友常跟我解释他们不是所有人爱喝伏特加没事踹两脚熊…谁要听他解释？俄罗斯熊，战斗民族，AK47，伏特加鱼子酱，结束。 普通人的精力是有限的，大脑分…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉利疑与富士康共同成立公司，涉及汽车零部件制造]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1219997.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1219997.htm"/>
+        <updated>2021-12-29T05:55:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>近日，吉利疑与富士康合体造车，共同成立山东富吉康智能制造有限公司，注册资本1亿，两家公司出资5000万元 ... 查看工商信息得知，山东富吉康智能制造有限公司，成立于2021年12月27日，注册资本为10000万，富泰华工业（深圳）有限公司和浙江吉利产投控股有限公司各认缴金额5000万，法定代表人为李光曜 ... 早在2005年，富士康就以3.7亿收购台湾安泰电业100%股权，开始汽车锂电池动力系统的技术和制造研发，进军汽车相关领域。</p><p><a href='https://www.cnbeta.com/articles/tech/1219997.htm'>CNBeta : 吉利疑与富士康共同成立公司 涉及汽车零部件制造</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仿人化机器人技术，工业机器人的创新路径｜超级观点]]></title>
+        <id>https://36kr.com/p/1547921890437383</id>
+        <link href="https://36kr.com/p/1547921890437383"/>
+        <updated>2021-12-29T05:41:00.000Z</updated>
+        <summary type="html"><![CDATA[带着观点看商业。超级观点，来自新商业践行者的前沿观察。
+ 
+ 
+工业机器人的研发、制造和应用是衡量一个国家创新能力和高端制造业水平的重要标志。随着智能制造需求的不断提升，全球工业机器人潜在市场已达千亿美元，��我国工业机器人市场规模也将在2023年达到100亿美元。然而现实情况是，工业产线上其实只有少数环节能实现完全自动化，工厂的自动化升级仍存在巨大的上升空间。
+ 
+究其原因，传统机器人采用机械式为主的技术路线，难以适应复杂度高的生产环节，不仅导致了高非标配备成本，还使得机器人在某些场景下缺乏经济性和可行性，大量的工作仍需人工完成。毕业于斯坦福大学仿生与灵巧操作实验室，Flexiv非夕科技创始人兼CEO王世全认为，机器人在生产中除了要追求位置精度等硬性指标，也要发展对复杂环境的适应能力。
+ 
+成立于2016年，非夕科技以仿人化技术路径对机器人进行系统化创新，专注于研发、生产集工业级力控、计算机视觉和AI技术于一体的自适应机器人。今年，其机器人产品拂晓获得第三方认证机构Intertek颁发的认证证书，将在欧盟和北美（美国和加拿大）两个主要海外市场、及认可CE与北美认证的其他国家和地区自由流通。
+ 
+工业机器人从机械化向仿人化发展的新趋势已显现。不远的未来，机器人将像人类一样拥有“手眼配合”的能力，开启工业自动化的新时代。
+ 
+
+ 
+“仿人化”技术革新，工业机器人再升级
+ 
+发展至今，工业机器人在实际应用中仍有诸多限制。工业场景千差万别，生产资料门类众多，机器人在实际应用场景中往往需要搭配特殊设计的非标型设备或工具。而大量的非标方案也影响了产线本身的柔性化能力以及规模化效应。
+ 
+有数据显示，在全球前20个国家的机器人装机中，平均每一万个产业工人只对应配备了一百多台机器人，机器人的使用密度最高不超过10%，客观上反映了机器人在生产制造中的局限性。
+ 
+事实上，现有的工业机器人仍…]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[域内提权漏洞CVE-2021-42287与CVE-2021-42278原理分析]]></title>
+        <id>https://www.freebuf.com/vuls/317773.html</id>
+        <link href="https://www.freebuf.com/vuls/317773.html"/>
+        <updated>2021-12-29T05:37:08.000Z</updated>
+        <summary type="html"><![CDATA[在该安全补丁更新中，修复了两个域内提权漏洞CVE-2021-42287/CVE-2021-42278 ... 当时这两个漏洞的利用详情和POC并未公布出来，因此并未受到太多人关注。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动卡车公司Rivian宣布推迟大容量动力电池车型至2023年交付]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1219871.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1219871.htm"/>
+        <updated>2021-12-29T05:34:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>在发送给客户的邮件中，美国电动车制造商Rivian首席执行官RJ·斯卡利奇（RJ Scaringe）宣布，配置大容量动力电池的的电动皮卡车和SUV车型将推迟到2023年再交付 ... 斯卡利奇介绍说，目前在美国和加拿大获得的大约7.1万辆R1T皮卡车和R1S SUV电动车订单中，绝大部分属于小容量电池版本，单次充电可以续航505公里（314英里） ... 邮件中写道，为了满足最大数量的预定消费者，公司决定在明年优先生产配置“Large”型电池组的“Adventure Package”版本车型。</p><p><a href='https://www.cnbeta.com/articles/tech/1219871.htm'>CNBeta : 电动卡车公司Rivian宣布推迟大容量动力电池车型至2023年交付</a></p><p><a href='https://www.pingwest.com/w/256135?utm_source=feed'>品玩 : 电动卡车公司Rivian宣布推迟大容量动力电池车型至2023年交</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线密码管理器LastPass被大规模撞库]]></title>
+        <id>https://www.freebuf.com/news/317772.html</id>
+        <link href="https://www.freebuf.com/news/317772.html"/>
+        <updated>2021-12-29T05:16:42.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multimodal Design With Google Actions: Visual Selection Responses Using Collections]]></title>
+        <id>https://dzone.com/articles/multimodal-design-with-google-actions-visual-selec</id>
+        <link href="https://dzone.com/articles/multimodal-design-with-google-actions-visual-selec"/>
+        <updated>2021-12-29T04:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Creating conversations is a really hard t ask. This is an entire design process that can take a lot of time. In terms of Voice assistants, this process is even more complex due to the ability to inter]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WiFiSpoof 3.8.0.1 MAC地址修改工具]]></title>
+        <id>https://xclient.info/s/wifi-spoof.html</id>
+        <link href="https://xclient.info/s/wifi-spoof.html"/>
+        <updated>2021-12-29T03:54:53.000Z</updated>
+        <summary type="html"><![CDATA[WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eMail Address Extractor 3.5.8.1 提取email邮件地址]]></title>
+        <id>https://xclient.info/s/email-address-extractor.html</id>
+        <link href="https://xclient.info/s/email-address-extractor.html"/>
+        <updated>2021-12-29T03:54:11.000Z</updated>
+        <summary type="html"><![CDATA[eMail Address Extractor 是一款Mac平台的从文件中提取email邮件地址的工具，可以非常方便地从Apple的邮件数据库、PDF文件、iWork文件、 DOCX文件或者是 XLSX格式的文件中提取email邮件地址，大大提高我们的工作效率。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncTime 3.7.5 文件同步工具]]></title>
+        <id>https://xclient.info/s/synctime.html</id>
+        <link href="https://xclient.info/s/synctime.html"/>
+        <updated>2021-12-29T03:53:34.000Z</updated>
+        <summary type="html"><![CDATA[SyncTime是一款Mac上的文件同步软件，SyncTime是同步文件的最简单的解决方案，您可以通过SyncTime轻松地保持最新的所有备份副本，分布在许多设备上。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privatus 6.3.5.1 浏览器数据缓存]]></title>
+        <id>https://xclient.info/s/privatus.html</id>
+        <link href="https://xclient.info/s/privatus.html"/>
+        <updated>2021-12-29T03:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Privatus是Mac os平台上的一款帮助用户清理网页的缓存，支持的浏览器有很多: Safari,、 Chrome、 Firefox、 Camino、Chromium这些常用的浏览器都能使用Privatus快速的清理，使用方便简单，不占用很多的内存。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TG Pro 2.64_13110 专业显示你的Mac实时温度]]></title>
+        <id>https://xclient.info/s/tg-pro.html</id>
+        <link href="https://xclient.info/s/tg-pro.html"/>
+        <updated>2021-12-29T03:52:19.000Z</updated>
+        <summary type="html"><![CDATA[TG Pro (Temperature Gauge Pro) 是一款专业显示你的Mac实时温度的软件，可以在系统内的菜单栏，独立菜单栏等位置显示出各个硬件的温度，也可以自定义风扇转速等。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphPad Prism 9.3.1 知名的医学绘图软件]]></title>
+        <id>https://xclient.info/s/graphpad-prism.html</id>
+        <link href="https://xclient.info/s/graphpad-prism.html"/>
+        <updated>2021-12-29T03:51:33.000Z</updated>
+        <summary type="html"><![CDATA[GraphPad Prism 中文名称：棱镜，是一款广泛运用于医学上的绘图工具，这对于学医或医者专业人士来说就是绝对专业好用。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookie 6.6.3.1 浏览器隐私保护]]></title>
+        <id>https://xclient.info/s/cookie.html</id>
+        <link href="https://xclient.info/s/cookie.html"/>
+        <updated>2021-12-29T03:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Cookie可以帮助你一键查看和清除所有安装的浏览器内的Cookie、历史记录、缓存，并且可以防止网站Cookie的追踪，提高对个人数据隐私的保护。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cocktail Monterey Edition 15.2 强大的系统维护工具]]></title>
+        <id>https://xclient.info/s/cocktail-monterey-edition.html</id>
+        <link href="https://xclient.info/s/cocktail-monterey-edition.html"/>
+        <updated>2021-12-29T03:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Cocktail Monterey Edition（适用于Monterey系统） 是一款Mac上强大的系统维护工具，这款软件支持系统垃圾文件的清理、文件权限的修复、网络的优化和系统隐藏配置的设置等等功能。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOAG 2021 Conference report]]></title>
+        <id>https://dzone.com/articles/doag-2021-conference-report</id>
+        <link href="https://dzone.com/articles/doag-2021-conference-report"/>
+        <updated>2021-12-29T03:44:41.000Z</updated>
+        <summary type="html"><![CDATA[The DOAG 2021 conference took place November 16-18. This is the long-running annual event organized by the German Oracle Technology user community —One of the largest in the world. Due to the pandemic]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom 3D 1.3.12 音效增强工具]]></title>
+        <id>https://xclient.info/s/boom-3d.html</id>
+        <link href="https://xclient.info/s/boom-3d.html"/>
+        <updated>2021-12-29T03:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Boom 3D是一款macOS平台的音效增强工具，是mac电脑上的系统内音效增强软件. 不仅可以改善你iTunes的音乐效果同时对于你播放电影文件或者在线视频均起作用. 只要系统内的声音均可通过Boom提升音质与效果。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WonderPen 2.0.4 优秀的文本写作工具]]></title>
+        <id>https://xclient.info/s/wonderpen.html</id>
+        <link href="https://xclient.info/s/wonderpen.html"/>
+        <updated>2021-12-29T03:37:02.000Z</updated>
+        <summary type="html"><![CDATA[WonderPen 是一款Mac上优秀的文本写作工具，简单易用的文本编辑器，支持 Markdown 语法。可切换为全屏专注模式，排除干扰，专心写作。]]></summary>
+        <author>
+            <name>xclient.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每个家都该拥有一个它——我的蒸汽拖把使用体验]]></title>
+        <id>https://sspai.com/post/70406</id>
+        <link href="https://sspai.com/post/70406"/>
+        <updated>2021-12-29T03:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Matrix 首页推荐
+Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+它是做卫生的大魔王工具
+是的，我认为它是整理家庭卫生的「大魔王」。没有它处理不了的污渍。无论是泼在地上的汤汤水水，还是洒在地上的颜料，抑或是顽固的油污，抱歉，蒸汽拖把没在怕的。有它在基本上不存在解决不了的地面污渍。
+出国在外，很长一段时间家里是我妈在做卫生，所以我一直不知道家里卫生是怎么做的。等我回来，我才发现家里换了个我没见过的玩意儿。后来才知道是蒸汽拖把。回来后就换我做家里的卫生，于是第一项任务就是解决家里厨房那被油烟熏入味儿的地面。
+怎么说那个地面呢，就像是地表有一层浅浅的胶水，拖鞋走上去、抬起来，会发出「嘶啦」的声音，粘滞感有，但没有那么强，属于那种让你能感觉得到，却不会造成你行动不便的程度。毫不夸张地说，拖一遍以后，地砖就发出了光泽。你能明显感觉到那股粘滞感已经基本消失。拖鞋踩在上面再也没有那种「嘶啦声」发出。一切顺滑，恢复了地砖该有的平滑感觉。
+效果真的显著
+它是洗地机吗
+先说结论，它「不是」洗地机。
+借着这次搬家，我才想着说，把这东西拎出来讲一讲。一开始我以为这东西挺冷门，最后在飞书群一问，挺多人想看看的。
+可能初看很多人都会认为这是个洗地机。其实它是蒸汽拖把哒（DIO 脸）！最常见的洗地机我相信大家都看过，就是某些型号的洒水车。我们平时路上会见到那种车身两边带着旋转型刷头的那种洒水车，就是比较常见的「洗地机」。体积笨重、需要一定的操作能力。然后再简化一下，就是家用的洗地机了。
+比较好一点的家用洗地机，就是 KARCHER 的洗地机。刚解除隔离的那天，我就迫不及待地驱车去家附近的山姆会员店逛逛了。刚好电器区有 KAR…]]></summary>
+        <author>
+            <name>ROB1N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播电商的下半场将如何展开？]]></title>
+        <id>http://www.huxiu.com/article/485880.html?f=wangzhan</id>
+        <link href="http://www.huxiu.com/article/485880.html?f=wangzhan"/>
+        <updated>2021-12-29T02:43:33.000Z</updated>
+        <summary type="html"><![CDATA[前有“欧莱雅面膜”事件，后有“薇娅偷漏税”事件，让直播电商频频登上热搜，疯狂又魔幻的直播电商，未来之路究竟在何方？
+
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
+        <author>
+            <name>虎嗅网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关键时刻掉链子？教你一招快速消除紧张]]></title>
+        <id>http://www.huxiu.com/article/485816.html?f=wangzhan</id>
+        <link href="http://www.huxiu.com/article/485816.html?f=wangzhan"/>
+        <updated>2021-12-29T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[一到考试、演讲、面试、告白的时候，不少朋友就会感到焦虑不安，那我们应该怎样才能消除紧张呢？其实只要改变想法就可以了。把本期视频和《怎么把压力转化为动力》这一期视频结合起来，相信你就能轻松应对所有“大场面”了。
+
+
+参考文献：
+Dunne, Simon & Chib, Vikram & Berleant, Joseph & O'Doherty, John. (2018). Reappraisal of Incentives Ameliorates Choking Under Pressure and Is Correlated with Changes in the Neural Representations of Incentives. Social cognitive and affective neuroscience. 14.10.1093/scan/nsy108.
+
+
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
+        <author>
+            <name>虎嗅网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Log4j多个高危漏洞（CVE-2021-44228/CVE-2021-4104/CVE-2021-45046/CVE-2021-45105/ CVE-2021-44832）处置手册]]></title>
+        <id>http://blog.nsfocus.net/apache-log4j-cve-2021-44228-cve-2021-4104-cve-2021-45046-cve-2021-45105-cve-2021-44832/</id>
+        <link href="http://blog.nsfocus.net/apache-log4j-cve-2021-44228-cve-2021-4104-cve-2021-45046-cve-2021-45105-cve-2021-44832/"/>
+        <updated>2021-12-29T01:52:06.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 12 Pro 评测：多项「首发」，能否再次成为安卓旗舰「质检员」？]]></title>
+        <id>http://www.geekpark.net/news/295223</id>
+        <link href="http://www.geekpark.net/news/295223"/>
+        <updated>2021-12-29T01:49:10.000Z</updated>
+        <summary type="html"><![CDATA[小米 10 系列时，小米明确了要冲击高端市场这一目标，着手提升产品各方面能力之外，更新策略也做了一些调整。之前小米数字系列遵循着一年一代的发布节奏，去年则改成了一年「1.5 次」更新，年初小米 10 被推向市场之后，年末很快又带来了搭载骁龙 888 平台的小米 11。
+还是熟悉的操作，赶在 2021 年即将结束前，小米正式发布了全新的小米 12 系列。对于这代数字系列，其实有两个方面值得关注，其一是今年小米的「驭龙」能力如何，此外，作为公司进军高端市场的第三代产品，包括显示、影像、ID 设计在内，其它方面做到了怎样的水准。
+
+        
+「目前」小米 12 系列一共包含三个产品型号，分别为小米 12、小米 12 Pro 和小米 12X，这篇文章我要说的是小米 12 Pro。
+
+
+全新骁龙 8，还有特别的快充方案
+相信通过各种渠道，大家应该已经知道小米 12 Pro 搭载了全新一代骁龙 8 系列平台。虽然摩托罗拉 edge X30 先一步用上了骁龙 8 Gen 1，但由于现阶段相关量产机型确实不多，很难对这颗芯片的普遍表现有一个相对准确的判断，所以我们还是决定先从性能以及散热部分开始讲起。
+
+
+简单过一遍骁龙 8 Gen 1。它采用了三星 4nm 制作工艺，CPU 为「1+3+4」设计，由 1×Cortex-X2 3.0GHz 超大核+3×Cortex-A710 2.5GHz 大核+4×Cortex-A510 1.80GHz 小核组成。官方称，CPU 性能提升 20%，功耗降低 30%，GPU 性能提升 30%，功耗降低 25%。
+众所周知，无论手机还是 PC，芯片本身的性能释放都和散热能力强相关，包括小米 11 在内，去年很多旗舰手机都是因为没办法很好处理骁龙 888 的发热问题，不得不选择相对比较谨慎的调教策略。按照高通的说法，骁龙 8 Gen 1 理论上是要「冷静…]]></summary>
+        <author>
+            <name>极客公园</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米 12 系列手机正式发布、三星恢复 One UI 4 更新推送等]]></title>
+        <id>https://sspai.com/post/70651</id>
+        <link href="https://sspai.com/post/70651"/>
+        <updated>2021-12-29T00:54:01.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事
+小米 12 系列手机正式发布
+12 月 28 日晚，小米召开新品发布会，正式发布了小米 12 系列手机。其中小米 12X 搭载高通骁龙 870 移动平台，采用了 6.28 英寸、FHD+ 分辨率 AMOLED 显示屏，支持 120Hz 可变刷新率，配备 2600mm² VC 液冷和 4500mAh 电池，支持 67W 有线快充；影像方面采用 50MP 主摄、5MP 长焦微距、13MP 超广角三摄配置；整机宽度为 69.9mm，重量为 176g。小米 12X 提供黑、蓝、紫三种配色，售价 3199 元起（8GB+128GB）。
+小米 12 搭载 4nm 骁龙 8 移动平台，采用 6.28 英寸、FHD+ 分辨率、120Hz 可变刷新率 AMOLED 显示屏，配备 2600mm² VC 液冷和 4500mAh 电池，支持 67W 有线快充、50W 无线充电以及 10W 反向充电；影像方面采用 50MP 主摄、5MP 长焦微距、13MP 超广角三摄配置；整机宽度为 69.9mm，玻璃版重量为 180g，素皮版重量为 179g。小米 12 提供黑、蓝、紫、绿四种配色，售价 3699 元起（8GB+128GB）。
+小米 12 Pro | 图：小米官网
+小米 12 Pro 同样搭载 4nm 骁龙 8 移动平台，采用 6.73 英寸、2K 分辨率 AMOLED 显示屏，峰值亮度可达 1500nit，配备 VC 液冷立体温控系统、4600mAh 电池和小米自研澎湃 P1 充电芯片，支持 120W 澎湃秒充、50W 无线充电以及 10W 反向充电；影像方面，采用了 SONY IMX707 50MP 广角主摄、50MP 人像主摄、50MP 超广角主摄三摄配置。小米 12 Pro 提供黑、蓝、紫、绿四种配色，售价 4699 元起（8GB+128GB）。来源
+此外，小米也在本次…]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相互宝 1 月关停，网络互助落幕；小米发 12 系列手机，3199 元起；周鸿祎：元宇宙是疫情「憋」出来的]]></title>
+        <id>http://www.geekpark.net/news/295564</id>
+        <link href="http://www.geekpark.net/news/295564"/>
+        <updated>2021-12-29T00:47:02.000Z</updated>
+        <summary type="html"><![CDATA[相互宝将于 1 月 28 日关停：关停前三次分摊全部由平台承担
+12 月 28 日晚间消息，继美团互助、水滴互助、轻松互助等平台宣布关停后，相互宝发布公告表示，为更长远保护所有成员权益，经过慎重思考和讨论，将于 2022 年 1 月 28 日 24 时停止运行。
+相互宝公告显示，自公告之日起，成员不再参与互助分摊，原定于公告日扣款的分摊金及 2022 年 1 月的两期分摊金，全部由相互宝平台承担。
+为了更好地保障相互宝成员权益，相互宝停止运行后，符合互助规则的患病成员仍可申请互助金：即医院初次确诊时间在 2022 年 1 月 28 日 24 时之前且确诊时在互助计划内的患病成员，可于医院初次确诊之日起 180 天内（含 180 天）发起申请。相互宝平台将根据现有互助规则审核，审核通过的互助金全部由相互宝平台承担，无需成员分摊。（来源：新浪科技）
+
+          
+
+周鸿祎：元宇宙是在疫情期间「憋出来」的 赞成产业元宇宙
+
+
+
+「今天就不喷元宇宙了，而是要把元宇宙引导到对国家和产业有利的方向发展，为真实世界服务。」三六零（创始人周鸿祎在 28 日举行的「开启数字安全元年——360 集团战略发布会」上表示，「元宇宙是在疫情期间『憋出来』的，是数字化发展到高级阶段的产物。我反对的是脱离现实，沉迷虚拟世界的元宇宙，但是赞成产业元宇宙，为实体经济服务，为制造业服务，为各种传统行业的数字化转型服务。」
+
+但周鸿祎同时认为，数字化程度越高，安全挑战越大，未来对虚拟世界的攻击会伤害到现实世界，因此元宇宙面临的安全风险，本质也是数字安全带来的挑战。他表示：「国家层面提出统筹传统安全与非传统安全，提升网络安全、数据安全、人工智能安全等领域的治理能力，标志着数字安全元年开启，进入到大安全时代。」（来源：极客公园）
+
+
+
+新冠病例继续攀升, 苹果关闭纽约市所有实体店
+12 月 28 日消息，…]]></summary>
+        <author>
+            <name>极客公园</name>
         </author>
     </entry>
     <entry>
@@ -939,18 +1876,6 @@ The following Post aims to introduce Cooperative MARL and goes through innovatio
         <link href="https://dzone.com/articles/sonarqube-local-setup-using-docker"/>
         <updated>2021-12-28T19:30:38.000Z</updated>
         <summary type="html"><![CDATA[SonarQube is a static code scanning tool that helps US to improve code quality. Join ME in this video tutorial as I explain Three easy steps to set up SonarQube using the Docker tool for our developme]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid Yoda Conditions in Perl You Should]]></title>
-        <id>https://dzone.com/articles/avoid-yoda-conditions-in-perl-you-should</id>
-        <link href="https://dzone.com/articles/avoid-yoda-conditions-in-perl-you-should"/>
-        <updated>2021-12-28T19:15:30.000Z</updated>
-        <summary type="html"><![CDATA[I remember a brief time in the mid-2000s insisting on so-called “Yoda conditions” in my Perl. I would place constants to the left of equality comparisons. In case I accidentally typed a single 
-=
- ins]]></summary>
         <author>
             <name>Readbub</name>
         </author>
@@ -987,46 +1912,6 @@ Facebook 上超过 5000 万用户数据信息泄露，被用于 2016 年美国�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米12系列手机正式发布：双尺寸2K屏幕，3699元起售丨钛快讯]]></title>
-        <id>https://www.tmtpost.com/5966627.html</id>
-        <link href="https://www.tmtpost.com/5966627.html"/>
-        <updated>2021-12-28T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[大屏小屏均有，更有搭载骁龙870入门之选的小米12X可选。]]></summary>
-        <author>
-            <name>糖直销_Orz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dew Review – Customizing ASP.NET Core 6.0 from @packtpub]]></title>
-        <id>https://www.alvinashcraft.com/2021/12/28/the-dew-review-customizing-asp-net-core-6-0-from-packtpub/</id>
-        <link href="https://www.alvinashcraft.com/2021/12/28/the-dew-review-customizing-asp-net-core-6-0-from-packtpub/"/>
-        <updated>2021-12-28T15:43:08.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周鸿祎：元宇宙最大的风险是数字安全｜CEO说]]></title>
-        <id>https://www.tmtpost.com/5966650.html</id>
-        <link href="https://www.tmtpost.com/5966650.html"/>
-        <updated>2021-12-28T15:38:00.000Z</updated>
-        <summary type="html"><![CDATA[“元宇宙是在疫情期间‘憋出来’的，是数字化发展到高级阶段的产物。我反对的是脱离现实，沉迷虚拟世界的元宇宙，但是赞成产业元宇宙，为实体经济服务，为制造业服务，为各种传统行业的数字化转型服务。”]]></summary>
-        <author>
-            <name>钛媒体官方账号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米12系列正式发布，目标锁定iPhone 13，雷军称全面对标苹果]]></title>
-        <id>https://www.tmtpost.com/5966640.html</id>
-        <link href="https://www.tmtpost.com/5966640.html"/>
-        <updated>2021-12-28T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[最新发布的小米第三代高端旗舰小米12系列第一次做到了向顶级旗舰看齐，针锋相对的与苹果iPhone 13系列一样规划了“双尺寸双高端”规格。小米12 Pro定位“全能高端旗舰”，剑指iPhone 13 Pro Max；小米12定位“小尺寸高端旗舰”，目标锁定iPhone 13。]]></summary>
-        <author>
-            <name>曹天鹏</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8岁男孩生日收6套试卷崩溃流泪，表姐：他说他明年不想过生日了]]></title>
         <id>https://shadiao.plus/?p=2888</id>
         <link href="https://shadiao.plus/archives/2888"/>
@@ -1046,56 +1931,6 @@ Facebook 上超过 5000 万用户数据信息泄露，被用于 2016 年美国�
 男子股票账户突然多出1亿巨款，工作人员：属于技术性故障最先出现在沙雕新闻。]]></summary>
         <author>
             <name>沙雕一号</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最前线丨正式对标苹果，双尺寸小米12系列3199元起售]]></title>
-        <id>https://36kr.com/p/1547017112676353</id>
-        <link href="https://36kr.com/p/1547017112676353"/>
-        <updated>2021-12-28T14:56:45.000Z</updated>
-        <summary type="html"><![CDATA[12月28日，小米12系列的发布会上，小米第三代高端手机小米12、小米12 Pro和小尺寸准旗舰小米12X正式发布。
- 
-小米集团创始人、董事长兼CEO雷军在发布会上表示，未来五年小米将投入1000亿规模的研发经费，比原来的500亿翻倍，并在产品策略上正式对标苹果，向苹果学习。
- 
-对标苹果，第一步是先从产品做起。小米12系列这次首次规划了一大一小的「双尺寸」规格。小米12 Pro的定位是「全能高端旗舰」，对标iPhone 13 Pro Max，更加强调配置和参数；小米12定位「小尺寸高端旗舰」，对标iPhone 13。
- 
-小尺寸是小米12最大的卖点，基本上单手可以完全握住，手机机身宽度只有6.9厘米。
- 
-这种做法也可以理解，有调研数据显示，苹果用户当中有75-80%选择了更小的标准版手机。看起来，小米12似乎更像是一款做了减法、主打女性群体的手机——抽调了Civi系列的产品经理老魏空降，而且配置和参数上也没有小米一直以来的堆料感。
- 
-芯片方面，小米12和小米12 Pro搭载的都是骁龙8平台，并且都是LPDDR5+ UFS 3.1 的闪存配置。
- 
-在影像方面，小米12 与小米12 Pro 的看点是，都搭载了自研的「CyberFocus 万物追焦」让拍照更稳，将 CyberDog 上的人体视觉追踪技术，首次移植到了手机。
- 
-不过，单单从硬件来看，小米12的配置比较中规中矩，用的是市面上使用最广的传感器索尼IMX766主摄，同时搭载 1300 万超广角镜头与 500 万长焦微距镜头；
- 
-小米12 Pro 的拍摄性能比12更佳，搭载5000万三主摄，首发索尼大底IMX707，进光量和感光能力大幅提升，同时还搭配小米自研夜枭2.0 夜景算法，提高夜景表现。
- 
-充电也是这次小米12 Pro有所提升的地方。值得一提的是，小米12 Pro 搭载了小米一颗自研的芯片澎湃P1。
- 
-这颗斥资1亿、布局18个月的芯片要落地并不容易。据小米方面介绍，每片小米澎湃 P1 在出厂时都需要通过 2500 多项测试，远高于传统充电芯片。
- 
-另外，目前有线充电速度突破到120W的智能手机基本都是采用双电芯系统，但高速的代价是降低了手机内部空间利用率。而小米12 Pro这次用的是单电芯的设计，兼顾了轻薄同时，疾速模式下18min可以充满手机。
- 
-小米12X和小米12在总体硬件配置上的主要差别是，前者芯片用的是骁龙870平台，并且取消无线充电功能。
- 
-定价方面，小米12X 3199元起售，小米12 3699元起售，小米12 Pro 4699元起售。 
- 
-这次，小米还发布了全新的MIUI13系统，主要在焦点计算、原子内存、液态存储三大核心技术进行升级，系统应用流畅度最高提升26%，头部第三方APP最高提升超50%。同时，MIUI13新增「全链路反诈」、「人脸验证防护」和「隐私水印」三大功能，全方位保护用户的个人信息、财产及隐私安全。
- 
-除了手机，发布会上小米还发布了1049元起售的高端手表小米Watch S1、499元起售的小米真无线降噪耳机。
- 
- 以下是小米12系列两款主要产品的参数信息：
- 
-
- 
-小米12
- 
-
- 
-小米12 pro]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -1179,80 +2014,6 @@ Facebook 上超过 5000 万用户数据信息泄露，被用于 2016 年美国�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[教育部：24365校园招聘服务为2021届毕业生提供岗位信息超2300万条]]></title>
-        <id>https://www.jiemodui.com/N/130172.html</id>
-        <link href="https://www.jiemodui.com/N/130172.html"/>
-        <updated>2021-12-28T14:35:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>教育部会同20多个部委，面向重点领域、重点群体，举办区域性、行业性、联盟性专场招聘会54场，提供岗位信息近500万个 ... 就业指导方面，王辉介绍，教育部与各地教育部门共同打造“互联网+就业指导”公益直播课，今年聚焦就业形势与政策、就业观念引导、基层就业、大学生征兵等主题，面向2021届高校毕业生累计举办46场，观看人次超过1.35亿 ... 各地各高校普遍推出“云招聘”“云面试”等服务，已成为高校毕业生获取就业信息、进行求职面试的重要渠道。</p><p><a href='https://www.jiemodui.com/N/130172.html'>芥末堆 : 教育部：24365校园招聘服务为2021届毕业生提供岗位信息超2300万条</a></p><p><a href='https://www.jiemodui.com/N/130173.html'>芥末堆 : 创历史新高！2022届高校毕业生规模预计1076万人，同比增加167万</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣布对标苹果，小米12系列正式发布]]></title>
-        <id>https://tech.ifeng.com/c/8CLpZ310AgL</id>
-        <link href="https://tech.ifeng.com/c/8CLpZ310AgL"/>
-        <updated>2021-12-28T14:29:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>屏幕方面，小米12 Pro采用了6.73英寸AMOLED微曲屏，居中挖孔设计，3200x1440分辨率，并采用三星E5屏幕材质，值得注意的是，新机还采用了小米自研智能动态刷新率（1-120Hz），可根据滑动情况实时自动调节刷新率 ... 续航方面，小米12 Pro内置了4600mAh，采用了120W有线+50W无线充电组合，值得注意的是，新机还首发搭载了小米自研充电芯片澎湃P1，根据官方介绍，充电效率可高达96.8%，这也是小米第三款的自研芯片 ... 小米12以及小米12 Pro外，小米12X也在本场发布会上正式推出，它与小米12的区别，主要是采用了骁龙870 SoC，并且不支持无线充电。</p><p><a href='https://tech.ifeng.com/c/8CLpZ310AgL'>凤凰科技 : 雷军正式宣战苹果！推双尺寸旗舰机，要砸1000亿搞研发</a></p><p><a href='https://www.leikeji.com/article/45035'>雷科技 : 小米12发布！价格血崩，雷军呛声</a></p><p><a href='https://tech.ifeng.com/c/8CLpZ310ArU'>凤凰科技 : 小米年终发布会总结：3199 元起，小米 12 系列来了！还有重磅更新的 MIUI</a></p><p><a href='https://www.leikeji.com/article/45058'>雷科技 : 小米12系列发布：狠抓快和稳，MIUI 13野心还不小</a></p><p><a href='https://www.ifanr.com/1463534?utm_source=rss&utm_medium=rss&utm_campaign='>爱范儿 : 小米 12 Pro 首发测评：全面对标 iPhone 的它，够强吗？</a></p><p><a href='https://tech.ifeng.com/c/8CMQr6Kkvgi'>凤凰科技 : 小米 12 Pro 首发测评：全面对标 iPhone 的它，够强吗？</a></p><p><a href='https://www.leikeji.com/article/44951'>雷科技 : 卧槽！小米手机能用“鸿蒙”了？</a></p><p><a href='https://tech.ifeng.com/c/8CLK3xc4Ffb'>凤凰科技 : 小米12还没发布就上试卷了？米粉老师让学生算其充电时间</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219759.htm'>CNBeta : 小米发布无线投屏神器小米拍拍：支持4K 30帧 售价499元</a></p><p><a href='https://tech.ifeng.com/c/8CLhutWmFNu'>凤凰科技 : 小米12 Pro首发图赏：用清淡的素皮 包裹澎湃的骁龙</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219789.htm'>CNBeta : 对标iPhone 13！小米12发布：售价3699元起</a></p><p><a href='https://www.pingwest.com/w/256098'>品玩 : 小米 12 正式发布 起售价3699元</a></p><p><a href='https://www.leikeji.com/article/45054'>雷科技 : 4699元！新机皇小米12 Pro登场：用强悍配置死磕苹果</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219795.htm'>CNBeta : 4699元起 小米12 Pro手机发布：骁龙8+自研P1双芯</a></p><p><a href='https://www.pingwest.com/w/256099'>品玩 : 小米12 Pro正式发布，起售价4699元</a></p><p><a href='https://tech.ifeng.com/c/8CLjdxmpJLq'>凤凰科技 : 小米12 Pro发布：搭骁龙8处理器 内置澎湃P1芯片 售4699元起</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219803.htm'>CNBeta : “骁龙870版”小米12：小米12X发布：3199元起</a></p><p><a href='https://www.leikeji.com/article/45055'>雷科技 : 小屏次旗舰来了！小米12X登场：部分参数比小米12 Pro强</a></p><p><a href='https://www.jiemian.com/article/6958702.html'>界面 : 宣布对标苹果，小米12系列正式发布</a></p><p><a href='https://36kr.com/p/1547017112676353'>36Kr : 最前线丨正式对标苹果，双尺寸小米12系列3199元起售</a></p><p><a href='https://www.tmtpost.com/5966640.html'>钛媒体 : 小米12系列正式发布，目标锁定iPhone 13，雷军称全面对标苹果</a></p><p><a href='https://tech.ifeng.com/c/8CLqPxgElNq'>凤凰科技 : 小米12系列正式发布，目标锁定iPhone 13，雷军称全面对标苹果</a></p><p><a href='https://www.leiphone.com/category/iot/XLD47JGe7Ak0cGWC.html'>雷锋网 : 3199元起，小米12/12X系列发布</a></p><p><a href='https://www.tmtpost.com/5966627.html'>钛媒体 : 小米12系列手机正式发布：双尺寸2K屏幕，3699元起售丨钛快讯</a></p><p><a href='https://tech.ifeng.com/c/8CLsax0izmQ'>凤凰科技 : 小米12系列手机正式发布：双尺寸2K屏幕，3699元起售丨钛快讯</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝升级“生活号”：公域流量私域化终于有了"交通枢纽"]]></title>
-        <id>https://36kr.com/p/1547129124022277</id>
-        <link href="https://36kr.com/p/1547129124022277"/>
-        <updated>2021-12-28T14:24:13.000Z</updated>
-        <summary type="html"><![CDATA[支付宝App迎来新一轮改版，这次从公域流量通往私域经营的新入口正在打通。
- 
-Tech星球获悉，支付宝“生活号”于近期测试升级，并新增App首页“生活”频道。此前，“生活号”的入口在支付宝客户端底栏的第四个tab页“消息”的二级目录中，此番升级后，点击底栏C位“生活”即可直达。
- 
-在“生活”频道，商家能够通过图文、短视频、直播等方式发布品牌资讯、行业知识等内容。
- 
-
- 
-.
- 
-更重要的是，新升级的生活号和支付宝小程序、搜索实现了链路打通。对于数以万计的支付宝平台商家而言，新版生活号及“生活频道”的上线或许解答了一个核心问题：究竟如何在支付宝上做私域经营？
- 
-小程序+新版生活号=商家支付宝私域矩阵
- 
-早在2016年，支付宝便推出生活号。两年后，同样连接商家和用户的小程序也上线。
- 
-但长期以来，在支付宝平台上，生活号和小程序就像两条平行线，目的一致却彼此“独立”。直到此次升级生活号后，小程序和生活号才产生交集，真正实现互联互通。
- 
-以往，开通生活号的商家们通过图文的方式将服务、营销等信息传递给C端用户。生活号可以看作支付宝提供给B端商家的互动沟通工具，在生活号的场域里，商家通过内容积累粉丝，增加用户粘性。
- 
-而小程序则是提供给商家的“硬基础设施”。商家通过小程序给用户提供具体的服务项目或是进行商品交易转化。如在支付宝中的淘特小程序里，用户可以直接下单购买商品；通过汉堡王的小程序，可以直接点餐或外卖。
- 
-今年以来，支付宝在频繁迭代小程序，增强其“存在感”。5月，支付宝将收藏入口“我的小程序”提升到首页九宫格的固定位置。用户通过九宫格这一入口可以一键直达“最近使用”或“收藏”的小程序服务，缩短复访路径。
- 
-半年后的11月，支付宝内测收藏引导能力，允许商户向用户发布收藏引导提示，提升小程序的留存率；一个月后，支付宝进一步开放“支付成功页”支付后场景，允许商家在附近…]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰康系亏本减持阳光城股份，套现约12亿]]></title>
-        <id>https://www.tmtpost.com/nictation/5965403.html</id>
-        <link href="https://www.tmtpost.com/nictation/5965403.html"/>
-        <updated>2021-12-28T13:20:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>阳光城收到股东泰康人寿及泰康养老的通知，泰康人寿及泰康养老于2021年12月27日与泰禾建材签订《股份转让协议》，约定泰禾建材通过协议受让的方式，从泰康人寿及泰康养老受让公司7.41%的股份，共计3.07亿股，转让价款9.36亿元（含税） ... 当时泰康集团通过旗下子公司泰康人寿、泰康养老以每股6.09元的代价入股阳光城，持有阳光城5.55亿股，总斥资约33.78亿元 ... 在泰康系减持阳光城股份前，阳光城执行董事长朱荣斌近期也亏本减持了一部分个人持股。</p><p><a href='https://www.tmtpost.com/nictation/5965403.html'>钛媒体 : 阳光城：泰康人寿及泰康养老拟通过协议和大宗交易方式减持9.41%股份</a></p><p><a href='https://www.tmtpost.com/nictation/5966532.html'>钛媒体 : 阳光城1亿股份被司法冻结</a></p><p><a href='https://www.jiemian.com/article/6956531.html'>界面 : 泰康系亏本减持阳光城股份，套现约12亿</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百货 50 条，全部是实用的玩意儿（1229 第 2058 期）]]></title>
-        <id>https://www.bohaishibei.com/?p=70709</id>
-        <link href="https://www.bohaishibei.com/post/70709/"/>
-        <updated>2021-12-28T13:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Oreo 奥利奥 元气满满小红盒饼干礼盒 18包858g39.9元包邮 大人小孩都爱吃的奥利奥，18包美味，1次拥有，目前天猫超市特价￥59.9，下单立减￥10，叠加10元优惠券，实付39.9元包邮，…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为 2000 万听障者，开辟一条急救「生命线」]]></title>
         <id>http://www.geekpark.net/news/295401</id>
         <link href="http://www.geekpark.net/news/295401"/>
@@ -1279,16 +2040,6 @@ Tech星球获悉，支付宝“生活号”于近期测试升级，并新增App�
 2019 年前后，中国不少城市集中推…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIUI 13正式发布 流畅度、稳定性、安全性大提升]]></title>
-        <id>https://www.leikeji.com/article/45051</id>
-        <link href="https://www.leikeji.com/article/45051"/>
-        <updated>2021-12-28T13:05:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>流畅度和速度方面，头部三方应用如微信、QQ、微博、头条、抖音、淘宝等，全机型流畅度明显提升，相较于MIUI 12.5增强版，MIUI 13在旗舰机上累计掉帧时长下降15%、入门机更是下降52% ... 本次发布会上，“MIUI宇宙”也正式扩展，从原来的安卓手机系统，扩展为多设备、跨平台操作系统，新增MIUI Pad、MIUI Home（触屏音箱）、MIUI TV、MIUI Watch等，细分为个人、家庭、企业三大场景 ... MIUI 13稳定版第一批预计2022年1月底左右开始陆续推送，除了直接预装的小米12系列，其它首批机型包括小米11 Ultra、小米11 Pro、小米11、小米平板5 Pro 5G、小米平板5 Pro和小米平板5。</p><p><a href='https://www.leikeji.com/article/45051'>雷科技 : 比小米12还有看头？MIUI 13登场：全面覆盖手机平板电视</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219781.htm'>CNBeta : MIUI 13正式发布 流畅度、稳定性、安全性大提升</a></p><p><a href='https://www.pingwest.com/w/256101'>品玩 : 小米公布 MIUI 13 、MIUI Home、MIUI TV 发版计划</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1336,66 +2087,6 @@ Steam商城里有一项专属标签——“女性主角”，《尼尔：机械
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比亚迪与速腾聚创达成战略合作，加速汽车智能化布局]]></title>
-        <id>https://www.tmtpost.com/nictation/5966481.html</id>
-        <link href="https://www.tmtpost.com/nictation/5966481.html"/>
-        <updated>2021-12-28T11:51:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>比亚迪与智能激光雷达系统科技企业RoboSense（“速腾聚创”）近日举行战略合作签约仪式 ... 此次双方强强联合，形成全面、长期和稳定的战略合作伙伴关系，将依托比亚迪深厚的智能化技术积淀和深度的垂直整合能力，以及速腾聚创领先的激光雷达硬件、智能感知软件和芯片三大核心技术，通过多领域业务融合，共同积极探索智能化前沿技术，开发市场领先的智能汽车产品，并共同引领智能汽车行业发展。</p><p><a href='https://www.tmtpost.com/nictation/5966481.html'>钛媒体 : 比亚迪与速腾聚创达成战略合作，加速汽车智能化布局</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dew Drop – December 28, 2021 (#3587)]]></title>
-        <id>https://www.alvinashcraft.com/2021/12/28/dew-drop-december-28-2021-3587/</id>
-        <link href="https://www.alvinashcraft.com/2021/12/28/dew-drop-december-28-2021-3587/"/>
-        <updated>2021-12-28T11:47:21.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米翻盖折叠手机专利曝光：后置副屏、双摄]]></title>
-        <id>https://tech.ifeng.com/c/8CLJPS6fMUm</id>
-        <link href="https://tech.ifeng.com/c/8CLJPS6fMUm"/>
-        <updated>2021-12-28T11:30:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>小米专利中的这款手机背面有两个摄像头和一个小小的显示屏，在内屏左上角还将有一个药丸状的打孔，用于双前置摄像头 ... 小米也加入翻盖折叠手机的行列并不让人意外，摩托罗拉、华为和三星已经有这一类的产品，而小米也想分一杯羹 ... 这款手机应该不会出现在今天晚上的小米发布会上，此次发布会的主角是小米 12 系列、MIUI 13 和 Watch S1 智能手表。</p><p><a href='https://tech.ifeng.com/c/8CLJPS6fMUm'>凤凰科技 : 小米翻盖折叠手机专利曝光 后置副屏、双摄</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219673.htm'>CNBeta : [图]小米上下折叠手机专利公示</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被指性别歧视，《英雄联盟》开发商拳头公司被判赔1亿美元]]></title>
-        <id>https://tech.ifeng.com/c/8CLG0EW92r4</id>
-        <link href="https://tech.ifeng.com/c/8CLG0EW92r4"/>
-        <updated>2021-12-28T11:26:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>腾讯全资控股公司拳头游戏就2018年的性别歧视集体诉讼案达成和解，并同意支付1亿美元的赔偿和法律费用 ... 早在2018年，《英雄联盟》开发商拳头游戏因职场不良行为和性别歧视的“兄弟文化”遭媒体曝光 ... 该案件原本被认为在2019年12月向受雇于该公司的1000多名女性员工集体支付1000万美元的巨额赔偿结案，但2020年初，加利福尼亚公平就业住房部门和劳工标准执行部曾出面表示，拳头发生的违法行为，妇女有权获约4亿美元赔偿。</p><p><a href='https://tech.ifeng.com/c/8CLG0EW92r4'>凤凰科技 : 被指性别歧视，《英雄联盟》开发商拳头公司被判赔1亿美元</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茅忠群与方太，二十五年风云的为与不为 | 风云创始人]]></title>
-        <id>https://www.tmtpost.com/5962511.html</id>
-        <link href="https://www.tmtpost.com/5962511.html"/>
-        <updated>2021-12-28T11:19:00.000Z</updated>
-        <summary type="html"><![CDATA[“中学明道、西学优术、中西合璧、以道御术。”方太在商业世界走出了一条属于自己的路，茅忠群和方太的风云故事，也在中国“智”造升级的新时代中徐徐展开。]]></summary>
-        <author>
-            <name>盖虹达</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【华楠直播间 | 2021大复盘】飞书、钉钉、企微，办公软件怎么选？]]></title>
-        <id>https://www.tmtpost.com/5965415.html</id>
-        <link href="https://www.tmtpost.com/5965415.html"/>
-        <updated>2021-12-28T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[华楠直播间第40期，也是2021钛媒体年底大复盘第1期：2021年企业办公软件都发生了哪些变化？]]></summary>
-        <author>
-            <name>华楠直播间</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[谁在让电动车越来越贵]]></title>
         <id>http://www.huxiu.com/article/485745.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/485745.html?f=wangzhan"/>
@@ -1431,123 +2122,6 @@ Steam商城里有一项专属标签——“女性主角”，《尼尔：机械
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[good News and Bad News, PIVOT and Turn - Day 6: Building DDTJ]]></title>
-        <id>https://dzone.com/articles/good-news-and-bad-news-pivot-and-turn-building-ddt</id>
-        <link href="https://dzone.com/articles/good-news-and-bad-news-pivot-and-turn-building-ddt"/>
-        <updated>2021-12-28T10:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Day 1
-Day 2
-Day 3
-Day 4
-Day 5
-Last week I spent 5 days building and designing the DDTJ Project. Hopefully, I’ll complete the MVP by this weekend. As we left the series last week, I was stuck. This wee]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想抢了高通8首发，小米12怎么办？]]></title>
-        <id>https://www.tmtpost.com/5965603.html</id>
-        <link href="https://www.tmtpost.com/5965603.html"/>
-        <updated>2021-12-28T10:42:00.000Z</updated>
-        <summary type="html"><![CDATA[想留在舞台中央光靠骁龙8 Gen1是不够的。]]></summary>
-        <author>
-            <name>陆玖财经</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[薇娅“倒下”后，直播电商需要一场行业大反思]]></title>
-        <id>https://www.tmtpost.com/5966299.html</id>
-        <link href="https://www.tmtpost.com/5966299.html"/>
-        <updated>2021-12-28T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[为何说直播电商跑偏了？]]></summary>
-        <author>
-            <name>王新喜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相互宝宣布关停：累计完成71期互助，救助超过17.9万人]]></title>
-        <id>https://tech.ifeng.com/c/8CLHDwhDrtS</id>
-        <link href="https://tech.ifeng.com/c/8CLHDwhDrtS"/>
-        <updated>2021-12-28T10:38:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>相互宝公告显示，自公告之日起，成员不再参与互助分摊，原定于公告日扣款的分摊金及2022年1月的两期分摊金，全部由相互宝平台承担 ... 为了更好地保障相互宝成员权益，相互宝停止运行后，符合互助规则的患病成员仍可申请互助金：即医院初次确诊时间在2022年1月28日24时之前且确诊时在互助计划内的患病成员，可于医院初次确诊之日起180天内（含180天）发起申请 ... 从最新公示分摊的信息看，目前相互宝的成员规模近7500万人，累计完成71期互助，救助超过17.9万名患病成员。</p><p><a href='https://tech.ifeng.com/c/8CLHDwhDrtS'>凤凰科技 : 相互宝关停：10年网络互助的功与过</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219859.htm'>CNBeta : 相互宝关停：10年网络互助的功与过</a></p><p><a href='https://www.tmtpost.com/5966555.html'>钛媒体 : 相互宝官宣停运，十年“网络互助”彻底熄火了</a></p><p><a href='https://www.jiemian.com/article/6957678.html'>界面 : 快看｜相互宝将于1月28日关停，今起用户不再参与分摊</a></p><p><a href='https://www.jiemian.com/article/6957680.html'>界面 : 相互宝宣布关停：累计完成71期互助，救助超过17.9万人</a></p><p><a href='https://www.cnbeta.com/articles/tech/1219745.htm'>CNBeta : 相互宝将于1月28日关停：关停前三次分摊全部由平台承担</a></p><p><a href='https://tech.ifeng.com/c/8CLXYAkIaA8'>凤凰科技 : 相互宝宣布关停：即日起分摊金平台承担，3年募资259亿</a></p><p><a href='https://www.leikeji.com/article/45047'>雷科技 : 遗憾！支付宝相互宝宣布关停：国内最后一个互助平台消失</a></p><p><a href='https://www.36kr.com/p/1547185341256201'>36Kr : 用户过亿，相互宝将关停，监管已多次提示风险</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kafka for Condition Monitoring and Predictive Maintenance in Industrial IoT]]></title>
-        <id>https://dzone.com/articles/kafka-for-condition-monitoring-and-predictive-main</id>
-        <link href="https://dzone.com/articles/kafka-for-condition-monitoring-and-predictive-main"/>
-        <updated>2021-12-28T10:38:32.000Z</updated>
-        <summary type="html"><![CDATA[The manufacturing industry is moving away from just selling machinery, devices, and other hardware. software and services increase revenue and margins. A former cost center becomes a profit center for]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垂直电商的至暗时刻，谁是下一个“蘑菇街”？]]></title>
-        <id>https://www.tmtpost.com/5966305.html</id>
-        <link href="https://www.tmtpost.com/5966305.html"/>
-        <updated>2021-12-28T10:37:00.000Z</updated>
-        <summary type="html"><![CDATA[“不专业”或是垂类电商的致命死因。]]></summary>
-        <author>
-            <name>锌刻度</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Debugging on a Google Action]]></title>
-        <id>https://dzone.com/articles/local-debugging-on-a-google-action</id>
-        <link href="https://dzone.com/articles/local-debugging-on-a-google-action"/>
-        <updated>2021-12-28T10:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Google Actions can be developed using Firebase Cloud functions or a REST API endpoint. Firebase Cloud Function function is Googles's implementation of Serverless functions available in Firebase. Googl]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[博海拾贝1228]记住这个吹一辈子的日子]]></title>
-        <id>https://www.bohaishibei.com/?p=70696</id>
-        <link href="https://www.bohaishibei.com/post/70696/"/>
-        <updated>2021-12-28T10:12:38.000Z</updated>
-        <summary type="html"><![CDATA[【1】澳门 【2】大爷去交管局交下车船税 【3】记住这个吹一辈子的日子 【4】挖机师傅看了沉默 【5】是不是你昨天出去玩没叫劳资 【6】​你不是卖猪蹄是卖刀的吧 【7】你小子长的没法看 【8】你们可太…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Performance Management Mistakes]]></title>
-        <id>https://dzone.com/articles/common-performance-management-mistakes</id>
-        <link href="https://dzone.com/articles/common-performance-management-mistakes"/>
-        <updated>2021-12-28T10:05:47.000Z</updated>
-        <summary type="html"><![CDATA[How To Avoid Pain Points Introduced by Cloud-Based Architectures
-Editor’s Note: The following is an article written for and published in DZone’s 2021 Application Performance Management Trend report.
-P]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析师预计特斯拉四季度在国内有望交付10万辆电动汽车]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219737.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219737.htm"/>
-        <updated>2021-12-28T10:04:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>从分析师预计的情况来看，在特斯拉四季度所交付的电动汽车中，有相当一部分是在国内市场 ... 虽然特斯拉并未公布每一季度电动汽车在国内市场的交付量，但从乘联会等所发布的全国乘用车市场分析报告来看，特斯拉四季度在国内市场的交付量，很有可能达到10万辆 ... 乘联会等的报告显示，在四季度的前两个月，特斯拉的批发销量分别为54391辆、52859辆，其中出口40666辆、21127辆，照此计算特斯拉10月份和11月份在国内市场就分别交付13725辆、31732辆，两个月共交付45457辆电动汽车。</p><p><a href='https://www.cnbeta.com/articles/tech/1219737.htm'>CNBeta : 分析师预计特斯拉四季度在国内有望交付10万辆电动汽车</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国监管机构进一步调查起亚、现代发动机起火问题]]></title>
-        <id>https://www.tmtpost.com/nictation/5965671.html</id>
-        <link href="https://www.tmtpost.com/nictation/5965671.html"/>
-        <updated>2021-12-28T09:46:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>美国国家公路交通安全管理局（NHTSA）加大了对困扰部分现代、起亚汽车六年多的发动机火灾的调查力度 ... NHTSA表示，开始对约300万辆汽车进行“工程分析”，评估这两家汽车制造商召回措施的有效性等问题 ... 此前美国汽车安全监管机构称，现代和起亚未能及时召回160万辆汽车，原因是引擎问题。</p><p><a href='https://www.tmtpost.com/nictation/5965671.html'>钛媒体 : 美国监管机构进一步调查起亚、现代发动机起火问题，近300万辆汽车将接受检查</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[地平线余凯：科学家变成创业者，最不能改的就是「求真」]]></title>
         <id>http://www.geekpark.net/news/295516</id>
         <link href="http://www.geekpark.net/news/295516"/>
@@ -1572,26 +2146,6 @@ P]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[告别脚本小子系列丨JAVA安全(1)——JAVA本地调试和远程调试技巧]]></title>
-        <id>https://www.freebuf.com/vuls/317697.html</id>
-        <link href="https://www.freebuf.com/vuls/317697.html"/>
-        <updated>2021-12-28T09:27:06.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球5G网速缩水：今年三季度同比下滑最高达39%]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1219681.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1219681.htm"/>
-        <updated>2021-12-28T09:25:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>网络连接速度测试服务商Ookla日前公布了2021年第三季的Speedtest Intelligence调查报告，显示三季度全球地区的5G网络下载速度平均为166.13Mbps，相较去年同期的206.22Mbps约下降13%，而平均上传速度则为21.08Mbps，相比去年同期的29.52Mbps更是下滑达39% ... 相较去年同期在全球地区累计启用 5G 网络服务的国家数量达 99 个，今年第三季则是累计增加 13 个，总数达 112 个 ... 若以城市作为比较的话，目前韩国首尔成为全球 5G 网络下载速度最快的城市，可达 530.93Mbps，其次则是挪威奥斯陆，以及瑞典斯德哥尔摩，北京排名第 11。</p><p><a href='https://www.cnbeta.com/articles/tech/1219681.htm'>CNBeta : 4G还没退服 全球5G网速已开始缩水39%</a></p><p><a href='https://tech.ifeng.com/c/8CLNILIM4nn'>凤凰科技 : 全球5G网速缩水：今年三季度同比下滑最高达39%</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[有线还是无线？别让它们束缚你听音乐的脚步]]></title>
         <id>https://sspai.com/post/70317</id>
         <link href="https://sspai.com/post/70317"/>
@@ -1607,16 +2161,6 @@ P]]></summary>
 BTR5 2021 还标配一个小夹子水晶壳，出街的时候可以非常方便地夹在衣服或者裤子口袋中，还自带一个小的麦克风，有电话…]]></summary>
         <author>
             <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原创】VulnHub靶机实战：CyNix: 1]]></title>
-        <id>https://www.freebuf.com/articles/web/231877.html</id>
-        <link href="https://www.freebuf.com/articles/web/231877.html"/>
-        <updated>2021-12-28T09:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Vulnhub是一个提供各种漏洞环境的靶场平台，供安全爱好者学习使用，大部分环境是做好的虚拟机镜像文件，镜像预先设计了多种漏洞，需要使用VMware或者VirtualBox运行 ... 每个镜像会有破解的目标，大多是Boot2root，从启动虚机到获取操作系统的root权限和查看flag。]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1638,16 +2182,6 @@ BTR5 2021 还标配一个小夹子水晶壳，出街的时候可以非常方便�
 砂锅作为传统烹饪工具，在有时间的情况下选用它更能…]]></summary>
         <author>
             <name>毛仔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最大图片服务公司遭勒索攻击、《蜘蛛侠》新片盗版包含挖矿木马｜12月28日全球网络安全热点]]></title>
-        <id>https://www.freebuf.com/news/317673.html</id>
-        <link href="https://www.freebuf.com/news/317673.html"/>
-        <updated>2021-12-28T08:22:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -1711,65 +2245,6 @@ Apple Music：2021 音乐回忆
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[量子精密测量创新企业「国仪量子」完成C轮融资]]></title>
-        <id>https://www.tmtpost.com/5964690.html</id>
-        <link href="https://www.tmtpost.com/5964690.html"/>
-        <updated>2021-12-28T07:35:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>国仪量子宣布完成数亿元C轮融资，投资方包括国风投基金、中科院资本、IDG资本、合肥产投、松禾资本、前海母基金等，同创伟业等老股东也继续参与了本轮融资 ... 国仪量子成立于2016年，致力于以量子精密测量和量子计算为核心技术，打造先进仪器产业集群 ... 国仪量子期待携手各位合作伙伴，加强前沿探索和前瞻布局，加大关键核心技术攻关力度，持续引领量子精密测量产业化发展。</p><p><a href='https://www.tmtpost.com/5964690.html'>钛媒体 : 利好不断+概念炒作，量子计算会是“投资泡沫”吗？</a></p><p><a href='https://www.tmtpost.com/nictation/5966304.html'>钛媒体 : 百度公布在量子平台、生物计算等领域最新探索</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211227-366395.html'>投中网 : 量子精密测量创新企业「国仪量子」完成C轮融资</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手写原笔迹电子签名公司「傲雄在线」获数千万A轮融资]]></title>
-        <id>https://www.36kr.com/p/1545428636690441</id>
-        <link href="https://www.36kr.com/p/1545428636690441"/>
-        <updated>2021-12-28T07:26:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>全国首家手写原笔迹电子签名公司「傲雄在线」，获得盈科投资领投的数千万元A轮融资 ... 重庆傲雄在线信息技术有限公司，与其他CA数字认证的电子签名公司不同，它是国内首家以手写原笔迹生物特征识别技术为核心并获得司法鉴定资质的电子签名公司 ... 盈科投资一向关注新一代信息技术的发展，看好「傲雄在线」有别于现有解决方案中以CA为基础的技术路线，在适用范围、易用性、安全性等方面均有较大突破，有望跑出电子签名产业链的头部企业。</p><p><a href='https://www.36kr.com/p/1545428636690441'>36Kr : 36氪首发∣盈科投资领投，全国首家手写原笔迹电子签名公司「傲雄在线」获数千万A轮融资</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache HTTP Server 2.4.52 发布，修复关键漏洞]]></title>
-        <id>https://www.freebuf.com/news/317654.html</id>
-        <link href="https://www.freebuf.com/news/317654.html"/>
-        <updated>2021-12-28T07:19:16.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同为黄马褂，命运有差别]]></title>
-        <id>https://www.bohaishibei.com/?p=70707</id>
-        <link href="https://www.bohaishibei.com/post/70707/"/>
-        <updated>2021-12-28T06:59:42.000Z</updated>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威联通NAS设备在圣诞期间遭到了勒索攻击]]></title>
-        <id>https://www.freebuf.com/news/317647.html</id>
-        <link href="https://www.freebuf.com/news/317647.html"/>
-        <updated>2021-12-28T06:52:10.000Z</updated>
-        <summary type="html"><![CDATA[据Bleeping Computer网站消息，网络附加存储 (NAS)设备制造商威联通（QNAP）用户在圣诞节期间遭遇了eCh0raix 勒索软件（也称为 QNAPCrypt）攻击。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网领袖们的形象到底是如何走下神坛的？]]></title>
-        <id>https://www.bohaishibei.com/?p=70706</id>
-        <link href="https://www.bohaishibei.com/post/70706/"/>
-        <updated>2021-12-28T06:43:32.000Z</updated>
-        <summary type="html"><![CDATA[文/卫夕 来源/卫夕指北（ID：weixizhibei） 对于科技圈的创始人领袖而言，两个重要的变化正在悄然发生—— 第一、在客观上，他们的整体公众形象从正面逐渐变得模糊甚至开始变得负面； 第二、在主…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[App+1｜移动设备上标注 PDF 有了「新选手」：Drawboard PDF 登陆 iOS 和 iPadOS]]></title>
         <id>https://sspai.com/post/70608</id>
         <link href="https://sspai.com/post/70608"/>
@@ -1785,56 +2260,6 @@ Apple Music：2021 音乐回忆
 在 iPadOS 上的 Drawboard PDF 中，默认从 iPadOS 的「文…]]></summary>
         <author>
             <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最大图片服务公司Shutterfly遭Conti 勒索软件攻击]]></title>
-        <id>https://www.freebuf.com/news/317634.html</id>
-        <link href="https://www.freebuf.com/news/317634.html"/>
-        <updated>2021-12-28T06:23:10.000Z</updated>
-        <summary type="html"><![CDATA[攻击者对数千台设备进行加密，并窃取了Shutterfly公司的数据。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博昆仑完成新一轮早期融资]]></title>
-        <id>https://36kr.com/p/1546386100349192</id>
-        <link href="https://36kr.com/p/1546386100349192"/>
-        <updated>2021-12-28T06:15:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>赛博昆仑近日宣布已完成新一轮早期融资 ... 本轮融资由中金资本旗下中金传誉凤凰基金领投，山行资本跟投，老股东红杉中国种子基金、真格基金持续加码 ... 赛博昆仑创建于2021年1月，公司在软硬件与系统安全、云安全、安全攻防与对抗等领域有着丰富的经验能力和全球领先的技术成果，致力于为政府、金融、能源、运营商、教育、医疗、互联网等行业客户提供全球最尖端的、面向未来的高级网络安全产品、解决方案与服务。</p><p><a href='https://36kr.com/p/1546386100349192'>36Kr : 36氪首发｜「赛博昆仑」完成近亿元新一轮融资，半年内融资总额近1.5亿元</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20211228-366418.html'>投中网 : 赛博昆仑完成新一轮早期融资，半年多融资额共计近1.5亿元</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些看上去很普通，实际上很厉害的国货品牌？]]></title>
-        <id>https://bohaishibei.com/?p=70127</id>
-        <link href="https://www.bohaishibei.com/post/70127/"/>
-        <updated>2021-12-28T05:52:33.000Z</updated>
-        <summary type="html"><![CDATA[最近刷知乎看到这么一个问题： 我是做娃哈哈桶装水的，现在业绩很差，我该怎么提升业绩？ 本以为是个市场营销问题，结果底下有个回答是这样的： 这就有点奇怪了，娃哈哈跟实验室有什么关系？ 我上知乎搜了搜，结…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工厂门口的小卖部，和我的妈妈]]></title>
-        <id>https://www.bohaishibei.com/?p=70319</id>
-        <link href="https://www.bohaishibei.com/post/70319/"/>
-        <updated>2021-12-28T04:55:43.000Z</updated>
-        <summary type="html"><![CDATA[作者：小呀呀。（来自豆瓣） 小时候有一年，我妈问我：“要你讲普通话，你会不会讲啊？”没过多久，我们就搬家了，搬到一家手袋厂外面。手袋厂外面有一排水泥平房，这是一排开店的铺位，我们搬到的位置，是从左边数…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些中国最亮的星–两弹一星元勋有多强]]></title>
-        <id>https://bohaishibei.com/?p=70212</id>
-        <link href="https://www.bohaishibei.com/post/70212/"/>
-        <updated>2021-12-28T04:55:22.000Z</updated>
-        <summary type="html"><![CDATA[花时间整理查询了我国23位两弹一星元勋的资料，说实话很多东西让我觉得出乎意料，牛人真的远不只是钱学森。其实那些大名鼎鼎的世界知名的物理学家，很多和我们的两弹元勋都有着很深的联系。 1：薛定谔，彭桓武，…]]></summary>
-        <author>
-            <name>梁萧</name>
         </author>
     </entry>
     <entry>
@@ -1878,96 +2303,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[API声明文件Swagger Injection攻击]]></title>
-        <id>https://www.freebuf.com/articles/network/317613.html</id>
-        <link href="https://www.freebuf.com/articles/network/317613.html"/>
-        <updated>2021-12-28T02:46:11.000Z</updated>
-        <summary type="html"><![CDATA[在API化的世界里，相信无论是前端还是后端开发，都或多或少地被接口维护折磨过 ... 随着API迭代，老旧API文档和SDK需要更新，这是一个耗散研发精力的事情 ... 为解决此类问题，以API为软件能力最终交付物的生态不断演进，最终形成了工具+流程的一套解决方案。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于free5gc+UERANSIM的5G SMF及UPF 网元安全需求分析]]></title>
-        <id>https://www.freebuf.com/articles/network/317604.html</id>
-        <link href="https://www.freebuf.com/articles/network/317604.html"/>
-        <updated>2021-12-28T02:19:28.000Z</updated>
-        <summary type="html"><![CDATA[随着国内5G网络的快速建设，5G的安全问题受到越来越多的关注。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向开放环境的机器学习—属性变化]]></title>
-        <id>http://blog.nsfocus.net/%e9%9d%a2%e5%90%91%e5%bc%80%e6%94%be%e7%8e%af%e5%a2%83%e7%9a%84%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0-%e5%b1%9e%e6%80%a7%e5%8f%98%e5%8c%96/</id>
-        <link href="http://blog.nsfocus.net/%e9%9d%a2%e5%90%91%e5%bc%80%e6%94%be%e7%8e%af%e5%a2%83%e7%9a%84%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0-%e5%b1%9e%e6%80%a7%e5%8f%98%e5%8c%96/"/>
-        <updated>2021-12-28T02:16:36.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USBclean 3.6.4.1 U盘杀毒工具]]></title>
-        <id>https://xclient.info/s/usbclean.html</id>
-        <link href="https://xclient.info/s/usbclean.html"/>
-        <updated>2021-12-28T02:14:31.000Z</updated>
-        <summary type="html"><![CDATA[USBclean是一款在Mac平台上强大的U盘病毒查杀工具，USBclean可以帮助你快速方便地去除所有那些讨厌的垃圾文件也可以帮你将USB驱动器进行格式化，你可以轻松从系统菜单栏上启动USBclean并直接运行。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xliff Editor 2.9.7.1 XLIFF文件编辑工具]]></title>
-        <id>https://xclient.info/s/xliff-editor.html</id>
-        <link href="https://xclient.info/s/xliff-editor.html"/>
-        <updated>2021-12-28T02:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Xliff Editor是Mac平台上一款本地化XLIFF文件编辑工具，可以用来编辑Xliff格式的本地化文件，支持多个并发文件编辑，功能非常实用。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hides 5.6.0.1 一键隐藏所有应用窗口]]></title>
-        <id>https://xclient.info/s/hides.html</id>
-        <link href="https://xclient.info/s/hides.html"/>
-        <updated>2021-12-28T02:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Hides 是一款能够在你工作时帮你隐藏其他程序让你不用分心从而提升工作效率的软件，在单一模式中 Hides 隐藏非选中的所有程序，让你专心。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ColorWell 7.3.3.1 拾色器和调色板生成工具]]></title>
-        <id>https://xclient.info/s/colorwell.html</id>
-        <link href="https://xclient.info/s/colorwell.html"/>
-        <updated>2021-12-28T02:09:10.000Z</updated>
-        <summary type="html"><![CDATA[ColorWell 是一款Mac上优秀的拾色器和调色板生成工具，简单易用，具有多种类型的调色板，支持Hex/RGB/Float/HSL等，支持导入图片。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoBulk 2.4_306 图片批量水印工具]]></title>
-        <id>https://xclient.info/s/photobulk.html</id>
-        <link href="https://xclient.info/s/photobulk.html"/>
-        <updated>2021-12-28T02:08:10.000Z</updated>
-        <summary type="html"><![CDATA[photobulk是一款Mac平台的图片批量水印工具，无论是文字类还是图片类的水印，PhotoBulk都能替你加上，通过两侧写着 text 和 image 的开关就能调节。对于水印，软件提供了一些最基本的设置，比如文字的字体、大小，图片的分辨率、透明度等。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调试services.exe进程]]></title>
-        <id>http://blog.nsfocus.net/services-exe/</id>
-        <link href="http://blog.nsfocus.net/services-exe/"/>
-        <updated>2021-12-28T02:06:44.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年，你被这些丑东西辣到过眼睛吗？]]></title>
         <id>http://www.huxiu.com/article/485436.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/485436.html?f=wangzhan"/>
@@ -1978,29 +2313,6 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，
 下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：六大部门「净网」行动成果公布、Beats 推出 Beats Studio Buds 虎年特别版等]]></title>
-        <id>https://sspai.com/post/70642</id>
-        <link href="https://sspai.com/post/70642"/>
-        <updated>2021-12-28T00:57:46.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事
-六大部门「净网」行动成果公布
-12 月 27 日，据新华社报道，从今年 6 月到 10 月期间，由中央宣传部、中央网信办、工业和信息化部、公安部、文化和旅游部、国家广播电视总局六大部门开展的「净网」行动，目前已清理网络有害信息 1000 余万条，封堵关闭网站 11 万余个，查办网络案件超 2000 起。来源
-
-Beats 推出 Beats Studio Buds 虎年特别版
-12 月 28 日，为庆祝农历新年，Beats 推出 Beats Studio Buds 虎年特别版。该耳机采用红金虎纹设计，参数与普通款一致，支持 IPX4 级抗汗抗水与最高 24 小时带盒续航。该耳机将于 2022 年 1 月 1 日在 Beats 天猫官方旗舰店、Beats 京东自营旗舰店和 Beats 苏宁旗舰店发售，售价 1099 元。
-
-One UI 4 修复在即，将重启推送
-12 月 27 日，三星韩国工作人员在社区回复，此前因遭遇重大 bug 而停止推送的 One UI 4 即将完成修补工作，整合了 Google 提供的新补丁的正式版将于近期重启推送。此前 S21 系列与 Z Fold3 在更新正式版后出现了无法打开应用、屏幕锁 60 帧、屏幕闪烁、相片消失等一系列问题，One UI 4 正式版推送被迫中止。来源
-《最终幻想 16》宣布延期
-12 月 27 日，《最终幻想 16》游戏制作人吉田直树发布公开信，信息表示由于受到新冠肺炎疫情的影响，游戏开发进度目前已延期，原定于 2021 年末发布的《最终幻想 16》公开内容将推迟发布半年，预计将在 2022 年春季公布游戏内容的「重大揭秘」。目前游戏制作已进入收尾阶段，开发人员在对战斗机制和过场动画进行完善。来源
-
-展锐宣布第二代 5G 芯片实现客户产品量产
-12 月 27 日，展锐举办了「人民的 5G」线上发布会，会议…]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -2192,33 +2504,6 @@ SUV一花独放
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/70631</id>
-        <link href="https://sspai.com/post/70631"/>
-        <updated>2021-12-27T10:01:37.000Z</updated>
-        <summary type="html"><![CDATA[本期《派评》的内容有：
-
-📒 设计不错的轻量化任务管理工具：NoteCircle。
-⌚️ 不太一样的习惯养成工具：(Not Boring) Habits。
-💰 《小星记账》上线消费分期功能。
-……
-
-你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。
-值得关注的 App
-虽然少数派一直在为大家发发现和介绍各平台上的优质 App，但仍有不少设计、功能、交互、体验都非常优秀的 App，还没有被我们发掘和介绍。它们可能是一款老 App，也可能是近期上架的新 App，我们会在这里介绍给你。
-NoteCircle：把你想做的事装进一个地方
-
-平台：iOS / iPadOS
-关键词：任务管理、待办清单、提醒事项
-
-@Vanilla：又是待办事项 App？我相信很多人看到这一类 App 已经开始出现天然的抗拒感，一方面是因为待办事项 App 已经多如牛毛，另一方面是大多数人已经破除了对这一类工具的迷信。就算真的需要待办事项工具，绝大部分人的需求都可以在任意一个简单的工具上实现，所以选择时的痛点已经转化成了平台选择和设计选择，换句话说就是选一个好看的、能用的就行。今天要介绍的 NoteCircle 就是一个设计别致以及勉强能用的待办事项 App。
-NoteCircle 借鉴了纸质笔记本的设计，通过标签将主要功能分为了 Todo、Routine、Event、Checklist 四大部分。
-Todo 就是待办事项，添加时只能设置名称、时间和日期、提醒等简单的选项，操作时也只能勾选完成或者取消勾选两个动作，没有其它的手势操作。如果需要对待办事项重新排序，需要点击右上角的排序按钮进入相应的界面，通过拖动来将它们放到我想要的位置。在 Todo 模块还有一个每周目标的功能，创建后会可以固定在 Todo 界面的顶部，然后将 To…]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国知网，从学术伴侣到垄断巨兽]]></title>
         <id>http://www.huxiu.com/article/485377.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/485377.html?f=wangzhan"/>
@@ -2227,63 +2512,6 @@ Todo 就是待办事项，添加时只能设置名称、时间和日期、提醒
 下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开屏广告之外应有的怡人风景：Android 12 应用启动动画详解]]></title>
-        <id>https://sspai.com/prime/story/android-12-splash-screen-explained</id>
-        <link href="https://sspai.com/prime/story/android-12-splash-screen-explained"/>
-        <updated>2021-12-27T09:45:21.000Z</updated>
-        <summary type="html"><![CDATA[应用启动动画是我们每天都在接触的东西，但对国内用户而言，它的应用价值早已被开屏广告榨取得一干二净，令很多人恨得咬牙切齿、总想除之后快。借 Android 12，Google 带来了 专为启动画面动画体验打造的 SplashScreen API，它能改变启动画面的现状吗？什么才是「好」的启动画面？本文将从官方文档出发，结合具体案例予以探讨。
-[......]
-本文为会员文章，出自《科技漫游0x07》，订阅后可阅读全文。
-© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你未来的手机可能就长这样]]></title>
-        <id>http://www.huxiu.com/article/485346.html?f=wangzhan</id>
-        <link href="http://www.huxiu.com/article/485346.html?f=wangzhan"/>
-        <updated>2021-12-27T09:27:37.000Z</updated>
-        <summary type="html"><![CDATA[如今手机的功能愈发成熟，五年或者十年以后，手机会不会再也没有发展的空间了？本期视频，将带你全方位展望未来的手机。
-
-下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
-        <author>
-            <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021，中国航天有多燃？]]></title>
-        <id>http://www.huxiu.com/article/485338.html?f=wangzhan</id>
-        <link href="http://www.huxiu.com/article/485338.html?f=wangzhan"/>
-        <updated>2021-12-27T08:54:46.000Z</updated>
-        <summary type="html"><![CDATA[“很多次我都在想，如果在天上看地球、看太空会是什么样子。但是当我真的到了太空，就只有两个字来形容，就是‘震撼’。”
-下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
-        <author>
-            <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用某度搜索和 XX 管家，这些应用在 Windows 内置商店就能下载到]]></title>
-        <id>https://sspai.com/post/70622</id>
-        <link href="https://sspai.com/post/70622"/>
-        <updated>2021-12-27T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Windows 8 及 Windows Phone 时代微软引入了应用商店，彼时在部分 Windows 版本中应用商店更是唯一安装应用的途径。不过微软显然高估了自己在开发者当中的号召力，商店中应用寥寥。之后微软给出了传统应用转制商店应用的解决方案换来了些许生机，但从来没打开过 Microsoft Store 的 Windows 用户至今不在少数。
-今年 6 月，微软终于放下了执念，宣布 推出一个更加开放，有着更多 App 的应用商店：接受采用各种 API、各类打包方式的应用，商店的抽成也大幅度降低。在这之后，每隔一段时间就有某些知名的 App 上架 Microsoft Store 的新闻。现在的 Microsoft Store 或许终于能满足用户绝大多数应用的下载需求了。
-本文就带大家概览目前在 Microsoft Store 上架的那些优秀应用。知名应用会几句话带过，若少数派有相关文章本文也会一并附上，算是带领大家做一个回顾。
-部分应用可能需要将Windows 区域设置为其他国家或地区（比如美国）才能检索到。
-为什么选择 Microsoft Store
-我想每一个 Windows 用户都希望有一个官方的安全便利的应用下载途径，正如业务主管 Panos Panay 在 谈及 Microsoft Store 时所说：
-
-我非常憧憬这样一种体验：打开商店，键入 App 的名字，然后你就能下载到想要的 App。
-
-犹记得刚刚接触 Windows，我会在搜索引擎中检索应用名，蠢蠢地点击下载站提供的「高速下载」按钮，双击下载的文件后，弹出的不是应用安装向导，而是默认勾选名字炫酷的游戏和安全卫士的 xx 高速下载器。直到今天，各类下载站仍然盘踞在搜索结果的前列。
-
-相较于下载站，使用由微软提供的应用商店显然更让人放心。而相较于四处寻找官网或者软件包管理器，在 Microsoft Sto…]]></summary>
-        <author>
-            <name>柯帕</name>
         </author>
     </entry>
     <entry>
@@ -2367,123 +2595,6 @@ Todo 就是待办事项，添加时只能设置名称、时间和日期、提醒
 在由 OPPO 独家…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用十六年前的老相机记录这平常一天，那时光与回忆谁更斑驳]]></title>
-        <id>https://sspai.com/post/70505</id>
-        <link href="https://sspai.com/post/70505"/>
-        <updated>2021-12-27T06:23:38.000Z</updated>
-        <summary type="html"><![CDATA[究竟使用什么样的器材或者什么样的器材才算足够好得拍好照片，是一直困扰着很多人的问题。机缘巧合之下，我拿到了一台来自于十六年前的相机：佳能的 EOS 350d。它诞生于 2005 年，机身和镜头总重量为 500 克，拥有一块 800 万像素的传感器，7 点对焦系统，搭配的是一支 18mm-55mm 的镜头，采用 cf 卡进行记录，有一块 1.8 英寸的屏幕。
-无论是多么宽容的人，都会承认这是一台性能全方面落伍的相机。我拿到手的时候，简单检查了一下，发现右手握持部分的胶皮已经没有了，储存卡的弹窗已经没有了弹力，镜头上全是手指印，甚至镜头盖也没有了。这进一步让我对这台相机的成像素质不敢抱有什么期望。
-可以说是相当的 old fashion 了
-因为工作关系，我需要用它来拍摄一些报道的图片。于是我突发奇想，为什么不看看我把这台相机一整天都带在身边会拍出什么样的图片呢？于是乎，一整个周六我都一直把它带着，用完两块电池，也拍了不少照片。这里，我邀请大家和这台十六岁的相机一起陪我度过一个普通的周六。在放出图片的同时，我也会把当时图片拍摄前的想法一起分享出来，也复盘一下当时拍摄的心境。
-前期准备
-毕竟这是一台上了年纪的相机，所以在拍摄方面也不能够按照现在相机的标准去苛求它的表现。因为这台相机只有 7 个对焦点，往往只有中间的对焦点才采用对焦比较精准的十字对焦点，所以我在拍摄的时候一般采用中心对焦点对焦然后重新构图的方式进行对焦。
-在拍摄模式方面，主要采用 a 档（光圈优先）和 p 档（程序优先）进行拍摄。同时，本机没有自动 ISO 功能，所以我只能手动调整，在白天的时候感光度定在 100 或者 400 ，晚上或者室内的时候感光度定在800（最高感光度是 1600 ）。
-8:00 AM 赶路和车站
-如果需要在赶路的时候拍照，拍到是最重要的。这个时候我一般把感光度设置成 400，采用程序优先模…]]></summary>
-        <author>
-            <name>Hermanchannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VisualDiffer 1.8.5 不同的文件夹及路径进行交叉比较]]></title>
-        <id>https://xclient.info/s/visualdiffer.html</id>
-        <link href="https://xclient.info/s/visualdiffer.html"/>
-        <updated>2021-12-27T05:06:41.000Z</updated>
-        <summary type="html"><![CDATA[VisualDiffer是一款Mac平台上的文件管理工具，可以帮助你比较不同文件夹中文件或文档中的交叉对比,或者比较两个文件的路径。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typora 1.0.5 极简Markdown编辑器]]></title>
-        <id>https://xclient.info/s/typora.html</id>
-        <link href="https://xclient.info/s/typora.html"/>
-        <updated>2021-12-27T05:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Typora是一个功能强大的Markdown编辑器,使用GFM风格(即大名鼎鼎的githubflavoredmarkdown)]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[goPanel 2.9.4 服务器管理工具]]></title>
-        <id>https://xclient.info/s/gopanel.html</id>
-        <link href="https://xclient.info/s/gopanel.html"/>
-        <updated>2021-12-27T05:05:06.000Z</updated>
-        <summary type="html"><![CDATA[goPanel 是一款Mac上实用的服务器管理工具，通过SSH连接上服务器，然后就可以通过goPanel方便的控制服务器了，支持安装和配置Apache, php, mysql, ftp, email等]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dash 6.2.1 开发者必备API文档聚合]]></title>
-        <id>https://xclient.info/s/dash.html</id>
-        <link href="https://xclient.info/s/dash.html"/>
-        <updated>2021-12-27T05:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Dash 是适用于Mac OS平台的软件编程文档管理工具，可以浏览API文档，以及管理代码片段工具。Dash自带了丰富的API文档，涉及各种主流的编程语言和框架。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Downie 4.4.2 视频下载工具]]></title>
-        <id>https://xclient.info/s/downie.html</id>
-        <link href="https://xclient.info/s/downie.html"/>
-        <updated>2021-12-27T05:03:46.000Z</updated>
-        <summary type="html"><![CDATA[简单的拖放链接到Downie，它就会下载该网站上的视频。]]></summary>
-        <author>
-            <name>xclient.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徐工年轻人的一天]]></title>
-        <id>http://www.huxiu.com/article/485205.html?f=wangzhan</id>
-        <link href="http://www.huxiu.com/article/485205.html?f=wangzhan"/>
-        <updated>2021-12-27T03:53:20.000Z</updated>
-        <summary type="html"><![CDATA[在中国基础的制造业，有这样一群年轻人，单纯朴实、踏实肯干、向往未来。他们是谁？
-下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
-        <author>
-            <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年迈的电影，年轻的游戏？]]></title>
-        <id>http://www.huxiu.com/article/485143.html?f=wangzhan</id>
-        <link href="http://www.huxiu.com/article/485143.html?f=wangzhan"/>
-        <updated>2021-12-27T00:49:00.000Z</updated>
-        <summary type="html"><![CDATA[本文为《影视内容的尽头是游戏》系列第二篇。本文来自微信公众号：壹娱观察（ID：yiyuguancha），作者：大娱乐家，头图来自：《蜘蛛侠：英雄无归》剧照
-
-
-在这个媒介形态过于纷繁复杂的时代，游戏在集合了多种高度迭代的技术之后，逐渐成为了采众家所长的强势媒介。
-
-
-TGA今年将年度最佳游戏大奖颁给一位导演转型游戏制作的创作者约瑟夫·法尔斯，其实也是某种隐喻，在电影与电视的战争还未完全结束时，游戏却已经逐渐成为了真正的大赢家。几年前，法尔斯在接受IGN的采访时，就提到了做游戏和拍电影的不同。
-
-
-“游戏制作比起电影要难太多太多了，我需要去考虑太多太多的情况，不过这也是游戏制作的乐趣所在。相比较年迈的电影行业，年轻的电子游戏行业还有太多太多可以挖掘的想法，驱使着我不断地向前走，而我也深陷其中不可自拔”。
-
-
-
-TGA年度最佳游戏《双人成行》，游戏制作人Josef Fares
-
-
-这其中或许有他作为失意电影人的怨气，但却也点出了一个很现实的问题：行至百年的电影制作，的确显得老气横秋，而游戏尤其是能够承载更多内容与技术的次世代3A大作，不过才刚刚进入“青年时代”。这种活力的差异一方面体现在不断拉大的整体产值，另一方面则是影视创作越发依赖游戏产业，从技术到IP都是如此。
-
-
-当然，先忘掉“电影已死”这种陈词滥调吧，老迈并不意味着灭亡，然而随着如今电影和游戏在技术与叙事上不断相互学习，讲故事的艺术本身始终会保持着旺盛的生命力，因为人们终归需要在其中获得能够超越现实的喜怒哀乐。
-
-
-电影叙事乏力，游戏怎么就上位了？
-
-
-两年前，在前疫情时代的全球电影票房刚刚迎来了超过420亿美元的新高。同时也是在那一年，大师级电影导演马丁·斯科塞斯因为一席对漫威系列电影的批判言论，在一段时间内引发了一场关于“漫威作品是不是电影”的论战。
-
-
-最终马丁·斯科塞斯在《纽约时报》评论版发表了一篇长文，更加系…]]></summary>
-        <author>
-            <name>虎嗅网</name>
         </author>
     </entry>
     <entry>
@@ -3088,31 +3199,6 @@ Tags - ipad]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[傅盛：我学会了忘记「摩尔定律」]]></title>
-        <id>http://www.geekpark.net/news/294713</id>
-        <link href="http://www.geekpark.net/news/294713"/>
-        <updated>2021-12-22T06:26:19.000Z</updated>
-        <summary type="html"><![CDATA[整理|陈晨
-
-编辑|郑玄
-「我刚创业时一直认为只要我想清楚，全力以赴就能赢，最后发现赢就是你的运气好。」
-转战机器人赛道，傅盛再也感受不到互联网创业时那种「坐火箭一样」的成功速度。在由 OPPO 独家冠名赞助的极客公园创新大会 2022 上，傅盛回顾了给猎豹「换引擎」的历程，形容是「满纸血泪」。
-最大的困难是没有标准可循，而标准不统一时就容易走弯路。三年前发布第一代服务机器人时，傅盛对搭载的「三芯片」系统非常骄傲。但他很快发现，「三芯片」虽然算力看起来高，但成本更高，他们真正需要的是不断降低 BOM 成本，让机器人能走进千家万户。
-大到设计外观，小到芯片、电机、传感器的选择，一切都没有标准，傅盛和团队只能花费时间和精力，深入到繁琐的细节中慢慢打磨。「我们讲创新时，太容易忽略试错、小步快跑这些过程了。」新领域创业的「水土不服」让他认识到，科技大爆炸不是常态，日拱一卒才是。
-最后，傅盛给创新者和创业者的建议是：做一个新产品时，一定要告诉自己，犯错一点都不可耻，犯错是我们所有人不可避免的，我们要做的就是快速地把每一个里程碑设置的足够小，然后自己深入一线，像工程师一样去工作和思考。在尽可能短的时间内，小步快跑，快速试错。这样你就会发现：所有的科技类产品，所有伟大产品，本质上都是磨出来的。
-
-           傅盛在极客公园 IF2022 上
-以下为演讲实录：
-摸着石头过河
-前几天张鹏问我，你以前都是做互联网、做软件的，今天你开始做人工智能机器人，你面临的最大的困难是什么，或者你经历过哪些「错误」，才一步步走到今天？
-我回顾了一下，满纸血泪。所以跟大家分享一下，我这三四年从单纯做互联网 APP，转入人工智能服务机器人，中间所走过的路。
-真正要说困难，我觉得在服务机器人领域，最大的困难叫做「没有标准可以遵循」。
-什么叫没有标准可以遵循？刚才刘作虎讲折叠手机的尺寸，其实就是一个没有标…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[英特尔严禁供应商用新疆产品]]></title>
         <id>https://www.williamlong.info/archives/6656.html</id>
         <link href="https://www.williamlong.info/archives/6656.html"/>
@@ -3184,26 +3270,6 @@ Tags - ipad]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么漫改真人剧总「扑街」？]]></title>
-        <id>http://www.geekpark.net/news/294707</id>
-        <link href="http://www.geekpark.net/news/294707"/>
-        <updated>2021-12-21T13:05:37.000Z</updated>
-        <summary type="html"><![CDATA[你看过《星际牛仔》吗？
-
-这不是一个安利，只是因为今年 Netflix 正式将这个原本由日升制作动漫改编了一季十集的真人剧集，并在多次延期之后在今年 11 月上架了 Netflix，将这个 1998 年的动漫 IP 以一种新的方式搬上了流媒体。
-在尚未正式上线 Netflix 之前，《星际牛仔》真人版要制作的消息传出，就被很多原著粉丝担心其摄制水平。
-然后它就毫不意外地「翻车」了：在上线第一周的播放达到 7400 万小时之后，第二周总播放时长立即腰斩了近 60%。影评网站烂番茄好评度仅为凄惨的 46%，Netflix 眼看观众不买账，便光速宣布取消了真人版第二季的摄制计划，就此草草收场。
-
-正是因为《星际牛仔》原版动画在过去给大家留下的印象过于深刻，真人化之后的主流受众仍然是看过原版并将其奉为经典的这群影迷，因此真人版电影或剧集即使已经就制作水准而言已经在主流水准之上，仍然难逃让原班观众产生「落差感」。
-「惨遭真人化」，如今甚至成了漫改电影界的一个梗，似乎无论是动漫原作还是预算投入，都不够打破真人化 = 翻车这个定律。
-之所以如今流媒体平台热衷于将经典漫画改编真人剧，是因为能被选中改编真人影视作品的原作，基本上都是已经有了庞大观众受众的题材，发行方在宣传时相对能更加轻松的吸引到更高的关注度。如果再有原作作者来当监督、原作经典配乐团队出马来制作音乐，那噱头就更足了 —— 《星际牛仔》就是这么干的。
-高关注度对于漫改作品来讲也是双刃剑：如果真人版改编只是敷衍了事，最为失望的也是这些老观众们，对于创作团队来讲：即使是主打粉丝向的漫改真人电影/剧集，也势必要迎接更多全新的观众，因此不得不作出更多适合新时代新平台的改变。
-不过《星际牛仔》的遭遇也不算什么特例：近几年真人化「翻车」的日本漫画，还有真人版《攻壳机动队》、毁誉参半的《阿丽塔：战斗天使》（根据日本漫画家木城幸人创作的漫画《铳…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[北京网信办依法约谈处罚知乎]]></title>
         <id>https://www.williamlong.info/archives/6655.html</id>
         <link href="https://www.williamlong.info/archives/6655.html"/>
@@ -3223,158 +3289,6 @@ Tags - ipad]]></summary>
 　　来源：“网信北京”微信公众号]]></summary>
         <author>
             <name>user@gmail.com (guest)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技未必只有星辰大海，还有田间地头]]></title>
-        <id>http://www.geekpark.net/news/294704</id>
-        <link href="http://www.geekpark.net/news/294704"/>
-        <updated>2021-12-21T10:46:20.000Z</updated>
-        <summary type="html"><![CDATA[整理 | 赵维鹏
-编辑 | 郑玄
-
-
-
-
-全国一半以上的棉制品，都带有极飞的烙印。这家做无人机起家的公司，今天已经是国内农业科技创新的标杆企业。
-极飞创始人彭斌曾在极客公园前沿社的闭门交流会上感概，「科技创新不是鹅卵石，它会有很多棱角，它跟地面冲撞的时候一定会起波澜，一定会炸出一个坑来。如果你炸不出坑，那你永远改变不了产业的现状。」
-转向农业的前两年里，彭斌开车跑了 14 万公里，几乎跑遍了中国的农村。彭斌说自己看到了农村的变化：过去 20 年，几亿人从农村到了城市，留下的都是老人、妇女、儿童。中国农村的劳动力迅速下降，年龄结构不断老化。农村的空心化和老龄化，给了科技公司新的机会。
-彭斌写过万行代码，也在田野间走过 14 万公里。他懂科技，更懂农民们为什么需要科技，需要什么样的科技。在由 OPPO 独家冠名赞助的极客公园创新大会 2022 上，彭斌讲述了自己从一名纯粹的极客，到一名“农民”的发明家的心路历程。
-
-
-
-
-以下为演讲实录，经极客公园编辑整理：
-我们从 2007 年开始创业，到今天已经 14 年了。
-极飞是一家农业科技公司，在科技前面加上农业两个字，其实特别不容易。我们经历了很多，也做出了很多改变。
-我们现在有一千多名员工，在中国有成熟的渠道网络，为农户提供完善的售后服务保障。
-极飞在 2018 年之后重新定义了自己，使命和远景变成了：提升全球农业生产效率。
-
-
-
-
-
-
-
-
-
-
-
-
-01 从无人机到发现农业的星辰大海
-
-
-
-
-
-
-我一直信仰科技是第一生产力，科技能改变我们的生活。
-2007 年，我还是一名程序员的时候，擅长做嵌入式开发，又了解惯性导航，还有一些自动驾驶的技术。我就想自己所掌握的技术能不能创造出一个产品。
-然后我们就以无人机飞控系统为切入点，从 2007 到 2011 年我们一直在专注做好无人机的飞控系统，我们因此从一家三个人的公司，成长为了一家几十…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前魅蓝总裁李楠再创业，他说这是一趟「作死」之旅]]></title>
-        <id>http://www.geekpark.net/news/294649</id>
-        <link href="http://www.geekpark.net/news/294649"/>
-        <updated>2021-12-21T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 万鸣宇
-
-编辑 | 靖宇
-
-
-很多人知道李楠，是因为魅蓝。他曾任魅蓝总裁。三年时间，这个手机品牌做到 200 亿营收规模。
-
-离开魅蓝后，李楠想要干些不一样的事情。2019 年，他成立了一个新品牌——Angry Miao，做了一个可能让人大跌眼镜的品类——键盘。
-Angry Miao 键盘价格有的 400 美金，有的多达 1600 美金，相比平价键盘高了几十倍。为什么是键盘？为什么这么贵？很多人不理解。
-在李楠看来，中国很多公司特别擅长做便宜的产品，很多时候是「你卖一千我卖八百」的竞争。过去十一年，小米模式在这个平价市场里被证明是对的。
-但在高端市场，中国品牌却没发生过非常严肃的战斗。于是，Angry Miao 立志做成一个高端品牌，产品卖得更贵，贵到甚至有人怀疑「这是不是在收智商税。」
-李楠说，「我们是要在一个高度细分的市场里，快速检验一个中国品牌的价格上限，所以要不停地拉高价格」。在这种情况下，他管这次创业叫「作死之旅」。
-在由 OPPO 独家冠名赞助的极客公园创新大会上，李楠聊了聊这次创业有关的故事。以下是演讲实录，经极客公园整理：
-
-
-
-Angry Miao创始人李楠｜极客公园
-
-
-
-「花样作死」的创业，会是怎样的？
-为什么敢「作死」？其实是基于几个被很多人忽略了十一年的常识。
-首先是对份额的理解。中国制造很厉害，随便拉一个品类，比如鞋类，可能就有中国的企业在全球拿下了 84% 的份额。
-我经常会感慨，中国 60 后企业家在这方面做得太好，搞得我们 80 后 90 后的创业者都没有什么出路。难道未来 20 年，我们所有的职业生涯就只是把市场份额推进 6 个点？
-如果从另一个纬度思考，横向对比全球各品牌，你会看到跟份额战场完全不同的景象。
-
-
-
-      全球市场下的品牌心智地图｜Angry Miao
-
-
-
-在这张全球品牌心智的地图里，美国日本的产品代表品…]]></summary>
-        <author>
-            <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日头条再提「优质」，这次有何不同？]]></title>
-        <id>http://www.geekpark.net/news/294683</id>
-        <link href="http://www.geekpark.net/news/294683"/>
-        <updated>2021-12-21T08:27:07.000Z</updated>
-        <summary type="html"><![CDATA[作者 | 宫雪
-编辑 | 万鸣宇
-
-
-
-
-面向原创优质内容新增 15 亿阅读量/天、收入最高增长 5 倍，这组数据对内容创作者的吸引力不言而喻。
-
-2021 年 12 月 20 日，在以「跨越向新·看见真知」为主题的 2021 今日头条生机大会上，今日头条宣布推出针对优质原创内容识别的「内容品鉴官」机制。
-
-
-          
-
-他们是具备专业内容判断力的一个群体，会对头条内容进行质量评价，评分会显著影响后续的流量分发、分成系数计算及其他的权益分配。
-从优质识别到流量与收入激励，这是今日头条打造优质原创内容的又一次主动出击。
-与以往相比，这一次有何不同？
-
-
-
-
-
-
-
-
-
-
-
-
-01 知识经济时代，和再提「优质」的头条
-
-
-
-
-
-
-「各位网友大家好，你听说过元宇宙吗？」
-暗红色丝绒幕布前，身着深蓝色西装的奥卡姆剃刀正对着镜头讲述科技圈的当红炸子鸡——元宇宙。
-与很多解读视频不同，奥卡姆剃刀的介绍里没有元宇宙的技术原理、商业分析、投资前景……他的视频结尾落在了元宇宙帮助普通人「体会别样人生」。
-「有的节目做了 2 个小时，还没讲清楚它是个啥！」关于科普概念，奥卡姆剃刀有一套自己的方法论，「面对最普通的老百姓，我要做的就是跟他们说清楚这个大火的概念是什么，未来和你的生活有什么关系。」
-「无休止的通俗易懂。」这是奥卡姆剃刀不断摸索后得出的科普创作经验。他在头条的创作从问答开始，经历了从传统图文向微头条、中视频、短视频的转变。这一过程中，用户的诉求也逐渐跳出简单的资讯 、娱乐消费，走向垂直内容背后的知识性和服务化。
-在他看来，用户认知提高乘以作品传播广度的公式，是评判一条科普内容是否优质的标准。
-
-
-
-奥卡姆剃刀
-
-到底什么是优质内容？这是内容创作者和平台都绕不开的问题，但无论在定义还是应用层面，这个问题都难有统一答案。
-
-
-对今日头条来说，关于优质的讨论早已不是一个新话题。
-…]]></summary>
-        <author>
-            <name>极客公园</name>
         </author>
     </entry>
     <entry>
