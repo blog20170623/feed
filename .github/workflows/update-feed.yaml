@@ -20,10 +20,10 @@ jobs:
         uses: actions/setup-node@v2.1.4
         with:
           node-version: "16"
-      - name: Install dependencies
-        run: npm i
+      - name: Install osmosfeed
+        run: npm i @osmoscraft/osmosfeed@^1.0.0
       - name: Build the feed
-        run: npm run build
+        run: npx osmosfeed
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
