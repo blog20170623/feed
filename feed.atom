@@ -1,18 +1,1540 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-25T01:40:20.985Z</id>
+    <id>urn:2022-09-25T12:30:21.991Z</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T01:40:20.985Z</updated>
+    <updated>2022-09-25T12:30:21.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[美特斯邦威 休闲羽绒服  169元起，充绒量在150g-200g之间，44种款式]]></title>
-        <id>https://www.bohaishibei.com/?p=77427</id>
-        <link href="https://www.bohaishibei.com/post/77427/"/>
-        <updated>2022-09-25T01:39:17.000Z</updated>
-        <summary type="html"><![CDATA[大差价！实体店里至少¥400+/件，原价¥499选项起拍，部分款式贵10元，S-XXL码男女同款。充绒量在150g-200g之间，轻盈保暖，工装、长款、短款等44种款式可选，整体版型宽松休闲，怎么搭配…]]></summary>
+        <title type="html"><![CDATA[我国首艘大型邮轮建造进度超70%：19层甲板 长度堪比航母]]></title>
+        <id>https://news.mydrivers.com/1/861/861888.htm</id>
+        <link href="https://news.mydrivers.com/1/861/861888.htm"/>
+        <updated>2022-09-25T12:18:24.000Z</updated>
+        <summary type="html"><![CDATA[大型邮轮被誉为“造船业皇冠上的明珠”，也是中国目前唯一尚未完成的高技术船舶产品 ... 我国第一艘大型邮轮建造项目于2019年10月18日在上海开工建造，目前总体进度已经超过70% ... 这艘大型邮轮长达323.6米，宽37.2米，甚至达到航母级长度。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音羡慕吗？中国豪购332架空客飞机、中国组装第600架交付]]></title>
+        <id>https://news.mydrivers.com/1/861/861887.htm</id>
+        <link href="https://news.mydrivers.com/1/861/861887.htm"/>
+        <updated>2022-09-25T12:03:36.000Z</updated>
+        <summary type="html"><![CDATA[2008年，位于天津的空客A320系列飞机亚洲总装线正式启用，这也是空客在欧洲以外的第一条飞机生产线，首架份飞机部件当年就运抵了总装线 ... 就在日前，南航旗下厦门航空宣布，将向空客购买40架A320neo系列飞机，2024-2027年分批交付，基本价格约为48.48亿美元，但有着较大的优惠幅度 ... 中国三大航空公司中国国航、南航、东航前后脚发布购买飞机的公告，分别向空客购买96、96和10]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链式调用的隐藏问题，你一定得知道]]></title>
+        <id>https://m.sohu.com/a/587899577_121289668</id>
+        <link href="https://m.sohu.com/a/587899577_121289668"/>
+        <updated>2022-09-25T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[我们的顶层代码，需要知道客户可以获取到订单，并且知道可以通过order id 来获取某个具体的订单，并且还知道订单有一个获取总价的方法，并且还知道订单使用了一个单独的对象来存总价 ... 进一步的你可能会想，直接在客户Customer类里建一个applyDiscountToOrder(order_id,discount)就好了，连客户有订单这件事也不用暴露 ... 这里有一点要特别注意的是，这里的]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何提取视频中的音频？推荐两个音频提取工具！]]></title>
+        <id>https://m.sohu.com/a/587359842_121433011</id>
+        <link href="https://m.sohu.com/a/587359842_121433011"/>
+        <updated>2022-09-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们先打开【音频处理】页面，找到【音频提取】功能，这个功能可以把音频从视频里提取出来，不用担心音质问题，可以无损提取音频哦 ... 可以选择提取的音频范围哦，整段提取或者只提取片段都可以，大家根据自己的需要来选择就可以了哦 ... 选择好要提取的音频之后，点击【开始处理】就可以把想提取的音频提取出来了哦。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么将两段音频合并在一起?学会这两个技巧,分分钟搞定]]></title>
+        <id>https://m.sohu.com/a/587373658_121456244</id>
+        <link href="https://m.sohu.com/a/587373658_121456244"/>
+        <updated>2022-09-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[注!很多朋友对合并有所疑问，这里小编向大家解释一下，两端音频中间会有类似“小别针”的标识，这表示相连接的音频会进行合并，所以大家务必调整好音频位置合并哦 ... 确定安装正版彩虹办公中心═▷在精品推荐中选择《音频处理》并找到其中的“音频合并”功能═▷上传两段处理好的音频(注意上下顺序)═▷点击开始处理等待完成转换即可 ... 大家可以看到两款软件实际操作流程差不多，也都没啥麻烦的，只是风云音频处理]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证件照怎么制作？来这里学习简单免费的方法]]></title>
+        <id>https://m.sohu.com/a/587372639_121449114</id>
+        <link href="https://m.sohu.com/a/587372639_121449114"/>
+        <updated>2022-09-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[护照、驾照等模板直接选择，系统会自动生成对应模式格式等都需要再调整，随时随地在线拍摄证件照不受时间地点的限制，尤其是出门在外需要及时上传证件照时会带来更多的帮助，多种模板直接套用快速生成优质证件照，高清画质搭配多种风格滤镜美化图片，选择喜欢的证件照一键导出，系统自动添加滤镜美化图片，更换背景、服装支持一键设置。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音频如何插入背景音乐？推荐试试这些软件！]]></title>
+        <id>https://m.sohu.com/a/587365562_121433186</id>
+        <link href="https://m.sohu.com/a/587365562_121433186"/>
+        <updated>2022-09-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1、首先把“风云音频处理大师”下载安装到最新版本，运行软件后，在主页面中找到【添加背景音乐】功能并点击进入 ... 3、音频文件添加完成后，直接点击【添加背景音乐】将音乐文件选择好后，点击【打开】按钮，最后点击【开始处理】就能在音频中添加背景音乐了 ... 3、音频文件导入完成后，点击【设置背景音乐】在弹出的文件选择窗口中添加背景音乐文件，然后点击右下角【开始处理】按钮，就能对音频文件添加上背景音]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果AirPods Max 无线耳机用户抱怨：更新“垃圾”4E71 固件后，主动降噪更糟糕了]]></title>
+        <id>https://www.ithome.com/0/643/135.htm</id>
+        <link href="https://www.ithome.com/0/643/135.htm"/>
+        <updated>2022-09-25T11:59:04.000Z</updated>
+        <summary type="html"><![CDATA[据 9to5Mac 、The Verge 报道，至少在今年 5 月苹果发布 4E71 固件更新后，越来越多的 AirPods Max 用户现在确信耳机的主动降噪功能变得更糟糕 ... 很多用户称，4E71 固件是“垃圾”，在更新 4E71 固件后，可以听到自己打字、鸟叫声、街上汽车声、健身房重物叮当声，和其它以前从未听到过的外部噪音 ... 苹果目前正在为 AirPods Max 无线耳机测试新的]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年国庆小长假去全年无休的Dell戴尔旗舰店买台游戏电脑]]></title>
+        <id>https://m.sohu.com/a/587898292_120105878</id>
+        <link href="https://m.sohu.com/a/587898292_120105878"/>
+        <updated>2022-09-25T11:54:34.000Z</updated>
+        <summary type="html"><![CDATA[戴尔G16 不仅拥有一键暴风散热功能，双风扇四区域散热模组， 194 叶超薄风扇叶片，不用担心散热不好。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop 2022官方简体中文版PS2022详细安装图文教程、PS2022下载地址]]></title>
+        <id>https://m.sohu.com/a/587896216_121087911</id>
+        <link href="https://m.sohu.com/a/587896216_121087911"/>
+        <updated>2022-09-25T11:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Adobe Photoshop 2022，顾名思义也是全民图像处理软件PS中的一个版本，也是价格最低的一个版本，其官方售价为专业版六分之一，可以说很便宜 ... 你千万不要认为它的功能不行，要知道它拥有专业版几乎一样的功能，而缺少的功能即便在专业版上也是很少用的到的，所以不会影响我们的日常使用 ... 还对软件的编辑处理功能进行优化，比如现在你可以一边编辑图片一边进行预览，可以让你把握很多的细节。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推广App赚佣金平台怎么找？]]></title>
+        <id>https://m.sohu.com/a/587896192_121452521</id>
+        <link href="https://m.sohu.com/a/587896192_121452521"/>
+        <updated>2022-09-25T11:52:47.000Z</updated>
+        <summary type="html"><![CDATA[兼职老司机都知道，想在网络上赚钱，只有推广才可能赚大钱，自己单干，除了自媒体项目，其它都不可能赚大钱的 ... 呢，真把这个当副业来做的人，大多数人根本没有熬过去前期，副业托管模式，需要自己前期把工作室的所有一切都准备完善步入正轨以后才可以，后期让你挣的手软 ... 像大家找的那些所谓的一收渠道，其实这一行圈子真的很小，我在有些渠道商群里面，还看见不少熟人，比如什么试客某站什么的，还有一些现在还不]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西干旱已超70天：鄱阳湖竟然刮起沙尘暴、湖面缩小8成]]></title>
+        <id>https://news.mydrivers.com/1/861/861886.htm</id>
+        <link href="https://news.mydrivers.com/1/861/861886.htm"/>
+        <updated>2022-09-25T11:52:01.000Z</updated>
+        <summary type="html"><![CDATA[据江西气象局，近期，江西省局部出现重度气象干旱，截至9月25日，干旱已持续长达75天，95％的区域达到特旱级别 ... 有网友在九江鄱阳湖鞋山岛附近，拍摄到鄱阳湖因持续干旱，湖床裸露，竟然刮起“沙尘暴”，看起来一片“烟雾缭绕” ... 预计未来3天，重庆、贵州西北部等地部分地区有中到大雨，对缓解气象干旱有利，但其余大部分旱区仍将少雨，气象干旱将持续或发展，需要继续做好防旱抗旱相关工作。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体育精神为体育强国建设凝聚澎湃动力]]></title>
+        <id>https://m.sohu.com/a/587897249_121106854</id>
+        <link href="https://m.sohu.com/a/587897249_121106854"/>
+        <updated>2022-09-25T11:50:42.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企业微信群发一天能发几次？企业微信群发消息限制怎么解除？]]></title>
+        <id>https://m.sohu.com/a/587897135_121482350</id>
+        <link href="https://m.sohu.com/a/587897135_121482350"/>
+        <updated>2022-09-25T11:50:28.000Z</updated>
+        <summary type="html"><![CDATA[值得注意的是，企业群发可以选择全部用户发送，但员工群发一次只能选择200名客户，如果超过200位客户，需要多次选择群发（语鹦企服提示：在企业微信4.0.8版本中，企业微信解除了员工群发200人的限制，可无限制群发人数了，具体可查看语鹦相关文章《重磅更新 ... 从客户角度而言，企业微信的限制避免了消息的狂轰滥炸，但从企业的角度而言，给企业的活动推进带来了很大的阻碍 ... 该功能还支持创建每日不同]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主动降噪呈现悦耳音效，魅蓝Blus+无线蓝牙耳机]]></title>
+        <id>https://m.sohu.com/a/587897028_121478262</id>
+        <link href="https://m.sohu.com/a/587897028_121478262"/>
+        <updated>2022-09-25T11:47:58.000Z</updated>
+        <summary type="html"><![CDATA[刚好最近有换耳机的打算，经过多个品牌之间耳机的对比参考，最终我还是选择入手了魅族推出的新品，魅蓝Blus+无线蓝牙耳机，入手体验了一段时间，感觉各方面的表现都不错，都说独乐乐不如众乐乐，接下来就推荐给需要蓝牙耳机的小伙伴们，一起来了解一下吧 ... 这款魅蓝蓝牙耳机采用了非常人性化的设计，左右两边有两个触控点，按下左边的触控点就可以开启环境音模式，戴上耳机享受音乐的同时，并不影响接收周围其他的声音]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯研究院发布《隐形的守护：银发科技蓝皮书2022》|ITH]]></title>
+        <id>https://m.sohu.com/a/587896262_120553130</id>
+        <link href="https://m.sohu.com/a/587896262_120553130"/>
+        <updated>2022-09-25T11:46:28.000Z</updated>
+        <summary type="html"><![CDATA[腾讯研究院于2022年9月22日发布《隐形的守护：银发科技蓝皮书2022》 ... 工业和信息化部、民政部和国家卫生健康委联合发布《智慧健康养老产业发展行动计划（2021-2025 年）》（下称《行动计划（2021-2025 年）》），对智慧健康养老产品及服务进行了进一步的梳理分类，作为现阶段智慧健康养 老的顶层规划，为行业发展提供了明晰的方向指引 ... 我国智慧健康养老产品需求大、种类丰富，大]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网曝Optus正遭黑客勒索！一周内支付$153万，否则出售980万澳人信息]]></title>
+        <id>https://m.sohu.com/a/587896140_120501171</id>
+        <link href="https://m.sohu.com/a/587896140_120501171"/>
+        <updated>2022-09-25T11:44:04.000Z</updated>
+        <summary type="html"><![CDATA[有人在论坛上爆料称，黑客正在勒索澳洲第二大电信运营商Optus，要求对方支付价值153万澳元的加密货币，否则就出售被盗的用户信息 ... Optus发表声明称，用户密码和财务信息没有泄露，但姓名、地址、出生日期、电话号码、驾照以及护照信息可能泄露 ... 有人在论坛上爆料称，盗取这些用户信息的黑客正在勒索Optus，要求对方支付价值100万美元（约合153万澳元）的虚拟货币，否则会在1周内将被盗的]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[博海拾贝0925]加亿点点细节]]></title>
+        <id>https://www.bohaishibei.com/?p=77432</id>
+        <link href="https://www.bohaishibei.com/post/77432/"/>
+        <updated>2022-09-25T11:42:15.000Z</updated>
+        <summary type="html"><![CDATA[【1】咏秋，叶猫 【2】这是啥 【3】说我可爱 【4】加亿点点细节 【5】难怪他守不住球门 【6】​什么？7号的外卖？嘿，我在这，直接送过来，保安，放他进来，对，我点的黄焖鸡，加了个烤肠的。 【7】来…]]></summary>
         <author>
             <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30秒冒烟、45秒喷火……这东西你家也有！]]></title>
+        <id>https://m.sohu.com/a/587896005_121106994</id>
+        <link href="https://m.sohu.com/a/587896005_121106994"/>
+        <updated>2022-09-25T11:35:45.000Z</updated>
+        <summary type="html"><![CDATA[2022年3月20日晚，广东某居民家中，一女子手里拿着吹风机正在给孩子吹头发 ... 后经调查得知，起火原因为老人使用吹风机不当，引燃生活杂物、棉被等可燃物质所致 ... 江苏南京一居民为防止水管冻住，将吹风机对着阳台水管吹了整夜，吹风机发生故障后起火，引燃了堆积的杂物引发火灾，烧毁了阳台。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成都至诚景行电子商务有限公司：抖音如何让人上热门]]></title>
+        <id>https://m.sohu.com/a/587894679_121488629</id>
+        <link href="https://m.sohu.com/a/587894679_121488629"/>
+        <updated>2022-09-25T11:35:40.000Z</updated>
+        <summary type="html"><![CDATA[TikTok助理是一名服务助理，专门负责抖音短视频官方账号上TikTok优秀内容的评选 ... 如果你的视频内容足够高，当TikTok发布视频时，@ TikTok助手将有机会被他看到，然后被专题报道 ... 当TikTok发布时，@ TikTok达人可以给我们的视频带来一些流量。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湖南交通频道听友专享，全光谱读写台灯，开学季百万补贴！应用哈工大航天技术，只要998元，倒计时三天，拼手速下单，加赠398屏幕护眼灯！]]></title>
+        <id>https://m.sohu.com/a/587895869_121106908</id>
+        <link href="https://m.sohu.com/a/587895869_121106908"/>
+        <updated>2022-09-25T11:32:11.000Z</updated>
+        <summary type="html"><![CDATA[应用哈工大航天技术，只要998元， 倒计时三天，拼手速下单，加赠398屏幕护眼灯。]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锐龙7 6800U加持 国产掌机AYANEO 2开启预定]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320467.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320467.htm"/>
+        <updated>2022-09-25T11:14:51.000Z</updated>
+        <summary type="html"><![CDATA[今天，国产掌机厂商AYANEO召开发布会，推出了旗下最新的Windows掌机：AYANEO 2。根据介绍，AYANEO 2将搭载AMD的锐龙7 6800U处理器，这颗俨然成为掌机“新宠”的处理器内置AMD Radeon 680M显卡，RDNA 2架构，12显示核心，2200MHz显示频率，相较于前代显示性能提升约2倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A饭精心制作RX 7000显卡渲染美图：好帅的大号板砖]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320465.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320465.htm"/>
+        <updated>2022-09-25T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA RTX 40系列已经发布了，AMD RX 7000系列还会远吗？官方已经定档11月3日，但曝料仍然很少。3D艺术家Technetium基于官方披露的局部，制作了几张RX 7900 XT(暂定名)的多角度精美渲染图，看起来相当之酷。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最拥堵大城市将建600公里自行车道 一半人骑自行车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320463.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320463.htm"/>
+        <updated>2022-09-25T11:13:52.000Z</updated>
+        <summary type="html"><![CDATA[哥伦比亚首都波哥大是全球最为拥堵的大城市之一，经济和人口增长以及持续的城市化是造成拥堵增长的原因。据了解，波哥大没有地铁，所以很多人出行只能依赖地面公交系统，或是私家车出行。恶劣的出行环境迫使许多当地居民选择骑自行车出行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.1测试版可让用户禁用AirPods Pro 2触摸音量控制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320461.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320461.htm"/>
+        <updated>2022-09-25T11:13:24.000Z</updated>
+        <summary type="html"><![CDATA[在iOS 16.1测试版中，苹果为第二代AirPods Pro的用户提供了禁用音量触摸控制的能力。新的AirPods Pro的一个新增功能是用户可以通过在AirPods Pro耳机柄触摸传感器上向上或向下滑动来增加或减少音量。虽然有些用户可能会觉得这个功能很方便，但也有一些人嫌没用还有误触的困扰。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盖茨基金会：计划再运营25年 确保花光所有钱]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320459.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320459.htm"/>
+        <updated>2022-09-25T11:11:50.000Z</updated>
+        <summary type="html"><![CDATA[9月25日消息，在2022年福布斯400慈善峰会上，微软联合创始人比尔·盖茨（Bill Gates）宣布其私人基金会可能会再运行25年，并在此期间花光所有钱。盖茨在与《福布斯》杂志首席内容官兰德尔·莱恩（Randall Lane）的主旨对话中表示：“我对盖茨基金会的目标是再运行25年。在此期间，我们将尝试根除传染病以及所有让世界变得不公平的疾病，至少要将它们的发病率降至非常低的水平。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国报告近2.5万例猴痘病例]]></title>
+        <id>https://36kr.com/newsflashes/1930559107336833</id>
+        <link href="https://36kr.com/newsflashes/1930559107336833"/>
+        <updated>2022-09-25T11:06:16.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，美国疾病控制和预防中心23日更新的数据显示，美国已累计报告24846例人感染猴痘病毒病例（下称猴痘病例），病例数居全球之首。最新数据显示，美国报告猴痘病例数排名前三的地区分别为加利福尼亚州、纽约州、佛罗里达州，其中加利福尼亚州病例数达4886例。美国公共卫生专家指出，由于检测能力不足，美国实际猴痘病例数可能远高于官方统计数据。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人社部：1-8月共向1120.1万户次企业发放稳岗资金646.3亿元]]></title>
+        <id>https://36kr.com/newsflashes/1930558314056321</id>
+        <link href="https://36kr.com/newsflashes/1930558314056321"/>
+        <updated>2022-09-25T11:05:28.000Z</updated>
+        <summary type="html"><![CDATA[1-8月，各地全面推广“免申即享”经办新模式，已向1120.1万户次企业发放稳岗资金646.3亿元。其中，向721.1万户企业发放稳岗返还资金448.4亿元，受益企业和返还资金分别是去年全年的1.8倍和1.9倍，超半数参保企业受益；创新一次性留工培训补助政策，支持受疫情影响企业稳岗留工，实施4个月来有395.7万户企业享受到196.8亿元；创新一次性扩岗补助政策，支持企业吸纳高校毕业生就业，已向3.3万户企业发放 1.1亿元，惠及高校毕业生10.3万人。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MTBE出口逻辑或已见顶？经销商：10月份出口订单锐减]]></title>
+        <id>https://36kr.com/newsflashes/1930556962867842</id>
+        <link href="https://36kr.com/newsflashes/1930556962867842"/>
+        <updated>2022-09-25T11:04:05.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，据国家海关总署统计数据，今年8月份，国内MTBE出口28.93万吨，再度创下单月出口量最高值。但记者注意到，随着海外市场价格的回落，MTBE的出口逻辑似已见顶。有经销商对记者表示，现在新加坡MTBE的价格甚至比国内还要低，9月份尚有部分存量订单支撑，10月份的新订单几乎没有了，预计后续MTBE出口量会大幅减少。（财联社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广生堂：新冠口服药GST-HG171获药物临床试验批准通知书]]></title>
+        <id>https://36kr.com/newsflashes/1930526551640449</id>
+        <link href="https://36kr.com/newsflashes/1930526551640449"/>
+        <updated>2022-09-25T10:33:09.000Z</updated>
+        <summary type="html"><![CDATA[广生堂9月25日公告，公司创新药控股子公司福建广生中霖生物科技有限公司于9月23日收到国家药监局下发的关于口服小分子广谱抗新型冠状病毒3CL蛋白酶抑制剂一类创新药物GST-HG171的《药物临床试验批准通知书》，在新冠药物的创新研发上取得关键里程碑进展。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日开20店日赚433万，下沉市场“王者”冲刺IPO]]></title>
+        <id>https://www.tmtpost.com/6264392.html</id>
+        <link href="https://www.tmtpost.com/6264392.html"/>
+        <updated>2022-09-25T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[下沉市场“王者”冲刺IPO。]]></summary>
+        <author>
+            <name>电商在线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[致李想、余承东们：多一些真诚，少一些浮夸]]></title>
+        <id>https://www.tmtpost.com/6264425.html</id>
+        <link href="https://www.tmtpost.com/6264425.html"/>
+        <updated>2022-09-25T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[希望李想、余承东等汽车行业的新人们，多向王传福、魏建军与李书福等中国汽车行业的前辈们学习，多一些真诚，少一些浮夸，最终依靠创新的技术研发与踏实的工业制造精神赢得消费者信任，而非依靠出位的营销博取眼球，误导消费者。]]></summary>
+        <author>
+            <name>砺石汽车</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靠主播爆火的T97，咖啡里卖着加盟与售课的药？]]></title>
+        <id>https://www.tmtpost.com/6264365.html</id>
+        <link href="https://www.tmtpost.com/6264365.html"/>
+        <updated>2022-09-25T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[咖啡赛道充满热钱味。]]></summary>
+        <author>
+            <name>锌刻度</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怀念80年代，觉得那时候美好的，可以去看《贫嘴张大民的幸福生活》]]></title>
+        <id>https://www.bohaishibei.com/?p=77419</id>
+        <link href="https://www.bohaishibei.com/post/77419/"/>
+        <updated>2022-09-25T10:21:08.000Z</updated>
+        <summary type="html"><![CDATA[@菊厂刘掌柜：怀念80年代，觉得那时候美好的，可以去看一部电视剧，如果觉得电视剧时间有点长，可以去看电影，讲的都是同一个故事《贫嘴张大民的幸福生活》梁冠华演的，电影叫《没事偷着乐》冯巩演的，电视剧我觉…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛巴、董宇辉、李国庆为了玉米吵翻天，6块钱一根的玉米到底贵不贵]]></title>
+        <id>https://www.bohaishibei.com/?p=77420</id>
+        <link href="https://www.bohaishibei.com/post/77420/"/>
+        <updated>2022-09-25T10:20:39.000Z</updated>
+        <summary type="html"><![CDATA[继快手主播辛巴公开质疑东方甄选的玉米暴利“丧良心”，东方甄选主播董宇辉做了回应后，当当创始人李国庆也加入了战局，他发了一条短视频说，东方甄选玉米6块钱1根没暴利。 9月22日，关于东方甄选玉米的话题仍…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《使命召唤19：现代战争2》公测火爆 在线玩家数飙升]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320457.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320457.htm"/>
+        <updated>2022-09-25T10:04:57.000Z</updated>
+        <summary type="html"><![CDATA[《使命召唤19：现代战争2》beta公测现已开始，而玩家数一路走高。如今本作公测的在线玩家数量峰值已经突破16万人，可以说是相当热闹了。按照本作在公测阶段吸引到的玩家数量来看，开发商应该能得到足够的反馈用来修复游戏中存在的bug。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R星招聘安全调查分析师 防止《GTA6》泄密再次发生]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320455.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320455.htm"/>
+        <updated>2022-09-25T10:04:44.000Z</updated>
+        <summary type="html"><![CDATA[最近R星大作《GTA6》惨遭大规模情报泄露的消息震惊业界，而对于这次泄露是否应该加以批判，在网络上有多种不同的观点，从游戏公司到玩家个人都有各种各样的看法出现。与此同时，有报道称R星正在招聘调查分析师，对公司内部的安全措施进行监察，防止类似情况再次出现。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电子科大高材生突破固态电池极限：3分钟充满 获投资3000万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320453.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320453.htm"/>
+        <updated>2022-09-25T10:04:13.000Z</updated>
+        <summary type="html"><![CDATA[哈佛大学华人教授搞了个新型固态电池，成果已发表在Nature杂志上——充放电循环高达1万次，最快3分钟充满电。相较而言，目前最好的固态电池循环次数为2000~3000次。主要原因在于，他们设计出一种“三明治”电池结构，哪怕在20mA/cm²这样的超高电流密度下，也不会出现锂枝晶穿透现象。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[历史]LG自研手机芯片曾想超华为赶高通 却被英特尔“拖”垮了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320451.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320451.htm"/>
+        <updated>2022-09-25T10:03:33.000Z</updated>
+        <summary type="html"><![CDATA[如今的智能手机应用处理器市场，头部厂商联发科、高通、苹果三足鼎立。算上入门机爱用的紫光展锐、日渐式微的三星 Exynos，勉强凑得齐五巨头。若非一些复杂的外部因素，华为海思本该在这里叱咤风云。再往前倒几年，还有不少老牌玩家在做手机处理器，比如英伟达、英特尔、德州仪器等。那是智能手机的繁盛期。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软将在下个月推出Windows 10功能更新]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320449.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320449.htm"/>
+        <updated>2022-09-25T10:01:26.000Z</updated>
+        <summary type="html"><![CDATA[虽然目前所有的目光都集中在Windows 11上，但大多数运行现代版微软操作系统的人实际上都在使用Windows 10，许多人实际上会升级到Windows 11，这并不是一个秘密。但是，微软新操作系统的更新系统要求让他们被困在了Windows 10上，所以他们没有其他选择，只能希望软件巨头继续对旧版本表达一些爱意。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[焦虑经济衍生冥想生意，年轻人会为“放空”买单吗？]]></title>
+        <id>https://www.tmtpost.com/6264414.html</id>
+        <link href="https://www.tmtpost.com/6264414.html"/>
+        <updated>2022-09-25T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[“冥想”逐渐走进了中国。]]></summary>
+        <author>
+            <name>袁国宝</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“露营”到“露营+”，还能催生出多少致富经？]]></title>
+        <id>https://www.tmtpost.com/6264405.html</id>
+        <link href="https://www.tmtpost.com/6264405.html"/>
+        <updated>2022-09-25T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[天幕、帐篷、飞盘等户外用品，借“露营热”还能火多久？]]></summary>
+        <author>
+            <name>螳螂观察</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要求涨价被苹果拒绝：台积电该服软，还是硬刚？]]></title>
+        <id>https://www.tmtpost.com/6264358.html</id>
+        <link href="https://www.tmtpost.com/6264358.html"/>
+        <updated>2022-09-25T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[台积电陷入两难的尴尬境地。]]></summary>
+        <author>
+            <name>王新喜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现款11英寸iPad Pro销售时间比以往的任何型号都长]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320447.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320447.htm"/>
+        <updated>2022-09-25T09:05:39.000Z</updated>
+        <summary type="html"><![CDATA[2021年的11英寸iPad Pro今天已成为有史以来在售的同类机型中使用时间最长的，因为有迹象表明，苹果公司正计划最快在下个月用新机型取代该设备。2021年4月，苹果公司推出了新的12.9英寸和11英寸的iPad Pro型号，它采用M1芯片，Lightning端口，支持5G连接，中心舞台摄像头增强功能，以及较大的miniLED显示屏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家认为Starlink对伊朗抗议者的好处“几乎是0”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320445.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320445.htm"/>
+        <updated>2022-09-25T09:01:41.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX公司的Starlink卫星互联网服务不太可能帮助伊朗伊斯兰共和国的抗议者在最近因一名年轻女子被道德警察拘留后死亡而引发的抗议活动中相互沟通和与世界其他国家联系。本周早些时候开始的抗议活动是伊朗近期历史上规模最大的一次，美国国务院对抗议者表示支持，当时国务卿布林肯宣布他的部门将发放一般许可证，让企业提供服务和软件，使伊朗民众的互联网连接和隐私得到改善。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“第一视角过山车”火了，为何有流量没销量？]]></title>
+        <id>https://www.tmtpost.com/6264302.html</id>
+        <link href="https://www.tmtpost.com/6264302.html"/>
+        <updated>2022-09-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有人点赞，无人买单。]]></summary>
+        <author>
+            <name>剁椒TMT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA的SpaceX Crew-5任务宇航员与龙飞船首次相会]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320443.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320443.htm"/>
+        <updated>2022-09-25T08:56:38.000Z</updated>
+        <summary type="html"><![CDATA[下个月将乘坐美国宇航局SpaceX Crew-5任务进入轨道的宇航员现在对他们即将到来的太空之旅已经非常熟悉。事实上，在美国宇航局佛罗里达州肯尼迪航天中心成功进行了乘员设备接口测试（CEIT）之后，乘员们现在已经准备好飞往国际空间站进行科学考察任务。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果通知AppleCare+用户：iPhone可享无限次意外损坏维修服务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320441.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320441.htm"/>
+        <updated>2022-09-25T08:53:55.000Z</updated>
+        <summary type="html"><![CDATA[AppleCare+是苹果推出的一项售后服务计划，大多数苹果旗下的产品都可以通过购买该服务的方式，延长设备的售后服务时间，并获得一定次数的保修服务。此前，对于iPhone用户来说，AppleCare+服务可以使其获得每年两次的意外损坏维修，但近日，苹果发送邮件，表示自己修改了AppleCare+的服务规则。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连你家电器的算力都不放过 新发现Linux恶意软件用IoT设备挖矿]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320439.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320439.htm"/>
+        <updated>2022-09-25T08:53:07.000Z</updated>
+        <summary type="html"><![CDATA[继电脑和手机后，挖矿病毒也盯上了IoT设备。无论是智能冰箱、彩电还是洗衣机，但凡有点算力的（物联网和端侧）设备都可能被这种病毒感染，用于挖掘加密货币等。AT&T Alien Labs新发现的Linux恶意软件Shikitega就是一例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国移动开发5G潮汐智能天线：哪里人多就指向哪]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320437.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320437.htm"/>
+        <updated>2022-09-25T08:51:36.000Z</updated>
+        <summary type="html"><![CDATA[大学校园内，学生人群会出现明显的时空潮汐效应，也就是学生位置在特定时间存在规律性迁移：白天去教学楼、晚上回宿舍。近日，针对北京邮电大学内教学楼、宿舍楼、餐厅等场景的时空潮汐效应特点，中国移动北京公司与中兴通讯股份有限公司合作，开发出“潮汐智能天线权值自优化技术”。应用这一技术后，可实现网络与用户的时空动态跟随。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国铁路更新全国铁路线路图 15万公里如同祖国大地经络]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320435.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320435.htm"/>
+        <updated>2022-09-25T08:50:34.000Z</updated>
+        <summary type="html"><![CDATA[今天，中国铁路官方晒出中国铁道出版社出版的2021年最新版中国铁路营业线路图。线路图上路网交织、线路密布，如同祖国大地的经络图。据了解，截至2021年底，我国铁路营业里程从新中国成立初期的2.1万公里增长到超过15万公里，高铁营业里程从零起步增长到超过4万公里，“四纵四横”高铁网全面建成，“八纵八横”高铁网加密成型。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take Two再出手 叫停《GTA4》最终版MOD项目]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320433.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320433.htm"/>
+        <updated>2022-09-25T08:43:25.000Z</updated>
+        <summary type="html"><![CDATA[《GTA4》已经是一款老游戏了，但这不妨碍有一些玩家和MOD作者认为它很有魅力。而且现在仍然有一些MOD作者正在为《GTA4》制作一个举行项目，名字叫做“最终版”。该项目将《GTA4》的各种MOD整合到一起，同时提升画质、修复各种bug。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雌雄大盗登场 《GTA 6》两大主演身份或遭曝光]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320431.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320431.htm"/>
+        <updated>2022-09-25T08:42:59.000Z</updated>
+        <summary type="html"><![CDATA[最近惨遭泄露之后，《GTA 6》的主角演员身份被网友挖掘出来。R星非常擅长游戏主角的塑造，汤米、约翰·马斯顿、亚瑟·摩根、崔佛和尼克等角色的刻画深入人心，而这些角色都不是知名演员扮演。在PS2时代之后R星就放弃人气明星路线，从而可以从零打造人气角色，从而让玩家更有代入感。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众ID.6汽车被曝导航时弹广告遮挡大片屏幕]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320429.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320429.htm"/>
+        <updated>2022-09-25T08:40:18.000Z</updated>
+        <summary type="html"><![CDATA[9月25日消息，据上游新闻报道，重庆刘女士反映称，自己驾驶刚买不久的大众ID.6汽车到一座立交桥时，中控屏竟然出现了广告。从图片来看，该广告应该来自车企，是厂商的推荐购车活动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“躺平潮”席卷而来 美国大公司CEO们非常忧虑，直呼“没见过这种”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320427.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320427.htm"/>
+        <updated>2022-09-25T08:38:24.000Z</updated>
+        <summary type="html"><![CDATA[如今，大部分美国人尤其是年轻一代正在重新思考工作与生活的关系，对于正在流行的“躺平式就业”，美国大公司的高管们表示十分担心。躺平（Lying Flat）是内卷（Involution）的反义词，表现形式不一而同。一种是完全躺平，即“辞职潮（The Great Resignation）”。有媒体统计，今年4月至今，美国有超过2400万员工辞职。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗永浩创业、李佳琦开播 “交个朋友”抖音一哥地位不保？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320425.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320425.htm"/>
+        <updated>2022-09-25T08:36:59.000Z</updated>
+        <summary type="html"><![CDATA[3场直播累计观看量1.56亿！近期，淘宝“一哥”李佳琦低调返场带来了亮眼带货数据，让外界再次感受到头部主播IP的影响力，也掀起了大众对抖音“一哥”罗永浩的讨论：老罗去创业的这几个月，和他“分手”的“交个朋友”还好吗？抖音新“一哥”又会是谁？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三代半导体扩产，硅的时代要结束了吗]]></title>
+        <id>https://www.tmtpost.com/6264371.html</id>
+        <link href="https://www.tmtpost.com/6264371.html"/>
+        <updated>2022-09-25T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[半导体寒气袭人知谁暖？]]></summary>
+        <author>
+            <name>亿欧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那一夜，周鸿祎梦见百万雄兵]]></title>
+        <id>https://www.tmtpost.com/6264070.html</id>
+        <link href="https://www.tmtpost.com/6264070.html"/>
+        <updated>2022-09-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从四处开战到退下沙场的周鸿祎，正在与过去的自己和解。]]></summary>
+        <author>
+            <name>螺旋实验室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【零售流通周报】字节跳动再涉足跨境；百度糯米APP将于12月停运；家乐福换帅；多家快递企业单票价格大幅提升]]></title>
+        <id>https://www.tmtpost.com/6263668.html</id>
+        <link href="https://www.tmtpost.com/6263668.html"/>
+        <updated>2022-09-25T07:55:09.000Z</updated>
+        <summary type="html"><![CDATA[本周（9月18日-24日），跨境出海十分火热，企业不断加码；电商直播也依然是焦点般的存在；数家零售企业进行了组织架构调整；物流企业再落地新基础设施、推新服务。]]></summary>
+        <author>
+            <name>刘萌萌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“公司要垮了”，电动化洪流下，日本的汽车零部件供应商能挺住吗？]]></title>
+        <id>https://www.bohaishibei.com/?p=77421</id>
+        <link href="https://www.bohaishibei.com/post/77421/"/>
+        <updated>2022-09-25T07:50:08.000Z</updated>
+        <summary type="html"><![CDATA[自1951年成立以来，总部位于日本静冈县的富士OOZX（TYO: 7299，股价3045日元，市值62.6亿日元）就只专注干一件事：研发和制造发动机的气门，这是内燃机工作时空气进入气缸和废气排出的关键…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个温州小老板的四次失败创业]]></title>
+        <id>https://www.bohaishibei.com/?p=77422</id>
+        <link href="https://www.bohaishibei.com/post/77422/"/>
+        <updated>2022-09-25T07:49:37.000Z</updated>
+        <summary type="html"><![CDATA[1 2021年年初，西南某城市开展环保整治活动，许多重污染企业的生产许可证都被取缔收回了。一夜之间，我大姐家开了15年的塑料厂，也成了淘汰名单上的一员。 大姐闲不住，大姐夫华哥也一样，俩人关了厂子回到…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音737货机着陆时冲进附近湖中 法国一机场关闭]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320423.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320423.htm"/>
+        <updated>2022-09-25T07:30:41.000Z</updated>
+        <summary type="html"><![CDATA[法国蒙彼利埃机场24日临时关闭，原因是一架波音货机在着陆时冲进附近湖中。西大西洋货运航空公司一架波音737货机当天凌晨降落蒙彼利埃机场时滑出跑道，机头扎进附近湖中，所幸没有人员伤亡。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30天涨粉623W，“海克斯科技”成短视频新流量密码？]]></title>
+        <id>https://www.tmtpost.com/6264234.html</id>
+        <link href="https://www.tmtpost.com/6264234.html"/>
+        <updated>2022-09-25T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“左手科技，右手狠活”，抖音博主@辛吉飞的“海克斯科技”火了，短短30天内，涨粉623W，一时间，众多流量挤入这一空白赛道，好生热闹。但就在前几天，“辛吉飞”注销了抖音账号，这也让人不得不思考，怎样才能把握住餐饮内幕揭露这一大有可为的内容创作方向。]]></summary>
+        <author>
+            <name>文化产业评论</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“不上门必赔付”的顺丰，却因保价不赔翻了车？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320421.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320421.htm"/>
+        <updated>2022-09-25T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[才对外放话“不上门必赔付”的顺丰，可能没想到自己此后会连番“翻车”。先是9月初的“顺丰寄丢11000元手机仅赔1000元”话题引发广泛热议，随后在13日的“顺丰寄丢20克黄金保价八千只赔两千”事件又冲上热搜，等到了19日，“顺丰保价1.8万的单子只赔500”则彻底将快递巨头的面子踩在了脚下。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉变相降价8000？ 销售：季末冲量 提车最快一周]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320419.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320419.htm"/>
+        <updated>2022-09-25T07:27:29.000Z</updated>
+        <summary type="html"><![CDATA[自特斯拉国产化以来，其车型价格经历多次涨跌波动，但直接从指导价里进行调整的情况还是比较少见。近期，一份关于特斯拉车型能够享受保险补贴的邮件在网络流传。邮件显示，在9月16日-9月30日期间完成提车的车主，如选择在特斯拉店内购买保险，可享受8000元保险补贴，补贴可直接用于减免车价。这一行为也被市场解读为特斯拉“变相降价8000元”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 40显卡性能暴增被指全靠AI衬托 黄仁勋：DLSS生成像素比真的还好]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320417.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320417.htm"/>
+        <updated>2022-09-25T07:24:09.000Z</updated>
+        <summary type="html"><![CDATA[在这一代RTX 40系显卡上，DLSS 3.0的重要性被反复提及。包括NVIDIA口中所谓RTX 4090 2~4倍的性能提升，其实都是在开启DLSS 3.0和高级别光追的游戏中才得以实现。因为DLSS依赖深度学习技术，不是100%原生画面和分辨率，一定程度上利用了“视觉欺骗”，可好处就是减少了GPU开销，大幅提高了帧率和响应速度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内首个“元宇宙”专业引热议：南京双一流高校推出 3年前刚成立AI学院]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320415.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320415.htm"/>
+        <updated>2022-09-25T07:23:44.000Z</updated>
+        <summary type="html"><![CDATA[一所“双一流”高校，将有着25年历史的“信息工程系”，改名成了“元宇宙工程系”？！自元宇宙大火到现在，这还是“第一个吃螃蟹的高校”。这个大新闻来自南京信息工程大学，前身是南京大学气象学院，并在2004年将校名南京气象学院改成如今的名字。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.10的新墙纸让人眼前一亮]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320413.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320413.htm"/>
+        <updated>2022-09-25T07:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 22.10（Kinetic Kudu）的默认墙纸已经揭晓。新的背景图片将在10月安装或升级到Ubuntu 22.10的用户的桌面上出现。按照传统，所有新版本的Ubuntu都有一个定制设计的背景图片，上面有一个基于代号吉祥物的精心渲染的字符，最新版本是一个非洲扭角林羚（Kudu）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院AI图像生成系统让《DALL-E 2》等模型散发出创意]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320411.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320411.htm"/>
+        <updated>2022-09-25T07:15:40.000Z</updated>
+        <summary type="html"><![CDATA[随着DALL-E的问世，互联网迎来了一个集体感觉良好的时刻。这个基于人工智能的图像生成器的灵感来自于艺术家萨尔瓦多-DALL-E和动画电影中可爱的机器人瓦力，它使用自然语言来生成你心中想要的任何神秘而美丽的图像。看到打出的输入信息，如"拿着冰激凌甜筒的微笑地鼠"，机器的灵感瞬间涌现出来，这种生动的人工智能生成的图像显然得到了世界的共鸣。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯太空望远镜揭示了太阳系中最丰富和最接近的星体“托儿所”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320409.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320409.htm"/>
+        <updated>2022-09-25T07:09:39.000Z</updated>
+        <summary type="html"><![CDATA[包括密歇根大学（U-M）研究人员在内的国际天文学家团队刚刚披露了詹姆斯-韦伯太空望远镜的首批猎户座星云图像，这是太阳系中最丰富和最接近的恒星孕育地。猎户座星云位于猎户座，距离地球大约1350光年，是一个富含物质的区域，许多恒星在这里形成。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉变相降价8000元？ 特斯拉门店销售人员：临时做的一个活动]]></title>
+        <id>https://36kr.com/newsflashes/1930322243996036</id>
+        <link href="https://36kr.com/newsflashes/1930322243996036"/>
+        <updated>2022-09-25T07:05:19.000Z</updated>
+        <summary type="html"><![CDATA[近期，一份关于特斯拉车型能够享受保险补贴的邮件在网络流传。邮件显示，在9月16日-9月30日期间完成提车的车主，如选择在特斯拉店内购买保险，可享受8000元保险补贴，补贴可直接用于减免车价。这一行为也被市场解读为特斯拉“变相降价8000元”。特斯拉门店销售人员证实网传邮件内容真实性，称这是临时做的一个活动，是为冲刺交付量，9月30日提车都可以享受8000元补贴，会在交付尾款时减免车价。（证券时报）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日媒：福岛放射性污泥存储容器最快到2023年4月底将被装满]]></title>
+        <id>https://36kr.com/newsflashes/1930253678004608</id>
+        <link href="https://36kr.com/newsflashes/1930253678004608"/>
+        <updated>2022-09-25T07:05:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>东京电力公司表示，由于储存核污水处理过程中产生的污泥的容器最快将在2023年4月底储满，福岛第一核电站核废水处理工作可能面临阻碍 ... 在对核污水用多核素去除设备(ALPS)净化的过程中，会产生有强辐射的污泥，因此在处理过程中会将它们放入特殊的聚乙烯容器中，并用阻隔辐射的水泥箱保管 ... 厂区内的水泥箱容量截至8月已填满96%，如不采取措施，最快到2023年4月底将被装满。</p><p><a href='https://36kr.com/newsflashes/1930253678004608'>36Kr : 日媒：福岛放射性污泥存储容器最快到2023年4月底将被装满</a></p><p><a href='https://www.tmtpost.com/nictation/6264283.html'>钛媒体 : 日媒：福岛放射性污泥存储容器最快到2023年4月底将被装满</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软调查称“生产力妄想症”导致老板怀疑员工在家中的工作表现]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320407.htm"/>
+        <updated>2022-09-25T07:03:49.000Z</updated>
+        <summary type="html"><![CDATA[微软最近的一项调查显示，当涉及到在家工作所提供的员工生产力时，老板们并没有真正留下印象，工人们也对此不以为然。微软解释说，这两个群体之间的这种认知脱节是受到"生产力偏执狂"的影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科兴创新产研基地落成，助推重组新冠疫苗等新品产业化]]></title>
+        <id>https://36kr.com/newsflashes/1930319722826113</id>
+        <link href="https://36kr.com/newsflashes/1930319722826113"/>
+        <updated>2022-09-25T07:02:45.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，SINOVAC科兴创新产研基地落成仪式在北京大兴举行。该基地总投资超21亿元，总建筑面积15.6万平米，本月起将陆续投入使用，以推动重组新型冠状病毒疫苗、国家“重大新药创制”科技重大专项——百白破脊灰Hib系列联合疫苗以及其他创新产品的研发和产业化落地。(华尔街见闻)]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个辍学少年，让Adobe豪掷200亿美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320405.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320405.htm"/>
+        <updated>2022-09-25T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[“旧金山随处可见的由VC组织的社交活动中，Dylan Field总是独自一人坐在那里，尴尬地自斟自饮。”根据彭博社记者Brody Ford的描述，仅仅在4年前，这位Figma的创始人还未引起行业内的过多关注，尽管彼时他开发的付费产品已经开始服务微软等互联网巨头，但作为一款设计工具，有Sketch珠玉在前，Figma的未来并不被大多投资人所看好。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任意键｜《赛博朋克 2077》稳了，暂时]]></title>
+        <id>https://sspai.com/post/75907</id>
+        <link href="https://sspai.com/post/75907"/>
+        <updated>2022-09-25T06:58:09.000Z</updated>
+        <summary type="html"><![CDATA[周末愉快！经过两个月的试运行和不断改进，我派的游戏专题「任意键」终于做好了正式上线前的大部分准备。新的「任意键」将作为少数派的常驻栏目，以双周一更的稳健节奏带来更加有趣和全面的内容。在扩大版面、充实内 ...查看全文]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲凛冬将至 中国"取暖神器"出口爆单]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320403.htm"/>
+        <updated>2022-09-25T06:58:07.000Z</updated>
+        <summary type="html"><![CDATA[有记录以来最热夏天刚过去，迈入秋天的欧洲民众又迎来了新问题——凛冬早至。在天然气供给受限、价格暴涨的困境中，如何安全过冬？他们有的开始囤积煤炭，有的转而购买能耗更小的家用取暖设备并将目光投向中国。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro2开卖第一天更新固件 版本号5A377]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320401.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320401.htm"/>
+        <updated>2022-09-25T06:56:04.000Z</updated>
+        <summary type="html"><![CDATA[苹果为刚刚发售的AirPods Pro第二代推送了首个固件更新，版本号为5A377。尽管仍未明确提示新增内容，但连接稳定性有所增强。据悉，新款AirPods依然采用“自动更新”的方案，用户无法自由选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[裁员、卖身、大亏损 西半球刮来自动驾驶第一股寒风]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320399.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320399.htm"/>
+        <updated>2022-09-25T06:54:37.000Z</updated>
+        <summary type="html"><![CDATA[“今年开始，行业大环境突变……”自动驾驶第一股图森未来原董事长陈默在 7 月份接受媒体采访时的一句话，总结了美国上半年的市场情况，也意外成功预言了下半年的行业趋势。起初是图森在 3 月份突传出售中国业务，团队随之大调整，陈默也从公司出走。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司公章和王传福签名遭伪造 比亚迪称已报警]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320397.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320397.htm"/>
+        <updated>2022-09-25T06:53:47.000Z</updated>
+        <summary type="html"><![CDATA[树大招风，比亚迪（002594.SZ）最近又遇到“李鬼”。有消息称，南宁市小重政商务秘书有限公司（下称“小重政商务”）被比亚迪旗下的比亚迪汽车工业有限公司（下称“比亚迪汽车”）全资收购，并因此更名为比亚迪（广西）新能源有限公司，但这笔收购竟然是小重政商务自己伪造的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台风“奥鹿”已加强为超强台风 海南发布三级预警]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320395.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320395.htm"/>
+        <updated>2022-09-25T06:51:45.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，据中国天气消息，今年第16号台风“奥鹿”昨天夜间由强热带风暴级快速加强为超强台风级，连跳三级。预计，“奥鹿”将于今天傍晚到夜间在菲律宾吕宋岛登陆，将穿过吕宋岛，强度有所减弱，并于26日早晨进入南海中部偏东海域，逐渐向越南东部沿海靠近，强度有所加强，将于28日凌晨到上午在越南东部沿海登陆。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最高便宜超千元 苹果开卖官翻M2版MacBook Pro]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320393.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320393.htm"/>
+        <updated>2022-09-25T06:51:03.000Z</updated>
+        <summary type="html"><![CDATA[近日，苹果在美国、加拿大等地先一步上架了搭载M2芯片的官翻版13英寸MacBook Pro，按照惯例，国内将在后续同步上架。根据苹果商城的信息，官翻M2版MacBook Pro拥有256GB和512GB两种存储版本，售价分别是1169美元（约合人民币8333元）和1349美元（约合人民币9616元）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Store上架HDR校准App 屏幕发灰有救了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320391.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320391.htm"/>
+        <updated>2022-09-25T06:50:46.000Z</updated>
+        <summary type="html"><![CDATA[近日，微软在Windows 11的应用商店内上架了一款新的官方应用：Windows HDR Calibration。就如同名字一样，这款应用能够帮助用户完成对HDR屏幕的校准，避免出现屏幕发灰等色差与饱和度问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《鬼武者》首次启动制作动画 三池崇史导演Netflix发布]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320389.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320389.htm"/>
+        <updated>2022-09-25T06:47:59.000Z</updated>
+        <summary type="html"><![CDATA[9月25日今天，Netflix宣布著名游戏《鬼武者》首次启动制作动画，邀请三池崇史担任总导演，敬请期待。《鬼武者》是卡普空制作发行的一款动作角色扮演游戏，首作于2001年1月发行，故事背景是日本战国时代，玩家将操作年轻武士明智左马介，为了营救被绑架的雪姬，与“幻魔”间展开壮烈战斗的故事。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉利汽车：全新博越L首台量产车在宁波春晓CMA超级智能工厂下线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320387.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320387.htm"/>
+        <updated>2022-09-25T06:46:40.000Z</updated>
+        <summary type="html"><![CDATA[据吉利汽车官方微信公众号消息，日前，全新博越L首台量产车在宁波春晓CMA超级智能工厂下线。吉利宁波春晓工厂此次革新全面覆盖智能制造、可持续发展和工艺品控，完成从“3.0现代化工厂”到“4.0全球标杆智能工厂”的蜕变。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读客文化股价创新低 前任与现任总经理离婚“分手费”高达1.2亿元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320385.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320385.htm"/>
+        <updated>2022-09-25T06:42:49.000Z</updated>
+        <summary type="html"><![CDATA[9月22日盘后，读客文化（301025.SZ）发布董事、高级管理人员股份变动的公告，公司董事、高级管理人员朱筱筱与刘迪签署了《离婚协议》，刘迪将其名下所持有的读课文户股票1116.243万股（占公司总股本的2.79%）分割予朱筱筱所有。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“大冤种Adobe，花200亿就买了个网页应用”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320383.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320383.htm"/>
+        <updated>2022-09-25T06:38:18.000Z</updated>
+        <summary type="html"><![CDATA[没想到，向来抠抠唆唆的Adobe，这次居然一下子花了200亿美元（约1413亿人民币），买下Figma，成为公司历史上最大的一笔收购。有多大呢？根据公开数据，Adobe历史上共有56次收购，其中披露收购金额的有16起。而买下Figma花的钱，比其它15家企业加起来，还多出2亿多美元。不仅如此，Adobe还为此付出300亿美元市值下跌的代价。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【农业一周动态】传君乐宝收购银桥乳业，君乐宝回应称有意合作；兴发集团拟募资28亿新建多个项目；益客食品子公司与帅克宠物合作，拟建2.5万吨宠物食品生产线；教育部发布12个新农科人才培养引导性专业]]></title>
+        <id>https://www.tmtpost.com/6263397.html</id>
+        <link href="https://www.tmtpost.com/6263397.html"/>
+        <updated>2022-09-25T06:36:00.000Z</updated>
+        <summary type="html"><![CDATA[汇集一周农业产业热点新鲜事，每周五见]]></summary>
+        <author>
+            <name>李简</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称华为子品牌智慧屏命名Vision：中文名“远见”]]></title>
+        <id>https://www.ithome.com/0/643/049.htm</id>
+        <link href="https://www.ithome.com/0/643/049.htm"/>
+        <updated>2022-09-25T06:34:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>华为智慧屏新品发布会将于 9 月 26 日 19:00 举行，届时有望带来两款智慧屏新品 ... 华为官方上架了一款智慧屏全新子品牌新品，共有 75 英寸和 86 英寸两个版本，现已开启预约。</p><p><a href='https://www.ithome.com/0/643/049.htm'>IT 之家 : 华为智慧屏新品发布会官宣 9 月 26 日举行，全新子品牌机型有望亮相</a></p><p><a href='https://3g.163.com/dy/article/HI3SC7E70511B8LM.html'>网易新闻 : 消息称华为子品牌智慧屏命名Vision</a></p><p><a href='https://www.pingwest.com/w/271096?utm_source=feed'>品玩 : 消息称华为子品牌智慧屏命名Vision：中文名“远见”</a></p><p><a href='https://news.mydrivers.com/1/861/861867.htm'>快科技 : 华为智慧屏新品明天发：子品牌“远见” 提供75和86两个尺寸</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大冤种Adobe，花200亿就买了个网页应用]]></title>
+        <id>https://www.tmtpost.com/6264220.html</id>
+        <link href="https://www.tmtpost.com/6264220.html"/>
+        <updated>2022-09-25T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Figma上岸了，Adobe却下水了。]]></summary>
+        <author>
+            <name>零态LT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马蜂窝：澳门预计11月恢复内地旅行团赴澳旅游及电子签注办理，平台澳门总体访问量热度涨幅超300%]]></title>
+        <id>https://36kr.com/newsflashes/1930254192839302</id>
+        <link href="https://36kr.com/newsflashes/1930254192839302"/>
+        <updated>2022-09-25T05:56:06.000Z</updated>
+        <summary type="html"><![CDATA[36氪获悉，据报道，9月24日，澳门宣布将恢复与内地的电子签注办理，以及停办近3年的内地旅行团赴澳旅游也预计在今年11月恢复落实。消息发布后5小时内，马蜂窝平台关于“澳门”的总体访问量热度上涨330%，其中“澳门玩法”热度上涨241%，“澳门攻略”热度上涨275%。瞬时访问量热度较高的澳门景点分别为：澳门大三巴牌坊、澳门威尼斯人、澳门渔人码头等。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日媒：福岛放射性污泥存储容器最快到2023年4月底将被装满]]></title>
+        <id>https://36kr.com/newsflashes/1930253678004608</id>
+        <link href="https://36kr.com/newsflashes/1930253678004608"/>
+        <updated>2022-09-25T05:55:34.000Z</updated>
+        <summary type="html"><![CDATA[日本共同社25日消息，东京电力公司表示，由于储存核污水处理过程中产生的污泥的容器最快将在2023年4月底储满，福岛第一核电站核废水处理工作可能面临阻碍。据报道，在对核污水用多核素去除设备(ALPS)净化的过程中，会产生有强辐射的污泥，因此在处理过程中会将它们放入特殊的聚乙烯容器中，并用阻隔辐射的水泥箱保管。不过，厂区内的水泥箱容量截至8月已填满96%，如不采取措施，最快到2023年4月底将被装满。 (中新网)]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺安基金管理有限公司原党支部书记、总经理奥成文接受纪律审查和监察调查]]></title>
+        <id>https://www.tmtpost.com/nictation/6264261.html</id>
+        <link href="https://www.tmtpost.com/nictation/6264261.html"/>
+        <updated>2022-09-25T05:19:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>奥成文，男，汉族，1968年7月出生，陕西蒲城人，硕士研究生学历，1991年3月加入中国共产党，1991年7月参加工作 ... 中国中化集团下属中国对外经济贸易信托投资有限公司投资银行部职员、经理助理、副总经理（主持工作）、基金业务组副组长。</p><p><a href='https://www.tmtpost.com/nictation/6264261.html'>钛媒体 : 诺安基金原党支部书记、总经理奥成文接受纪律审查和监察调查</a></p><p><a href='https://36kr.com/newsflashes/1930212318562689'>36Kr : 诺安基金管理有限公司原党支部书记、总经理奥成文接受纪律审查和监察调查</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天风宏观：未来消费还存在改善空间]]></title>
+        <id>https://36kr.com/newsflashes/1930218278357378</id>
+        <link href="https://36kr.com/newsflashes/1930218278357378"/>
+        <updated>2022-09-25T05:19:34.000Z</updated>
+        <summary type="html"><![CDATA[天风证券宏观团队研报认为，疫情之后，最终消费的韧性远高于社零，如2022年上半年最终消费对GDP的拉动高于社零3个百分点。除最终消费里的政府消费和虚拟消费受疫情影响小之外，今年服务消费在疫情冲击中呈现出更高的韧性。考虑到居民资产负债表良好、就业环境改善、疫情影响减弱等，我们认为未来消费也还存在改善空间。（财联社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招商宏观：央行或于四季度降准]]></title>
+        <id>https://36kr.com/newsflashes/1930217418852996</id>
+        <link href="https://36kr.com/newsflashes/1930217418852996"/>
+        <updated>2022-09-25T05:18:41.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，招商证券宏观团队研报认为，八月中旬以来，银行间市场流动性趋紧，两大监测指标-超储率与超额备付金率均滑至历史低位，“市场-政策”利差快速收窄。与此同时，央行流动性调控成效显现，同业杠杆去化明显。展望四季度，流动性面临较大缺口，出于维护流动性合理充裕与引导中长期贷款利率下行等考虑，央行或于四季度降准，最早见于10月。（财联社）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大兴机场投运三周年 完成旅客吞吐5198万人次]]></title>
+        <id>https://36kr.com/newsflashes/1930215827049095</id>
+        <link href="https://36kr.com/newsflashes/1930215827049095"/>
+        <updated>2022-09-25T05:17:04.000Z</updated>
+        <summary type="html"><![CDATA[9月25日是大兴机场投运三周年。大兴机场自投运以来，累计完成旅客吞吐量5198万人次，航班起降44.4万架次，货邮吞吐量36.1万吨。三年来，大兴机场累计开通航线266条，通达航点185个，航线网络基本实现了年旅客吞吐量500万级及以上机场全覆盖。（央视网）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[农业农村部：1-7月规模以上农产品加工企业营业收入达10.65万亿元 同比增长5.1%]]></title>
+        <id>https://36kr.com/newsflashes/1930214294506116</id>
+        <link href="https://36kr.com/newsflashes/1930214294506116"/>
+        <updated>2022-09-25T05:15:31.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，农业农村部公布，今年以来，受国际经济下行、新冠肺炎疫情散发等不利因素叠加影响，乡村产业发展压力增加。随着5月份稳经济一揽子政策的持续显效，我国乡村产业呈现稳中向好发展态势。农产品加工业发展持续增长。1到7月，规模以上农产品加工企业营业收入达10.65万亿元，同比增长5.1%，累计完成利润总额6528.6亿元。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺安基金管理有限公司原党支部书记、总经理奥成文接受纪律审查和监察调查]]></title>
+        <id>https://36kr.com/newsflashes/1930212318562689</id>
+        <link href="https://36kr.com/newsflashes/1930212318562689"/>
+        <updated>2022-09-25T05:13:30.000Z</updated>
+        <summary type="html"><![CDATA[据“廉洁深圳”微信公众号消息，诺安基金管理有限公司原党支部书记、总经理奥成文涉嫌严重违纪违法，目前正接受中国中化控股有限责任公司纪检监察组纪律审查和广东省深圳市龙华区监察委员会监察调查。
+
+奥成文，男，汉族，1968年7月出生，陕西蒲城人，硕士研究生学历，1991年3月加入中国共产党，1991年7月参加工作。历任中国化工进出口总公司投资部高级经理；中国中化集团下属中国对外经济贸易信托投资有限公司投资银行部职员、经理助理、副总经理（主持工作）、基金业务组副组长；诺安基金管理公司督察长兼董事会秘书，党支部书记、总经理。2019年11月，被免去诺安基金公司党支部书记、总经理职务。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台风“奥鹿”将带来强风雨天气 海南发布相关预警]]></title>
+        <id>https://36kr.com/newsflashes/1930125613877635</id>
+        <link href="https://36kr.com/newsflashes/1930125613877635"/>
+        <updated>2022-09-25T05:05:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>今年第16号台风“奥鹿”（超强台风级）将于26日早晨进入南海中东部海域，而后继续向偏西方向移动，27日经过西沙群岛，28日在越南东部沿海登陆 ... 受“奥鹿”影响，9月26日至28日，海南省自东向西将有一次强风雨天气过程 ... 海南省气象局2022年09月25日10时10分发布台风三级预警，根据《海南省海上防台风应急预案（试行）》有关规定，海南省三防总指挥部决定于9月25日11时启动海上防台风Ⅲ级应急响应。</p><p><a href='https://36kr.com/newsflashes/1930125613877635'>36Kr : 台风“奥鹿”将带来强风雨天气 海南发布相关预警</a></p><p><a href='https://m.sohu.com/a/587828203_121106994'>搜狐 : “奥鹿”飞速发展为超强台风！海南发布台风三级预警！海口将有强风雨天气→</a></p><p><a href='https://news.mydrivers.com/1/861/861847.htm'>快科技 : 台风“奥鹿”已加强为超强台风！海南发布三级预警</a></p><p><a href='https://www.cnbeta.com/articles/tech/1320395.htm'>CNBeta : 台风“奥鹿”已加强为超强台风 海南发布三级预警</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把印度穷人榨干后，富豪们都“润”了]]></title>
+        <id>https://www.bohaishibei.com/?p=77418</id>
+        <link href="https://www.bohaishibei.com/post/77418/"/>
+        <updated>2022-09-25T05:04:49.000Z</updated>
+        <summary type="html"><![CDATA[印度最近又出狠人了。 彭博社的亿万富翁指数显示，来自印度的富商高塔姆·阿达尼， 已经成为亚洲第一、全球第二大的富豪，其财富力压LV的阿尔诺和亚马逊的贝佐斯。 消息传出，一些印度人欢天喜地，在阿达尼的社…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“浙江宣传”和“深圳卫健委”，到底好在哪]]></title>
+        <id>https://www.bohaishibei.com/?p=77417</id>
+        <link href="https://www.bohaishibei.com/post/77417/"/>
+        <updated>2022-09-25T04:38:50.000Z</updated>
+        <summary type="html"><![CDATA[最近一段时间，“浙江宣传”很出圈。 我看到朋友圈很多人转发它的文章，老实说这并不稀奇，因为一些朋友是浙江人，他们为家乡点赞可以理解。 我也看到网友们对它展开讨论。 基本是好评。 这么一来浙江宣传在同行…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百货 50 条，全部是实用的玩意儿（0925 第 2318 期）]]></title>
+        <id>https://www.bohaishibei.com/?p=77415</id>
+        <link href="https://www.bohaishibei.com/post/77415/"/>
+        <updated>2022-09-25T04:33:43.000Z</updated>
+        <summary type="html"><![CDATA[产自贵州茅台镇，蓝翁 V30 茅台镇酱香酒 53度酱香型白酒500mL*6瓶 整箱装 259元包邮 4.9分高好评，口碑很不错！产自贵州茅台镇，世界酱酒黄金产区，传统12897酱酒酿造工艺，酒体通透，…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX猎鹰9号火箭搭52颗星链卫星成功入轨 总数已达3399颗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320381.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320381.htm"/>
+        <updated>2022-09-25T03:57:53.000Z</updated>
+        <summary type="html"><![CDATA[9月25日今天早晨，马斯克麾下的SpaceX公司猎鹰9号运载火箭搭载52颗星链卫星成功发射升空入轨 ，再次为星链计划助力，至此星链计划的卫星总数已达3399颗。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台风“奥鹿”将带来强风雨天气 海南发布相关预警]]></title>
+        <id>https://36kr.com/newsflashes/1930125613877635</id>
+        <link href="https://36kr.com/newsflashes/1930125613877635"/>
+        <updated>2022-09-25T03:45:18.000Z</updated>
+        <summary type="html"><![CDATA[9月25日，据海南省气象台消息，今年第16号台风“奥鹿”（超强台风级）将于26日早晨进入南海中东部海域，而后继续向偏西方向移动，27日经过西沙群岛，28日在越南东部沿海登陆。受“奥鹿���影响，9月26日至28日，海南省自东向西将有一次强风雨天气过程。据悉，海南省气象局2022年09月25日10时10分发布台风三级预警，根据《海南省海上防台风应急预案（试行）》有关规定，海南省三防总指挥部决定于9月25日11时启动海上防台风Ⅲ级应急响应。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《羊了个羊》全网爆火 创始人被母校制作展牌宣传]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320379.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320379.htm"/>
+        <updated>2022-09-25T03:44:05.000Z</updated>
+        <summary type="html"><![CDATA[最近微信小游戏《羊了个羊》火爆全网，频上热搜，众多玩家熬夜玩了无数遍连第二关都没有过去，作为一款闯关类消除游戏，其通关率甚至不到0.1%。而这款微信小游戏的开发团队，北京简游科技有限公司也获得了人们的关注。近日，有网友爆料称，《羊了个羊》创始团队、简游科技创始人张佳旭的个人展板出现在了母校长治学院的校园内。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字文具盒｜将知识内化为个人数据库：这是我的笔记工作流]]></title>
+        <id>https://sspai.com/post/75364</id>
+        <link href="https://sspai.com/post/75364"/>
+        <updated>2022-09-25T03:38:30.000Z</updated>
+        <summary type="html"><![CDATA[根据自己的习惯和需求建立工作流，记录以及内化各类知识，然后形成自己的个人数据库，方便未来随时调用。查看全文]]></summary>
+        <author>
+            <name>bigzhe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鹏G9：被骂到“降价”，还想拼一把]]></title>
+        <id>https://www.bohaishibei.com/?p=77431</id>
+        <link href="https://www.bohaishibei.com/post/77431/"/>
+        <updated>2022-09-25T03:38:08.000Z</updated>
+        <summary type="html"><![CDATA[文/黎明 来源：深途（shentucar） 这应该是汽车史上，新车上市后降价最快的一次。 G9——小鹏汽车旗下最重要的一款旗舰车型，在9月21日晚正式上市。发布会上，董事长何小鹏很自信，说G9是“50…]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix改编的《三体》剧集将于2023年上映]]></title>
+        <id>https://www.ithome.com/0/643/038.htm</id>
+        <link href="https://www.ithome.com/0/643/038.htm"/>
+        <updated>2022-09-25T03:28:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>在今天的 Tudum 活动上，Netflix 分享了其备受期待的《三体》剧集的最新消息。此外，Netflix 还分享了首支片花，讲解了一些角色方面的内容 ... 作者刘慈欣本人和英文版译者刘宇昆将担任本片制片顾问，并将由《权力的游戏》编剧大卫・贝尼奥夫 David Benioff 、Alexander Woo 与 D.B.Weiss 负责本剧的剧本改编 ... 值得一提的是，制片人 David Benioff 和 DB Weiss 宣布该系列剧集将于明年某个时候到来。</p><p><a href='https://www.ithome.com/0/643/038.htm'>IT 之家 : Netflix 改编的《三体》将于 2023 年上映</a></p><p><a href='https://news.mydrivers.com/1/861/861820.htm'>快科技 : 中国科幻神作！网飞剧版《三体》2023年上映：刘慈欣担制作顾问</a></p><p><a href='https://www.ithome.com/0/643/060.htm'>IT 之家 : Netflix 版《三体》首支片花公布：主创团队亮相，第一季已拍摄完成</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《木卫四协议》先导预告 周四即将公布全新内容]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320377.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320377.htm"/>
+        <updated>2022-09-25T03:24:31.000Z</updated>
+        <summary type="html"><![CDATA[恐怖游戏新作《木卫四协议》将于本周公布最新情报。Shinobi602在Twitter表示，当他在给《木卫四协议》的促销电话发送短信之后，收到了一条包含视频的回复，相当于本周即将公布新内容的先导视频。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司公章和王传福签名遭伪造，比亚迪称已报警]]></title>
+        <id>https://3g.163.com/dy/article/HI1V2M7B0519DDQ2.html</id>
+        <link href="https://3g.163.com/dy/article/HI1V2M7B0519DDQ2.html"/>
+        <updated>2022-09-25T03:24:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>近日，有市场消息称，比亚迪旗下子公司全资收购了南宁市小重政商务秘书有限公司，公司更名为比亚迪（广西）新能源有限公司，且注册资本由30万元增加至1亿元。但是，这笔收购却是小重政商务伪造的 ... 9月20日，广西南宁市行政审批局官网公告显示，比亚迪旗下比亚迪汽车工业有限公司反映，小重政商务伪造比亚迪汽车公章和王传福签名，提交虚假材料变更登记，已对其变更登记予以撤销。</p><p><a href='https://3g.163.com/dy/article/HI1V2M7B0519DDQ2.html'>网易新闻 : 公司公章和王传福签名遭伪造，比亚迪称已报警</a></p><p><a href='https://finance.sina.com.cn/wm/2022-09-25/doc-imqqsmrp0392645.shtml'>新浪 : 举报！比亚迪公章和王传福签名遭伪造</a></p><p><a href='https://3g.163.com/dy/article/HI43M4AL0530NLC9.html'>网易新闻 : 万亿比亚迪报警！</a></p><p><a href='https://www.cnbeta.com/articles/tech/1320397.htm'>CNBeta : 公司公章和王传福签名遭伪造 比亚迪称已报警</a></p><p><a href='https://www.ithome.com/0/643/109.htm'>IT 之家 : 一公司伪造比亚迪公章和王传福签名后称被收购，比亚迪回应称“已报警”</a></p><p><a href='https://news.mydrivers.com/1/861/861878.htm'>快科技 : 公司公章和王传福签名遭伪造 比亚迪：已报警</a></p>]]></summary>
+        <author>
+            <name>Readbub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威马一年巨亏82亿元 创始人沈晖年薪12亿元 是李想800多倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320375.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320375.htm"/>
+        <updated>2022-09-25T03:24:22.000Z</updated>
+        <summary type="html"><![CDATA[近日，零跑汽车成功在港交所IPO，造车新势力上市再成功晋级一家，威马汽车也加快了IPO的步伐。不过，近日，威马汽车披露的招股书，又为其带来不小的争议。威马汽车招股书显示，公司在2019-2021年间亏损额持续增加，其中2021年巨亏82亿元。在威马愈发严峻的财务状况下，创始人、董事长兼首席执行官沈晖的超高薪酬显得格外刺眼。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《生化危机4：重制版》或仍将登陆Xbox One平台]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320373.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320373.htm"/>
+        <updated>2022-09-25T03:23:41.000Z</updated>
+        <summary type="html"><![CDATA[根据最近网络零售商的页面信息显示，卡普空新作《生化危机4：重制版》还是会登陆Xbox One平台的。今年6月，卡普空正式公布《生化危机4：重制版》，将于2023年3月24日发售。由于这款游戏是在索尼的State of Play直播节目中公布的，所以这款游戏当时并没有宣布是否登陆Xbox平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《纵横芯海》开拍 中国第一代芯片创业者做了制片人]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320371.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320371.htm"/>
+        <updated>2022-09-25T03:23:22.000Z</updated>
+        <summary type="html"><![CDATA[近日，以中国第一代芯片创业为故事背景的《纵横芯海》官宣演员阵容，黄晓明、王鸥、张超等出演主角。据悉，在该部电视剧发布备案之时，就有消息称，原剧本故事、人设都来源于芯片行业的大佬们。而在此前《纵横芯海》海报的监制人员下面，更是出现了中国第一代芯片创业者、展讯通信创始人武平的名字。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传索尼顶级新品WALKMAN严重品质不良 18万日元打水漂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320369.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320369.htm"/>
+        <updated>2022-09-25T03:23:03.000Z</updated>
+        <summary type="html"><![CDATA[索尼旗下经典随身听品牌WALKMAN已经诞生数十年，至今有着无数的拥趸，然而近日据日本玩家社区曝料，其新品WM1AM2出现大规模严重品质不良问题，定价高达18万日元都打了水漂，有意入手的粉丝可要小心了。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二代小米盒子4K通过FCC认证 做好出海准备]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320367.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320367.htm"/>
+        <updated>2022-09-25T03:19:34.000Z</updated>
+        <summary type="html"><![CDATA[尽管仍需确认，但小米电视盒子的海外版第二代产品应该很快就会问世，因为它最近在FCC认证网站上出现。型号为MDZ-28-AA，其技术参数当中包括4K HDR视频，蓝牙（BR+EDR，LE），支持Wi-Fi 2.4和5GHz两种频率。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绥中市监局调查“工人往黄豆酱里大小便”事件：未发现食品安全问题及舆论反映情况]]></title>
+        <id>https://36kr.com/newsflashes/1930099357895043</id>
+        <link href="https://36kr.com/newsflashes/1930099357895043"/>
+        <updated>2022-09-25T03:18:35.000Z</updated>
+        <summary type="html"><![CDATA[据“绥中融媒”微信公众号消息，9月24日，绥中县市场监督管理局通报关于对辽宁帝华味精食品有限公司生产的“佐香园”调味品检查的情况。
+
+针对网络舆情对“佐香园调味品生产过程中有一员工往里拉大便”问题， 9月24日，市场局对佐香园企业进行检查。执法人员对该厂从原料库、生产过程、及成品库整个生产流程进行现场检查，并检查原料入厂检验报告、半成品及成品检验报告。经过检查，未发现食品安全问题，未发现舆论反映情况。（界面）]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞《三体》首支片花公布]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320365.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320365.htm"/>
+        <updated>2022-09-25T03:15:48.000Z</updated>
+        <summary type="html"><![CDATA[网飞版《三体》剧集发布首支片花！首次曝光该剧画风、众多角色、场景。主创称该剧将给原作最大的尊重，是一部宏大复杂的剧集、一个人性的故事。同时宣布第一季杀青，尚未定下开播日期。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA晒RTX 4090实测成绩：《赛博朋克2077》跑到141帧]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320363.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320363.htm"/>
+        <updated>2022-09-25T03:14:19.000Z</updated>
+        <summary type="html"><![CDATA[在面向媒体的闭门演示会上，NVIDIA正式放出了RTX 4090显卡在实际使用中的详细性能数据。通过此次公开的数据，我们能够看到在开启DLSS与4K的前提下，RTX 4090显卡的实际性能表现。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《弥留之国的爱丽丝》第二季先导预告 12月网飞开播]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320361.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320361.htm"/>
+        <updated>2022-09-25T03:13:22.000Z</updated>
+        <summary type="html"><![CDATA[今日，网飞公布了《弥留之国的爱丽丝》第二季的首支先导预告，预计于今年12月在网飞开播。《弥留之国的爱丽丝》由山崎贤人、土屋太凤主演，第二季由佐藤信介回归执导。被困于今际之国的有栖和宇佐木必须设法拆解谜题，才有望回到本来的世界。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支付宝安全中心：对确认刷单涉案的关联收款账户 实行永久冻结账户处罚]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320359.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320359.htm"/>
+        <updated>2022-09-25T03:13:21.000Z</updated>
+        <summary type="html"><![CDATA[据支付宝安全中心微信公众号消息，支付宝安全中心发布《针对虚假刷单类欺诈行为深度治理的公告》称，近期收到了不少用户对于虚假刷单骗局的线索举报。支付宝安全中心表示，在对用户提交的举报线索进行核实后，依据相关法律法规及支付宝平台相关协议和规范，对有以下虚假刷单行为的账户等进行专项分类治理：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑豹2》新剧照 拉曼达皇后、苏睿公主如临大敌]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320357.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320357.htm"/>
+        <updated>2022-09-25T03:11:54.000Z</updated>
+        <summary type="html"><![CDATA[近日，《黑豹2》官方发布了一则新剧照，剧照中拉曼达皇后以及苏睿公主正在警戒，可能敌人正在接近她俩。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞《猎魔人》第三季新海报释出 2023年夏季播出]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320355.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320355.htm"/>
+        <updated>2022-09-25T03:11:09.000Z</updated>
+        <summary type="html"><![CDATA[网飞热剧《猎魔人》第3季发布全新海报，宣布2023年夏季播出。亨利·卡维尔、弗蕾娅·艾伦、安雅·夏隆查继续主演，罗比·阿梅尔、张梦儿、休·斯金纳、克里斯泰勒·埃尔温等新加盟。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚渊玄名作《钢铁之翼》确定制作动画电影 新预告公开]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1320353.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1320353.htm"/>
+        <updated>2022-09-25T03:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Aniplex社宣布，虚渊玄名作《钢铁之翼》确定制作动画电影，暂未确定上映日期，同时公布了先导预告以及海报，一起来先睹为快。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨紫琼主演《猎魔人》前传剧集《血源》定档 12月25日上线网飞]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320351.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320351.htm"/>
+        <updated>2022-09-25T03:09:04.000Z</updated>
+        <summary type="html"><![CDATA[杨紫琼等主演的《猎魔人》前传剧集《猎魔人：血源》发布海报，定档12月25日上线网飞。杨紫琼饰演战力高强的剑精灵Scían，“她是剑精灵游牧部落的最后成员，剑术之精湛无人能及，内心却也怀着无可比拟的伤痛。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《铁拳8》制作人：新主机比PC更有性价比]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320349.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320349.htm"/>
+        <updated>2022-09-25T03:08:22.000Z</updated>
+        <summary type="html"><![CDATA[在TGS 2022上，万代公布了《铁拳8》，计划登陆新主机和PC。系列领导原田勝弘后来接受了IGN的采访，期间他表示次世代主机PS5和Xbox Series S|X比PC平台更有性价比。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞《地狱公使》第二季先导预告 近期上线发布]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320347.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320347.htm"/>
+        <updated>2022-09-25T03:07:32.000Z</updated>
+        <summary type="html"><![CDATA[Netflix日前举行全球发布会，公布了经典韩剧《地狱公使》第二季的先导预告，宣布本剧将于近期独占上线发布，敬请期待。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达公开RTX 4090实测游戏数据 《赛博朋克2077》141FPS]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320345.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320345.htm"/>
+        <updated>2022-09-25T03:06:16.000Z</updated>
+        <summary type="html"><![CDATA[在面向媒体的闭门演示会上，英伟达分享了RTX 4090显卡的首批详细性能数据。下图是RTX 4090显卡在开启DLSS性能模式下的4K测试数据，展示了各个游戏的实际帧数。测试平台为i9 12900K+32GB内存+Windows 11 64位。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒲松龄：考场失意，家庭得意，古代文人的别样活法]]></title>
+        <id>https://www.bohaishibei.com/?p=77430</id>
+        <link href="https://www.bohaishibei.com/post/77430/"/>
+        <updated>2022-09-25T03:05:05.000Z</updated>
+        <summary type="html"><![CDATA[当年的状元名字还有几个人知道呢？但“蒲松龄”这个名字，受过九年义务教育的中国人几乎都知道。甚至在世界文学史上，也颇负盛名呢。这就是“有心栽花花不发，无心插柳柳成荫”吧。iOS链接]]></summary>
+        <author>
+            <name>梁萧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《使命召唤19》Beta测试阶段就已有外挂：透视+自瞄]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1320343.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1320343.htm"/>
+        <updated>2022-09-25T03:04:46.000Z</updated>
+        <summary type="html"><![CDATA[本周末是《使命召唤19：现代战争2》BETA测试的第二个周末，现在PC，PS和Xbox玩家都能参加，这也意味着作弊玩家现已加入了战场。作为回应，主机玩家关闭了跨平台游玩功能，避免和PC上的作弊玩家排到一起。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID最令人费解的古怪地方：一种与死亡率有关的常见基因变体]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320341.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320341.htm"/>
+        <updated>2022-09-25T03:04:44.000Z</updated>
+        <summary type="html"><![CDATA[这可能是COVID最令人费解的古怪地方：当一些受感染的人只有轻微的、类似流感的症状时，在另一些人身上，COVID-19却会演变成严重的疾病、残疾乃至死亡。9月21日发表在《自然》上的一篇新研究论文可能解释了这种二分法的遗传基础。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《鱿鱼游戏》第二季最新宣传片未公开影像解禁]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1320339.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1320339.htm"/>
+        <updated>2022-09-25T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflix日前举行全球发布会，经典韩剧《鱿鱼游戏》第二季即将于近期首先发布，官方率先公布了一段新剧照，展示了一段第一季时未公开的影像，一起来欣赏下。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10个细节解惑东方甄选玉米之争：地头收购价多少？谷贵会富农吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320337.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320337.htm"/>
+        <updated>2022-09-25T03:03:20.000Z</updated>
+        <summary type="html"><![CDATA[近日，辛巴在直播时炮轰东方甄选直播间售卖的玉米“丧良心”，农民批发卖也就七毛钱一穗，但东方甄选销售价格达到6元钱一穗，新东方方面利润占到40%，“农民赚到钱了”？对此，东方甄选董宇辉回应称，东方甄选玉米和普通玉米不一样，大部份玉米收购价格在四、五毛左右，但这些玉米是用来养牲口的。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网红称包下江苏第三大湖，把水抽干抓鱼？当地回应]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1320335.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1320335.htm"/>
+        <updated>2022-09-25T03:03:03.000Z</updated>
+        <summary type="html"><![CDATA[据齐鲁晚报23日报道，近日，在某短视频平台拥有793万粉丝的网红“倪海杉”在视频中称自己花了1800万包下高邮湖，准备用45天把湖水抽干抓鱼。此视频很快成为微博热搜，被广大网友热议，主管部门也迅速作出回应：到目前为止“没包也没抽”，钱没给、事没干。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特车机语音点歌先报歌手名 结果被《北京欢迎你》上了一课]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320333.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320333.htm"/>
+        <updated>2022-09-25T03:02:01.000Z</updated>
+        <summary type="html"><![CDATA[现在的造车新势力普遍注重车机智能表现，而且语音控制功能也是越来越完善、方便，诸如语音点歌算是车主常用的功能之一，不过一些传统车企在这方面，还存在一些细节不够完善的地方，如果碰上不一般的歌曲，可能还会闹出笑话。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们早就放弃了的软盘 还在支配着日本政府]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320331.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320331.htm"/>
+        <updated>2022-09-25T03:01:34.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，日本数字大臣河野太郎在社交平台掀起了一场战争：一场公开和软盘决斗的战争。原文就是用“ 战争 ”来形容这一次的软盘清除计划。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 Pro首周销量大增56%：iPhone 14暴跌7成]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320329.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320329.htm"/>
+        <updated>2022-09-25T02:58:33.000Z</updated>
+        <summary type="html"><![CDATA[尽管苹果今年一口气发布了四款iPhone 14系列，但无论是从口碑、销量、市场行情价来看，出现了两极分化，标准版颇为受伤，倒是Pro版因为灵动岛新外形和强大的配置，依然是供不应求。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为苹果抢发的卫星通讯 也许是互联网普及的最后一公里]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320327.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320327.htm"/>
+        <updated>2022-09-25T02:52:56.000Z</updated>
+        <summary type="html"><![CDATA[2022年9月，华为和苹果先后发布了华为Mate 50系列和iPhone 14系列智能手机，二者搭载的卫星通讯功能，成为了科技领域人们所关注的热点。卫星通讯系统指多个卫星构成的可以进行实时信息处理的系统，其中低轨道卫星可用于手机通讯。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国辉瑞公司CEO第二次感染新冠]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320325.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320325.htm"/>
+        <updated>2022-09-25T02:49:29.000Z</updated>
+        <summary type="html"><![CDATA[据路透社消息，当地时间24日，美国辉瑞公司首席执行官艾伯乐（Albert Bourla）又一次表示自己的新冠病毒检测结果呈阳性。艾伯乐在一份声明中说，“我现在感觉很好，没有症状”。据了解，这已是艾伯乐第二次感染新冠。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘强东与章泽天现身美国明州超市 民事诉讼下月初开庭]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1320323.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1320323.htm"/>
+        <updated>2022-09-25T02:49:24.000Z</updated>
+        <summary type="html"><![CDATA[日前，有网友晒出在美国明尼阿波利斯市偶遇刘强东与章泽天一起逛超市的照片。照片中，章泽天身穿条纹针织裙，孕肚明显，疑似已怀上第二胎，夫妻两人一起挑选商品，相当甜蜜。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆档新片预售总票房破3000万]]></title>
+        <id>https://36kr.com/newsflashes/1930061334022533</id>
+        <link href="https://36kr.com/newsflashes/1930061334022533"/>
+        <updated>2022-09-25T02:39:55.000Z</updated>
+        <summary type="html"><![CDATA[据@猫眼电影 微博消息，9月25日9时34分，2022年国庆档新片预售总票房破3000万，《长空之王》《万里归途》《平凡英雄》分列预售榜前三位。]]></summary>
+        <author>
+            <name>36氪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA放弃即将到来的Artemis I火箭发射并准备运回装配大楼]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320321.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320321.htm"/>
+        <updated>2022-09-25T02:35:26.000Z</updated>
+        <summary type="html"><![CDATA[据悉，NASA正在放弃当地时间9月27日周二的Artemis I发射机会并准备返回。与此同时，它将继续关注跟热带风暴“伊恩”有关的天气预报。在今日（9月24日）上午的会议上，各小组决定暂停准备周二的发射日期以便他们能够配置系统进而将太空发射系统火箭(SLS)和猎户座航天器推回至车辆装配大楼(VAB)。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员开发出一种更优质、毒性更低的大米类型]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320319.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320319.htm"/>
+        <updated>2022-09-25T02:27:54.000Z</updated>
+        <summary type="html"><![CDATA[水稻是世界上几乎一半人口的主食。然而跟大麦和小麦等其他谷物相比，它从土壤中吸收的镉更多。据报道，大米占我们饮食中有毒重金属镉总消费量的40-65%。食用受镉污染的大米的人面临着巨大的健康危险，这事因为过量的镉摄入跟伊泰伊泰病等疾病有关。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现的破骨细胞新功能或能帮助对抗骨质流失]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320317.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320317.htm"/>
+        <updated>2022-09-25T02:14:11.000Z</updated>
+        <summary type="html"><![CDATA[人体中的骨骼重塑是造骨细胞（产生骨骼的细胞）和破骨细胞（分解骨骼的细胞）之间的一种微妙平衡行为。骨质疏松症、关节炎和牙周炎等疾病都会导致骨质流失并跟破骨细胞活动的增加有关。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即将前往ISS的NASA SpaceX Crew-5机组成员进入隔离区]]></title>
+        <id>https://www.cnbeta.com/articles/science/1320315.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1320315.htm"/>
+        <updated>2022-09-25T02:01:12.000Z</updated>
+        <summary type="html"><![CDATA[为了准备参加NASA的SpaceX Crew-5任务飞往国际空间站，NASA宇航员Nicole Mann和Josh Cassada及JAXA宇航员Koichi Wakata和俄罗斯宇航员Anna Kikina于当地时间9月19日周一开始进入正式隔离期。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4个方法，学会爱自己]]></title>
+        <id>http://www.huxiu.com/article/667474.html?f=wangzhan</id>
+        <link href="http://www.huxiu.com/article/667474.html?f=wangzhan"/>
+        <updated>2022-09-25T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们常常给自己暗示，要好好爱自己，却还是会疑惑：为什么我活得这么辛苦，总学不会爱自己？本期视频就谈谈普通人如何用心理学的策略，扫清爱自己道路上的巨大障碍。
+下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
+        <author>
+            <name>虎嗅网</name>
         </author>
     </entry>
     <entry>
@@ -267,76 +1789,6 @@ iPhone 14 Pro Max 1TB的售价达到13499元；
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[过热油橡胶减震接头的型号]]></title>
-        <id>https://m.sohu.com/a/587765595_121470612</id>
-        <link href="https://m.sohu.com/a/587765595_121470612"/>
-        <updated>2022-09-25T01:27:52.000Z</updated>
-        <summary type="html"><![CDATA[橡胶剪切隔振器具有固有频率低、变形范围大、结构简单、安装方便等特点 ... 橡胶剪切隔振器适用于水泵、压缩机、通风机、发电机组、冷冻机等机械设备的积极隔振，以及仪器仪表的消极隔振 ... 橡胶剪切隔振器的优点是具有足够的内阻尼，适用于静态位移小，动态位移短但大，可制成各种形状，以满足空间的要求。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳第二家苹果Apple Store 目前正在装修：耗资三千万，明年 1 月 15 日竣工]]></title>
-        <id>https://www.ithome.com/0/643/051.htm</id>
-        <link href="https://www.ithome.com/0/643/051.htm"/>
-        <updated>2022-09-25T01:24:39.000Z</updated>
-        <summary type="html"><![CDATA[苹果已在大中华区开设了 54 家 Apple Store 零售店，其中中国大陆地区有 44 家，覆盖 16 个省份、直辖市和自治区 ... 目前在深圳只有一家 Apple Store 零售店，地点为深圳市南山区深南大道 9028 号益田假日广场 ... 深圳第二家 Apple Store 之前已经正式开始招聘，预计会在近期放出更多消息。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耐腐蚀波纹软连接的特点]]></title>
-        <id>https://m.sohu.com/a/587546975_121470871</id>
-        <link href="https://m.sohu.com/a/587546975_121470871"/>
-        <updated>2022-09-25T01:20:59.000Z</updated>
-        <summary type="html"><![CDATA[单向补偿器的滑动套筒应安装在介质的流入端、套筒补偿器分单向型和双向型补偿结构双向型特点，是不论介质从补偿器何端流入，其补偿器两端的滑动套筒总是自由滑动，达到双向补偿作用增大补偿量、双向补偿器外套筒应用固定支座托起并保持与管路同心两边的补偿距离、要近似相同为保证管道无侧向位移 ... 支架当补偿器两铡均有轴向位移时则两侧，都应装导向支架保证轴向位移对补偿器，偏心度正负不超过度、套筒补偿器的使用寿命大]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[供热管道波纹膨胀节的补偿量计算]]></title>
-        <id>https://m.sohu.com/a/587764071_121470860</id>
-        <link href="https://m.sohu.com/a/587764071_121470860"/>
-        <updated>2022-09-25T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[焊接波纹管的适用范围是：液位变送器或控制器的检测元件做为控制机构，也可以用于环境温度、和压力液位仪的测量元件，及各种密封性和能量传递元器件 ... 除测量元件外，焊接波纹管还可以作为密封性、联接、赔偿、防护元器件，在很多行业都是有辽阔的应用价值 ... 除开软性连接轴、压力控制器等外，还可以做为手机陀螺仪里的容积赔偿元器件，在调节阀门中当做密封性防护元器件。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何写一篇好的响应论文]]></title>
-        <id>https://m.sohu.com/a/587763449_121456701</id>
-        <link href="https://m.sohu.com/a/587763449_121456701"/>
-        <updated>2022-09-25T01:18:50.000Z</updated>
-        <summary type="html"><![CDATA[这是一篇分析性文章，对作品（例如文章、书籍、电影或戏剧）做出明智的响应 ... 作为应急响应专业人士，我在这里告诉您，在撰写响应文件时，有些事情您绝对不应该做 ... 在学术界和响应论文的世界中，你的感受（无论你喜欢它还是讨厌它）都不是重点。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毕业论文写作什么是具体语言？和抽象语言的差别？]]></title>
-        <id>https://m.sohu.com/a/587763160_121456701</id>
-        <link href="https://m.sohu.com/a/587763160_121456701"/>
-        <updated>2022-09-25T01:17:32.000Z</updated>
-        <summary type="html"><![CDATA[但请记住，这些词可以被视为具体语言，因为它们是非常具体和描述性的词 ... 具体的语言通过使用有形和具体的特征和细节来帮助读者理解您所写的内容 ... 具体语言是抽象语言的对立面，抽象语言更笼统，通常指的是无形的品质和无法轻易衡量的事物，例如爱、恨、恐惧或幸福。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首发21999元 TCL Q10G 98英寸mini LED电视预售：4K 120Hz高刷]]></title>
-        <id>https://news.mydrivers.com/1/861/861829.htm</id>
-        <link href="https://news.mydrivers.com/1/861/861829.htm"/>
-        <updated>2022-09-25T01:16:16.000Z</updated>
-        <summary type="html"><![CDATA[Q10G mini LED 98英寸电视采用672分区，59颗背光驱动芯片独立控制分区，最高亮度可达1600尼特，1600万:1动态对比度，拥有全通道4K 120Hz、95% DCI-P3色域 ... Q10G系列mini LED电视55英寸采用240分区背光，65英寸采用288区，75英寸采用360区，85英寸采用448区 ... 核心配置上，Q10G mini LED 98英寸电视搭载领耀M1]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国内首个元宇宙大学院系设立；小鹏汽车首批 S4 超快充站上线；《权力的游戏》NFT 来了]]></title>
         <id>http://www.geekpark.net/news/308832</id>
         <link href="http://www.geekpark.net/news/308832"/>
@@ -358,76 +1810,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[河套“新面孔”助力万物互联]]></title>
-        <id>https://m.sohu.com/a/587762870_121010226</id>
-        <link href="https://m.sohu.com/a/587762870_121010226"/>
-        <updated>2022-09-25T01:14:49.000Z</updated>
-        <summary type="html"><![CDATA[第一次会员大会在京召开，深圳分会场在河套深港科技创新合作区同步进行 ... 值得关注的是，世界无线局域网应用发展联盟正式落户河套深港科技创新合作区 ... WAA第一届理事长，中国工程院院士、北京邮电大学教授张平在大会致辞中表示，世界无线局域网应用发展联盟的成立，是为应用而生，将瞄准无线局域网万物互联“性能体验”这一行业标准的空白点，让万物“联得上”，应用“通得了”，用户“用得好”。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[助力智慧乡村发展 重庆一元宇宙乡村项目启动运营-中新网重庆]]></title>
-        <id>https://m.sohu.com/a/587762855_123753</id>
-        <link href="https://m.sohu.com/a/587762855_123753"/>
-        <updated>2022-09-25T01:14:32.000Z</updated>
-        <summary type="html"><![CDATA[记者从渝北区元宇宙先导示范区国盛数字创意产业园“家文化助力乡村振兴研讨会”上获悉，我市元宇宙乡村项目“田密”平台已于日前启动运营 ... 该平台将运用区块链、AI、XR、数字孪生等技术，打造元宇宙乡村空间，通过开发线上线下沉浸式融合的智慧乡村发展场景，提升农业生产效率，助力乡村振兴 ... 在当天的活动中，重庆田密链上科技有限公司与四川爱扽实业签署了战略合作协议，将共同致力平台的开发、运营，破解乡]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DREP6B-2X/25EG24N9K4/M三通比例减压阀配置控制放大器]]></title>
-        <id>https://m.sohu.com/a/587762393_120943875</id>
-        <link href="https://m.sohu.com/a/587762393_120943875"/>
-        <updated>2022-09-25T01:13:25.000Z</updated>
-        <summary type="html"><![CDATA[外置模块式比例放大器：RT-MSPD1-30、US-DAS1（单电磁铁）/ RT-MSPD2-30、US-DAS2（双电磁铁）。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冲击压路机对压实遍数提升有哪些增长,三角碾的主要用途。]]></title>
-        <id>https://m.sohu.com/a/587762735_121325113</id>
-        <link href="https://m.sohu.com/a/587762735_121325113"/>
-        <updated>2022-09-25T01:12:41.000Z</updated>
-        <summary type="html"><![CDATA[冲击压路机在使用前期，有“梅花夯”、“三角夯”、“冲击夯”、“冲击辊”以及“旋转夯”、“夯实碾”等多个带有“夯”以及“夯实”特性的名称，更有“行走的强夯机”的别称 ... 匹配性是冲击压路机专用牵引车的设计要点及技术核心，例如，冲击压路机采用的 专用变速箱先后进行了7次设计改动，仅速比就有5次优化改进 ... 我们知道的压路机无论是单钢轮压路机、双钢轮压路机还是三轮压路机，其碾压轮都是圆形的钢筒，]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为智慧屏新品发布会官宣 9 月 26 日举行，全新子品牌机型有望亮相]]></title>
-        <id>https://www.ithome.com/0/643/049.htm</id>
-        <link href="https://www.ithome.com/0/643/049.htm"/>
-        <updated>2022-09-25T01:09:47.000Z</updated>
-        <summary type="html"><![CDATA[华为官方现宣布，华为智慧屏新品发布会将于 9 月 26 日 19:00 举行，届时有望带来两款智慧屏新品 ... 今年 7 月底，华为举行了 HarmonyOS 3 及华为全场景新品发布会，推出了智慧屏 S86 Pro、S55、S65、S75 等新品，3299 元起 ... 借助新一代 HarmonyOS 3 系统的分布式能力，智慧屏 S86 Pro 的超级桌面可以将手机和智慧屏深度融合，甚至在智]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泵连接波纹膨胀节多少米安装一个]]></title>
-        <id>https://m.sohu.com/a/587762340_121470647</id>
-        <link href="https://m.sohu.com/a/587762340_121470647"/>
-        <updated>2022-09-25T01:09:38.000Z</updated>
-        <summary type="html"><![CDATA[波纹补偿器，又被称为金属补偿器，广泛用于管路热补偿、减振和减噪 ... 中国的补偿器规范称之为高压容器波型补偿器与金属波纹管膨胀节的一般技术标准 ... 阻性消声器充填的消声材料，体积密度应符合设计要求，铺设应均匀，并应采取防止下沉的措施。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辉瑞公司CEO新冠病毒检测结果再次呈阳性]]></title>
-        <id>https://36kr.com/newsflashes/1929972137118084</id>
-        <link href="https://36kr.com/newsflashes/1929972137118084"/>
-        <updated>2022-09-25T01:09:10.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[辉瑞公司CEO新冠病毒检测结果再次呈阳性]]></title>
         <id>https://36kr.com/newsflashes/1929972137118084</id>
         <link href="https://36kr.com/newsflashes/1929972137118084"/>
@@ -437,16 +1819,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
 艾伯乐曾于今年8月份称自己新冠病毒检测呈阳性，他在社交媒体表示，自己已经接种4剂辉瑞新冠疫苗，症状轻微，并服用了辉瑞新冠口服药Paxlovid。]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子时代，我们需要量子算法]]></title>
-        <id>https://www.tmtpost.com/6264126.html</id>
-        <link href="https://www.tmtpost.com/6264126.html"/>
-        <updated>2022-09-25T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[量子算法——不仅成全了量子计算机的无限潜力，也为人工智能带来了新的发展可能。]]></summary>
-        <author>
-            <name>根新未来</name>
         </author>
     </entry>
     <entry>
@@ -471,46 +1843,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[徒手搭建末日避难所系列纪录片《搭建原始泥砖庇护所》全2集自媒体解说素材]]></title>
-        <id>https://m.sohu.com/a/587761290_120642161</id>
-        <link href="https://m.sohu.com/a/587761290_120642161"/>
-        <updated>2022-09-25T01:06:24.000Z</updated>
-        <summary type="html"><![CDATA[135纪录片官网分享：徒手搭建末日避难所系列纪录片《搭建原始泥砖庇护所》如何在末日灾难中生存下来，如何打造现代版的诺亚方舟，如何利用大自然赋予我们的资源建造最后的庇护所 ... 本系列纪录片将未雨绸缪，教会你以下实战技能：断网独居、荒野生存、捕鱼、丛林搭建、原始技术等。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去除“虚火”后，东鹏饮料陷入增长困境]]></title>
-        <id>https://www.tmtpost.com/6264051.html</id>
-        <link href="https://www.tmtpost.com/6264051.html"/>
-        <updated>2022-09-25T01:06:00.000Z</updated>
-        <summary type="html"><![CDATA[谁会喝东鹏特饮？低价抢市场路线受挫，国产红牛难有“钱景”？]]></summary>
-        <author>
-            <name>银箭财经</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏汽车：首批S4超快充站在北京、上海、广州、深圳、武汉上线]]></title>
-        <id>http://www.techweb.com.cn/it/2022-09-25/2905694.shtml</id>
-        <link href="http://www.techweb.com.cn/it/2022-09-25/2905694.shtml"/>
-        <updated>2022-09-25T01:05:04.000Z</updated>
-        <summary type="html"><![CDATA[小鹏自建新一代的S4超充桩，最高可实现480kW/670A的充电能力 ... 从22年Q3开始逐步铺开超充桩的建设，车端和桩端相互结合，最大化发挥800V超快充的能力，从而能给消费者提供高效便捷的补能体验。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑龙江省新增本土新冠肺炎确诊病例11例，新增本土无症状感染者163例]]></title>
-        <id>https://36kr.com/newsflashes/1929967645952641</id>
-        <link href="https://36kr.com/newsflashes/1929967645952641"/>
-        <updated>2022-09-25T01:04:36.000Z</updated>
-        <summary type="html"><![CDATA[截至9月24日24时，全省现有本土确诊病例68例，本土无症状感染者932例。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[黑龙江省新增本土新冠肺炎确诊病例11例，新增本土无症状感染者163例]]></title>
         <id>https://36kr.com/newsflashes/1929967645952641</id>
         <link href="https://36kr.com/newsflashes/1929967645952641"/>
@@ -518,56 +1850,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
         <summary type="html"><![CDATA[黑龙江卫健委：9月24日，黑龙江省新增本土新冠肺炎确诊病例11例，新增本土无症状感染者163例。截至9月24日24时，全省现有本土确诊病例68例，本土无症状感染者932例；全省现有境外输入确诊病例18例，境外输入无症状感染者23例。]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连续吃槟榔一年，身体会发生什么变化？]]></title>
-        <id>https://www.bohaishibei.com/?p=77426</id>
-        <link href="https://www.bohaishibei.com/post/77426/"/>
-        <updated>2022-09-25T01:00:43.000Z</updated>
-        <summary type="html"><![CDATA[@1945016043:今年年初来了个湖南的客户随身带着一包槟郎零售价写着一百！ 业务谈的差不多了他问我要不要来颗尝一尝，我好奇的尝了一颗嚼了嚼，然后突然感觉被锁喉了贼难受还有一股薄荷味儿，后面吃着就…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14发售一周销售数据曝光]]></title>
-        <id>https://www.pingwest.com/w/271093?utm_source=feed</id>
-        <link href="https://www.pingwest.com/w/271093?utm_source=feed"/>
-        <updated>2022-09-25T00:59:01.000Z</updated>
-        <summary type="html"><![CDATA[据证券时报，Sandalwood电商市场监测数据显示，iPhone 14系列在天猫平台7天预售销量与iPhone 13系列7天预售相比，增⻓7%，销售额同比增⻓17% ... 分版本预售销量来看，标准系列预售量同⽐下降70%，Pro系列预售量同比增⻓56%。]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国移动董事长杨杰：全力推进科技创新，加快推动科普宣传]]></title>
-        <id>https://m.sohu.com/a/587761866_121218495</id>
-        <link href="https://m.sohu.com/a/587761866_121218495"/>
-        <updated>2022-09-25T00:55:16.000Z</updated>
-        <summary type="html"><![CDATA[杨杰在致辞中表示，在中国科协指导推动下，我国科普事业蓬勃发展，逐步建立了全领域行动、全地域覆盖、全媒体传播、全民参与的科普体系，形成科技创新、科学普及“两翼齐飞”的良好局面 ... 中国科技馆坚持科普价值引领，打造了优质科普内容供给，不断推出公众喜闻乐见的科普作品，润物无声地传播科学思想、普及科学知识，发挥了培养公众科学精神、助力建设终身学习型社会的重要作用 ... 杨杰表示，中国移动将在上级部门]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想做自媒体怎么入门？新人入门必不可少的一款自媒体软件！]]></title>
-        <id>https://m.sohu.com/a/587030037_121389707</id>
-        <link href="https://m.sohu.com/a/587030037_121389707"/>
-        <updated>2022-09-25T00:54:00.000Z</updated>
-        <summary type="html"><![CDATA[多平台账号管理功能比较适合自媒体账号较多的朋友使用，其主要的用法就是可以让多个自媒体账号登录到融媒宝上去，随后就会自动保存我们的账号和密码，同时也只需要登录一次，就可以一直在登录过的账号上面发布内容 ... 再就是一键多发功能，一键多发功能是将我们创作的视频图文等内容，发布到各个自媒体账号上去的功能，这个功能的好处就是可以提高我们的分发效率，设身处地的想一想，如果有20个账号需要发布内容 ...]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10个细节解惑东方甄选玉米之争：地头收购价多少？谷贵会富农吗？]]></title>
-        <id>https://www.tmtpost.com/6264098.html</id>
-        <link href="https://www.tmtpost.com/6264098.html"/>
-        <updated>2022-09-25T00:53:00.000Z</updated>
-        <summary type="html"><![CDATA[谷贱伤农，但谷贵会富农吗？]]></summary>
-        <author>
-            <name>三言财经</name>
         </author>
     </entry>
     <entry>
@@ -703,26 +1985,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[高德打车已盈利，但距离下一个滴滴还很远]]></title>
-        <id>https://www.tmtpost.com/6264033.html</id>
-        <link href="https://www.tmtpost.com/6264033.html"/>
-        <updated>2022-09-25T00:03:00.000Z</updated>
-        <summary type="html"><![CDATA[追上滴滴，言之过早。]]></summary>
-        <author>
-            <name>新媒科技评论</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长大后发现，李健这段采访说的都是真的！]]></title>
-        <id>https://www.bohaishibei.com/?p=77424</id>
-        <link href="https://www.bohaishibei.com/post/77424/"/>
-        <updated>2022-09-24T23:58:43.000Z</updated>
-        <summary type="html"><![CDATA[他本人非常优秀，但仍能共情人间疾苦。iOS链接]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD CEO苏姿丰计划前往台湾 据称将造访台积电以确保足够的晶圆分配]]></title>
         <id>https://www.cnbeta.com/articles/tech/1320285.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1320285.htm"/>
@@ -734,16 +1996,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怎么就按捺不住晚上想吃宵夜的欲望呢？]]></title>
-        <id>https://www.bohaishibei.com/?p=77423</id>
-        <link href="https://www.bohaishibei.com/post/77423/"/>
-        <updated>2022-09-24T23:53:54.000Z</updated>
-        <summary type="html"><![CDATA[世上有些东西很神奇： 如果没有，你也不会太难受。 但你一旦知道房间里某处有，就会情不自禁觉得，没了此物就不行。 越是夜深，越是如此。百爪挠心，蠢蠢欲动，在邪恶的欲望边缘来回试探。 比如，一碗泡面。 以…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[有生之年：本月即将迎来无需望远镜也能看到木星的机会]]></title>
         <id>https://www.cnbeta.com/articles/science/1320283.htm</id>
         <link href="https://www.cnbeta.com/articles/science/1320283.htm"/>
@@ -752,16 +2004,6 @@ Netflix 的一位发言人对于该公司与喜剧演员交易的财务条款不
  阅读全文]]></summary>
         <author>
             <name>teikaei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百货 50 条，全部是实用的玩意儿（0925 第 2318 期）]]></title>
-        <id>https://www.bohaishibei.com/?p=77415</id>
-        <link href="https://www.bohaishibei.com/post/77415/"/>
-        <updated>2022-09-24T23:50:43.000Z</updated>
-        <summary type="html"><![CDATA[产自贵州茅台镇，蓝翁 V30 茅台镇酱香酒 53度酱香型白酒500mL*6瓶 整箱装 259元包邮 4.9分高好评，口碑很不错！产自贵州茅台镇，世界酱酒黄金产区，传统12897酱酒酿造工艺，酒体通透，…]]></summary>
-        <author>
-            <name>梁萧</name>
         </author>
     </entry>
     <entry>
@@ -1213,36 +2455,6 @@ The First step in every interview is preparation. This is a very important part,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[送玩具带上含价格的发票，告诉亲戚有质量问题七天内可以凭发票退换]]></title>
-        <id>https://www.bohaishibei.com/?p=77416</id>
-        <link href="https://www.bohaishibei.com/post/77416/"/>
-        <updated>2022-09-24T10:57:41.000Z</updated>
-        <summary type="html"><![CDATA[@天涯历知幸：事情是这样的，我朋友和她老公，有一个共同的朋友，为了避免不必要的麻烦，我们就不说性别了，就叫Ta小甲吧。 小甲和配偶小乙，从相识到相恋，从恋爱到结婚，不说是偶像剧模式吧，也挺言情的，总而…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粉丝即将破亿，“抖音第一网红”疯狂小杨哥凭什么？]]></title>
-        <id>https://www.tmtpost.com/6263651.html</id>
-        <link href="https://www.tmtpost.com/6263651.html"/>
-        <updated>2022-09-24T10:57:00.000Z</updated>
-        <summary type="html"><![CDATA[被粉丝送出圈的疯狂小杨哥正在“退热自保”。]]></summary>
-        <author>
-            <name>剁椒TMT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何理解美联储的连续加息？]]></title>
-        <id>https://www.tmtpost.com/6264022.html</id>
-        <link href="https://www.tmtpost.com/6264022.html"/>
-        <updated>2022-09-24T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[最近三个月，美联储连续三次加息，加息幅度都特别大，引发了市场的关注，对市场本身也有很大的冲击。这种冲击会造成多大的影响？美联储未来还会采取什么样的加息路径？]]></summary>
-        <author>
-            <name>看懂经济</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neal Stephenson旗下Lamina1发布开放元宇宙白皮书]]></title>
         <id>https://www.cnbeta.com/articles/tech/1320219.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1320219.htm"/>
@@ -1251,16 +2463,6 @@ The First step in every interview is preparation. This is a very important part,
  阅读全文]]></summary>
         <author>
             <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡首富们在渡劫]]></title>
-        <id>https://www.tmtpost.com/6263996.html</id>
-        <link href="https://www.tmtpost.com/6263996.html"/>
-        <updated>2022-09-24T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[当首富踏错节拍，财富缩起水来也很吓人。]]></summary>
-        <author>
-            <name>好看商业</name>
         </author>
     </entry>
     <entry>
@@ -1374,66 +2576,6 @@ Data federation with CockroachDB and Presto]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[短债基金密集限购]]></title>
-        <id>https://36kr.com/newsflashes/1929041926031746</id>
-        <link href="https://36kr.com/newsflashes/1929041926031746"/>
-        <updated>2022-09-24T09:29:34.000Z</updated>
-        <summary type="html"><![CDATA[据不完全统计，进入9月以来，不到20个交易日时间内已有近40只短期纯债型基金发布暂停申购或者暂停大额申购的公告。受访业内人士表示，扎堆限购的主要原因系当前短债收益率水平和利差已处于低位，资金大量涌入的短债产品面临一定的配置压力。（中国基金报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城商行成金融债发行主力，资本补充空间打开]]></title>
-        <id>https://36kr.com/newsflashes/1929014298823046</id>
-        <link href="https://36kr.com/newsflashes/1929014298823046"/>
-        <updated>2022-09-24T09:25:42.000Z</updated>
-        <summary type="html"><![CDATA[据第一财经消息，近阶段，城商行金融债发行提速。9月22日，就有南京银行、苏州银行、杭州银行3家城商行发布公告称获准发行金融债券。今年下半年以来，金融债活跃度提升。中信证券研究部指出，2022年6月后，金融债发行量和净融资额均有明显回升，8月分别达到10116亿元和5850亿元，为今年以来最高水平。（证券时报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京证券交易所投资者开户数达515万户]]></title>
-        <id>https://36kr.com/newsflashes/1929038576798343</id>
-        <link href="https://36kr.com/newsflashes/1929038576798343"/>
-        <updated>2022-09-24T09:19:30.000Z</updated>
-        <summary type="html"><![CDATA[从北京证券交易所获悉，北交所开市后，各类市场主体参与踊跃，目前北交所投资者开户数达515万户，超过500只公募基金入市。统计显示，目前北交所在审企业122家，在辅企业290家。在审、在辅企业主要集中在软件信息技术和设备制造行业。北交所相关负责人介绍，下一步，北交所将进一步提高挂牌、上市全链条审核效率和监管服务精准性，使得企业上市路径更清晰、预期更明确、过程更顺畅。（新华社）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星帅尔：2GW高发电量光伏组件项目预计明年年底建成投产，届时组件��能将达3.5GW/年]]></title>
-        <id>https://36kr.com/newsflashes/1929016440719747</id>
-        <link href="https://36kr.com/newsflashes/1929016440719747"/>
-        <updated>2022-09-24T09:15:51.000Z</updated>
-        <summary type="html"><![CDATA[星帅尔日前接受机构调研表示，海外销量约占富乐新能源总销量的50%左右。考虑到供地、厂房建设周期等因素，公司计划继续投资建设的2GW高发电量太阳能光伏组件项目预计明年年底建成投产，届时公司光伏组件业务产能将达3.5GW/年。（财联社）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨头围猎，SHEIN背刺？]]></title>
-        <id>https://www.tmtpost.com/6263941.html</id>
-        <link href="https://www.tmtpost.com/6263941.html"/>
-        <updated>2022-09-24T09:13:00.000Z</updated>
-        <summary type="html"><![CDATA[巨头出海第一战，SHEIN被开第一刀。]]></summary>
-        <author>
-            <name>零售商论</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏G9：被骂到“降价”，还想拼一把]]></title>
-        <id>https://www.tmtpost.com/6263895.html</id>
-        <link href="https://www.tmtpost.com/6263895.html"/>
-        <updated>2022-09-24T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[都是工程师思维惹的祸？]]></summary>
-        <author>
-            <name>深途</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[探索木星的同时“天问四号”任务将捎带上天王星探测器]]></title>
         <id>https://www.cnbeta.com/articles/science/1320201.htm</id>
         <link href="https://www.cnbeta.com/articles/science/1320201.htm"/>
@@ -1442,36 +2584,6 @@ Data federation with CockroachDB and Presto]]></summary>
  阅读全文]]></summary>
         <author>
             <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起底3000多位基金经理！大数据描绘出你意想不到的特征……]]></title>
-        <id>https://www.bohaishibei.com/?p=77413</id>
-        <link href="https://www.bohaishibei.com/post/77413/"/>
-        <updated>2022-09-24T08:57:48.000Z</updated>
-        <summary type="html"><![CDATA[经过20多年的发展，公募基金已经成为居民理财的中坚力量。公募基金经理人数已超过3000人，这3000多人管理着上万只产品，27万亿资金。 这支手握重金的庞大队伍有何特征？大数据告诉你答案…… 基金经理…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双11前小鹏、天猫开启试点线上全款购车]]></title>
-        <id>https://36kr.com/newsflashes/1929008525412740</id>
-        <link href="https://36kr.com/newsflashes/1929008525412740"/>
-        <updated>2022-09-24T08:48:56.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，近日，小鹏汽车新品G9发布，并于当晚上线小鹏汽车官网和天猫小鹏汽车官方旗舰店。此次天猫小鹏汽车官方旗舰店，将逐步开启尝试线上全款下单购车模式。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看了6期综艺，我竟然更懂屏幕了]]></title>
-        <id>https://www.tmtpost.com/6263953.html</id>
-        <link href="https://www.tmtpost.com/6263953.html"/>
-        <updated>2022-09-24T08:38:00.000Z</updated>
-        <summary type="html"><![CDATA[《BOE解忧实验室》上线，京东方加速破圈。]]></summary>
-        <author>
-            <name>邓剑云</name>
         </author>
     </entry>
     <entry>
@@ -1496,33 +2608,61 @@ Data federation with CockroachDB and Presto]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[空客天津交付第600架A320系列飞机]]></title>
-        <id>https://36kr.com/newsflashes/1928987088980614</id>
-        <link href="https://36kr.com/newsflashes/1928987088980614"/>
-        <updated>2022-09-24T08:27:08.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，空中客车交付了由位于天津的空中客车A320系列飞机亚洲总装线总装完成的第600架飞机。该架飞机为空客A320neo飞机，由中国东方航空接收运营，采用了共158座的舒适客舱布局，包括8个公务舱座位和150个经济舱座位。（央视新闻）]]></summary>
+        <title type="html"><![CDATA[Google Blogger翻页功能的定制修改]]></title>
+        <id>https://www.williamlong.info/archives/6934.html</id>
+        <link href="https://www.williamlong.info/archives/6934.html"/>
+        <updated>2022-09-24T07:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Google Blogger底部的翻页导航体验其实不怎么样，优化的方法有两种，一种是通过插件方式，将翻页的导航条隐藏，滑动到底部后自动翻页，另一种方法是，将模板中翻页默认的“较旧的博文”、“较新的博文”修改为“下一页”和“上一页”。
+
+
+浏览自动翻页导航
+
+
+通过一个第三方插件Infinite Ajax Scroll对其进行优化，实现的效果是：浏览到页面底部的时候，自动加载下一页内容，也就是下拉加载效果，这种效果可以让用户不用点击“下一页”按钮，也可以实现翻页，无论在PC还是手机上，体验效果都很不错。
+
+
+具体修改方法是：在布局界面，添加HTML/JAVASCRIPT小工具，然后在里面添加如下代码。
+
+
+
+let ias = new InfiniteAjaxScroll('.blog-posts', {
+
+  item: '.date-outer',
+
+  next: '#blog-pager-older-link a',
+
+  pagination: '#blog-pager',
+
+  spinner: '.loader',
+
+});
+
+ias.on('load', function(event) {
+
+  event.nocache = true;
+
+});
+
+
+
+修改翻页文字
+
+
+Blogger模板中翻页默认显示的是“较旧的博文”、“较新的博文”，可以将其修改为“上一页”、“下一页”，具体的修改方法是：
+
+
+进入Blogger 后台，选择 “主题背景”-“修改HTML”，在代码框内空白处点击一下，然后按Ctrl+ F 。
+
+
+在搜索框内输入并查找<data:newerPageTitle/>，找到后，用“上一页”代替。
+
+
+在搜索框内输入并查找<data:olderPageTitle/>，找到后，用“下一页”代替。
+
+
+之后，保存主题模板，再次打开主页，就会发现“较旧的博文”、“较新的博文”已经被替换为“下一页”和“上一页”。]]></summary>
         <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫德纳在美国申请6至17岁人群二价新冠疫苗紧急使用授权]]></title>
-        <id>https://36kr.com/newsflashes/1928944827287939</id>
-        <link href="https://36kr.com/newsflashes/1928944827287939"/>
-        <updated>2022-09-24T08:00:01.000Z</updated>
-        <summary type="html"><![CDATA[莫德纳日前在社交平台发文称，公司已向美国FDA提出申请，寻求后者批准6至17岁人群二价新冠疫苗紧急使用授权。6个月至6岁以下儿童的申请预计将在今年晚些时候完成。莫德纳此次申请批准的二价新冠疫苗针对的是原始毒株和奥密克戎BA.4和BA.5变异株。（界面）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汉王科技：首款柯氏音血压计完成研发，进入产品注册阶段]]></title>
-        <id>https://36kr.com/newsflashes/1928943318551170</id>
-        <link href="https://36kr.com/newsflashes/1928943318551170"/>
-        <updated>2022-09-24T07:48:26.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，汉王科技披露的投资者关系活动记录表显示，9月22日下午，汉王科技在接受机构调研时表示，公司创新研发的首款柯氏音血压计完成研发，进入产品注册阶段。]]></summary>
-        <author>
-            <name>36氪</name>
+            <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
     </entry>
     <entry>
@@ -1533,26 +2673,6 @@ Data federation with CockroachDB and Presto]]></summary>
         <summary type="html"><![CDATA[<p>Netflix已成为喜剧演员的一个主要平台，为一系列特别节目提供资金。这些节目或将提供超过2.2亿订阅用户 ... 知情人士说，目前这家流媒体巨头正改变对专题节目下喜剧的付费方式，此举可以降低其成本，将一些财务负担转移给艺术家，同时让艺术家们对自己的作品有更多控制权。这反映了该公司内部范围更广的控制开支行动。</p><p><a href='https://3g.163.com/dy/article/HI1DA4490534A4SC.html'>网易新闻 : Netflix控制开支行动或扩大至喜剧业务，据悉减少为特别节目付费</a></p><p><a href='https://www.pingwest.com/w/271082'>品玩 : Netflix控制开支行动或扩大至喜剧业务，减少为特别节目付费</a></p><p><a href='https://www.ithome.com/0/643/036.htm'>IT 之家 : Netflix 将改变喜剧节目购买方式，不再以百万美元高价直接购入</a></p>]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[博海拾贝0924]波上白猫飞]]></title>
-        <id>https://www.bohaishibei.com/?p=77411</id>
-        <link href="https://www.bohaishibei.com/post/77411/"/>
-        <updated>2022-09-24T07:43:50.000Z</updated>
-        <summary type="html"><![CDATA[【1】秋色连波，波上白猫飞 【2】看神情 应该没断 【3】这是玩啥 【4】我一开始还以为是密室，这布景这么大的场地这紧张的气氛 【5】绳子 【6】​有没有大佬讲讲什么事儿 【7】火爆披萨🍕果然名不虚传…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉反诉美国加州民权局]]></title>
-        <id>https://36kr.com/newsflashes/1928898658011779</id>
-        <link href="https://36kr.com/newsflashes/1928898658011779"/>
-        <updated>2022-09-24T07:32:55.000Z</updated>
-        <summary type="html"><![CDATA[据报道，就美国加州政府机构对特斯拉提起的种族歧视诉讼，特斯拉提出了反诉，称该机构在提起诉讼时违反了州法律。特斯拉在当地时间周四提交给阿拉米达县高级法院的诉状中表示，加州民权局（CRD）在没有征求公众意见或举行公开听证会的情况下提起诉讼，违反州政府规定。（界面）]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -1633,16 +2753,6 @@ Data federation with CockroachDB and Presto]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[湖南：名下唯一住房用于长租，申请公积金可按首套政策执行]]></title>
-        <id>https://36kr.com/newsflashes/1928880703801731</id>
-        <link href="https://36kr.com/newsflashes/1928880703801731"/>
-        <updated>2022-09-24T07:17:41.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，近日，湖南省直单位住房公积金管理中心发布关于印发《关于配合推进租赁住房多主体供给多渠道保障盘活存量房试点工作的实施细则》的通知。《实施细则》提出，家庭名下唯一1套住房已用于长租，再次购买自住住房时申请公积金贷款的，按首套住房公积金贷款政策执行。家庭名下有2 套住房，且已有1套用于长租，再次购买自住住房时申请公积金贷款的，按第二套住房公积金贷款政策执行。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[俄罗斯RSOCKS僵尸网络嫌犯在保加利亚被逮捕 主动要求引渡美国]]></title>
         <id>https://www.cnbeta.com/articles/tech/1320183.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1320183.htm"/>
@@ -1687,16 +2797,6 @@ Data federation with CockroachDB and Presto]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[银保监会：今年上半年21家主要银行减免服务收费1375亿元]]></title>
-        <id>https://36kr.com/newsflashes/1928895186667905</id>
-        <link href="https://36kr.com/newsflashes/1928895186667905"/>
-        <updated>2022-09-24T07:00:21.000Z</updated>
-        <summary type="html"><![CDATA[日前从中国银保监会获悉，2022年上半年，21家主要银行减免服务收费1375亿元，同比增长9.5%。银保监会表示，银保监会持续督促银行机构严格落实各项减费政策，鼓励银行机构主动挖掘降费空间，提升金融服务实体经济质效，改善人民群众金融消费体验。（新华社）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[具透 | iOS 16 通知管理迷思，一个通知的 N 种呈现方式]]></title>
         <id>https://sspai.com/post/75895</id>
         <link href="https://sspai.com/post/75895"/>
@@ -1715,16 +2815,6 @@ Data federation with CockroachDB and Presto]]></summary>
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏汽车：首批S4超快充站上线]]></title>
-        <id>https://36kr.com/newsflashes/1928860910209672</id>
-        <link href="https://36kr.com/newsflashes/1928860910209672"/>
-        <updated>2022-09-24T06:47:36.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，小鹏汽车官微宣布，首批S4超快充站在北京、上海、广州、深圳、武汉上线。2022年底，小鹏超充规划建成50+座S4超快充站。]]></summary>
-        <author>
-            <name>36氪</name>
         </author>
     </entry>
     <entry>
@@ -1761,229 +2851,6 @@ Data federation with CockroachDB and Presto]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[漫步者推出双金标版降噪耳机：50小时长续航 售价369元]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320167.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320167.htm"/>
-        <updated>2022-09-24T06:40:43.000Z</updated>
-        <summary type="html"><![CDATA[漫步者昨日推出W820NB双金标版降噪耳机，售价399元，预约到手价369元。漫步者这款耳机采用了耳罩和头梁部分的人造皮革柔软细腻，不会有时间戴久了会疼痛的感觉，耳罩背面还设计了橡胶防撞帖，两侧可伸缩。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月多地迎来第一场雪：今年冬天会提前来吗？]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320165.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320165.htm"/>
-        <updated>2022-09-24T06:40:03.000Z</updated>
-        <summary type="html"><![CDATA[这才9月下旬，全国多地已经迎来了纷纷扬扬的降雪！9月23日，“河北的第一场雪”话题引发全网关注，据报道，河北省张家口市康保县、崇礼区于9月22日下午迎来降雪，国家跳台滑雪中心、冬奥村、太舞滑雪小镇等地雪花飞舞，给人一秒入冬的感觉。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别克昂扬上市：15.29万起 杀入国产SUV售价区间]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320163.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320163.htm"/>
-        <updated>2022-09-24T06:39:46.000Z</updated>
-        <summary type="html"><![CDATA[9月23日晚，别克全新轿跑SUV昂扬上市，其共推出四款配置车型，售价区间为15.29-17.89万元，已经杀入了目前国产SUV竞争非常激烈的领域。该车基于别克Electra-X纯电概念SUV打造而来，不过摇身一变成为了一台燃油车，其长宽高分别为4638/1816/1565mm，轴距为2700mm，属于紧凑型SUV。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《马力欧+疯狂兔子星耀之愿》新实机 展示战斗效果]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320161.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320161.htm"/>
-        <updated>2022-09-24T06:37:38.000Z</updated>
-        <summary type="html"><![CDATA[育碧今日公布《马力欧+疯狂兔子星耀之愿》的最新实机预告片。在预告片中，厂商探讨了这款战棋RPG的新内容，在战场之外，玩家获得更多探索的空间。当玩家与马力欧、路易吉、桃花公主和疯狂兔子前往外星球冒险的时候，遭遇到全新挑战和疯兔罗莎塔等英雄。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《华纳大乱斗》新角色预告 瑞克·桑切斯即将登上擂台！]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320159.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320159.htm"/>
-        <updated>2022-09-24T06:36:41.000Z</updated>
-        <summary type="html"><![CDATA[今天（9 月 24 日）华纳平台格斗游戏《华纳大乱斗》公布了即将加入战局的下一个角色的预告。新角色将是来自热门Adult Swim 动画剧集《瑞克和莫蒂》中的主角之一，疯狂科学家瑞克·桑切斯。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宁吉喆：宏观政策应当在扩大需求上积极作为]]></title>
-        <id>https://36kr.com/newsflashes/1928858398738816</id>
-        <link href="https://36kr.com/newsflashes/1928858398738816"/>
-        <updated>2022-09-24T06:35:06.000Z</updated>
-        <summary type="html"><![CDATA[全国政协经济委员会副主任、国家发改委原副主任宁吉建议，加大政策力度，实施逆周期调节。当前，经济运行中周期性矛盾、结构性矛盾和体制性矛盾相互交织，经济持续下行带来的周期性问题等变成突出的矛盾。宏观政策应当在扩大需求上积极作为，财政货币政策来有效弥补社会需求不足。���中证网）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国科学家成功绘制中国豌豆基因组高质量精细物理图谱]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320157.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320157.htm"/>
-        <updated>2022-09-24T06:32:32.000Z</updated>
-        <summary type="html"><![CDATA[近日，中国农业科学院作物科学研究所特色农作物优异种质资源发掘与创新利用创新团队联合国内外多家合作单位，成功绘制了中国豌豆基因组高质量精细物理图谱，构建了栽培和野生豌豆泛基因组，解析了豌豆基因组进化特征、群体遗传结构，为揭示豌豆起源驯化，以及基因挖掘、种质创新、育种改良提供了宝贵资源及数据支撑。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搬离“乐视大厦”后 乐视想用直播带货卷土重来]]></title>
-        <id>https://hot.cnbeta.com/articles/movie/1320155.htm</id>
-        <link href="https://hot.cnbeta.com/articles/movie/1320155.htm"/>
-        <updated>2022-09-24T06:31:42.000Z</updated>
-        <summary type="html"><![CDATA[要说目前市面上最符合“穷开心”这个描述的互联网企业，非乐视莫属。2021年春节，乐视更新图标“欠122亿”，被网友吐槽“乐视视频不如改名乐观视频”；今年4月，乐视只靠房租和《甄嬛传》就带来千万收入的传闻开始流传开来；今年7月，一位博主表示“如今乐视内部不内卷和996，过着没有老板的神仙日子”，引发了众多打工人的羡慕之情；
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越南爆料人晒出矿场暴力清洗GPU矿机的视频]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320153.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320153.htm"/>
-        <updated>2022-09-24T06:29:55.000Z</updated>
-        <summary type="html"><![CDATA[虽然生活中有许多东西都可以通过水洗快速清洁，但精密的电子设备并不该被如此粗暴对待。不过在以太坊完成了向 PoS 转型的“大合并”之后，眼看无利可图的矿场主们，已纷纷选择快速出清手头的“矿渣”显卡。由越南知名爆料人 @I_Leak_VN 在 Twitter 上晒出的视频来看，有人甚至直接拿高压水枪来直接冲洗 GPU 矿机。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[依靠深度学习 AI已经能创造类宝可梦的游戏]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320151.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320151.htm"/>
-        <updated>2022-09-24T06:25:52.000Z</updated>
-        <summary type="html"><![CDATA[最近，“AI作画”、“AI作曲”这类概念正流行，这种根据提供的简短词语及描述，自动生成作品的行为，无疑是许多人梦寐以求的愿望。那如果类似的概念发散到游戏领域，是不是也能实现“根据给定的描述，自动生成想要的游戏”这种效果呢？
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冲击高端之路上 Apple Watch Ultra是苹果的一次“服输”]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320149.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320149.htm"/>
-        <updated>2022-09-24T06:25:10.000Z</updated>
-        <summary type="html"><![CDATA[9 月 23 日，大概是苹果今年发布会上唯一亮眼的新品——Apple Watch Ultra，即将线下开售。作为首个获得“Ultra”后缀的产品，主打户外和专业运动人群的 Apple Watch Ultra 的媒体评测，已经在近日解禁。媒体老师给这款目前“第二贵”的手表打出了不低的分数：更长的续航、更易用的按钮、更好的声效，赢得了试用者的掌声。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近十年来A股定增累计募资达8.6万亿元]]></title>
-        <id>https://36kr.com/newsflashes/1928799057136002</id>
-        <link href="https://36kr.com/newsflashes/1928799057136002"/>
-        <updated>2022-09-24T06:20:43.000Z</updated>
-        <summary type="html"><![CDATA[截至今年8月底，近十年来A股定增累计募资达8.6万亿元。收购资产、项目融资成为上市公司增发主要目的，二者募资额均超过2.3万亿元。增发对上市公司的业绩影响偏正面，实施后相关公司业绩大幅提升，尤其是以资产重组为目的的定向增发，业绩反转趋势明显。（第一财经）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鹏G9：被骂到“降价”，还想拼一把]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320147.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320147.htm"/>
-        <updated>2022-09-24T06:20:03.000Z</updated>
-        <summary type="html"><![CDATA[这应该是汽车史上，新车上市后降价最快的一次。G9——小鹏汽车旗下最重要的一款旗舰车型，在9月21日晚正式上市。发布会上，董事长何小鹏很自信，说G9是“50万以内最好的SUV”，将接棒保时捷成标杆，明年销量超过奥迪Q5。不过这都不是重点，重点是配置和价格。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“宁王”加速出海 拟建欧洲第三工厂 将产品卖到56个国家和地区]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320145.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320145.htm"/>
-        <updated>2022-09-24T06:19:00.000Z</updated>
-        <summary type="html"><![CDATA[中国的动力电池巨头们正在加速走向世界。9月23日，宁德时代欧洲区总裁MatthiasZentgraf在接受彭博社采访时表示，宁德时代正考虑在欧洲建立第三座电动汽车电池工厂，但目前尚未做出明确决定。据了解，目前宁德时代在全球已经拥有十二大生产基地，其中只有两家在海外，分别是德国工厂和匈牙利工厂（9月初正式启动），均布局在欧洲。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牧原股份、温氏股份：国庆节前将加大生猪产品供应量]]></title>
-        <id>https://36kr.com/newsflashes/1928798553033345</id>
-        <link href="https://36kr.com/newsflashes/1928798553033345"/>
-        <updated>2022-09-24T06:07:13.000Z</updated>
-        <summary type="html"><![CDATA[36氪获悉，牧原股份销售部发布公告称，为保障生猪价格总体在合理区间运行，支撑生猪市场保供稳价工作，国庆节前，公司将加大生猪出栏量。同日，温氏股份旗下温氏商城亦发布公告称，将于国庆节前后加大生猪产品供应量，确保节日期间市场猪肉供应充裕，引导猪肉价格合理运行。]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登政府公布清洁氢战略与路线图草案 致力成为绿色制氢大国]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320143.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320143.htm"/>
-        <updated>2022-09-24T05:57:36.000Z</updated>
-        <summary type="html"><![CDATA[根据本周五发布的“国家清洁氢战略与路线图”草案，美国能源部希望到 2030 年生产 1000 万吨清洁氢能源。可知为了终结导致气候变化的化石燃料污染，增加氢燃料的生产，现已成为拜登政府的一个高度优先事项。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8月末沪深两市基金产品共1185只，总规模逾1.6万亿]]></title>
-        <id>https://36kr.com/newsflashes/1928796879374723</id>
-        <link href="https://36kr.com/newsflashes/1928796879374723"/>
-        <updated>2022-09-24T05:53:24.000Z</updated>
-        <summary type="html"><![CDATA[日前从券商处获悉，沪深交易所近期向券商内部通报了最新—期基金市场数据。数据显示，截至2022年8月末，沪深两市基金产品共计1185只，总规模16043.42亿元。其中，沪市基金产品共602只，资产管理总规模12431.45亿元;深市基金产品共583只，盗产管理总规模3611.97亿元。（中证报）]]></summary>
-        <author>
-            <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想保持盈利，爱奇艺还需要多少个《苍兰诀》？]]></title>
-        <id>https://www.tmtpost.com/6263848.html</id>
-        <link href="https://www.tmtpost.com/6263848.html"/>
-        <updated>2022-09-24T05:53:00.000Z</updated>
-        <summary type="html"><![CDATA[爱广告也爱会员，有错吗？]]></summary>
-        <author>
-            <name>惊蛰研究所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇闯河内]]></title>
-        <id>https://www.tmtpost.com/6263911.html</id>
-        <link href="https://www.tmtpost.com/6263911.html"/>
-        <updated>2022-09-24T05:48:00.000Z</updated>
-        <summary type="html"><![CDATA[唯有变化才能应对变化。]]></summary>
-        <author>
-            <name>摩登中产</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海康威视大博弈]]></title>
-        <id>https://www.bohaishibei.com/?p=77402</id>
-        <link href="https://www.bohaishibei.com/post/77402/"/>
-        <updated>2022-09-24T05:46:52.000Z</updated>
-        <summary type="html"><![CDATA[今天的新能源，有时会让人联想到2017年市场的那个「一致预期」——人工智能。 商汤、旷世顶着百亿估值在一级市场掀起「人脸识别」超级独角兽风暴。业绩下滑的AI妖王中科信息，股价向上捅破天，上市20个交易…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨境电商，茶叶倘卖无？]]></title>
-        <id>https://www.tmtpost.com/6263894.html</id>
-        <link href="https://www.tmtpost.com/6263894.html"/>
-        <updated>2022-09-24T05:40:00.000Z</updated>
-        <summary type="html"><![CDATA[茶叶出海的新故事来了]]></summary>
-        <author>
-            <name>贸行四海</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[冲击高端之路上，Apple Watch Ultra 是苹果的一次「服输」]]></title>
         <id>http://www.geekpark.net/news/308669</id>
         <link href="http://www.geekpark.net/news/308669"/>
@@ -2007,16 +2874,6 @@ Apple Watch Ultra｜MKBHD
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我们从蜜雪冰城招股书里，找到了奈雪亏损的秘密]]></title>
-        <id>https://www.tmtpost.com/6263873.html</id>
-        <link href="https://www.tmtpost.com/6263873.html"/>
-        <updated>2022-09-24T05:34:00.000Z</updated>
-        <summary type="html"><![CDATA[这已经不是发展可以解决大部分问题的年代了。]]></summary>
-        <author>
-            <name>市值榜</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[总裁套现，套壳研发，理想“下半场”还有没有理想？]]></title>
         <id>http://www.huxiu.com/article/669950.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/669950.html?f=wangzhan"/>
@@ -2025,27 +2882,6 @@ Apple Watch Ultra｜MKBHD
 下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百货 50 条，全部是实用的玩意儿（0924 第 2317 期）]]></title>
-        <id>https://www.bohaishibei.com/?p=77378</id>
-        <link href="https://www.bohaishibei.com/post/77378/"/>
-        <updated>2022-09-24T05:27:49.000Z</updated>
-        <summary type="html"><![CDATA[五粮液股份出品，国鼎金荷 52度浓香型白酒1.5L 熊猫礼盒 228元包邮 宜宾五粮液股份出品，普五同一产区，玉米、高粱、糯米、绿豆、小麦、大米、荷叶、竹荪生态配方，传统酿艺，味醇绵厚，入喉爽净。目前…]]></summary>
-        <author>
-            <name>梁萧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达证实Windows 11 22H2更新导致性能问题]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320141.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320141.htm"/>
-        <updated>2022-09-24T05:21:03.000Z</updated>
-        <summary type="html"><![CDATA[早前我们报道了一些 N 卡用户在安装 Windows 11 22H2 更新后遇到的性能衰退问题，可知微软和 Reddit 等网络社区上汇集了不少 bug 反馈。除了导致某些系统的游戏帧率暴跌，还有一些人抱怨称电脑变得容易蓝屏死机（BSOD）。现在，芯片巨头英伟达的一位发言人证实，首发版本的 Windows 11 22H2 系统，或对部分 GeForce 显卡驱动造成严重的影响。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
         </author>
     </entry>
     <entry>
@@ -2070,28 +2906,6 @@ Apple Watch Ultra｜MKBHD
 Tags - launcher , 效率]]></summary>
         <author>
             <name>bmwmengwei &lt;bmwmengwei@gmail.com&gt;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极康科迪亚研究站工作人员拍下极夜过后的光柱照片]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320139.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320139.htm"/>
-        <updated>2022-09-24T04:47:18.000Z</updated>
-        <summary type="html"><![CDATA[对于身处南极洲康科迪亚研究站的留守人员们来说，被冰雪和黑暗所包围的季节即将过去。早些时候，受欧洲宇航局（ESA）资助的 Hannes Hagson 医生，在位于南极南极高原的站点附近，拍摄到了一张有趣的照片。画面中，康科迪亚研究站的上部天空，出现了一条直冲云霄的橙黄色光柱。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众展示Gen Travel概念旅行车 可配置车舱让你在途中更好地放松]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320137.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320137.htm"/>
-        <updated>2022-09-24T04:35:46.000Z</updated>
-        <summary type="html"><![CDATA[作为一款狂野的未来主义概念车，周五亮相的大众 Gen Travel，向我们展示了该公司畅想的一类纯电资助驾驶车辆。其特点是具有一套可完全重新配置的客舱，能够将座椅变身为床，甚至提供了专门设计的、用于影响褪黑激素产生的照明环境。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
         </author>
     </entry>
     <entry>
@@ -2127,28 +2941,6 @@ Tags - launcher , 效率]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snow Lake Lithium和LG Energy Solution合作建立美国本土锂供应链]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320135.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320135.htm"/>
-        <updated>2022-09-24T04:02:32.000Z</updated>
-        <summary type="html"><![CDATA[注重碳排放的矿业公司 Snow Lake Lithium 宣布和电池厂商 LG Energy Solution 签署谅解备忘录 (MOU)，以在北美市场建立国内的锂供应链。Snow Lake Lithium 计划在 2025 年启动锂矿开采业务，并计划为 LG 提供对当前电动汽车电池化学至关重要的珍贵地球材料。这种国内供应链也可以帮助几家汽车制造商获得美国联邦税收抵免。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众和Ellia集团签署谅解备忘录 共同探索V2G技术]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320133.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320133.htm"/>
-        <updated>2022-09-24T03:53:07.000Z</updated>
-        <summary type="html"><![CDATA[大众集团于本周五宣布和 Ellia Group 签署了一份谅解备忘录 (MoU)，以探索 V2G 技术以及如何对电动汽车司机做出奖励的同时帮助稳定能源网。随着越来越多的电动汽车上路，Vehicle-to-grid (V2G) 技术具有巨大的发展潜力。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[央企控股上市公司加大绿色产业项目投资]]></title>
         <id>https://36kr.com/newsflashes/1928646335023489</id>
         <link href="https://36kr.com/newsflashes/1928646335023489"/>
@@ -2156,83 +2948,6 @@ Tags - launcher , 效率]]></summary>
         <summary type="html"><![CDATA[<p>中国上市公司协会发布《央企控股上市公司2022年上半年运行情况报告》 ... 报告显示，央企控股上市公司积极通过发行股债结合等权益类产品平抑市场波动，实现股权融资逆市小幅增长 ... 企业积极响应碳达峰、碳中和目标要求，不断加大绿色产业项目投资，踊跃发行绿色债券，共发行绿色债券35支，融资418.90亿元。</p><p><a href='https://36kr.com/newsflashes/1928646335023489'>36Kr : 央企控股上市公司加大绿色产业项目投资</a></p>]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预热第二季 Netflix放出《鱿鱼游戏》中尚未曝光的一个片段]]></title>
-        <id>https://hot.cnbeta.com/articles/movie/1320131.htm</id>
-        <link href="https://hot.cnbeta.com/articles/movie/1320131.htm"/>
-        <updated>2022-09-24T03:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Netflix 在本周五发布的推文中，公开了《鱿鱼游戏》中尚未曝光的一个片段。该片段是在今天召开的 2022 年“Tudum：Netflix 全球影迷盛会”上公开的，在本次盛会中 Netflix 邀请了超过 200 名人气巨星，并将公布 120 多部影集、电影和游戏的独家预告、片段和最新消息。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[视频]第二代AirPods Pro初步上手体验]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320129.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320129.htm"/>
-        <updated>2022-09-24T03:34:56.000Z</updated>
-        <summary type="html"><![CDATA[经过 3 年的等待，第二代 AirPods Pro 终于正式发售了。国外科技媒体 MacRumors 第一时间带来了上手评测。在外观上，第二代 AirPods Pro 和初代之前并没有太大的差别，但是在充电盒上有一些细微的变化。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉弗里蒙特工厂抓产量：凌晨4点员工找不到停车位]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320127.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320127.htm"/>
-        <updated>2022-09-24T03:29:08.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉分布在全球各地的工厂都在持续不断地运转，但在每个季度的末尾都可以看到热火朝天的抓产量场景。特斯拉首席执行官埃隆·马斯克（Elon Musk）虽然此前曾公开表态，要遏制疯狂的季末抓产量情况，但每个季度的汽车产量都会有明显提升。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你天天见到的315防伪标签，压根就不防伪]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320125.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320125.htm"/>
-        <updated>2022-09-24T03:19:45.000Z</updated>
-        <summary type="html"><![CDATA[差友们还记得不，前段时间，差评君跟大家聊了聊智商税节电器，当时还顺便买了几个回来捣鼓捣鼓。防伪标签。也不知怎么鬼使神差的，差评君突然好奇了起来。生产地址都没有的三无产品，居然也能弄个防伪标签吗？而且这个防伪标签，看上去就是我们心里防伪标签该长的样子，很常见、还挺正规的。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile与美联航达成机上免费Wi-Fi合作]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320123.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320123.htm"/>
-        <updated>2022-09-24T03:18:56.000Z</updated>
-        <summary type="html"><![CDATA[继美国航空（American Airlines）、阿拉斯加航空（Alaska Airlines）和达美航空（Delta Air Lines）之后，T-Mobile 客户现也能够享用第四家航空公司的免费机上 Wi-Fi 服务。作为 Coverage Beyond 福利的一部分，T-Mobile 客户将能够在美联航（United Airlines）客机上获得相同的优惠。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育碧对油管主播泄密《刺客信条》事件发表声明]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320121.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320121.htm"/>
-        <updated>2022-09-24T03:17:56.000Z</updated>
-        <summary type="html"><![CDATA[本周我们报道过油管主播Dan Allen Gaming是近日在《刺客信条：幻景》新作正式公布之前爆料的泄密者“TheRealInsider”。如今育碧发表声明，称该主播的行为让他们“很受伤，很泄气”。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士康拆除产线 iPhone 14或将成史上销量最差机型]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320119.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320119.htm"/>
-        <updated>2022-09-24T03:15:30.000Z</updated>
-        <summary type="html"><![CDATA[没有任何创新和变化的iPhone 14，终究还是败了。苹果清库存计划告破。综合多方消息，受iPhone 14销量不及预期影响，郑州富士康拆除iPhone 14部分产线。日前，富士康内部人士透露，有部分iPhone 14产线升级为生产iPhone 14 Pro系列机型，对生产并无太大影响。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
         </author>
     </entry>
     <entry>
@@ -2256,256 +2971,6 @@ Tags - launcher , 效率]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉计划“在工厂内部署数千个人形机器人”]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320117.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320117.htm"/>
-        <updated>2022-09-24T03:01:08.000Z</updated>
-        <summary type="html"><![CDATA[据Electrek报道，根据特斯拉机器人计划的新招聘信息，特斯拉正计划在其工厂内部署 “数千个人形机器人”。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伦敦警方逮捕一名17岁青少年黑客 未证实是否与R星Uber攻击事件有关]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320115.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320115.htm"/>
-        <updated>2022-09-24T02:56:46.000Z</updated>
-        <summary type="html"><![CDATA[本周五，伦敦警方发布公告称，其在牛津郡逮捕了一名涉嫌黑客攻击的 17 岁青少年，并表示他已被拘留。不过警方拒绝透露本次逮捕是否涉及近期轰动业界的 R 星游戏源码泄露、或 Uber 网络攻击事件有关。今年春季，伦敦警方还曾在调查 Lapsus$ 黑客组织的过程中，逮捕并释放过七名青少年嫌疑人。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[视频]三星Galaxy Z Flip 4拆解]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320113.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320113.htm"/>
-        <updated>2022-09-24T02:55:04.000Z</updated>
-        <summary type="html"><![CDATA[知名数码频道 JerryEveryThing 的主播 Zack Nelson 在最新一期视频中，对三星 Galaxy Z Flip 4 进行了拆解。整个拆解从内侧屏幕顶部的保护层开始，然后移除塑料边框保护条。屏幕安装在金属板上，这意味着更容易移除。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰勒·斯威夫特将首次参加Apple Music赞助的超级碗中场秀]]></title>
-        <id>https://hot.cnbeta.com/articles/music/1320111.htm</id>
-        <link href="https://hot.cnbeta.com/articles/music/1320111.htm"/>
-        <updated>2022-09-24T02:47:33.000Z</updated>
-        <summary type="html"><![CDATA[援引 Variety 最新报道，泰勒·斯威夫特（Taylor Swift）将出席 2023 年超级碗中场秀，这也是她首次在该舞台上登场。报道指出，斯威夫特出席本次活动的一个重要原因是超级碗中场秀的赞助商从百事可乐更换为了苹果公司。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用汽车将在托莱多驱动工厂投资7.6亿美元 为电动汽车制造重要部件]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320109.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320109.htm"/>
-        <updated>2022-09-24T02:46:03.000Z</updated>
-        <summary type="html"><![CDATA[通用汽车公司将在其托莱多驱动系统（Toledo Propulsion Systems）工厂投资7.6亿美元，为制造通用汽车未来电动汽车所使用的驱动单元做准备。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众将与比利时能源公司开展“车辆到电网”储能调峰合作]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320107.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320107.htm"/>
-        <updated>2022-09-24T02:41:36.000Z</updated>
-        <summary type="html"><![CDATA[随着能源成本的大涨，一些车企也意识到了大量的电动汽车可在电网调峰过程中发挥的作用。比如大众汽车就选择了与一家比利时能源运营商合作，以将该公司的 EV 车型更好地融入电网。周五的时候，大众旗下充电部门 Elli 与总部位于布鲁塞尔的 Elia 初创子公司 re.alto 签署了一份谅解备忘录，以就如何将电动汽车整合到电力系统而展开合作。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[影响多达21.6万项研究：流行的遗传学方法被发现存在严重缺陷]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320105.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320105.htm"/>
-        <updated>2022-09-24T02:29:10.000Z</updated>
-        <summary type="html"><![CDATA[根据瑞典隆德大学的最新研究，人口遗传学中最常用的分析方法存在很大的缺陷。这可能造成了不正确的结果和对种族和遗传关系的误解。该方法已被用于数十万项研究，影响了医学遗传学甚至是商业血统测试的结果。这些发现最近发表在《科学报告》杂志上。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全球热门公司周报】腾讯否认考虑出售滴滴、美团股权；百度糯米将停运；三只松鼠再回应“油炸壁虎”事件；黄光裕夫妇年内已减持国美零售超50亿股；恒瑞医药前董事长内幕交易被罚没95万元]]></title>
-        <id>https://www.tmtpost.com/6263441.html</id>
-        <link href="https://www.tmtpost.com/6263441.html"/>
-        <updated>2022-09-24T02:28:00.000Z</updated>
-        <summary type="html"><![CDATA[科技大公司方面，中国联通被美国列入“安全威胁清单”，回应称“毫无事实根据”；腾讯否认考虑出售滴滴、美团股权；携程集团第二季度营收40亿；快手将上线商城频道；阿里减持快狗打车；百度糯米将于2022年12月停运。]]></summary>
-        <author>
-            <name>任敏敏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【金融行业周报】银保监会称房地产金融化、泡沫化势头得到实质性扭转；邱勇任上海证券交易所党委书记；多家银行下调存款利率，为LPR下行积蓄空间；花旗计划关闭英国零售银行业务；私募大佬葛卫东两笔定增浮亏超2亿元；诺安基金蔡嵩松回应失联传闻]]></title>
-        <id>https://www.tmtpost.com/6263550.html</id>
-        <link href="https://www.tmtpost.com/6263550.html"/>
-        <updated>2022-09-24T02:27:00.000Z</updated>
-        <summary type="html"><![CDATA[监管机构方面，银保监会称房地产金融化泡沫化势头得到实质性扭转；央行数据显示，8月份银行间货币市场成交共计170万亿元；监管要求基金公司在同业存单指数基金发行过程中不进行主动推广；邱勇任上海证券交易所党委书记。]]></summary>
-        <author>
-            <name>任敏敏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【房地产行业周报】新华联收到法院约9亿元债务执行通知；深圳宝能城20套查封豪宅被拍卖；万达集团与洛阳文旅集团签署战略合作框架协议；中国恒大：前8月实现合约销售金额181.58亿元]]></title>
-        <id>https://www.tmtpost.com/6263589.html</id>
-        <link href="https://www.tmtpost.com/6263589.html"/>
-        <updated>2022-09-24T02:26:00.000Z</updated>
-        <summary type="html"><![CDATA[本周房地产行业资讯一览：新华联收到法院约9亿元债务执行通知；深圳宝能城20套查封豪宅被拍卖；万达集团与洛阳文旅集团签署战略合作；中渝置地收购香港豪宅项目；郑州百亿土拍：保利、中建七局等多家央国企摘地；政策向，天津新市民、大学毕业生连续缴纳6个月社保可获购房资格；河北邢台首套房首付比降至20%，二套房降至40%......]]></summary>
-        <author>
-            <name>章橙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国拨款2.5亿欧元发展公共自行车计划 吸引民众骑车出行]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320103.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320103.htm"/>
-        <updated>2022-09-24T02:22:42.000Z</updated>
-        <summary type="html"><![CDATA[目前全球很多国家都在大力发展电动汽车，其相比汽油车更加环保，但有些国家却盯上了自行车。据法新社报道，近日法国已经宣布，将在2023年拨款2.5亿欧元（约为17亿人民币）推广自行车计划，吸引更多法国人骑车出行。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technetium再次分享自制的Radeon RX 7000公版显卡高清渲染图]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320101.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320101.htm"/>
-        <updated>2022-09-24T02:22:24.000Z</updated>
-        <summary type="html"><![CDATA[在早些时候的 Zen 4 锐龙 7000 系列 AM5 台式处理器发布会末尾，AMD 亮出了下一代 Radeon RX 7000 系列 RDNA 3 显卡的一瞥。但是不想等到 11 月 3 号才揭晓谜底的朋友，现在也可以看看 Technetium 制作的一组渲染图来解解馋。上月，Technetium 还分享过 Zen 4 锐龙 7000 系列 CPU 的渲染图。而新晒出的 RX 7000 系列显卡散热器渲染图同样给我们留下了深刻的印象。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋重申RTX 4090高价“源于更好的性能和设计”]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320099.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320099.htm"/>
-        <updated>2022-09-24T02:21:21.000Z</updated>
-        <summary type="html"><![CDATA[RTX 40系显卡发布后，不少用户更多的抱怨是涨价了，对此NV有不一样的说法。“今天12英寸的晶圆要贵得多，不是贵了一点点，是贵了非常非常多。”黄仁勋说，“现在技术越来越贵，所以我们必须使用更多办法，像RTX、DLSS、SCR、Tensor Cores这样的发明，使我们能够继续克服成本的增加。”
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞士On公司利用碳捕获材料制作跑鞋]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320097.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320097.htm"/>
-        <updated>2022-09-24T02:20:30.000Z</updated>
-        <summary type="html"><![CDATA[目前已经有不少公司声称可以直接从大气中提取碳，那么这些提取出来的碳有什么用呢？一家名为 On 的瑞士公司正在用这些材料制作鞋子。更具体的来说，On 将提取的碳制成 CleanCloud 乙烯-醋酸乙烯共聚物（EVA）泡沫，并用于制作 Cloudprime 跑鞋的中底。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respawn声明抵制《Apex英雄》辱骂开发者的行为]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320095.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320095.htm"/>
-        <updated>2022-09-24T02:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Respawn Entertainment近日在推特上发表声明，对《Apex英雄》玩家辱骂和骚扰游戏开发者的行为表示严重不满。工作室在声明中警告称，将采取“相应措施”对抗这种行为，以保证其员工的健康和安全。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic、多芬发起提高游戏内女性角色多样性企划]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320093.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320093.htm"/>
-        <updated>2022-09-24T02:18:19.000Z</updated>
-        <summary type="html"><![CDATA[游戏行业女性维权组织 Women in Games、游戏开发发行商 Epic Games 和护肤品牌多芬合作开展了一项企划，以增加游戏中女性角色的多样性和代表性。该计划名为“RealVirtual Beauty”，旨在通过一系列行动“帮助年轻女孩在虚拟世界接受自尊教育”。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股周五：三大股指连跌4天 特斯拉3天蒸发约7456亿元市值]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320091.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320091.htm"/>
-        <updated>2022-09-24T02:15:38.000Z</updated>
-        <summary type="html"><![CDATA[美国时间周五，美股收盘主要股指连续第四个交易日全线下跌，道琼斯指数收于2020年11月以来的最低水平。美联储周三宣布加息后，美债收益率飙升，三大股指本周再度下跌。道琼斯指数收于29590.41点，下跌486.27点，跌幅1.62%；标准普尔500指数收于3693.23点，跌幅1.72%；纳斯达克指数收于10867.93点，跌幅1.80%。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个“严重的问题”：研究称美国的孕妇正暴露在致癌化学品中]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320089.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320089.htm"/>
-        <updated>2022-09-24T02:15:23.000Z</updated>
-        <summary type="html"><![CDATA[据加州大学旧金山分校和约翰斯·霍普金斯大学布隆博格公共卫生学院的专家称，美国的孕妇正在接触三聚氰胺、氰尿酸和芳香胺等化学品，这些化学品会增加癌症风险并损害儿童发育。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉汽车梦的真正践行者 这些人是马斯克的左膀右臂]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320087.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320087.htm"/>
-        <updated>2022-09-24T02:08:37.000Z</updated>
-        <summary type="html"><![CDATA[北京时间9月24日消息，埃隆·马斯克(Elon Musk)目前正一人运营多家雄心勃勃的科技公司，在担任特斯拉、SpaceX CEO的同时还成立了脑机接口公司Neuralink、隧道挖掘公司Boring Co。而且，他还在忙着与Twitter打官司。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伦敦警方公告：攻击并泄漏《GTA6》的17岁嫌犯已逮捕]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320085.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320085.htm"/>
-        <updated>2022-09-24T02:07:17.000Z</updated>
-        <summary type="html"><![CDATA[在美国联邦调查局（FBI）和英国调查局下辖国家网络犯罪调查处（NCCU）的帮助下，伦敦警方成功逮捕了攻击并泄露《GTA 6》的嫌犯。在 FBI 介入调查数日之后，英国执法部门本周四宣布这起案件成功告破。警方并未公布这名少年嫌犯的姓名，也没有公布他所面临的指控，不过更多细节会在未来几天内公布。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫德纳向FDA提交针对6岁至17岁群体接种升级版疫苗申请]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320083.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320083.htm"/>
-        <updated>2022-09-24T02:03:33.000Z</updated>
-        <summary type="html"><![CDATA[莫德纳向FDA提交针对6岁至17岁群体接种升级版疫苗申请中新社华盛顿9月23日电 （记者 沙晗汀）美国莫德纳公司当地时间23日向美国食品和药物管理局（FDA）提交针对6岁至17岁群体接种莫德纳升级版新冠疫苗的申请授权。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家开发新型纳米涂层 仅用一小时就能杀死99.7%的细菌]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320081.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320081.htm"/>
-        <updated>2022-09-24T02:02:36.000Z</updated>
-        <summary type="html"><![CDATA[根据一项新研究，一种比现有配方更快更多地杀灭细菌的新型铜涂层可能在不久的将来可用于医院和其他高人流量的公共场所。尽管目前由纯铜组成的配方是抗菌和自我消毒的，但它们对某些形式的细胞壁较厚的细菌（革兰氏阳性菌）的杀伤力比细胞壁较薄的细菌（革兰氏阴性菌）要慢。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国科技股抛售潮愈演愈烈 成长型投资者还能“咬定青山”吗？]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320079.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320079.htm"/>
-        <updated>2022-09-24T02:00:18.000Z</updated>
-        <summary type="html"><![CDATA[据报道，过去10年，在美国大水漫灌的货币政策刺激下，各大科技公司股价节节飙升，因此，这种投资方式有时的确会带来惊人回报。但过去一年间，同样的投资理念却因为利率上行、通货膨胀等因素遭受冲击。随着疫情管控放松，Zoom和Peloton等所谓的“疫情受益股”纷纷跌落神坛，再加上科技股也遭到大范围抛售，许多曾经风光一时的股票都令投资者损失惨重。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人在迷茫时该如何做选择？5个步骤帮你找到生活方向]]></title>
         <id>http://www.huxiu.com/article/666739.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/666739.html?f=wangzhan"/>
@@ -2523,39 +2988,6 @@ Tags - launcher , 效率]]></summary>
 下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅赛德斯-奔驰董事长：电动G-Wagen将于2024年中上市]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320077.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320077.htm"/>
-        <updated>2022-09-24T01:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Autoblog 报道称：梅赛德斯-奔驰董事长 Ola Källenius 在本周直面记者的一场圆桌会议上表示，旗下 G-Wagen 电动车型将于 2024 年中上市。与此同时，该公司正在位于奥地利格拉茨的测试设施对电动 SUV 的原型版本展开测试，并坚信越野冒险的未来就是拥抱电气化。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以提前获得这些Windows 11隐藏功能]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320075.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320075.htm"/>
-        <updated>2022-09-24T01:57:31.000Z</updated>
-        <summary type="html"><![CDATA[每当微软推出新的 Windows 11 预览版，Windows 爱好者总能发现一些实验性配置和隐藏功能。通常情况下，稳定版 Windows 系统默认会禁用这些功能，需要等到微软发布启用包才能生效。不过用户可以通过 Vivetools 工具来提前获得这些功能。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么三十米望远镜会引起如此大的争议？]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320073.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320073.htm"/>
-        <updated>2022-09-24T01:50:22.000Z</updated>
-        <summary type="html"><![CDATA[据SlashGear报道，可以说，围绕三十米望远镜(Thirty Meter Telescope)的情况很复杂。一方面，天文学家希望在夏威夷大岛上的休眠火山冒纳凯阿火山（Mauna Kea）上建造三十米望远镜（TMT），这是一个巨大的下一代光学望远镜。然而，一些夏威夷原住民表示反对，他们警告说该地的生态环境可能遭到破坏，并声称他们的传统和神圣权利受到侵犯。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
         </author>
     </entry>
     <entry>
@@ -2580,39 +3012,6 @@ CFO 一职变动，往往与上市进程密切相关。小红书上市计划尚�
 在此次全员会议上，谷歌员工们向皮查伊提出了一系列棘手的问题，包括削减旅行和娱乐预算、提高…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用投资加拿大公司 通过回收电池缓解EV供应短缺问题]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320071.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320071.htm"/>
-        <updated>2022-09-24T01:46:04.000Z</updated>
-        <summary type="html"><![CDATA[通用汽车公司为了应对供应短缺和成本上涨等问题，同时也为了提高其在北美市场的电动车产量，近日宣布和加拿大电池回收公司合作，从回收的电池材料中生产新的电池。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“膝关节减震器”植入物Misha在临床试验中显示出前景]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320069.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320069.htm"/>
-        <updated>2022-09-24T01:35:30.000Z</updated>
-        <summary type="html"><![CDATA[据New Atlas报道，骨关节炎相关膝关节疼痛的治疗方法包括从商店购买的药物一直到全膝关节置换等。最近试用的Misha膝关节系统旨在通过充当植入式减震器，帮助填补这些极端之间的空白。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX拓展Starlink业务：希望为1小时以上车程的校车提供卫星宽带]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320067.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320067.htm"/>
-        <updated>2022-09-24T01:34:27.000Z</updated>
-        <summary type="html"><![CDATA[埃隆·马斯克旗下的 SpaceX 希望通过 Starlink 项目，在全球范围内覆盖卫星网络。在积极和航空公司、邮轮公司展开合作之外，SpaceX 开始将目光瞄准校车。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
         </author>
     </entry>
     <entry>
@@ -2664,39 +3063,6 @@ CFO 一职变动，往往与上市进程密切相关。小红书上市计划尚�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[福特耗资56亿美元的BlueOval City电动汽车生产基地正在建设中]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320065.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320065.htm"/>
-        <updated>2022-09-24T01:29:38.000Z</updated>
-        <summary type="html"><![CDATA[周五的时候，福特（Ford）位于田纳西州耗资 56 亿美元的 BlueOval City 综合体开始动工。作为该公司未来的电动汽车中心，它也是实现到 2026 年底、年销售 200 万辆 EV 目标的关键所在。据悉，BlueOval City 计划在 2025 年开始，为福特与林肯品牌的电动汽车制造先进的电池 —— 包括 F-150 Lighting 和第二块电动皮卡。
- 阅读全文]]></summary>
-        <author>
-            <name>raymon725</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究警告：如果松岛冰架崩塌 海平面可能上升1.6英尺]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320063.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320063.htm"/>
-        <updated>2022-09-24T01:18:33.000Z</updated>
-        <summary type="html"><![CDATA[据BGR报道，一项新研究对正在困扰我们星球的气候变化问题发出了一个可怕的警告。研究人员在《Journal of Geophysical Research: Oceans》杂志上发表了他们的研究结果。根据该研究，巨大的松岛冰架正处于崩溃的危险之中。如果它真的发生，它可能会使海平面上升1.6英尺（约合0.5米）。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软：为文件管理器引入标签页功能是呼声最高的]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320061.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320061.htm"/>
-        <updated>2022-09-24T01:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 2022 Update 的一个重大变化就是为文件管理器引入了标签页功能。微软的项目负责人帕诺斯·潘纳（Panos Panay）表示 Windows 11 2022 Update 是基于用户反馈而创建的，而为文件管理器引入标签页功能是呼声最高的。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IPO观察｜卖1块赚2毛，蜜雪冰城为什么这么赚钱？]]></title>
         <id>https://36kr.com/p/1927141935401604</id>
         <link href="https://36kr.com/p/1927141935401604"/>
@@ -2721,7 +3087,7 @@ CFO 一职变动，往往与上市进程密切相关。小红书上市计划尚�
  
 在茶饮市场，蜜雪的定价最低，均价保持在6元-8元之间，其主要对手的均价则分布在10元-30元不等；同时蜜雪门店规模高达2.2万家，比行业第二名、6000多家店的古茗依然高出一个身位。
  
-茶饮在中国有过长期繁荣，从一点点、coco都可等台式奶茶，到近些年以喜茶、奈雪、茶颜悦色为代表的新式茶饮，市场发展速度肉眼可见。与蜜雪的招股书相比，单价在15元-30元、先一步上市的奈雪，眼下正经受疫情的持���冲击，并在2021年由盈转亏。
+茶饮在中国有过长期繁荣，从一点点、coco都可等台式奶茶，到近些年以喜茶、奈雪、茶颜悦色为代表的新式茶饮，市场发展速度肉眼可见。与蜜雪的招股书相比，单价在15元-30元、先一步上市的奈雪，眼下正经受疫情的持续冲击，并在2021年由盈转亏。
  
 二级市场的投资者们，可能正翘首盼望“雪王”的到来。一杯单价仅个位数的茶饮，在此前的饮品圈可能毫不起眼，但在当下，恐怕没有人会拒绝这门如此赚钱的生意。
  
@@ -2729,42 +3095,9 @@ CFO 一职变动，往往与上市进程密切相关。小红书上市计划尚�
  
 雪王超百亿的收入从哪里来？加盟门店是直接贡献者。
  
-加盟模式是蜜雪的核心经营方式。截至今年Q1，蜜雪加盟店与直营店分别为22229家、47家，此外还有一小部分收入来自于电商渠道售卖周边商品，但相比于加盟店业务，后两者…]]></summary>
+加盟模式是蜜雪的核心经营方式。截至今年Q1，蜜雪加盟店与直营店分别为22229家、47家，此外还有一小部分收入来自于电商渠道售卖周边商品，但相比于加盟店业务，后两者的业…]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商业航空公司已找到更环保的燃料解决方案]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320059.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320059.htm"/>
-        <updated>2022-09-24T01:02:14.000Z</updated>
-        <summary type="html"><![CDATA[一段时间以来，许多航空公司一直在研究用于其飞机的“绿色”燃料，这将为更广泛使用的化石燃料推进剂提供一个（技术上）更环保的替代方案。现在，几家主要的航空公司--以及美国空军--已经承诺从适当命名的Air Company公司购买总共10亿加仑的可持续燃料。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究：参与四天工作制试点的公司称这并没有带来生产力的损失]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320057.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320057.htm"/>
-        <updated>2022-09-24T00:51:34.000Z</updated>
-        <summary type="html"><![CDATA[英国有70多家公司正在进行一项为期6个月的实验，他们的员工每周有一天带薪休假。到目前为止，大多数公司表示进展顺利。SpzToid分享了一份报告：
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技巧：如何在Windows 11 Build 22621中启用文件管理器的标签页功能]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320055.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320055.htm"/>
-        <updated>2022-09-24T00:48:00.000Z</updated>
-        <summary type="html"><![CDATA[在 Windows 11 Build 22621 版本中，只需要简单几个步骤就能启用文件管理器中的标签页功能。在稳定版中，文件管理器中的标签页功能默认处于隐藏状态，并且只有安装启用包（Build 22622）之后才能访问，其他用户需要等待到下月才会获得。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
         </author>
     </entry>
     <entry>
@@ -2778,7 +3111,7 @@ CFO 一职变动，往往与上市进程密切相关。小红书上市计划尚�
  
 这个夏天，还有人没听过ESO吗？
  
-10年前，当22岁的鹿晗作为EXO成员正��出道、将内地娱乐带入新的偶像时代时，谁也想不到，相隔十年，当年因唱跳和努力收获的疯狂欢呼，会重叠到同样22岁的鹿哈和他组建的ESO身上。
+10年前，当22岁的鹿晗作为EXO成员正式出道、将内地娱乐带入新的偶像时代时，谁也想不到，相隔十年，当年因唱跳和努力收获的疯狂欢呼，会重叠到同样22岁的鹿哈和他组建的ESO身上。
  
 围绕着ESO的争议由山寨偶像向娱乐文化展开，有人嫌，也有人“爱”。如果你在长沙看过一次他们的路演，就会被这种追星的疯狂所感染、点燃或是迷惑。
  
@@ -2800,64 +3133,9 @@ ESO们在长沙，“茶颜悦色一般的地位了”
  
 
  
-ESO路演现场，图源B站…]]></summary>
+ESO路演现场，图源B站U…]]></summary>
         <author>
             <name>36氪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球气候变化影响宇宙观测灵敏度和准确度]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320053.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320053.htm"/>
-        <updated>2022-09-24T00:39:04.000Z</updated>
-        <summary type="html"><![CDATA[2020 年，发表在《Nature Astronomy》的一篇论文中表示，全球变暖和大气水位上涨已经影响到重要科学天文台（例如包括欧洲南方天文台的 Very Large Telescope）的灵敏度和准确度。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA的行星防御测试：DART航天器即将撞击小行星]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320051.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320051.htm"/>
-        <updated>2022-09-24T00:37:56.000Z</updated>
-        <summary type="html"><![CDATA[美国宇航局（NASA）的“双小行星重定向测试”（DART）任务的挑战性目标是在9月26日将其航天器撞向一颗小行星。它的目标是Dimorphos，一颗围绕着一个名为Didymos的较大小行星运行的小卫星。尽管这颗小行星对地球不构成威胁，但这次任务将测试技术，这些技术可用于保护我们的星球，以应对未来可能发现的潜在小行星或彗星危险。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新抵达的三名宇航员将开始适应国际空间站上的生活]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320049.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320049.htm"/>
-        <updated>2022-09-24T00:24:11.000Z</updated>
-        <summary type="html"><![CDATA[随着三名新宇航员周三乘坐联盟号飞船抵达，现在有10人在国际空间站（ISS）上生活。来自美国宇航局和俄罗斯航天局的新宇航员将在接下来的几天里尽快适应太空中的生活和工作。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy A53在列 11款三星设备今年年底前启动Android 13测试]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320047.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320047.htm"/>
-        <updated>2022-09-24T00:22:38.000Z</updated>
-        <summary type="html"><![CDATA[三星于数月前开始在部分设备上启动 Android 13 Beta 测试项目，在今年年底之前还会有几款设备加入测试计划。目前，仅有 Galaxy S21 和 Galaxy S22 系列启动了该测试计划，Galaxy S22 近期还获得了第三个 Beta 版本。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA“朱诺号”探测器将为最接近木卫二的飞越做准备]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320045.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320045.htm"/>
-        <updated>2022-09-24T00:11:57.000Z</updated>
-        <summary type="html"><![CDATA[美国宇航局（NASA）的“朱诺号”探测器即将与木星的卫星木卫二（欧罗巴，Europa）“亲密接触”。它正在为几十年来最接近该卫星的飞越做准备。周四，NASA详细介绍了该探测器在定于9月29日星期四的近距离接近中收集数据和图像的计划。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
         </author>
     </entry>
     <entry>
@@ -2915,17 +3193,6 @@ ESO路演现场，图源B站…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[追踪马斯克、扎克伯格私人飞机的Facebook账号被封]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320043.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320043.htm"/>
-        <updated>2022-09-24T00:05:50.000Z</updated>
-        <summary type="html"><![CDATA[9月24日消息，追踪特斯拉首席执行官埃隆·马斯克（Elon Musk）和Meta首席执行官马克·扎克伯格（Mark Zuckerberg）私人飞机轨迹的美国小伙杰克·斯威尼（Jack Sweeney）声称，Facebook封禁了他的追踪账号。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[王传福：我国锂资源可满足3亿台车电动化；小鹏G9上市两天后进行价格配置调整 | 36氪新能源日报0923]]></title>
         <id>https://36kr.com/p/1927623327238529</id>
         <link href="https://36kr.com/p/1927623327238529"/>
@@ -2958,28 +3225,6 @@ ESO路演现场，图源B站…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究发现木星上的极光产生了巨大的极端热浪]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320041.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320041.htm"/>
-        <updated>2022-09-23T23:59:46.000Z</updated>
-        <summary type="html"><![CDATA[据CNET报道，当太阳风与地球的磁层发生碰撞时，我们通常会得到短暂但耀眼的光显示，称为极光。令人惊讶的是，科学家们已经发现，在气态巨行星木星上，极光似乎正在引起大规模的、行星规模的热浪。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自称“从欧洲骑马回国”的小伙人在山西 承认为了吸引流量虚构事实]]></title>
-        <id>https://hot.cnbeta.com/articles/movie/1320039.htm</id>
-        <link href="https://hot.cnbeta.com/articles/movie/1320039.htm"/>
-        <updated>2022-09-23T23:55:44.000Z</updated>
-        <summary type="html"><![CDATA[9月，32岁男子徐智显自称骑马从西班牙回国，在荷兰遭多人举报“虐待动物”，引发关注。9月23日，徐智显致电封面新闻记者，“我现在人在山西，没有在荷兰，从欧洲骑马回国是假的，我要道歉！”徐智显拒不透露具体在山西何处，称怕被网暴。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三星户外显示屏涉嫌侵权遭美国ITC调查]]></title>
         <id>https://www.pingwest.com/w/271074?utm_source=feed</id>
         <link href="https://www.pingwest.com/w/271074?utm_source=feed"/>
@@ -2987,105 +3232,6 @@ ESO路演现场，图源B站…]]></summary>
         <summary type="html"><![CDATA[<p>美国国际贸易委员会（ITC）当地时间9月22日表示，已受理MRI对三星电子及三星SDS的户外显示屏“数字标牌”（Digital Signage）涉嫌侵害其专利及违反《关税法》的起诉，并已着手展开相关调查。</p><p><a href='https://www.pingwest.com/w/271074?utm_source=feed'>品玩 : 三星户外显示屏涉嫌侵权遭美国ITC调查</a></p>]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧金山警方现在可以实时访问私人监控摄像头]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320037.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320037.htm"/>
-        <updated>2022-09-23T23:48:20.000Z</updated>
-        <summary type="html"><![CDATA[据The Verge报道，在旧金山市监事会周二投票允许警察部门实时访问私人监控摄像头后，旧金山警方的监控权力本周得到了提升。以7票赞成、4票反对通过的投票批准了一项为期一年的试点计划，该计划将允许警方在摄像头所有者同意的情况下监控全市私人摄像机的镜头。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现饮用红茶同样与降低死亡风险有关]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320035.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320035.htm"/>
-        <updated>2022-09-23T23:47:30.000Z</updated>
-        <summary type="html"><![CDATA[根据一项前瞻性队列研究，喝红茶可能与死亡风险的轻微下降有关。那些每天喝两杯或更多茶的人的死亡风险最低。该研究最近发表在《内科学年鉴》杂志上。茶是世界上最受欢迎的饮料之一。以前的研究显示，在绿茶是最常见的茶叶形式的社区，喝茶和死亡风险的降低之间存在联系。相比之下，在红茶使用更普遍的人群中发表的研究产生了不一致的结果。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果应用商店大幅涨价背后 专家：汇率因素是主因]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320033.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320033.htm"/>
-        <updated>2022-09-23T23:39:43.000Z</updated>
-        <summary type="html"><![CDATA[行业调研机构CINNO Research资深分析师刘雨实告诉《环球时报》记者：“苹果价格调整名单中的国家基本都出现了本币相对于美元的大幅度贬值，汇率因素是苹果商店大幅涨价的主因。”但除上述原因之外，苹果这次的调价行为也可能是营收结构逐渐从硬件销售转向软件服务的信号。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天气将使NASA无法确认下周二的月球火箭发射]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320031.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320031.htm"/>
-        <updated>2022-09-23T23:38:07.000Z</updated>
-        <summary type="html"><![CDATA[据Wccftech报道，在本周早些时候对太空发射系统（SLS）进行了一次重要测试后，美国宇航局（NASA）官员渴望在天气允许的情况下于下周发射Artemis 1任务。该航天局的官员周三分享了测试的最新情况，他们为火箭装上了燃料和氧化剂，以测试本月早些时候的发射尝试中阻碍升空的泄漏。测试是成功的，NASA的工程师仍然对下周二的发射充满希望。目前最大的担忧是天气限制，如果周围地区的风速超过一定的阈值，可能会导致该机构将火箭运回到其航天器装配大楼。
- 阅读全文]]></summary>
-        <author>
-            <name>vivian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧美股市惨遭抛售 “黑色星期五”仅美元指数一枝独秀]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320029.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320029.htm"/>
-        <updated>2022-09-23T23:37:34.000Z</updated>
-        <summary type="html"><![CDATA[周五（9月24日）欧洲股市触及近两年最低，令人沮丧的欧元区数据表明经济下滑，增加了对欧洲央行采取鹰派举措的担忧。欧元和英镑兑美元分别暴跌至20年和37年新低。美国华尔街主要股指大幅收低，紧张的投资者继续调整仓位，以反映对美联储抑制通胀的鹰派利率政策将使美国经济陷入衰退的担忧。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉发AI日邀请函：提及FSD、机器人、Dojo]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320027.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320027.htm"/>
-        <updated>2022-09-23T23:34:39.000Z</updated>
-        <summary type="html"><![CDATA[9月24日消息，特斯拉已经定于美国当地时间9月30日举行2022年度“AI日”活动，并从周五开始发出邀请函，里面提及将发布更多关于司机辅助驾驶系统FSD、特斯拉人形机器人、超算Dojo等AI相关进展。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第600架中国制造的空客A320交付东方航空]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320025.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320025.htm"/>
-        <updated>2022-09-23T23:32:43.000Z</updated>
-        <summary type="html"><![CDATA[据空中客车官方公众号消息，空中客车近日交付由位于天津的空中客车A320系列飞机亚洲总装线完成总装的第600架飞机。该架A320neo飞机配备CFM国际公司Leap-1A发动机，由中国东方航空公司运营，其客舱采用了舒适的158座布局，包括8个公务舱座位和150个经济舱座位。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Series S在日销量再次超过PS5 未来将推出更多原创日本游戏]]></title>
-        <id>https://hot.cnbeta.com/articles/game/1320023.htm</id>
-        <link href="https://hot.cnbeta.com/articles/game/1320023.htm"/>
-        <updated>2022-09-23T23:20:05.000Z</updated>
-        <summary type="html"><![CDATA[在近日举办的 IGB Japan 直播活动中，Xbox 游戏生态副总裁莎拉·邦德（Sarah Bond）表示公司将为 Xbox 提供更多原创的日本游戏。她的这段演讲由国外媒体 VideoGamesChronicle 转录如下
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT初创公司和交易所叫苦：入驻App Store几乎不可能]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320021.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320021.htm"/>
-        <updated>2022-09-23T23:04:31.000Z</updated>
-        <summary type="html"><![CDATA[NFT 行业的多家初创公司和交易所表示，由于苹果的规则和 30% 的抽成佣金，导致它们望而却步。NFT 市场价值受到了加密货币波动的负面影响，因此该领域的不少初创公司和交易所希望入驻 App Store 以挖掘潜在客户，但大多数公司在综合考量之后不会这么样。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
         </author>
     </entry>
     <entry>
@@ -3121,17 +3267,6 @@ ESO路演现场，图源B站…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Made by Google活动即将到来：Pixel 7系列和Pixel Watch将登场]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320019.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320019.htm"/>
-        <updated>2022-09-23T22:43:32.000Z</updated>
-        <summary type="html"><![CDATA[和苹果微软一样，Google 也将在今年秋季举办“Made by Google”硬件活动，推出以 Pixel 品牌为主的诸多新产品。今年活动将于北京时间 10 月 6 日晚上 23 点开幕，有望推出 Pixel 7、Pixel 7 Pro 和 Pixel Watch 在内的新品。
- 阅读全文]]></summary>
-        <author>
-            <name>study875</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[DZone Survey] Calling All SRE and IT Ops Professionals to Take our Performance and Observability Survey!]]></title>
         <id>https://dzone.com/articles/dzone-survey-calling-all-sre-and-it-ops-profession</id>
         <link href="https://dzone.com/articles/dzone-survey-calling-all-sre-and-it-ops-profession"/>
@@ -3139,28 +3274,6 @@ ESO路演现场，图源B站…]]></summary>
         <summary type="html"><![CDATA[The concept of observability was introduced a little over 60 years ago as a Notion related to control theory, systems theory, and Signal processing. Today, Modern observability is still very much focu]]></summary>
         <author>
             <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本在小行星“龙宫”岩石样本中发现液态水]]></title>
-        <id>https://www.cnbeta.com/articles/science/1320017.htm</id>
-        <link href="https://www.cnbeta.com/articles/science/1320017.htm"/>
-        <updated>2022-09-23T19:52:13.000Z</updated>
-        <summary type="html"><![CDATA[日本宇宙航空研究开发机构23日宣布，日本“隼鸟2号”探测器采集并通过回收舱带回地球的小行星“龙宫”岩石样本中含有液态水。日本宇宙航空研究开发机构23日发布消息说，该机构和日本东北大学等组成的研究小组分析了“龙宫”的岩石样本，发现其中含有液态水。这些水“封”在铁和硫组成的磁黄铁结晶内，水中含有盐分和碳质。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比利时将首次关闭核反应堆]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1320015.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1320015.htm"/>
-        <updated>2022-09-23T19:51:19.000Z</updated>
-        <summary type="html"><![CDATA[比利时核电运营商Engie集团当地时间23日表示，比利时将在当天晚些时候正式关闭“杜尔3号”（Doel 3）核反应堆。比利时现有2座核电站，共7座核反应堆，这将是该国首次终止核反应堆的运营。
- 阅读全文]]></summary>
-        <author>
-            <name>ugmbbc</name>
         </author>
     </entry>
     <entry>
@@ -3421,16 +3534,6 @@ Dinosaurs are not extinct. Many of the top businesses of Today have either migra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Mate 50 系列 5G 通信壳上架官方商店 售价799元起]]></title>
-        <id>https://m.sohu.com/a/587390327_120535845</id>
-        <link href="https://m.sohu.com/a/587390327_120535845"/>
-        <updated>2022-09-23T09:18:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>适配华为Mate 50 系列的 5G 通信壳现已上架华为京东自营官方旗舰店上架，适配全系机型 ... 华为Mate 50 / E /Pro 三款机型通信壳售价 799 元，拥有石墨黑、金属灰两款配色，其中 Mate 50 和 Mate 50E 的 5G 通信壳可通用 ... 而 RS 保时捷版价格为 899 元，比其它机型的贵了 100 元，提供石墨黑、丁香紫配色。</p><p><a href='https://m.sohu.com/a/587390327_120535845'>搜狐 : 江苏江河湖海全面迎来5G时代</a></p><p><a href='https://m.sohu.com/a/587282119_121348911'>搜狐 : AI人工智能+5G+大数据，将会带来哪些生活方式的改变？</a></p><p><a href='https://m.sohu.com/a/587296812_120133855'>搜狐 : 2022年安徽省“5G+工业互联网”十大创新应用发布</a></p><p><a href='https://m.sohu.com/a/587331451_120578424'>搜狐 : 湖北移动打造“5G创新港”通信科普教育基地 市民零距离接触5G黑科技</a></p><p><a href='https://m.sohu.com/a/587333140_187675'>搜狐 : 5G商用三周年的尴尬，三大运营商的5G真实用户刚过半数</a></p><p><a href='https://m.sohu.com/a/587339900_121218495'>搜狐 : 国网山东电科院牵头立项1项电力行业标准</a></p><p><a href='https://m.sohu.com/a/587461948_120988576'>搜狐 : 2022制造业大会发布“5G+工业互联网”十大创新应用</a></p><p><a href='https://m.sohu.com/a/586623901_120457107'>搜狐 : 我国5G基站超过180万个，辐射大吗？答案是否定的！</a></p><p><a href='https://m.sohu.com/a/587352590_100270403'>搜狐 : 6G大部分专利都是华为申请</a></p><p><a href='https://m.sohu.com/a/587354768_121106902'>搜狐 : 从5G到未来网络：赋能千行百业 应用创新频现</a></p><p><a href='https://news.mydrivers.com/1/861/861551.htm'>快科技 : 799元 Mate 50系列5G通信壳上架华为官方店：保时捷版贵100</a></p><p><a href='https://www.cnbeta.com/articles/tech/1319845.htm'>CNBeta : Mate 50系列5G通信壳上架华为官方店：799元 保时捷版贵100</a></p><p><a href='https://m.sohu.com/a/587382694_114760'>搜狐 : 华为Mate 50系列5G通信壳上架官方商店：799元起，保时捷版贵100</a></p><p><a href='https://www.ithome.com/0/642/791.htm'>IT 之家 : 华为Mate 50 系列 5G 通信壳上架官方商店：799 元起，保时捷版贵 100</a></p><p><a href='http://www.techweb.com.cn/it/2022-09-23/2905640.shtml'>TechWeb : 华为第三代5G Massive MIMO产品在菲律宾海外首商用</a></p><p><a href='https://www.pingwest.com/w/271065'>品玩 : 华为Mate 50 系列 5G 通信壳上架官方商店 售价799元起</a></p><p><a href='https://m.sohu.com/a/587410066_163278'>搜狐 : 5G如何改变社会？“十一”来中国科技馆新展，可互动体验</a></p><p><a href='https://m.sohu.com/a/587404753_622635'>搜狐 : 被低估的华为5G手机，搭载麒麟990当年才卖一千多</a></p><p><a href='https://m.sohu.com/a/587407825_120740496'>搜狐 : 5G时代｜智慧医疗，让医疗惠及众生！</a></p><p><a href='https://www.ithome.com/0/642/852.htm'>IT 之家 : 华为第三代 5G Massive MIMO 产品在菲律宾海外首商用</a></p><p><a href='https://m.sohu.com/a/587436287_163726'>搜狐 : 799元 Mate 50系列5G通信壳上架华为官方店：保时捷版贵100</a></p><p><a href='https://m.sohu.com/a/587455478_121106869'>搜狐 : 全民升5G，手机优惠购</a></p><p><a href='https://m.sohu.com/a/587534397_120651198'>搜狐 : 华为Mate50系列5G通信壳上架，保时捷版本贵100元，黄牛不看好！</a></p><p><a href='https://m.sohu.com/a/587538184_120578424'>搜狐 : 中国科技馆“互联5G时代”主题展国庆节向公众开放</a></p><p><a href='https://m.sohu.com/a/587568758_121097259'>搜狐 : 华为Mate50预留5G芯片位置，未来能升级成5G么？</a></p><p><a href='http://www.techweb.com.cn/digi/2022-09-24/2905690.shtml'>TechWeb : 799元起！华为Mate 50系列5G上网神器上架：与系统完美融合</a></p><p><a href='https://m.sohu.com/a/587649361_115831'>搜狐 : 华为Mate50系列5G通信壳上架 799元起 内置国产芯片</a></p><p><a href='https://m.sohu.com/a/587635686_121478245'>搜狐 : 5g手机小米和华为哪个好 为什么小米有5g芯片华为没有</a></p><p><a href='https://m.sohu.com/a/587661698_100271852'>搜狐 : 华为并未“放弃”！Mate 50系列正式确定，支持连接5G网络了！</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[派周报：年年焕新，不换不能新？]]></title>
         <id>https://sspai.com/prime/story/pi-weekly-010</id>
         <link href="https://sspai.com/prime/story/pi-weekly-010"/>
@@ -3482,16 +3585,6 @@ Dinosaurs are not extinct. Many of the top businesses of Today have either migra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌Pixel 7 /Pro 手机售价和配色遭曝光]]></title>
-        <id>https://www.cnbeta.com/articles/tech/1319613.htm</id>
-        <link href="https://www.cnbeta.com/articles/tech/1319613.htm"/>
-        <updated>2022-09-23T08:28:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>推特用户 @ArtemR  爆料，国外电商平台 Target 已经在后台中添加了谷歌Pixel 7 系列的商品信息 ... 谷歌Pixel 7 系列仅有两种存储规格可选，最大 256GB，最小 128GB ... 谷歌此前宣布，Pixel 7 系列将会在北京时间10月7日发布。</p><p><a href='https://www.cnbeta.com/articles/tech/1319613.htm'>CNBeta : 消息称Pixel 7售价599美元 Pixel 7 Pro售价899美元</a></p><p><a href='https://m.sohu.com/a/587307805_121484874'>搜狐 : 消息称Pixel 7售价599美元 Pixel 7 Pro售价899美元</a></p><p><a href='https://www.ithome.com/0/642/748.htm'>IT 之家 : 谷歌Pixel 平板被曝采用 10.95 英寸屏幕，提供 128/256GB 存储</a></p><p><a href='https://www.cnbeta.com/articles/tech/1319833.htm'>CNBeta : 消息称Pixel平板已进入EVT阶段：11吋屏幕 最高256GB存储</a></p><p><a href='https://www.ithome.com/0/642/781.htm'>IT 之家 : 谷歌Pixel 7 /Pro 手机售价和配色曝光，起售价约 4234 元</a></p><p><a href='https://www.pingwest.com/w/271061'>品玩 : 谷歌Pixel 7 /Pro 手机售价和配色遭曝光</a></p><p><a href='https://www.ithome.com/0/642/795.htm'>IT 之家 : 谷歌发布 Pixel Watch 智能手表预热视频：采用康宁大猩猩玻璃，快拆设计表带</a></p><p><a href='https://m.sohu.com/a/587388747_114760'>搜狐 : 谷歌发布 Pixel Watch 手表预热视频：快拆设计，康宁大猩猩玻璃</a></p><p><a href='https://news.mydrivers.com/1/861/861715.htm'>快科技 : 谷歌Pixel 7系列价格泄露：4300元 性能在安卓高端阵营垫底</a></p><p><a href='https://www.cnbeta.com/articles/tech/1320019.htm'>CNBeta : Made by Google活动即将到来：Pixel 7系列和Pixel Watch将登场</a></p><p><a href='http://www.techweb.com.cn/digi/2022-09-24/2905677.shtml'>TechWeb : 谷歌Pixel 7系列售价/配色曝光：依旧599美元起 10月6日见</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯极光盒子 5 Pro 发布，售价999元]]></title>
         <id>https://www.ithome.com/0/642/741.htm</id>
         <link href="https://www.ithome.com/0/642/741.htm"/>
@@ -3522,16 +3615,6 @@ Dinosaurs are not extinct. Many of the top businesses of Today have either migra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[锂电池企业「捷盟智能」完成近3亿元战略融资]]></title>
-        <id>https://news.pedaily.cn/202209/501150.shtml</id>
-        <link href="https://news.pedaily.cn/202209/501150.shtml"/>
-        <updated>2022-09-23T07:40:07.000Z</updated>
-        <summary type="html"><![CDATA[<p>近日，广东捷盟智能装备有限公司完成了近3亿元人民币的战略轮融资，本轮融资将加速公司未来核心产品的试验进程，推动多个在研项目的研发进程，扩充公司的研发队伍 ... 本轮融资由华泰紫金旗下南京华泰紫金新兴产业基金领投，瀚晖资本、鼎晖投资、欣旺达、上汽恒旭、天合光能等11家投资机构及产业资本参与投资。</p><p><a href='https://news.pedaily.cn/202209/501150.shtml'>投资界 : VC/PE抢着投，锂电池企业「捷盟智能」完成近3亿元战略融资</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20220923-371289.html'>投中网 : 锂电池企业「捷盟智能」完成近3亿元战略融资</a></p><p><a href='https://www.cyzone.cn/article/698812.html'>创业邦 : 「捷盟智能」近3亿元人民币的战略轮融资，华泰紫金领投</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[年亏上亿的彩电商家很疑惑：为啥没人爱看电视了？]]></title>
         <id>http://www.huxiu.com/article/669721.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/669721.html?f=wangzhan"/>
@@ -3543,16 +3626,6 @@ Dinosaurs are not extinct. Many of the top businesses of Today have either migra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[千鸟互联完成数千万B轮融资]]></title>
-        <id>https://news.pedaily.cn/202209/501118.shtml</id>
-        <link href="https://news.pedaily.cn/202209/501118.shtml"/>
-        <updated>2022-09-23T06:38:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>近日，千鸟互联完成数千万B轮融资。本轮融资由宏太资本领投，募集资金将主要用于旗下的智能云工厂——普睿特智能云工厂的建设和市场开拓。</p><p><a href='https://news.pedaily.cn/202209/501118.shtml'>投资界 : 「千鸟互联」获数千万B轮融资，宏太资本投资</a></p><p><a href='http://www.iheima.com/ziben/2022/0922/344622.shtml'>i黑马 : 千鸟互联获数千万元B轮融资，引领纸包装产业链数字化再升级</a></p><p><a href='https://www.cyzone.cn/article/698804.html'>创业邦 : 「千鸟互联」完成数千万B轮融资，宏太资本领投</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone mini 系列停更后，小屏手机还能选什么？]]></title>
         <id>https://sspai.com/post/75884</id>
         <link href="https://sspai.com/post/75884"/>
@@ -3560,16 +3633,6 @@ Dinosaurs are not extinct. Many of the top businesses of Today have either migra
         <summary type="html"><![CDATA[我们在没得选的市场里选了这些，只能祝你快乐。查看全文]]></summary>
         <author>
             <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基本半导体完成数亿元C4轮融资]]></title>
-        <id>http://www.techweb.com.cn/viewpoint/2022-09-23/2905595.shtml</id>
-        <link href="http://www.techweb.com.cn/viewpoint/2022-09-23/2905595.shtml"/>
-        <updated>2022-09-23T05:04:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>深圳「基本半导体」宣布完成数亿元C4轮融资，由德载厚资本、国华投资、新高地等机构联合投资，现有股东屹唐长厚、中美绿色基金等机构继续追加投资 ... 本轮融资将用于进一步加强碳化硅产业链关键环节的研发制造能力，提升产能规模，支撑碳化硅产品在新能源汽车、光伏储能等市场的大规模应用，提升基本半导体在碳化硅功率半导体行业的核心竞争力。</p><p><a href='http://www.techweb.com.cn/viewpoint/2022-09-23/2905595.shtml'>TechWeb : 半导体“智”造软件：风口之上 莫负春光</a></p><p><a href='https://www.tmtpost.com/6255314.html'>钛媒体 : 全球芯片竞争下，三星半导体如何破“芯”局 | 钛度专访</a></p><p><a href='https://www.cnbeta.com/articles/tech/1319761.htm'>CNBeta : 全球芯片竞争下，三星半导体如何破“芯”局？</a></p><p><a href='https://3g.163.com/dy/article/HHUSA0AM051481US.html'>网易新闻 : “台湾是最先进半导体唯一来源地，对美构成国安风险”</a></p><p><a href='https://36kr.com/p/1838020782973956'>36Kr : 36氪首发丨「基本半导体」完成数亿元C4轮融资，将推进国产碳化硅“上车”</a></p><p><a href='https://news.pedaily.cn/202209/501160.shtml'>投资界 : 基本半导体完成数亿元C4轮融资，德载厚资本、国华投资、新高地等联合投资</a></p><p><a href='https://www.cyzone.cn/article/698807.html'>创业邦 : 「基本半导体」完成C4轮融资，德载厚资本、国华投资、新高地等机构领投</a></p><p><a href='https://36kr.com/newsflashes/1927364159474052'>36Kr : “基本半导体”完成数亿元C4轮融资</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -3607,16 +3670,6 @@ WE 大会的话题都挺硬核烧脑的，主要是面向成年人，甚至是�
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佑嘉生物完成A+轮数千万元融资]]></title>
-        <id>https://www.cyzone.cn/article/698810.html</id>
-        <link href="https://www.cyzone.cn/article/698810.html"/>
-        <updated>2022-09-23T02:49:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>佑嘉生物宣布完成数千万元A+轮融资，本轮融资由陕投成长独家领投。本轮资金主要用于推进佑嘉肝纤维化项目YJH-0425的IND申报和其他多个产品管线临床前的研究。</p><p><a href='https://www.cyzone.cn/article/698810.html'>创业邦 : 「佑嘉生物」完成数千万元A+轮融资，陕投成长领投</a></p><p><a href='https://news.pedaily.cn/202209/501138.shtml'>投资界 : 佑嘉生物完成A+轮数千万元融资，陕投成长基金独家领投</a></p><p><a href='https://www.chinaventure.com.cn/news/80-20220923-371273.html'>投中网 : 小核酸药物研发引领者佑嘉生物完成A+轮数千万元融资</a></p><p><a href='https://iyiou.com/news/202209231036076'>亿欧 : 佑嘉生物完成A+轮数千万元融资，推动小核酸药物研发</a></p>]]></summary>
-        <author>
-            <name>Readbub</name>
         </author>
     </entry>
     <entry>
@@ -3891,16 +3944,6 @@ SpaceX 称，星舰和超级重型火箭更加强大，可以产生 1200 万磅�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新玩意 120｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/75867</id>
-        <link href="https://sspai.com/post/75867"/>
-        <updated>2022-09-22T09:18:09.000Z</updated>
-        <summary type="html"><![CDATA[这一期，都是「小」玩意。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么大货车多用柴油发动机？]]></title>
         <id>http://www.huxiu.com/article/668473.html?f=wangzhan</id>
         <link href="http://www.huxiu.com/article/668473.html?f=wangzhan"/>
@@ -3909,16 +3952,6 @@ SpaceX 称，星舰和超级重型火箭更加强大，可以产生 1200 万磅�
 下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动]]></summary>
         <author>
             <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 用三个单词定位世界的任一角落：what3words]]></title>
-        <id>https://sspai.com/post/75865</id>
-        <link href="https://sspai.com/post/75865"/>
-        <updated>2022-09-22T08:05:10.000Z</updated>
-        <summary type="html"><![CDATA[what3words 就是一个简易版的地理坐标系。what3words 选择给一个位置赋予三个单词，这些单词又组合成一个独一无二的单词组合，这个位置的地理信息就藏在这个词组里。查看全文]]></summary>
-        <author>
-            <name>鸿苓</name>
         </author>
     </entry>
     <entry>
@@ -3958,53 +3991,6 @@ SpaceX 称，星舰和超级重型火箭更加强大，可以产生 1200 万磅�
 
 
 从热度来说，作为一款主机和PC游戏，在玩家早早玩通了主线剧情又迟迟等不到大型DLC更新到来的时候，面对层出不穷的新游…]]></summary>
-        <author>
-            <name>虎嗅网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错把油车当电车的拜登，能治好美国电动车产业的焦虑？]]></title>
-        <id>http://www.huxiu.com/article/668480.html?f=wangzhan</id>
-        <link href="http://www.huxiu.com/article/668480.html?f=wangzhan"/>
-        <updated>2022-09-22T06:10:48.000Z</updated>
-        <summary type="html"><![CDATA[本文来自微信公众号：车市物语（ID：autostinger），作者：彭斐，头图来自：视觉中国
-
-
-美国总统乔·拜登日前出席了底特律北美国际汽车展。自称“汽车人”的拜登发推称，“今天我参观了底特律车展，亲眼目睹了电动汽车，这些电动汽车让我有很多理由对我们的未来感到乐观。”
-
-
-但尴尬的是，拜登配了一张自己与燃油车的照片——车辆是雪佛兰2023款科尔维特Z06。
-
-
-
-图源：推特
-
-
-虽然这引来了网民和共和党的嘲讽，但不得不说，自拜登执政之后，美国对于新能源汽车相关的扶持政策正不断推陈出新。
-
-
-拜登在这届底特律车展上承诺，将提供数百亿美元的贷款、制造业和消费者税收减免和拨款，以加快从内燃机汽车向清洁电动汽车的转型。
-
-
-同时，他还强调了近期的一些立法成就，其中一个是《通胀削减法案》，里面提到美国对于使用敏感国的电池组和原材料将不提供新能源汽车的补贴。
-
-
-实际上，拜登在去年就将矛头指向动力电池：“中国制造了全球80%的动力电池，他们不仅在中国制造，还在德国和墨西哥制造，然后出口到全世界。”眼看中国在电池产业链的崛起，拜登坚定地立下FLAG，“中国赢不了！因为我们不会让他们赢。”
-
-
-在拜登的执政下，美国电动汽车市场被寄予厚望，期待它能同中国和欧洲一样成功被打开。同时，欲与中国“少瓜葛”的美国，执意要掌控整个新能源汽车产业链。
-
-
-一、电动汽车产业真能“脱钩”？
-
-
-拜登近日签署生效了《通胀削减法案》，该法案中对中国企业影响最大的是对清洁能源汽车补贴设置了动力电池限制条款，也被业内视为美国电动汽车产业的“脱钩”。
-
-
-该法案提出，将继续为新车提供7500美元税收抵免，取消车企20万辆补贴规模上限，但是增设“美国制造”要求。
-
-
-所谓美国制造，即车辆必须在美国组装，动力电池组件大比例在北美生产，关键矿物原料大比例由美国生产或由美国自由贸易伙伴生产，且动力电池组件、关键矿物原料不得…]]></summary>
         <author>
             <name>虎嗅网</name>
         </author>
@@ -4751,52 +4737,6 @@ Meta 于当地时间星期二正式公布了适用于 Facebook 群组用户的�
 今年早些时候，LG 能源解决方案公司开始审查该产品是否可行。消息人士称，该公司的最…]]></summary>
         <author>
             <name>极客公园</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特公司股东投票同意马斯克收购]]></title>
-        <id>https://www.williamlong.info/archives/6924.html</id>
-        <link href="https://www.williamlong.info/archives/6924.html"/>
-        <updated>2022-09-14T12:54:38.000Z</updated>
-        <summary type="html"><![CDATA[9月13日，推特公司的股东投票同意特斯拉首席执行官马斯克以440亿美元收购该公司并将其私有化的提议，尽管马斯克方面正在试图废止这一交易。今年7月，马斯克方面宣布计划终止交易，随后推特将其告上法庭，要求他兑现交易承诺，认为他即便改变主意仍有义务完成交易。这起案件预计将于10月开庭。
-
-
-复盘推特收购案：马斯克的“三十六计”
-
-
-马斯克收购推特的大戏已经上演了两个多月了，可谓是一波未平一波又起。双方你来我往，见招拆招，好不热闹。
-
-
-回顾推特收购案的始末，双方僵持的关键点是推特的虚假账户问题。
-
-
-马斯克多次以此为目标，让推特步步后退，到最后不得不交出所有权限。而马斯克的步步为营，也让他牢牢掌控了这次收购的主动权。
-
-
-暗度陈仓
-
-
-正所谓商场如战场，马斯克收购推特的策略，深得《孙子兵法》之道。
-
-
-3月25日，马斯克在推特上发起投票“推特是否维护了大家的言论自由”，超200万人参与投票，70%的人认为“推特没有维护自己的言论自由”。就在大众以为马斯克在质疑推特的时候，私底下，他却开始不断加持推特的股票。
-
-
-4月4日，马斯克抛出重磅炸弹，宣布他已购买了推特9.2％的股份，成为当时推特的第一大股东。消息一发，推特股价从39.31美元/股，一路飙升至45.08美元/股，升幅达14.68%。
-
-
-好一招“暗度陈仓”，让推特措手不及。
-
-
-根据数据，马斯克早在3月14日前就已经买入了推特5%股份，按照规定他应该在3月24日之前向美国证监会提交说明。但实际上，马斯克不仅拖延了十多天才公开消息，并且还在网上发布投票试图利用舆论影响推特股价，不排除低价加仓的可能性。
-
-
-反客为主
-
-
-4月5日，推特向美国证监会提交了一份文件，要求马斯克加入推特董事会。没想到，马斯克却不按套路出牌，拒绝加入推特董事会。这一突然反转令外界倍感意外，也引发了人们对…]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
     <entry>
